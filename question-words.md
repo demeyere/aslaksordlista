@@ -1,5 +1,5 @@
 Question words
 =================
 
-vad: what
-hur: how
++ vad: what
++ hur: how
