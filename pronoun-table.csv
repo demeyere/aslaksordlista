@@ -5,9 +5,9 @@ singular,subject,object,possessive-en,possessive-ett,possessive-plural
 3rd person feminine,hon,henne,,hennes,
 3rd person common,den,den,,dess,
 3rd person neuter,det,det,,dess,
-3rd person indefinite,man,en,,ens
+3rd person indefinite,man,en,,ens,
 3rd person reflexive,,sig,sin,sitt,sina
-plural
+plural,,,,,
 1st person,vi,oss,vår,vårt,våra
 2nd person,ni,er,er,ert,era
 3rd person,de,dem,,deras,
