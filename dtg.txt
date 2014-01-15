@@ -1,0 +1,23 @@
+
+Dates and times
+==============
+
+
+Days of the week
+-----------------
+måndag
+tisdag
+onsdag
+torsdag
+fredag
+lörsdag
+söndag
+
+Veckan borjar på måndagen.
+
+
+Relative dates
+--------------
+
+iförrigår, igår, idag, imorgon, iövermorgon
+

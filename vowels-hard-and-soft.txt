@@ -1,0 +1,28 @@
+
+Hard and Soft vowels
+=================
+
+---------------+-------------+-------------|
+               |    consonant/konsonant    |
+               |                           |
+               |  hard/hård  |  soft/mjuk  |
+  vowel/vokal  |   a o u å   |  e i y ä ö  |
+---------------+-------------+-------------|
+       g       |  gata       |  ge         |
+               |  god        |  gissa      |
+               |  gud        |  gyttjig    |
+               |  gå         |  gärna      |
+               |             |  göra       |
+---------------+-------------+-------------|
+       k       |  kaka       |  kedja      |
+       c       |  ko         |  kina       |
+               |  kul        |  kyl        |
+               |  kål        |  kära       |
+               |             |  köra       |
+---------------+-------------+-------------|
+       sk      |  ska        |  sked       |
+               |  sko        |  skina      |
+               |  skura      |  skynda     |
+               |  skål       |  skära      |
+               |             |  skön       |
+---------------+-------------+-------------|

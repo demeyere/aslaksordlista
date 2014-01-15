@@ -1,0 +1,14 @@
+
+Question words
+==============
+
++ vem: who
++ vems: whose
++ vad: what
++ vilken,vilket,vilka: which
++ var: where
++ vart: where to
++ varifrån: where from
++ varför: why
++ när: when
++ hur: how
