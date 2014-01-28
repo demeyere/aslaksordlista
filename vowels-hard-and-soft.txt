@@ -1,4 +1,3 @@
-
 Hard and Soft vowels
 =================
 
@@ -8,6 +7,12 @@ Hard and Soft vowels
                |  hard/hård  |  soft/mjuk  |
   vowel/vokal  |   a o u å   |  e i y ä ö  |
 ---------------+-------------+-------------|
+       c       |             |             |
+               |             |             |
+               |             |             |
+               |             |             |
+               |             |             |
+---------------+-------------+-------------|
        g       |  gata       |  ge         |
                |  god        |  gissa      |
                |  gud        |  gyttjig    |
@@ -15,7 +20,7 @@ Hard and Soft vowels
                |             |  göra       |
 ---------------+-------------+-------------|
        k       |  kaka       |  kedja      |
-       c       |  ko         |  kina       |
+               |  ko         |  kina       |
                |  kul        |  kyl        |
                |  kål        |  kära       |
                |             |  köra       |
