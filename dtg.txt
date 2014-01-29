@@ -1,10 +1,9 @@
-
 Dates and times
 ==============
 
 
-Days of the week
------------------
+Veckodagen
+----------
 måndag
 tisdag
 onsdag
@@ -18,6 +17,4 @@ Veckan borjar på måndagen.
 
 Relative dates
 --------------
-
 iförrigår, igår, idag, imorgon, iövermorgon
-
