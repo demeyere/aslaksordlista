@@ -7,4 +7,3 @@ present    ... Jag glømmar ... I forget
 past       ... Du glømde   ... You forgot.
 supine     ... Jag har glømt ... I have forgotten
 imperative ... Gløm!      ... Forget!
-
