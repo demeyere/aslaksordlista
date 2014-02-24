@@ -2,8 +2,8 @@
 Basic verb forms
 =====================
 
-infinitive ... att glømma ... to forget
-present    ... Jag glømmar ... I forget
-past       ... Du glømde   ... You forgot.
+infinitive ... att glømma    ... to forget
+present    ... Jag glømmar   ... I forget
+past       ... Du glømde     ... You forgot.
 supine     ... Jag har glømt ... I have forgotten
-imperative ... Gløm!      ... Forget!
+imperative ... Gløm!         ... Forget!
