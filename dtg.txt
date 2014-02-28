@@ -34,4 +34,10 @@ månader
 
 Relative dates
 --------------
-iförrigår, igår, idag, imorgon, iövermorgon
++ iförrigår
++ igår
++ imorse
++ idag
++ imorgon bitti
++ imorgon
++ iövermorgon
