@@ -67,7 +67,7 @@
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>barn <CharStyle:><CharStyle:typ>(~et; ~; ~en;) <CharStyle:><CharStyle:endef>a child; <CharStyle:><CharStyle:svkorp>Bli med barn;<CharStyle:> <CharStyle:enkorp>Become pregnant;<CharStyle:> <CharStyle:svkorp>Man undrar också om barnen bara språkar i hemmet och i skolan.<CharStyle:> <CharStyle:svkorp>Linus odlar ett skägg i väntan på att barnet ska födas.<CharStyle:> <CharStyle:enkorp>Linus grows a beard waiting for his baby to be born.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>barnmorska <CharStyle:><CharStyle:endef>a midwife; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>batteri <CharStyle:><CharStyle:typ>(~et; ~er; ~erna;) <CharStyle:><CharStyle:endef>battery; <CharStyle:> <CharStyle:lankar>http://sv.wikipedia.org/wiki/Batteri <CharStyle:>
-<ParaStyle:entry><CharStyle:svord>be <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to ask, to request; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>be <CharStyle:><CharStyle:typ>(verb: ~r; bad; ~tt; ~;) <CharStyle:><CharStyle:endef>1. to ask for, request someone else to do something; 2. to pray; 3. to beg, to plead with someone for help or for a favor; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>behöva <CharStyle:><CharStyle:typ>(verb: behöver; behövde; behövt; behöv;) <CharStyle:><CharStyle:endef>to need, to have use for; <CharStyle:><CharStyle:svkorp>Ellen behöver köpa nya kläder.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>belysning <CharStyle:><CharStyle:endef>lighting; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>ben <CharStyle:><CharStyle:typ>(~et; ~; ~en;) <CharStyle:><CharStyle:svdef>kroppsdel som människa och djur går med eller står på; nedre extremitet; del av skelett; <CharStyle:><CharStyle:endef>leg (body part, trousers, furniture); bone; <CharStyle:><CharStyle:svkorp>sträcka på benen;<CharStyle:> <CharStyle:enkorp>stretch one's legs<CharStyle:> <CharStyle:svkorp>vara på benen ("vara verksam igen efter att ha sovit eller varit sjuk");<CharStyle:> <CharStyle:enkorp>be up and about ("be back in action after sleeping or a period of illness");<CharStyle:> <CharStyle:svkorp>dra benen efter sig ("gå alltför långsamt");<CharStyle:> <CharStyle:enkorp>dawdle;<CharStyle:> <CharStyle:svkorp>stå på egna ben ("klara sig själv");<CharStyle:> <CharStyle:enkorp>stand on one's own feet ("manage without help");<CharStyle:> <CharStyle:svkorp>han är bara skinn och ben;<CharStyle:> <CharStyle:enkorp>he's nothing but skin and bones;<CharStyle:> 
@@ -144,7 +144,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>burk <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>a jar; a can; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>buss <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>a bus;  <CharStyle:><CharStyle:svkorp>Mamma tog bilen till jobbet och pappa tog bussen.<CharStyle:> <CharStyle:svkorp>De åker buss.<CharStyle:> <CharStyle:svkorp>Jag hittade en bra plats på övre däck på bussen.<CharStyle:> <CharStyle:enkorp>I found a good place on the bus, on the top deck.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>busshållplats <CharStyle:><CharStyle:endef>bus stop; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>by <CharStyle:><CharStyle:endef>village, hamlet; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>by <CharStyle:><CharStyle:typ>(~n; ~ar; ~arna;) <CharStyle:><CharStyle:endef>village, hamlet; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>bygga om <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to (re)build; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>byrålåda <CharStyle:><CharStyle:endef>drawer; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>byta <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to change; <CharStyle:> 
@@ -193,7 +193,7 @@
 <ParaStyle:entry><CharStyle:svord>den här <CharStyle:><CharStyle:endef>this; this one; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>denna <CharStyle:><CharStyle:endef>this, that (depending on context). <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>det spelar ingen roll <CharStyle:><CharStyle:endef>it doesn't matter; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>detta <CharStyle:><CharStyle:endef>this; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>detta <CharStyle:><CharStyle:endef>this or that, depending on context; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>dig <CharStyle:><CharStyle:endef>you; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>din <CharStyle:><CharStyle:endef>your; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>direkt <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>1. directly; 2. immediately; <CharStyle:> 
@@ -248,7 +248,7 @@
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>eftersök <CharStyle:><CharStyle:endef>tracking; a search; <CharStyle:><CharStyle:svkorp>Det har varit en intensiv sommar för Hemvärnet i Norrland med många eftersök av försvunna personer.<CharStyle:> <CharStyle:svkorp>Råd och Tips vid eftersök av försvunnen person.<CharStyle:> <CharStyle:enkorp>Advice and Tips on tracking the missing person.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>egen <CharStyle:><CharStyle:endef>own, of my own (belonging to one and only one (determiner)); <CharStyle:><CharStyle:svkorp>stå på egna ben ("klara sig själv");<CharStyle:> <CharStyle:enkorp>stand on one's own feet ("manage without help");<CharStyle:> <CharStyle:svkorp>Jag har fått lite hjälp av Sebastian att koda en ny gästbok i PHP, vilken jag sedan tjuvtittade på när jag kodade mitt eget nyhetsscript.<CharStyle:> <CharStyle:svkorp>Att börja mala sitt eget kaffe är att börja med ett nytt sorts kaffedrickande. När du maler dina kaffebönor själv kan du få ett färskare kaffe med mer smaker och aromer. Det tar bara några sekunder och vardagsfikat förvandlas till en ännu godare kaffestund.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>egen <CharStyle:><CharStyle:typ>(adjektiv: eget; egna; egnare; egnast;) <CharStyle:><CharStyle:endef>peculiar, eccentric, odd, unique, personal, individualistic; <CharStyle:><CharStyle:svkorp>stå på egna ben ("klara sig själv");<CharStyle:> <CharStyle:enkorp>stand on one's own feet ("manage without help");<CharStyle:> <CharStyle:svkorp>Jag har fått lite hjälp av Sebastian att koda en ny gästbok i PHP, vilken jag sedan tjuvtittade på när jag kodade mitt eget nyhetsscript.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>egentligen <CharStyle:><CharStyle:endef>really, actually; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>egentligen <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>really, actually, in fact; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>eld <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>a fire; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>elev <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:endef>a student; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>elfte <CharStyle:><CharStyle:endef>eleventh; <CharStyle:> 
@@ -285,7 +285,7 @@
 <ParaStyle:entry><CharStyle:svord>femte <CharStyle:><CharStyle:endef>fifth; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>femtio <CharStyle:><CharStyle:endef>fifty; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>femton <CharStyle:><CharStyle:endef>fifteen; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>fest <CharStyle:><CharStyle:endef>party; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>fest <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:endef>party; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>ficka <CharStyle:><CharStyle:endef>pocket; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>fickkniv <CharStyle:><CharStyle:endef>a pocket knife; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>ficklampa <CharStyle:><CharStyle:endef>flashlight; pocket torch; <CharStyle:> 
@@ -317,8 +317,8 @@
 <ParaStyle:entry><CharStyle:svord>fortfarande <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>still; up to a time, as in the preceding time; <CharStyle:><CharStyle:svkorp>Jag är fortfarande trött.<CharStyle:> <CharStyle:enkorp>I am still tired.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>fortsätta <CharStyle:><CharStyle:typ>(verb: fortsätter; fortsätte; fortsätt; fortsätt;) <CharStyle:><CharStyle:endef>to continue, to proceed; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>fot <CharStyle:><CharStyle:typ>(~en; fötter; fötterna;) <CharStyle:><CharStyle:endef>a foot <CharStyle:><CharStyle:svkorp>Ha fast mark under fötterna;<CharStyle:> <CharStyle:enkorp>to be on terra firma (literally "to have firm ground under (one's) feet")<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>fotball <CharStyle:><CharStyle:endef>soccer; football; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>fotbollsklubb <CharStyle:><CharStyle:endef>soccer club; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>fotball <CharStyle:><CharStyle:typ>(substantiv) <CharStyle:><CharStyle:endef>soccer; football; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>fotballsklubb <CharStyle:><CharStyle:endef>soccer club; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>foto <CharStyle:><CharStyle:typ>(~t; ~n; ~na;) <CharStyle:><CharStyle:endef>snapshot, photograph; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>fram <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>forward, in front; [Used for spatial, either of movement through or of position in space, as well as temporal adverbials; in the latter usage it will often correspond to later on. It is also a particle used in the formation of Swedish phrasal verbs.] <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>fram till <CharStyle:><CharStyle:endef>up until; <CharStyle:> 
@@ -376,7 +376,8 @@
 <ParaStyle:entry><CharStyle:svord>före <CharStyle:><CharStyle:endef>1. in front of; ahead of; 2. before; earlier in time than; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>förfara <CharStyle:><CharStyle:typ>(verb: förfar; förfor; förfarit; förfar;) <CharStyle:><CharStyle:endef>to proceed, to handle, to do (things in a particular manner); <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>förfarande <CharStyle:><CharStyle:typ>(~t; ~n; ~na;) <CharStyle:><CharStyle:endef>a procedure; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>författare <CharStyle:><CharStyle:endef>an author; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>författa <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to author, to write; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>författare <CharStyle:><CharStyle:typ>(~n; ~; författarna;) <CharStyle:><CharStyle:endef>an author, the originator or creator of a work; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>förkyld <CharStyle:><CharStyle:endef>a cold <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>förlåt <CharStyle:><CharStyle:endef>sorry, excuse me; <CharStyle:><CharStyle:svkorp>Förlåt, jag såg dig inte.<CharStyle:> <CharStyle:enkorp>I'm sorry, I didn't see you.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>förmiddag <CharStyle:><CharStyle:svdef>tiden före klockan tolv på dagen; <CharStyle:><CharStyle:endef>before noon; f.m.; <CharStyle:> 
@@ -392,8 +393,8 @@
 <ParaStyle:entry><CharStyle:svord>första <CharStyle:><CharStyle:endef>first; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>förstå <CharStyle:><CharStyle:typ>(verb: ~r; förstod; ~tt; ~;) <CharStyle:><CharStyle:endef>to understand; <CharStyle:><CharStyle:svkorp>Ursäkta mig, jag förstår inte. Säga det en gång till, tack.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>förstås <CharStyle:><CharStyle:endef>of course, naturally; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>försvinna <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to disappear; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>försvunnen <CharStyle:><CharStyle:typ>(adjektiv: försvunnet; försvunna;) <CharStyle:><CharStyle:endef>adj. lost, missing; <CharStyle:><CharStyle:svkorp>Det har varit en intensiv sommar för Hemvärnet i Norrland med många eftersök av försvunna personer.<CharStyle:> <CharStyle:svkorp>Råd och Tips vid eftersök av försvunnen person.<CharStyle:> <CharStyle:enkorp>Advice and Tips on tracking the missing person.<CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>försvinna <CharStyle:><CharStyle:typ>(verb: försvinner; försvann; försvunnit; försvinn;) <CharStyle:><CharStyle:endef>to disappear; to vanish; <CharStyle:><CharStyle:svkorp>Råd och Tips vid eftersök av försvunnen person.<CharStyle:> <CharStyle:enkorp>Advice and Tips on tracking the missing person.<CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>försvunnen <CharStyle:><CharStyle:typ>(adjektiv: försvunnet; försvunna;) <CharStyle:><CharStyle:endef>lost, missing; <CharStyle:><CharStyle:svkorp>Det har varit en intensiv sommar för Hemvärnet i Norrland med många eftersök av försvunna personer.<CharStyle:> <CharStyle:svkorp>Råd och Tips vid eftersök av försvunnen person.<CharStyle:> <CharStyle:enkorp>Advice and Tips on tracking the missing person.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>försäkringskassa <CharStyle:><CharStyle:endef>insurance company; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>försöka <CharStyle:><CharStyle:typ>(verb: försöker; försökte; försökt; försök;) <CharStyle:><CharStyle:endef>to attempt, to try; <CharStyle:><CharStyle:svkorp>Jag fick inte hjälpa honom, utan bara titta på när han försökte.<CharStyle:> <CharStyle:enkorp>I wasn't allowed to help him, only watch him try.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>förälder <CharStyle:><CharStyle:typ>(~n; föräldrar; föräldarna;) <CharStyle:><CharStyle:endef>parent; <CharStyle:> 
@@ -442,7 +443,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>gympa <CharStyle:><CharStyle:endef>gymnastics; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>gå <CharStyle:><CharStyle:typ>(verb: ~r; gick; ~tt; ~;) <CharStyle:><CharStyle:endef>go, walk; (has 23 other definitions); <CharStyle:><CharStyle:svkorp>Jag går hem.<CharStyle:> <CharStyle:svkorp>Solen går i moln.<CharStyle:> <CharStyle:enkorp>The sun's going behind the clouds.<CharStyle:> <CharStyle:svkorp>Först åt vi och sedan gick vi ut.<CharStyle:> <CharStyle:enkorp>We ate first, then we went out.<CharStyle:> <CharStyle:svkorp>Det är dags att gå hem.<CharStyle:> <CharStyle:enkorp>It is time to go home.<CharStyle:> <CharStyle:svkorp>Idag behöver du kängor och en riktigt varm jacka för att gå ut.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>gå på en spaning <CharStyle:><CharStyle:endef>go on a RECCE; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>gå upp <CharStyle:><CharStyle:endef>go up, get up; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>gå upp <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>go up, get up; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>gå ut <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>go out; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>gång <CharStyle:><CharStyle:endef>a time; <CharStyle:><CharStyle:svkorp>Webbsidan ska förnyas och en ny, enklare adress för sidan är på gång.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>gång till <CharStyle:><CharStyle:endef>one more time; <CharStyle:> 
@@ -500,13 +501,13 @@
 <ParaStyle:entry><CharStyle:svord>heta <CharStyle:><CharStyle:typ>(verb: heter; hette; ~t; het;) <CharStyle:><CharStyle:endef>be called; have as one's name; <CharStyle:><CharStyle:svkorp>Vad heter du?<CharStyle:> <CharStyle:svkorp>Jag heter Aslak Arthursson.<CharStyle:> <CharStyle:svkorp>Jag heter Arthursson i efternamn.<CharStyle:> <CharStyle:svkorp>Sveriges huvudstad heter Stockholm.<CharStyle:> <CharStyle:enkorp>Sweden's capital city is Stockholm.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>hinna <CharStyle:><CharStyle:typ>(verb: hinner; hann; hunnit; hinn;) <CharStyle:><CharStyle:endef>1. to have sufficient time to do something; 2. to manage to do something in time; 3. to be on time, not to be late; <CharStyle:><CharStyle:svkorp>Jag hinner inte äta frukost.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>hiss <CharStyle:><CharStyle:endef>elevator; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>historia <CharStyle:><CharStyle:endef>? <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>historia <CharStyle:><CharStyle:endef>1. history; 2. A story, plot (of a work of fiction); <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>hit <CharStyle:><CharStyle:endef>here (motion); <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>hitta <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>1. to find, to locate (an object); to stumble upon; to discover; 2. to know one's way; to be able to locate places; <CharStyle:><CharStyle:svkorp>Jag hittade en länk till deras webbplats.<CharStyle:> <CharStyle:enkorp>I found a link to their web site<CharStyle:> <CharStyle:svkorp>Jag hittade en fästing på min rygg!<CharStyle:> <CharStyle:enkorp>I found a tick on my back!<CharStyle:> <CharStyle:svkorp>Jag hittade en bra plats på övre däck på bussen.<CharStyle:> <CharStyle:enkorp>I found a good place on the bus, on the top deck.<CharStyle:> <CharStyle:svkorp>hitta vägen ("hitta rätt");<CharStyle:> <CharStyle:enkorp>idiom: find the way;<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>hitta på <CharStyle:><CharStyle:endef>think of, hit upon; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>hitta på <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>think of, hit upon; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>hjälp <CharStyle:><CharStyle:endef>a help; <CharStyle:><CharStyle:svkorp>Jag har fått lite hjälp av Sebastian att koda en ny gästbok i PHP, vilken jag sedan tjuvtittade på när jag kodade mitt eget nyhetsscript.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>hjälpa <CharStyle:><CharStyle:typ>(verb: hjälper; hjälpte; hjälpt; hjälp;) <CharStyle:><CharStyle:endef>to help, assist, aid; <CharStyle:><CharStyle:svkorp>Jag har fått lite hjälp av Sebastian att koda en ny gästbok i PHP, vilken jag sedan tjuvtittade på när jag kodade mitt eget nyhetsscript.<CharStyle:> <CharStyle:svkorp>Jag fick inte hjälpa honom, utan bara titta på när han försökte.<CharStyle:> <CharStyle:enkorp>I wasn't allowed to help him, only watch him try.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>hjälpa till <CharStyle:><CharStyle:endef> to help out; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>hjälpa till <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef> to help out; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>hjärta <CharStyle:><CharStyle:typ>(~t; ~n; ~na;) <CharStyle:><CharStyle:endef>a heart; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>hon <CharStyle:><CharStyle:endef>she; <CharStyle:><CharStyle:svkorp>Men hon gör annat också.<CharStyle:> <CharStyle:svkorp>Hur mycket är klockan? Hon är 23:15.<CharStyle:> <CharStyle:svkorp>Hon saknar sin mamma.<CharStyle:> <CharStyle:enkorp>She misses her mum.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>honom <CharStyle:><CharStyle:endef>him; object form of han; <CharStyle:><CharStyle:svkorp>Jag fick inte hjälpa honom, utan bara titta på när han försökte.<CharStyle:> <CharStyle:enkorp>I wasn't allowed to help him, only watch him try.<CharStyle:> 
@@ -543,12 +544,12 @@
 <ParaStyle:entry><CharStyle:svord>här <CharStyle:><CharStyle:endef>here; <CharStyle:><CharStyle:svkorp>Jag är här.<CharStyle:> <CharStyle:enkorp>I am here // as in a response to a roll call.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>härifrån <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>from here; herefrom; <CharStyle:><CharStyle:svkorp>Gå härifrån och lämna mig i fred.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>härlig <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are; ~ast;) <CharStyle:><CharStyle:endef>delightful, lovely, great, wonderful; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>häst <CharStyle:><CharStyle:endef>a horse; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>häst <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>1. a horse; a large mammal, Equus caballus; 2. (chess, colloquial) knight; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>hög <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:svdef>anhopning av saker el. material; <CharStyle:><CharStyle:endef>pile; heap; a quantity of things or material heaped or piled together; <CharStyle:><CharStyle:svkorp>Jag betalar alldeles för hög ränta.<CharStyle:> <CharStyle:enkorp>My interest rate is way too high.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>hög <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~re; ~st;) <CharStyle:><CharStyle:endef>high; loud;  <CharStyle:><CharStyle:svkorp>Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter.<CharStyle:> <CharStyle:svkorp>Jag betalar alldeles för hög ränta.<CharStyle:> <CharStyle:enkorp>My interest rate is way too high.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>höger <CharStyle:><CharStyle:endef>right; <CharStyle:><CharStyle:svkorp>sväng vänster sväng höger<CharStyle:> <CharStyle:enkorp>turn left then turn right<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>högtid <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:endef>A holiday, festival or similar festive occasion. <CharStyle:><CharStyle:svkorp>Julen är min familjs viktigaste högtid.<CharStyle:> <CharStyle:enkorp>Christmas is the most important holiday for my family.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>höra <CharStyle:><CharStyle:endef>to hear; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>höra <CharStyle:><CharStyle:typ>(verb: hör; hörde; hört; hör;) <CharStyle:><CharStyle:endef>to hear; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>höra av sig <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to be heard by someone, to notify <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>höst <CharStyle:><CharStyle:endef>autumn; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>i <CharStyle:><CharStyle:endef>1. in; located inside; 2. in; specifies a place, a region or a country; 3. (about time) to; before a full hour; 4. (in various constructions) last, previous; <CharStyle:><CharStyle:svkorp>Falla i drickat.<CharStyle:> <CharStyle:enkorp>Fall into the water.<CharStyle:> <CharStyle:svkorp>Hålla sig i trim.<CharStyle:> <CharStyle:enkorp>Keep yourself in shape.<CharStyle:> <CharStyle:svkorp>Stockholm ligger i östra Sverige.<CharStyle:> <CharStyle:enkorp>Stockholm lies in eastern Sweden.<CharStyle:> <CharStyle:svkorp>Jag heter Arthursson i efternamn.<CharStyle:> <CharStyle:svkorp>Fyll i rätt ord.<CharStyle:> <CharStyle:enkorp>Fill in the correct word.<CharStyle:> <CharStyle:svkorp>Gotland är den största ön i Östersjön.<CharStyle:> <CharStyle:enkorp>Gotland is the largest island in the Baltic Sea.<CharStyle:> <CharStyle:svkorp>i fas, ur fas;<CharStyle:> <CharStyle:enkorp>in phase, out of phase;<CharStyle:> 
@@ -564,7 +565,7 @@
 <ParaStyle:entry><CharStyle:svord>i väntan på <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>in anticipation of; in expectation of; <CharStyle:><CharStyle:svkorp>Linus odlar ett skägg i väntan på att barnet ska födas.<CharStyle:> <CharStyle:enkorp>Linus grows a beard waiting for his baby to be born.<CharStyle:> <CharStyle:svkorp>I väntan på döden.<CharStyle:> <CharStyle:enkorp>In anticipation of death.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>i år <CharStyle:><CharStyle:endef>this year; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>ibland <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>sometimes; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>idé <CharStyle:><CharStyle:endef>an idea; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>idé <CharStyle:><CharStyle:typ>(~n; ~er; ~erna;) <CharStyle:><CharStyle:endef>an idea; theory;  <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>idrott <CharStyle:><CharStyle:typ>(idtrotten; idtrotter; idtrotterna;) <CharStyle:><CharStyle:endef>sport (any athletic activity that uses physical skills); <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>-ig <CharStyle:><CharStyle:endef>-y, -like; making adjectives; <CharStyle:> <CharStyle:lankar>http://en.wiktionary.org/wiki/Category:Swedish_words_suffixed_with_-ig <CharStyle:>
 <ParaStyle:entry><CharStyle:svord>igen <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>again; <CharStyle:><CharStyle:svkorp>vara på benen ("vara verksam igen efter att ha sovit eller varit sjuk");<CharStyle:> <CharStyle:enkorp>be up and about ("be back in action after sleeping or a period of illness");<CharStyle:> <CharStyle:svkorp>om och om igen;<CharStyle:> <CharStyle:enkorp>again and again (idiom);<CharStyle:> 
@@ -582,7 +583,7 @@
 <ParaStyle:entry><CharStyle:svord>inne <CharStyle:><CharStyle:endef>inside (position); <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>innehåll <CharStyle:><CharStyle:typ>(~et; ~; ~en;) <CharStyle:><CharStyle:endef>content (that which is contained); <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>innehålla <CharStyle:><CharStyle:typ>(verb: innehåller; innehöll; innehållit; innehåll;) <CharStyle:><CharStyle:endef>to contain, to include; <CharStyle:><CharStyle:svkorp>Många webbplatser innehåller en stor mängd olika webbdokument som man når via länkar.<CharStyle:> <CharStyle:svkorp>Så jag gjorde en jättegod potatisgratäng, som även innehöll morot, broccoli, lök och vitlök.<CharStyle:> <CharStyle:enkorp>So I made a delicious potato gratin, which included carrot, broccoli, onion and garlic;<CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>innehållsdeklaration <CharStyle:><CharStyle:endef>; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>innehållsdeklaration <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>inspelning <CharStyle:><CharStyle:endef>a (photo|film) shoot, a take; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>instruktionsbok <CharStyle:><CharStyle:endef>instruction book; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>inställa <CharStyle:><CharStyle:typ>(verb: inställer; inställde; inställt; inställ;) <CharStyle:><CharStyle:endef>to cancel something which has been planned; <CharStyle:> 
@@ -592,10 +593,10 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>intervju <CharStyle:><CharStyle:endef>interview; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>intervjua <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to interview; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>intressant <CharStyle:><CharStyle:endef>interesting; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>intresserad <CharStyle:><CharStyle:endef>interesting; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>intresserad <CharStyle:><CharStyle:typ>(adjektiv) <CharStyle:><CharStyle:endef>interesting; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>invånare <CharStyle:><CharStyle:endef>an inhabitant; <CharStyle:><CharStyle:svkorp>Sverige har över 9 miljoner invånare.<CharStyle:> <CharStyle:enkorp>Sweden has a population of over 9 million people.<CharStyle:> <CharStyle:svkorp>Stockholm har cirka 800 000 invånare, med förorter cirka 1,7 miljoner.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>irritera <CharStyle:><CharStyle:endef>to irritate; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>irriterande <CharStyle:><CharStyle:endef>irritating; <CharStyle:><CharStyle:svkorp>En textbit är en låt har spelat på repeat i min hjärna sedan i tisdags, lite irriterande då det är från Kents Ingenting.<CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>irritera <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to irritate; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>irriterande <CharStyle:><CharStyle:typ>(adjektiv) <CharStyle:><CharStyle:endef>irritating; <CharStyle:><CharStyle:svkorp>En textbit är en låt har spelat på repeat i min hjärna sedan i tisdags, lite irriterande då det är från Kents Ingenting.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>is <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>ice; <CharStyle:><CharStyle:svkorp>Om is på vägen man kan halka.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>Ja <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>Yes. <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>jacka <CharStyle:><CharStyle:endef>a jacket; <CharStyle:><CharStyle:svkorp>Idag behöver du kängor och en riktigt varm jacka för att gå ut.<CharStyle:> 
@@ -630,7 +631,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kaka <CharStyle:><CharStyle:endef>a cake; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kalender <CharStyle:><CharStyle:endef>a calendar; <CharStyle:><CharStyle:svkorp>Hon skriver i en kalender vad hon ska göra.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>kall <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are; ~ast;) <CharStyle:><CharStyle:endef>cold; <CharStyle:><CharStyle:svkorp>Det är kallt ute och det regnar.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>kalla <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>verb, to call?; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>kalla <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>1. to call, denote, refer to; to give as a name; 2. to call, request, beckon, summon; <CharStyle:><CharStyle:svkorp>Vid snöfall kan flera svåra situationer uppstå. Ett av dessa är fenomenet som kallas snörök. Det kan uppstå då nysnö efter framförvarande fordon virvlar upp i ditt synfält, och därmed försvåra körningen avsevärt. Snödrev kallas det när det i samband med snöfall blåser kraftigt. Det ger svår framkomlighet och försvårar för förare att se vägens sträckning. Snödrev är vanligast i de södra delarna av Sverige.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kamera <CharStyle:><CharStyle:endef>camera; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kamrat <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:svdef>vän;  <CharStyle:><CharStyle:endef>companion, comrade, buddy (FM blog); <CharStyle:><CharStyle:svkorp>Du är en bra kamrat.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kanal <CharStyle:><CharStyle:endef>channel; <CharStyle:> 
@@ -640,7 +641,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>karta <CharStyle:><CharStyle:typ>(~n; kartor; kartorna;) <CharStyle:><CharStyle:endef>a map; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>kartfodral <CharStyle:><CharStyle:endef>map case; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kassör <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:svdef>kassaförvaltare, den i en styrelse som ansvarar för pengarna. <CharStyle:><CharStyle:endef>a cashier; a treasurer; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>katt <CharStyle:><CharStyle:endef>a cat; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>katt <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:endef>a cat; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kavaj <CharStyle:><CharStyle:endef>a blazer; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>khaki <CharStyle:><CharStyle:endef>khaki; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kille <CharStyle:><CharStyle:endef>guy; <CharStyle:> 
@@ -669,9 +670,9 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kod <CharStyle:><CharStyle:endef>code; a code; ... <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>koda <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to code; <CharStyle:><CharStyle:svkorp>Jag har fått lite hjälp av Sebastian att koda en ny gästbok i PHP, vilken jag sedan tjuvtittade på när jag kodade mitt eget nyhetsscript.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>koka <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to boil; prepare, make; `koka kaffe`; <CharStyle:><CharStyle:svkorp>koka kaffe<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>kom ut <CharStyle:><CharStyle:endef>come out, emerge; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>komma <CharStyle:><CharStyle:typ>(verb: kommer; kom; kommit; kom;) <CharStyle:><CharStyle:endef>to come; <CharStyle:><CharStyle:svkorp>Jag kommer hem.<CharStyle:> <CharStyle:svkorp>Jag kommer från Sverige.<CharStyle:> <CharStyle:enkorp>I am from Sweden.<CharStyle:> <CharStyle:svkorp>Var kommer du ifrån?<CharStyle:> <CharStyle:enkorp>Where are you from?<CharStyle:> <CharStyle:svkorp>När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>komma <CharStyle:><CharStyle:typ>(~t; ~n; ~na;) <CharStyle:><CharStyle:endef>a comma (punctuation); <CharStyle:><CharStyle:svkorp>Stockholm har cirka 800 000 invånare, med förorter cirka 1,7 miljoner.<CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>komma ut <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>come out, emerge; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>kommande <CharStyle:><CharStyle:endef>coming, future, arriving <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>kommer att bli <CharStyle:><CharStyle:endef>to come to be; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kompis <CharStyle:><CharStyle:endef>pal, buddy, mate; <CharStyle:> 
@@ -712,7 +713,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kurs <CharStyle:><CharStyle:endef>a course; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kusin <CharStyle:><CharStyle:endef>cousin; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kvadrat <CharStyle:><CharStyle:typ>(~en;) <CharStyle:><CharStyle:endef>1. (geometry) square, a polygon; 2. (mathematics) square, a number (or other element) raised in second power; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>kvar <CharStyle:><CharStyle:endef>left, remaining; <CharStyle:><CharStyle:svkorp>Det finns lite bröd kvar.<CharStyle:> <CharStyle:enkorp>There is a little bread left.<CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>kvar <CharStyle:><CharStyle:typ>(adjektiv) <CharStyle:><CharStyle:endef>left, remaining; <CharStyle:><CharStyle:svkorp>Det finns lite bröd kvar.<CharStyle:> <CharStyle:enkorp>There is a little bread left.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kvart <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:svdef>En kvart är en fjärdedel av ett rationellt tal eller mått. Termen används vanligen i genitiv, kvarts. En fjärdedel av ett tal är detta dividerat med fyra och kan skrivas 1/4 , 0,25 eller 25%. <CharStyle:><CharStyle:endef>1. a quarter (one of four equal parts); 2. a quarter of an hour, 15 minutes; 3. a small appartment, pad; <CharStyle:><CharStyle:svkorp>Hur mycket är klockan? Hon är 23:15.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kvinna <CharStyle:><CharStyle:endef>a woman <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>kvitto <CharStyle:><CharStyle:typ>(~t; ~n; ~na;) <CharStyle:><CharStyle:svdef>Ett kvitto är en bekräftelse att en person eller en organisation har betalat för en vara eller en tjänst. Bekräftelsen är skriven på papper. Ett mottagningskvitto eller en kvittens avser oftast ett bevis på att varan eller tjänsten är mottagen. <CharStyle:><CharStyle:endef>a receipt; <CharStyle:> 
@@ -725,7 +726,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>kylväska <CharStyle:><CharStyle:endef>cooler; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>källa <CharStyle:><CharStyle:endef>a source; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>källkod <CharStyle:><CharStyle:endef>source code; #!; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>kända <CharStyle:><CharStyle:endef>known, famous; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>känd <CharStyle:><CharStyle:typ>(adjektiv: känt; ~a;) <CharStyle:><CharStyle:endef>known, famous; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>känga <CharStyle:><CharStyle:typ>(~n; kängor; kängorna;) <CharStyle:><CharStyle:endef>boot; a heavy shoe; <CharStyle:><CharStyle:svkorp>Idag behöver du kängor och en riktigt varm jacka för att gå ut.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>känna egen <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to recognize <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>känna sig <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to feel <CharStyle:> 
@@ -734,6 +735,7 @@
 <ParaStyle:entry><CharStyle:svord>köpa <CharStyle:><CharStyle:typ>(verb: köper; köpte; köpt; köp;) <CharStyle:><CharStyle:svdef>skaffa sig något genom att betala för det, handla <CharStyle:><CharStyle:endef>to buy; to purchase; (Using `køpa` you need to specify what you are buying, with `handla` you do not.) <CharStyle:><CharStyle:svkorp>Han köpte tre flaskor öl.<CharStyle:> <CharStyle:enkorp>He bought three bottles of beer.<CharStyle:> <CharStyle:svkorp>Ellen behöver köpa nya kläder.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>köra <CharStyle:><CharStyle:typ>(verb: kör; körde; kört; kör;) <CharStyle:><CharStyle:endef>1. to run, to operate, to drive (as in a car); 2. (computing) to execute, run; <CharStyle:><CharStyle:svkorp>Jag kör min bil.<CharStyle:> <CharStyle:svkorp>Kör mot stan.<CharStyle:> <CharStyle:enkorp>Drive towards the town.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>körlektion <CharStyle:><CharStyle:endef>a driving lesson <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>kött <CharStyle:><CharStyle:typ>(~et;) <CharStyle:><CharStyle:endef>meat, flesh; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>köttbulle <CharStyle:><CharStyle:endef>meatball; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>laga <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to prepare, to cook (food); fix a car; <CharStyle:><CharStyle:svkorp>Hon lagar mat;<CharStyle:> <CharStyle:svkorp>Jag lagar min bil.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>lagom <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:svdef>Lagom är ett svenskt ord med betydelsen 'varken för mycket eller för litet', 'utan överdrift', 'för ändamålet lämplig storlek, mängd, etc'. <CharStyle:><CharStyle:endef>just right; neither too much nor too little; <CharStyle:><CharStyle:svkorp>Slutligen så så har vi genom erfarenhet lärt oss lite hur man lyckas få till pizzorna, hur man lättast transporterar dem till och från grillen, samt det viktigaste hur man får till den rätta frasigheten och ser till att fyllningen är lagom grillad.<CharStyle:> 
@@ -783,7 +785,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>lägenhet <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:endef>an apartment; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>läger <CharStyle:><CharStyle:typ>(lägret; ~; lägren;) <CharStyle:><CharStyle:endef>a (sleeping) quarter, a camp; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>lägereld <CharStyle:><CharStyle:endef>campfire; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>lägga av <CharStyle:><CharStyle:endef>put aside, set apart; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>lägga av <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>put aside, set apart; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>lägga sig <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to go to bed <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>läkare <CharStyle:><CharStyle:endef>doctor <CharStyle:><CharStyle:svkorp>Han siktar på att gå i faderns fotspår och bli läkare.<CharStyle:> <CharStyle:enkorp>...and become a doctor;<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>lämna <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>1. to leave; to not take away with oneself but leave as available for others; to deposit; 2. to leave; to transfer responsibility or attention (to); 3. to leave; to depart from; <CharStyle:><CharStyle:svkorp>Gå härifrån och lämna mig i fred.<CharStyle:> 
@@ -841,7 +843,7 @@
 <ParaStyle:entry><CharStyle:svord>mer <CharStyle:><CharStyle:typ>(adjektiv: ~; ~a;) <CharStyle:><CharStyle:endef>more, (comparative form of mycket); <CharStyle:><CharStyle:svkorp>En bild säger mer än tusen ord.<CharStyle:> <CharStyle:svkorp>483 objekt kunde inte synkroniseras. Mer information finns i iTunes.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>mer än <CharStyle:><CharStyle:endef>more than; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>mera <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>more; <CharStyle:><CharStyle:svkorp>En bild säger mer än tusen ord.<CharStyle:> <CharStyle:svkorp>483 objekt kunde inte synkroniseras. Mer information finns i iTunes.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>messa <CharStyle:><CharStyle:endef>text, sms, message; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>messa <CharStyle:><CharStyle:typ>(substantiv) <CharStyle:><CharStyle:endef>text, sms, message; [sv.wikt calls this a verb] <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>mest <CharStyle:><CharStyle:endef>most <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>mid- <CharStyle:><CharStyle:endef>middle; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>middag <CharStyle:><CharStyle:svdef>tid omkring kl 12 på dagen, även kvällsmåltid; <CharStyle:><CharStyle:endef>dinner 18:00; midday, noon;  <CharStyle:><CharStyle:svkorp>Middag hos Hassan och Linda 18.00<CharStyle:> 
@@ -890,8 +892,8 @@
 <ParaStyle:entry><CharStyle:svord>må <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to feel; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>må illa <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>feel ill; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>mål <CharStyle:><CharStyle:typ>(~et; ~; ~en;) <CharStyle:><CharStyle:endef>target; what one aims to hit; goal; meal; [whack-a-mål ;)]; language, dialect; <CharStyle:><CharStyle:svkorp>Och glöm inte bort era mål och varför ni tränar, ha en skön sommar och använd era kroppar, det är inte bara i hängmattan som avslappning uppnås!<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>måla <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to paint; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>målare <CharStyle:><CharStyle:endef>painter; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>måla <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to paint; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>målare <CharStyle:><CharStyle:endef>painter; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>måltid <CharStyle:><CharStyle:endef>meal (food that is prepared and eaten); <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>månad <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:endef>month; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>måndag <CharStyle:><CharStyle:svdef>månensdag; <CharStyle:><CharStyle:endef>Monday; <CharStyle:><CharStyle:svkorp>Ellen jobbar måndag till fredag.<CharStyle:> <CharStyle:enkorp>Ellen works from Monday to Friday.<CharStyle:> <CharStyle:svkorp>SMHI varnar för halka och snörök på måndagskvällen.<CharStyle:> 
@@ -924,12 +926,13 @@
 <ParaStyle:entry><CharStyle:svord>nitton <CharStyle:><CharStyle:endef>nineteen; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>nog <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>enough, sufficient; probably;  <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>noll <CharStyle:><CharStyle:endef>zero; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>Norge <CharStyle:><CharStyle:endef>Norway; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>Norge <CharStyle:><CharStyle:typ>(substantiv) <CharStyle:><CharStyle:endef>Norway; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>normalt <CharStyle:><CharStyle:endef>normal; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>norr <CharStyle:><CharStyle:endef>north; <CharStyle:><CharStyle:svkorp>Sverige är 160 mil från norr till söder och 40 mil från väster till öster.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>norr om <CharStyle:><CharStyle:endef>north of; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>norra <CharStyle:><CharStyle:endef>northern; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>norska <CharStyle:><CharStyle:endef>Norwegian; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>norsk <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are;) <CharStyle:><CharStyle:endef>Norwegian; of or pertaining to Norway; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>norska <CharStyle:><CharStyle:endef>Norwegian language; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>not <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:svdef>skriven kommentar till en text; <CharStyle:><CharStyle:endef>note; a short message; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>november <CharStyle:><CharStyle:endef>November; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>nu <CharStyle:><CharStyle:endef>now; <CharStyle:><CharStyle:svkorp>nu är det dags;<CharStyle:> <CharStyle:enkorp>now is the time;<CharStyle:> 
@@ -939,7 +942,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>nyhet <CharStyle:><CharStyle:endef>news; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>nyrenoverat <CharStyle:><CharStyle:endef>newly renovated; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>någon <CharStyle:><CharStyle:endef>any, some, anybody, somebody, anyone, someone, anything, something; <CharStyle:><CharStyle:svkorp>Jag stämmer ett möte med någon på tisdag.<CharStyle:> <CharStyle:enkorp>I arrange a meeting with someone on Tuesday.<CharStyle:> <CharStyle:svkorp>ha en gås oplockad med någon;<CharStyle:> <CharStyle:enkorp>have a bone to pick with somebody;<CharStyle:> <CharStyle:svkorp>Här är några människor som bor på Granvägen 4.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>någonting <CharStyle:><CharStyle:endef>something; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>någonting <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>something, anything; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>några <CharStyle:><CharStyle:endef>few, some; <CharStyle:><CharStyle:svkorp>Här är några människor som bor på Granvägen 4.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>när <CharStyle:><CharStyle:endef>when; near; <CharStyle:><CharStyle:svkorp>När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske.<CharStyle:> <CharStyle:svkorp>Jag fick inte hjälpa honom, utan bara titta på när han försökte.<CharStyle:> <CharStyle:enkorp>I wasn't allowed to help him, only watch him try.<CharStyle:> <CharStyle:svkorp>När jag kom hem gjorde jag en mumsig proteinshake, omom!<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>näsa <CharStyle:><CharStyle:endef>a nose <CharStyle:> 
@@ -1005,7 +1008,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>pasta <CharStyle:><CharStyle:endef>pasta; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>patrull <CharStyle:><CharStyle:typ>(~en;) <CharStyle:><CharStyle:endef>patrol, squad; <CharStyle:><CharStyle:svkorp>Fyradagarspatrull i West of MeS.<CharStyle:> <CharStyle:enkorp>fyrtiofemtimmarspatrull?<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>paus <CharStyle:><CharStyle:endef>pause; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>pengar <CharStyle:><CharStyle:endef>money; <CharStyle:><CharStyle:svkorp>Nej, jag har inga pengar med mig.<CharStyle:> <CharStyle:enkorp>No, I have no money with me.<CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>peng <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>coin; money; <CharStyle:><CharStyle:svkorp>Nej, jag har inga pengar med mig.<CharStyle:> <CharStyle:enkorp>No, I have no money with me.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>penna <CharStyle:><CharStyle:typ>(~n; pennor; pennorna;) <CharStyle:><CharStyle:endef>pen; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>pensionär <CharStyle:><CharStyle:endef>a retiree; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>pepparkaka <CharStyle:><CharStyle:typ>(~n; pepparkakor; pepparkakorna;) <CharStyle:><CharStyle:endef>A ginger snap, traditionally in the shape of a heart. <CharStyle:> 
@@ -1109,7 +1112,7 @@
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>salt <CharStyle:><CharStyle:endef>salt; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>sam- <CharStyle:><CharStyle:endef>together, co-, con-;  <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>sambo <CharStyle:><CharStyle:typ>(~n; ~r; ~rna;) <CharStyle:><CharStyle:endef>a person that you are co-habitating/living with; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>samhälle <CharStyle:><CharStyle:endef>society, community; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>samhälle <CharStyle:><CharStyle:typ>(~t; ~n; ~na;) <CharStyle:><CharStyle:endef>society, community; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>samma <CharStyle:><CharStyle:endef>same; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>sarbo <CharStyle:><CharStyle:endef>couple living in different places; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>sax <CharStyle:><CharStyle:endef>scissors; short of `saxofon`; a trap for animals; <CharStyle:> 
@@ -1120,10 +1123,9 @@
 <ParaStyle:entry><CharStyle:svord>sedan <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:svdef>därefter, därpå; <CharStyle:><CharStyle:endef>then, afterwards, later; <CharStyle:><CharStyle:svkorp>När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske.<CharStyle:> <CharStyle:svkorp>En textbit är en låt har spelat på repeat i min hjärna sedan i tisdags, lite irriterande då det är från Kents Ingenting.<CharStyle:> <CharStyle:svkorp>Först åt vi och sedan gick vi ut.<CharStyle:> <CharStyle:enkorp>We ate first, then we went out.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>sekund <CharStyle:><CharStyle:endef>a second; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>semester <CharStyle:><CharStyle:typ>(~n; semestrar; semestrarna;) <CharStyle:><CharStyle:endef>a vacation, especially from work; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>senare <CharStyle:><CharStyle:endef>later; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>senast <CharStyle:><CharStyle:endef>latest; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>sen <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are; ~ast;) <CharStyle:><CharStyle:endef>late; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>september <CharStyle:><CharStyle:endef>September; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>seriettidning <CharStyle:><CharStyle:endef>comic?; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>serietidning <CharStyle:><CharStyle:endef>comic?; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>servera <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to serve; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>sex <CharStyle:><CharStyle:endef>six; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>sextio <CharStyle:><CharStyle:endef>sixty; <CharStyle:> 
@@ -1198,7 +1200,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>släkt <CharStyle:><CharStyle:endef>family, relatives; <CharStyle:><CharStyle:svkorp>Jag är släkt med Odinn.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>släkting <CharStyle:><CharStyle:endef>relative; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>släktträd <CharStyle:><CharStyle:typ>(~et; ~; ~en;) <CharStyle:><CharStyle:endef>family tree; <CharStyle:> <CharStyle:lankar>http://sv.wikipedia.org/wiki/Släktträd <CharStyle:>
-<ParaStyle:entry><CharStyle:svord>slät <CharStyle:><CharStyle:endef>plain? smooth? <CharStyle:><CharStyle:svkorp>en slät kopp kaffe;<CharStyle:> <CharStyle:enkorp>a plain cup of coffee (without anything in it);<CharStyle:> <CharStyle:svkorp>Hyn ser så slät och fin ut.<CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>slät <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are; ~ast;) <CharStyle:><CharStyle:endef>smooth; (if describing coffee) without anything in it;  <CharStyle:><CharStyle:svkorp>en slät kopp kaffe;<CharStyle:> <CharStyle:enkorp>a plain cup of coffee (without anything in it);<CharStyle:> <CharStyle:svkorp>Hyn ser så slät och fin ut.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>smak <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:endef>taste; <CharStyle:><CharStyle:svkorp>Smaken är som baken, delad.<CharStyle:> <CharStyle:enkorp>Taste is like your bum, divided (idiom).<CharStyle:> <CharStyle:svkorp>Att börja mala sitt eget kaffe är att börja med ett nytt sorts kaffedrickande. När du maler dina kaffebönor själv kan du få ett färskare kaffe med mer smaker och aromer. Det tar bara några sekunder och vardagsfikat förvandlas till en ännu godare kaffestund.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>smaka <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to taste; <CharStyle:><CharStyle:svkorp>Jag smakade ett riktigt gott öl igår.<CharStyle:> <CharStyle:enkorp>I tasted a really delicious brand of beer yesterday.<CharStyle:> <CharStyle:svkorp>Det smakar gott.<CharStyle:> <CharStyle:enkorp>It tastes good.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>smaklig <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are; ~ast;) <CharStyle:><CharStyle:endef>tasty; <CharStyle:> 
@@ -1267,8 +1269,8 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>stjärna <CharStyle:><CharStyle:typ>(~n; stjärnor; stjärnorna;) <CharStyle:><CharStyle:endef>a star; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>stol <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>a chair; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>stoppa in <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to put in; to stuff in; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>stor <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; större; störst;) <CharStyle:><CharStyle:endef>big, large; <CharStyle:><CharStyle:svkorp>Många webbplatser innehåller en stor mängd olika webbdokument som man når via länkar.<CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>storlek <CharStyle:><CharStyle:endef>size; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>stor <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; större; största;) <CharStyle:><CharStyle:endef>big, large; <CharStyle:><CharStyle:svkorp>Många webbplatser innehåller en stor mängd olika webbdokument som man når via länkar.<CharStyle:> <CharStyle:svkorp>Stockholm är Sveriges största stad.<CharStyle:> <CharStyle:enkorp>Stockhom is Sweden's biggest city.<CharStyle:> <CharStyle:svkorp>Gotland är den största ön i Östersjön.<CharStyle:> <CharStyle:enkorp>Gotland is the largest island in the Baltic Sea.<CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>storlek <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>size; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>straff <CharStyle:><CharStyle:endef>a punishment; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>straffmyndig <CharStyle:><CharStyle:endef>of an age where you can be prosecuted as an adult; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>strand <CharStyle:><CharStyle:typ>(~en; stränder; stränderna;) <CharStyle:><CharStyle:endef>a beach (not necessarily sandy); <CharStyle:> 
@@ -1294,10 +1296,9 @@
 <ParaStyle:entry><CharStyle:svord>ställa sig <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>concieve; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>ställe <CharStyle:><CharStyle:typ>(~t; ~n; ~na;) <CharStyle:><CharStyle:svdef>plats; <CharStyle:><CharStyle:endef>1. a place, a location, a position; 2. a home (especially in the countryside), a farm, a stead, a summer cottage; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>stämma <CharStyle:><CharStyle:typ>(verb: stämmer; stämde; stämt; stäm;) <CharStyle:><CharStyle:endef>1. to agree, to correspond, to tally; 2. to tune (to tune an instrument); 3. to arrange (a meeting); 4. to summon, to sue; <CharStyle:><CharStyle:svkorp>Jag stämmer ett möte med någon på tisdag.<CharStyle:> <CharStyle:enkorp>I arrange a meeting with someone on Tuesday.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>stämma med <CharStyle:><CharStyle:endef>to correspond to, tally or agree without; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>stämma med <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to correspond to, tally or agree without; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>stänga <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to close; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>störa <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to disturb; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>största <CharStyle:><CharStyle:endef>largest; <CharStyle:><CharStyle:svkorp>Stockholm är Sveriges största stad.<CharStyle:> <CharStyle:enkorp>Stockhom is Sweden's biggest city.<CharStyle:> <CharStyle:svkorp>Gotland är den största ön i Östersjön.<CharStyle:> <CharStyle:enkorp>Gotland is the largest island in the Baltic Sea.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>sucka <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to heave a sigh; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>suddgummi <CharStyle:><CharStyle:endef>an eraser; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>suga <CharStyle:><CharStyle:typ>(verb: suger; sög; sugit; sug;) <CharStyle:><CharStyle:endef>to suck; <CharStyle:> 
@@ -1318,7 +1319,7 @@
 <ParaStyle:entry><CharStyle:svord>svära <CharStyle:><CharStyle:typ>(verb: svär; svor; svurit; svär;) <CharStyle:><CharStyle:endef>1. to swear, to curse; to use offensive language; 2. to take an oath; 3. to promise that something is true, as by taking an oath on it; <CharStyle:><CharStyle:svkorp>Osvuret är bäst.<CharStyle:> <CharStyle:enkorp>Not swearing (promising too much) is best.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>svärd <CharStyle:><CharStyle:endef>a sword; <CharStyle:><CharStyle:svkorp>Men det uppståndna Lammet hotas inte av drakar eller svärd.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>synfält <CharStyle:><CharStyle:endef>field of view; <CharStyle:><CharStyle:svkorp>Vid snöfall kan flera svåra situationer uppstå. Ett av dessa är fenomenet som kallas snörök. Det kan uppstå då nysnö efter framförvarande fordon virvlar upp i ditt synfält, och därmed försvåra körningen avsevärt. Snödrev kallas det när det i samband med snöfall blåser kraftigt. Det ger svår framkomlighet och försvårar för förare att se vägens sträckning. Snödrev är vanligast i de södra delarna av Sverige.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>syskon <CharStyle:><CharStyle:endef>siblings; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>syskon <CharStyle:><CharStyle:typ>(~et;) <CharStyle:><CharStyle:endef>siblings; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>sysselsättning <CharStyle:><CharStyle:endef>occupation; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>syster <CharStyle:><CharStyle:endef>sister; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>så <CharStyle:><CharStyle:endef>so; <CharStyle:><CharStyle:svkorp>Det ska bli så smutt.<CharStyle:> <CharStyle:svkorp>Tack så mycket.<CharStyle:> <CharStyle:enkorp>Thank you very much.<CharStyle:> <CharStyle:svkorp>När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske.<CharStyle:> <CharStyle:svkorp>Pappa hade ryggskott hela helgen, så jag fick skotta.<CharStyle:> 
@@ -1331,7 +1332,7 @@
 <ParaStyle:entry><CharStyle:svord>såga <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:svdef>skära med såg; <CharStyle:><CharStyle:endef>to cut with a saw; <CharStyle:><CharStyle:svkorp>Koppar röret sågades med en bågsåg.<CharStyle:> <CharStyle:enkorp>The copper pipe was cut using a hack saw.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>säck <CharStyle:><CharStyle:endef>bag, sack; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>säga <CharStyle:><CharStyle:typ>(verb: säger; sa|sade; sagt; säg;) <CharStyle:><CharStyle:endef>to say; (for past tense, skriva `sade` men säga `sa`.) <CharStyle:><CharStyle:svkorp>En bild säger mer än tusen ord.<CharStyle:> <CharStyle:svkorp>Ursäkta, hur säger man "car" på svenska?<CharStyle:> <CharStyle:enkorp>Excuse me, how do you say 'car' in Swedish?<CharStyle:> <CharStyle:svkorp>Ursäkta mig, jag förstår inte. Säga det en gång till, tack.<CharStyle:> <CharStyle:svkorp>I äldre tider sa man att björnen ägde sju mans styrka men en mans vett.<CharStyle:> <CharStyle:enkorp>In older times, they said the bear has the strength of seven men but the sense of one man.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>säga emot <CharStyle:><CharStyle:endef>to contradict; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>säga emot <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to contradict; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>säga till <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to tell <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>säker <CharStyle:><CharStyle:typ>(adjektiv: ~t; säkra; säkrare; säkrast;) <CharStyle:><CharStyle:endef>1. safe, secure. 2. sure, certain. <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>säkerhet <CharStyle:><CharStyle:endef>1. (uncountable) certainty 2. (uncountable) security, safety (condition of not being threatened). 3. a security (a guarantee for a loan). <CharStyle:> 
@@ -1354,13 +1355,13 @@
 <ParaStyle:entry><CharStyle:svord>tack ska du ha <CharStyle:><CharStyle:endef>thanks you shall have <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>tack så mycket <CharStyle:><CharStyle:endef>thanks so much; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>tag <CharStyle:><CharStyle:endef>1. a grip, a hold (of something); 2. a stroke (with an oar, in swimming); 3. a while, a moment, a minute, sec, second, tic; <CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>tak <CharStyle:><CharStyle:endef>roof, ceiling; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>tak <CharStyle:><CharStyle:typ>(~et; ~; ~en;) <CharStyle:><CharStyle:endef>roof, ceiling; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>tala <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to speak; talk;  <CharStyle:><CharStyle:svkorp>Jag talar engelska och lite japanska och mycket lite svenska<CharStyle:> <CharStyle:enkorp>I speak english, a little japanese and very little swedish.<CharStyle:> <CharStyle:svkorp>Vad talar du för språk?<CharStyle:> <CharStyle:enkorp>What language do you speak?<CharStyle:> <CharStyle:svkorp>Jag talar svenska.<CharStyle:> <CharStyle:enkorp>I speak Swedish.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>tall <CharStyle:><CharStyle:endef>pine tree; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>tallrik <CharStyle:><CharStyle:typ>(~en; ~or; ~orna;) <CharStyle:><CharStyle:endef>plate; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>tand <CharStyle:><CharStyle:typ>(~en; tänder; tänderna;) <CharStyle:><CharStyle:endef>1. a tooth; in a mouth or on a saw; 2. a tooth, a dent, a cog; on a gearwheel or cogwheel; 3. a tine, a prong (on a fork or comb or similar); <CharStyle:><CharStyle:svkorp>Du har inte borstat tänderna, eller hur? - Jo, det har jag.<CharStyle:> <CharStyle:enkorp>You haven't brushed your teeth, have you? - Yes, I have.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>tandläkare <CharStyle:><CharStyle:endef>dentist; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>tandvärk <CharStyle:><CharStyle:endef>toothache; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>tandvärk <CharStyle:><CharStyle:endef>toothache; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>tanka <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to refuel; to fill a tank with fuel; (slang) to drink large quantities of alchohol; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>tavla <CharStyle:><CharStyle:typ>(~n;) <CharStyle:><CharStyle:endef>a painting; a blackboard; anything with a frame;  <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>taxi <CharStyle:><CharStyle:typ>(substantiv) <CharStyle:><CharStyle:endef>taxi; <CharStyle:> 
@@ -1397,7 +1398,7 @@
 <ParaStyle:entry><CharStyle:svord>tionde <CharStyle:><CharStyle:endef>tenth; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>tisdag <CharStyle:><CharStyle:svdef>tyrsdag; <CharStyle:><CharStyle:endef>Tuesday; <CharStyle:><CharStyle:svkorp>Jag stämmer ett möte med någon på tisdag.<CharStyle:> <CharStyle:enkorp>I arrange a meeting with someone on Tuesday.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>titta <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to watch; <CharStyle:><CharStyle:svkorp>Jag tittar på teve.<CharStyle:> <CharStyle:enkorp>I watch TV.<CharStyle:> <CharStyle:svkorp>Jag fick inte hjälpa honom, utan bara titta på när han försökte.<CharStyle:> <CharStyle:enkorp>I wasn't allowed to help him, only watch him try.<CharStyle:> 
-<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>tjej <CharStyle:><CharStyle:endef>a girl; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>tjej <CharStyle:><CharStyle:typ>(~en; ~er; ~erna;) <CharStyle:><CharStyle:endef>a girl; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>tjugo <CharStyle:><CharStyle:endef>twenty; <CharStyle:><CharStyle:svkorp>En smutt grej med filmer från 20-talet är att man får bestämma musiken själv.<CharStyle:> <CharStyle:enkorp>A nice feature of movies from the 20s is that you can pick your own music.<CharStyle:> <CharStyle:svkorp>Hur mycket är klockan? Hon är 23:15.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>tjäna <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>to earn; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>toalett <CharStyle:><CharStyle:endef>toilet; <CharStyle:> 
@@ -1412,7 +1413,7 @@
 <ParaStyle:entry><CharStyle:svord>trasig <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are; ~ast;) <CharStyle:><CharStyle:endef>1. broken, out of order; 2. tattered, ragged; broken with rough edges; worn into tatters; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>tre <CharStyle:><CharStyle:endef>three; <CharStyle:><CharStyle:svkorp>Han köpte tre flaskor öl.<CharStyle:> <CharStyle:enkorp>He bought three bottles of beer.<CharStyle:> <CharStyle:svkorp>Hur mycket är klockan? Hon är 23:15.<CharStyle:> <CharStyle:svkorp>tre timmars väg;<CharStyle:> <CharStyle:enkorp>a three-hour journey;<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>trea <CharStyle:><CharStyle:endef>a 3rd, 3 rooms and a kitchen; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>trean <CharStyle:><CharStyle:endef>third year (of school); <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>trean <CharStyle:><CharStyle:typ>(substantiv) <CharStyle:><CharStyle:endef>third year (of school); <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>tredje <CharStyle:><CharStyle:endef>third; <CharStyle:><CharStyle:svkorp>en tredjedel av jordens befolkning svälter.<CharStyle:> <CharStyle:enkorp>a third of the Earth's population is starving.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>tretonde <CharStyle:><CharStyle:endef>thirteenth; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>trettio <CharStyle:><CharStyle:endef>thirty; <CharStyle:><CharStyle:svkorp>Vi skriver trettio, men vi säger `tretti`.<CharStyle:> 
@@ -1432,7 +1433,7 @@
 <ParaStyle:entry><CharStyle:svord>trycka <CharStyle:><CharStyle:typ>(verb: trycker; tryckte; tryckt; tryck;) <CharStyle:><CharStyle:endef>1. to print; to copy something on a surface; 2. apply pressure; 3. to push, to press; 4. to be a mental burden <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>tråka ut <CharStyle:><CharStyle:typ>(verb: tråkar ut; tråkade ut; tråkat ut; ~;) <CharStyle:><CharStyle:endef>to bore; <CharStyle:><CharStyle:svkorp>Jag är så trist att jag tråkar ut mig själv.<CharStyle:> <CharStyle:lankar>http://www.fitterbittan.se/2014/01/jag-ar-sa-trist-att-jag-trakar-ut-mig-sjalv/ <CharStyle:>
 <ParaStyle:entry><CharStyle:svord>tråkig <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are; ~ast;) <CharStyle:><CharStyle:endef>1. unpleasant, unfortunate. 2. boring. <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>trångt <CharStyle:><CharStyle:endef>crowded; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>trång <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are; ~ast;) <CharStyle:><CharStyle:endef>1. tight; not having enough width; 2. narrow; having small width; 3. crowded; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>träd <CharStyle:><CharStyle:typ>(~et; ~; ~en;) <CharStyle:><CharStyle:endef>tree; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>trädgård <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>garden; <CharStyle:><CharStyle:svkorp>Jag odlar grönsak. Grönsak växar i trädgård.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>träffa <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to meet; <CharStyle:><CharStyle:svkorp>När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske.<CharStyle:> <CharStyle:svkorp>Trevligt att träffas.<CharStyle:> <CharStyle:enkorp>Nice to meet you.<CharStyle:> 
@@ -1510,7 +1511,7 @@
 <ParaStyle:entry><CharStyle:svord>varför <CharStyle:><CharStyle:endef>why; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>varifrån <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>from which place; from which direction; from where; wherefrom; whence; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>varje <CharStyle:><CharStyle:endef>each, every; <CharStyle:><CharStyle:svkorp>till varje pris, utföra uppdraget;<CharStyle:> <CharStyle:enkorp>at all costs, accomplish the mission;<CharStyle:> <CharStyle:svkorp>Jag kan inte spela gitarr än, men jag övar varje dag.<CharStyle:> <CharStyle:enkorp>I cannot play the guitar yet, but I practice every day.<CharStyle:> <CharStyle:svkorp>Du bör sova minst åtta timmar varje natt.<CharStyle:> <CharStyle:enkorp>You should sleep at least eight hours every night.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>varmt <CharStyle:><CharStyle:endef>warm; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>varm <CharStyle:><CharStyle:typ>(adjektiv: ~t; ~a; ~are; ~ast;) <CharStyle:><CharStyle:endef>1. warm, hot; of high temperature; 2. warm, caring; <CharStyle:><CharStyle:svkorp>Idag behöver du kängor och en riktigt varm jacka för att gå ut.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>varna <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to warn; to issue a warning; <CharStyle:><CharStyle:svkorp>SMHI varnar för halka och snörök på måndagskvällen.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>varsågod <CharStyle:><CharStyle:endef>please, your welcome; <CharStyle:><CharStyle:svkorp>Varsågod och sitt.<CharStyle:> <CharStyle:enkorp>Please sit.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>vart <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>to which place; to where; whereto? <CharStyle:> 
@@ -1541,14 +1542,14 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>vinflaska <CharStyle:><CharStyle:endef>wine bottle; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>vinglas <CharStyle:><CharStyle:endef>wine glass; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>vinter <CharStyle:><CharStyle:endef>winter; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>visa <CharStyle:><CharStyle:typ>(verb) <CharStyle:><CharStyle:endef>1. to show, to display; 2. to prove; 3. to point at; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>visa <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>1. to show, to display; 2. to prove; 3. to point at; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>vispgrädde <CharStyle:><CharStyle:typ>(~n;) <CharStyle:><CharStyle:endef>whipped cream; <CharStyle:><CharStyle:svkorp>jordgubbar med vispgrädde;<CharStyle:> <CharStyle:enkorp>strawberries with whipped cream;<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>vit <CharStyle:><CharStyle:endef>white; <CharStyle:><CharStyle:svkorp>Jag har en vit skjorta på mig.<CharStyle:> <CharStyle:enkorp>I have a white shirt on me (notice that I am not wearing it... it just happens to be on me. ;) Or apparently you could be clad in something "Jag klädd i en svart skjorta"<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>vitlök <CharStyle:><CharStyle:endef>garlic; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>vitlökklyfta <CharStyle:><CharStyle:typ>(substantiv) <CharStyle:><CharStyle:endef>clove of garlic; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>vokal <CharStyle:><CharStyle:endef>vowel; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>vuxen <CharStyle:><CharStyle:endef>adult <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>vuxna <CharStyle:><CharStyle:endef>an adult; <CharStyle:> 
+<ParaStyle:entry><CharStyle:svord>vuxen <CharStyle:><CharStyle:typ>(adjektiv: vuxet; vuxna;) <CharStyle:><CharStyle:endef>adult (fully grown); <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>våg <CharStyle:><CharStyle:endef>a scale; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>våning <CharStyle:><CharStyle:endef>1. a large apartment; 2. floor, story of a building; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>vår <CharStyle:><CharStyle:endef>spring; <CharStyle:> 
@@ -1572,7 +1573,7 @@
 <ParaStyle:entry><CharStyle:svord>vänkrets <CharStyle:><CharStyle:endef>circle of friends; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>vänster <CharStyle:><CharStyle:endef>left; <CharStyle:><CharStyle:svkorp>sväng vänster sväng höger<CharStyle:> <CharStyle:enkorp>turn left then turn right<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>vänta <CharStyle:><CharStyle:typ>(verb: ~r; ~de; ~t; ~;) <CharStyle:><CharStyle:endef>to wait; <CharStyle:><CharStyle:svkorp>Vänta!<CharStyle:> <CharStyle:enkorp>Wait!<CharStyle:> <CharStyle:svkorp>jag har väntat i flera dagar på svar.<CharStyle:> <CharStyle:enkorp>I have waited several days for an answer.<CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>värk <CharStyle:><CharStyle:endef>ache; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>värk <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>ache; continuous, dull pain; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>värktablett <CharStyle:><CharStyle:endef>pain pill; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>värld <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>a world; <CharStyle:><CharStyle:svkorp>Sådan är världen, det är bara vänja sig.<CharStyle:> <CharStyle:enkorp>Such is the world, just get used to it.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>världsdel <CharStyle:><CharStyle:typ>(~en; ~ar; ~arna;) <CharStyle:><CharStyle:endef>continent; <CharStyle:> 
@@ -1591,7 +1592,7 @@
 <ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>ålder <CharStyle:><CharStyle:typ>(~n; åldrar; åldrarna;) <CharStyle:><CharStyle:endef>1. age; how old something or someone is; 2. an age, an era; a particular time period; <CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>år <CharStyle:><CharStyle:typ>(~et; ~; ~en;) <CharStyle:><CharStyle:endef>year; <CharStyle:><CharStyle:svkorp>Jag är 46 år.<CharStyle:> <CharStyle:enkorp>I am 46.<CharStyle:> 
 <ParaStyle:entry><CharStyle:enett>ett <CharStyle:><CharStyle:svord>årsmöte <CharStyle:><CharStyle:endef>annual meeting; <CharStyle:> 
-<ParaStyle:entry><CharStyle:svord>årstid <CharStyle:><CharStyle:endef>season; <CharStyle:> 
+<ParaStyle:entry><CharStyle:enett>en <CharStyle:><CharStyle:svord>årstid <CharStyle:><CharStyle:endef>season; <CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>åt <CharStyle:><CharStyle:endef>1. for; 2. to, towards, in a certain direction; <CharStyle:><CharStyle:svkorp>Jag åt äggröra till frukost.<CharStyle:> <CharStyle:enkorp>I ate scrambled eggs for breakfast.<CharStyle:> <CharStyle:svkorp>Vi språkade en stund och skildes åt.<CharStyle:> <CharStyle:svkorp>Följaktligen ägnade jag en del av söndagen åt att kratta ihop nedfallna plommon och skotta upp dem i en skottkärra.<CharStyle:> <CharStyle:svkorp>Titta inte åt det hållet.<CharStyle:> <CharStyle:enkorp>Don't look in that direction.<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>åt mig <CharStyle:><CharStyle:endef>to me; for me; <CharStyle:><CharStyle:svkorp>Kan du skriva ner det på svenska åt mig, tack.<CharStyle:> <CharStyle:enkorp>Can you write that down for me in Swedish?<CharStyle:> 
 <ParaStyle:entry><CharStyle:svord>åter <CharStyle:><CharStyle:typ>(adverb) <CharStyle:><CharStyle:endef>(once) again; back; <CharStyle:> 
