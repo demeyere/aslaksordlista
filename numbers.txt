@@ -1,0 +1,43 @@
+
+Cardinal and ordinal numbers
+============================
+
+   0   noll         (nollte)
+   1   en/ett        första
+   2   två           andra
+   3   tre           tredje
+   4   fyra          fjärde
+   5   fem           femte
+   6   sex           sjätte
+   7   sju           sjunde
+   8   åtta          åttonde
+   9   nio           nionde
+  10   tio           tionde
+  11   elva          elfte
+  12   tolv          tolfte
+  13   tretton       trettonde
+  14   fjorton       fjortonde
+  15   femton        femtonde
+  16   sexton        sextonde
+  17   sjutton       sjuttonde
+  18   arton         artonde
+  19   nitton        nittonde
+  20   tjugo         tjugonde
+  30   trettio       trettionde
+  40   fyrtio        fyrtionde
+  50   femtio        trettionde
+  60   sextio        sextionde
+  70   sjutio        sjuttionde
+  80   åttio         åttionde
+  90   nittio        nittionde
+ 100  (ett) hundra  (ett) hundrade
+ 200   tvåhundra     tvåhundrade
+ 500   femhundra     femhundrade
+
+    1 000  (ett)tusen    (ett) tusende
+    2 000   tvåtusen      tvåtusende
+    5 000   femtusen      femtusende
+   10 000   tiotusen      tiotusende
+   20 000   tjugotusen    tjugotusende
+   50 000   femtiotusen   femtiotusende
+1 000 000   en miljon     miljonte
