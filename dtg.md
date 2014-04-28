@@ -1,4 +1,3 @@
-
 Dates and times
 ==============
 
