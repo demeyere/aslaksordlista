@@ -7,11 +7,11 @@ Hard and Soft vowels
                |  hard/hård  |  soft/mjuk  |
   vowel/vokal  |   a o u å   |  e i y ä ö  |
 ---------------+-------------+-------------|
-       c       |             |  central    |
-               |             |  cirka      |
-               |             |  cykla      |
-               |             |             |
-               |             |             |
+       c       |   café      |  central    |
+               |   cool      |  cirka      |
+               |   curry     |  cykla      |
+               |   --        |  --         |
+               |             |  --         |
 ---------------+-------------+-------------|
        g       |  gata       |  ge         |
                |  god        |  gissa      |
