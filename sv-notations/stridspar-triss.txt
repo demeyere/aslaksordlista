@@ -2,6 +2,7 @@ src: http://forum.soldf.com/topic/8803-stridspar-vs-triss/
 collected: 2015-01-29 08:47 
 keywords: stridspar stridstriss
 
+
 Stridspar vs Triss
 =================
 Started by GA KA , 2003-12-16, kl 22:02
@@ -9,6 +10,9 @@ Started by GA KA , 2003-12-16, kl 22:02
 - - -
 
 Vilka tycker ni är fördelar respektive nackdelar med triss systemet. Utan att ha testat systemet så verkar det finnas flera fördelar tex om någon blir skadad under tillbakadragning. Det som verkar vara mindre bra är om två personer vänder sig mot den tredje. Någon med praktisk erfarenhet av båda som vill utveckla för och nackdelar? 
+
+// nackdel = disadvantage
+// fördel = advantage
 
 - - -
 
