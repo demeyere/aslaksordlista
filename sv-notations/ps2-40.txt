@@ -1,13 +1,19 @@
 
 Det är farligt att vara polis!
+It is dangerous to be a police officer!
 ==============================
 
 > En kvinnlig polis blev i natt skadad när hon och en kollega grep en man utanför en radio- och tv- affär i centrala Lund då han försökte kasta en sten mot affärens skyltfönster. Mannen blev förd till polisstationen där han fick tillbringa natten. Polisen släppte honom efter förhör i dag på morgonen.
 
+.. damaged .. arrested .. shop window .. taken .. spend .. released .. questioning ..
+
 Åsa kan inte jobba för hon har brutit armen. En journalist kommer hem till henne några dagar efter olyckan för att göra en intervju. Han håller på att skriva en artikelserie om polisens arbete.
+
+är i färd med = hålla på
 
 JOURNALISTEN
 Har du mycket ont?
+Do you have a lot of pain?
 
 ÅSA
 Inte så väldigt nu längre, men de första nätterna sov jag dåligt.
@@ -30,11 +36,18 @@ Var du tvungen att vänta länge?
 ÅSA
 Nej då, ambulansen dom efter bara några minuter. När jag kom till sjukhuset blev jag röntgad och då såg de att min högra arm var bruten. Så jag blev gipsad, men jag behövde inte bli operarad. Nästa dag kunde jag åka hem.
 
+.. x-ray .. cast .. 
+
 JOURNALISTEN
 Hur känns det att inte kunna jobba nu på ett tag?
+How does it feel .. a while.
 
 ÅSA
 Jag kan ju inte göra så mycket eftersom jag är högerhänt så hag sitter mest här i fåtöljen och läser. Jag tittar också lite på tv, men jag blir uttråkad av alla såpoperor.
+
+// vänsterhänt
+// bokhandeln
+// gripa = to catch, to seize, to detain or arrest;
 
 JOURNALISTEN
 Jag trodde att poliser tittade på polisserierna på tv.
