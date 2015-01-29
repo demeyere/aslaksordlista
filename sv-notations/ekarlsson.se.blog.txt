@@ -15,7 +15,6 @@ The Aslak edited content of a blog that was published from 2007 to 2010 at <http
 
 These are a couple of useful phrases and words to use when giving or asking for directions.
 
-  
 - **"Ursäkta, vet du var banken ligger?"**  
 - **"Jadå, du går uppför den här gatan, sedan tar du vänster och då hittar du banken på höger sida av gatan."**  
 - **"Tack så mycket."**  
@@ -45,8 +44,6 @@ Bakåt - Backwards
 ###  Things to find in a kitchen
 
 Cutlery - Bestick
-Knife, knives - Kniv, -ar
-Spoon, spoons - Sked, -ar
 Fork, forks - Gaffel, gafflar
 Table, tables - Bord (same in plural)
 Napkin, napkins - Servett, -er
