@@ -1,0 +1,53 @@
+
+Öresundsbron                02:30
+=================
+
+Den 1 juli 2000 var en historisk dag för svenskar och danskar. Då invigde Danmarks drottning och Sveriges kung Öresundsbron, den fasta förbindelsen mellan Danmark och Sverige.
+
+The 1st of July 2000 was a historic day for swedes and danes. When the Danish Queen and Sweden's King inaugurated the Öresund bridge, the massive connection between Denmark and Sweden.
+
+Redan 130 år tidigare hade man börjat tala om en bro mellan länderna, och man kom med flera förslag genom åren. Det mest spektakulära förslaget (1953) var nog att torrlägga hela Öresund. 1991 beslöt Danmark och Sverige till slut att gemensamt bygga en bro för bilar och tåg.
+
+Already 130 years earlier they had began to talk about a bridge between the lands, and they came up with many proposals through the years. The most spectacular proposal in 1953 was probably to drain the whole Öresund. In 1991 Denmark and Sweden finally decided to jointly build a bridge for cars and trains.
+
+Många var emot en bro, främst av miljömässiga skäl, och menade bl.a. att bron skulle skada djurlivet i Öresund. Bromotståndarna demonstrerade och försökte på alla sätt stoppa bygget, men trots deras protester påbörjade man arbetet i slutet av 1995, efter fyra års diskussioner och miljöprövningar.
+
+Many were agains the bridge, primarily for environmental reasons, and were of the opinion that, among other things, that the bridge would damage the wildlife in Öresund. The people against the bridge demonstrated and tried all sorts of ways to stop the building, but despite there protests they began the work finally in 1995, after four years of discussions and environmental tests.
+
+// miljömässig;
+// på alla sätt;
+// i slutet av; 
+
+Det som man grävde upp från havsbotten lade man på en speciell plats för att skapa en ny ö, Pepparholm, som skulle bli en del av förbindelsen.
+
+That which they dug up from the bottom of the sea they put in a special place to create a new island, Pepparholm, which would become part of the connection.
+
+Tre veckor innan bron öppnades för biltrafik firade man genom att ha en stor fest som varade i flera dagar. Alla som vill kunde gå, springa, cykla och åka rullskridskor över bron. 79 837 personer tog chansen att springa över bron, 42 000 cyklade. Totalt tog sig 159 674 över den.
+
+Three weeks before the bridge opened for car traffic, they celebrated with a party that lasted several days. Anyone who wanted could walk, run, bike or rollerblade over the bridge. 79837 people took the chance to run over the bridge, 42000 biked. A total of 159674 went over the bridge.
+
+Förbindelsen, som i själva verket består av en bro, en ö och en tunnel, är totalt 16 km lång. Den är i två plan. På det övre kör bilarna och på det undre går tågen.
+
+The connection which in fact consisted of a bridge an island and a tunnel is a total of 16 clicks long. It has two decks. The top deck for car traffic and the lower deck for trains.
+
+Många förväntar sig att bron kommer att bidra till att öka kontakten mellan danskar och svenskar medan andra oroar sig över att smugglingen av narkotika och annat ökar.
+
+Many anticipate that the bridge will contribute to increased relations between danes and swedes, while others worry about the smuggling of narcotics and other things.
+
+DISKUTERA: Är det värt att satsa så mycket pengar på en bro när det redan finns ett väl fungerande färjesystem? Ökar öppna gränser automatiskt kontakten mellan olika länder och folk? Använd så många ord och uttryck som möjligt från texten!
+
+Is is worth investing so much money on a bridge when there is already a working ferry system? Does opening the borders automatically increase the contact between different lands and people?
+
+UPPGIFT: Ta reda på namnet på
+
+Find out the names of 
+
+-- världens längsta bro
+-- världens högsta byggnad
+-- världens äldsta byggnad
+-- Europas högsta torn
+-- världens längsta tunnel.
+
+// `torn` är en högst byggnad.
+emot = mot
+funkande
