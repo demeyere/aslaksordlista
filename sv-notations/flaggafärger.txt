@@ -1,70 +1,56 @@
+källa: http://sv.wikipedia.org/wiki/Sveriges_flagga
+avsikt: artikel i den aslakssvenska magasin
+revised: 2015-01-29 12:59
+translated-by: Aslak Arþursson
+
 
 Sveriges flagga
 =================
 
-Dimensions and color specifications <http://sv.wikipedia.org/wiki/Sveriges_flagga>
+Dimensioner och färgspecifikationer
+-----------------
+Enligt lagen (1982:269) om Sveriges flagga skall den svenska flaggan vara i proportionerna 10 i höjd till 16 i längd. De inre blå fälten närmast flaggstången skall vara i proportionerna 4 till 5 och de yttre fälten 4 till 9. Korsarmarnas bredd (tjocklek) skall vara hälften av de blå fältens höjd (Höjd: 4,2,4 Längd: 5,2,9).
 
-Under the Act ( 1982:269 ) on the Swedish flag, the Swedish flag be in the proportions 10 in height 16 in length. The inner blue fields nearest the flagpole shall be in the proportions of 4 to 5 and the outer lanes 4 to 9. Transept width (thickness) shall be half of the blue fields altitude (height: 4,2,4 Height: 5,2,9).
-Swedish flag colors are further defined in the Ordinance ( 1983:826 ) with guidelines for the color nuances of the Swedish flag.
-The colors are defined according to different color schemes as follows:
-NCS color system : Yellow: NCS 0580-Y10R, ​​Blue: NCS 4055-R95B.
-Pantone : Yellow: PMS 116 C (coated paper) and 109 U (uncoated paper), Blue: PMS 301 C or U (coated and uncoated).
-CMYK : Yellow: Ec 100% yellow, 20% magenta (EC. X200), Blue: Ec 10% yellow, 50% magenta, 100% cyan (EC. 15x0).
+Svenska flaggans färger definieras närmare i förordningen (1983:826) med riktlinjer för färgnyanserna i Sveriges flagga.
 
-sverige: yellow: #FEC920; blue: #006DA6;
+Färgerna definieras enligt olika färgsystemen på följande sätt:
 
-In the Act (1982:269) on the Flag of Sweden, the colours are specified to be "ljust mellanblå" (light middleblue) and "guldgult" (golden yellow). 
+Pantone:
+  Gult: PMS 116 C (bestruket papper) och 109 U (obestruket papper)
+  Blått: PMS 301 C eller U (bestruket och obestruket papper)
+CMYK:
+  Gult: Ec 100 % gul, 20 % magenta (Ec. X200)
+  Blått: Ec 10 % gul, 50 % magenta, 100 % cyan (Ec. 15X0)
 
-Förordning (1983:826) med riktlinjer för färgnyanserna i Sveriges flagga
-Den svenska flaggans färger, som enligt 3 § lagen (1982:269) om Sveriges flagga är ljust mellanblå på fälten och guldgul på korset, definieras på följande sätt enligt de beteckningar (Natural Colour System, NCS) som används i Svensk Standard SS 019100
 
-den blå färgen 4055-R95B
-den gula färgen 0580-Y10R.
+Dimensions and color specifications
+-----------------
+According to the law (1982:269) about Sweden's flag, the Swedish flag is in the proportions 10 in height and 16 in length. The inner blue fields nearest the flagpole shall be in the proportions 4 to 5 and the outer fields 4 to 9. The crossarm's width (thickness) shall be half of the blue fields height (height: 4,2,4 Length: 5,2,9).
 
-Toleranserna i NCS-enheter skall för svarthet, för kulörthet och för kulörton vara mindre än k5 enheter.
+The Swedish flags colors more closely defined in the ordinance (1983:826) with guidelines for the color shades in Sweden's flag.
 
-Enligt de beteckningar (Commission Internationale de l'Eclairage, CIE) som används i Svensk Standard SS 019101 skall flaggans färger ha följande kromaticitetskoordinater, x och y, och ljusreflektansfaktorer, Y 
- 
-den blå färgen	       x = 0,189
-      y = 0,192
-     Y = 8,3
-den gula färgen	     x = 0,472
-    y = 0,465
-   Y = 64,4."
+The colors are defined according to different color schemes in the following way:
 
-To quote from the site of the National Arcive, http://www.ra.se/ra/svflagga.html, this is:
+Pantone:
+  Yellow: PMS 116 C (coated paper) and 109 U (uncoated paper)
+  Blue:   PMS 301 C (coated paper) and 301 U (uncoated paper)
+CMYK:
+  Yellow: 20% magenta, 100% yellow               0|20|100|0
+  Blue:   100% cyan, 50% magenta, 10% yellow    100|50|10|0
 
-Blå: NCS 4055-R95B
-PMS 301 C eller U (bestruket och obestruket papper)
-EC 10 % gul, 50% magenta, 100% cyan (Ec.15X0)
+- - -
 
-Gul: NCS 0580-Y10R
-PMS 116 C (bestruket) och 109 U (obestruket papper)
-EC 100 % gul, 20% magenta (Ec.X200)
+webb:
+  gul: #FEC920;
+  blå: #006DA6;
 
-NCS = Natural Colour System.
-PMS = Pantone Matching System.
-EC = Eurocolor (4-färgstryck).
+- - -
 
-Elias Granqvist, 10 February 2001
+Förordning (1983:826) med riktlinjer för färgnyanserna i Sveriges flagga.
+-----------------
+Den svenska flaggans färger, som enligt 3§ lagen (1982:269) om Sveriges flagga är **ljust mellanblå** på fälten och **guldgul** på korset, definieras på följande sätt enligt de beteckningar (Natural Colour System, NCS) som används i Svensk Standard SS 019100
 
-Colours of the Flag in History
 
-Before the act of law on the Swedish flags, there were, as far as I know, acctually no regulations on what colours the flag should have. It should only be blue and yellow. In the 19th Century the colours were usually darker (the yellow could be almost orange) than they have been since 1906 (when the present colour shades were decided in the act of law), but before that (in the 17th Century) it is supposed that the Swedish flag had colour shades more like the present ones – and that was the reason those shades of the colours were decided to be the real ones.
-
-Actually, one can't say for sure what colour shades the flag usually had so long back. All colours on flags tend to fade or change over time.
-
-The proportions of the flag were also set in the act of 1906, and just as the colour shades they are the same in the present act, which is of 1982. 
-Elias Granqvist, 15 August 2000
-
-I feel Elias nicely summed up the situation: Prior to the 1906 flag law, there was no uniformity to the colours – they changed with taste. And this taste favoured a rather dark blue from the early 1800's until the end of the century. The introduction of the union badge in 1844, which included the very dark blue of Norway, probably only reinforced the position of the dark blue, or else the Swedish flag would have two shades of blue. The turning point in favour of lighter blue was the Stockholm exhibition of 1897. Before the early 1800's, the blue might have been a lighter shade, as far as I understand. Anyway, before 1906 we cannot really talk about "correct" or "official" shades, only say what was common or not common. 
-Jan Oskar Engene, 15 August 2000
-
-The blue colour for the flags was decided in the 19th century and swatches of the official colour were sealed and placed in the national archives. Unfortunately most dyes used in Europe at the time were imported from the east, mainly from Japan. While most of them were excellent, the blue was unstable and tended to fade. As the samples were sealed and not exposed much to the light, this process was slowed, but not stopped completely. The result was that the blue on the Swedish flag gradually became lighter and lighter until it was realised what had happened. At that time (as I recall sometime in the 1950's) the colour was reconsidered and this time spectrographically defined. Since then, the Swedish flag colour has been consistent.
-Michael Faul, 5 October 2001
-
-National Flag at the London 2012 Olympics
-
-The protocol manual for the London 2012 Olympics (Flags and Anthems Manual London 2012 [loc12]) provides recommendations for national flag designs. Each NOC was sent an image of the flag, including the PMS shades, for their approval by LOCOG. Once this was obtained, LOCOG produced a 60 x 90 cm version of the flag for further approval. So, while these specs may not be the official, government, version of each flag, they are certainly what the NOC believed the flag to be.
-
-For Sweden: PMS 301 blue, 109 yellow. The vertical flag is simply the horizontal version turned 90 degrees clockwise.
+Ordinance (1983:826) with guidelines for color shades in Sweden's flag.
+-----------------
+According to the law (1982:269) about Sweden's flag, the Swedish flag's colors are light medium blue on the field and golden yellow on the cross. [irrelevant information edited out. Somehow move just the names of the colors up into the previous sections.]
