@@ -35,12 +35,12 @@ Allt kändes rätt när de träffades första gången.
 Everything felt right with they met the first time.
 
 Allt __stämde__ direkt.
-Everything agreed immediately. ???
+Everything fell into place.
 
 // direkt (comparative direktare, superlative direktast) : direct, direct, frank, outspoken, immediate
 
 Åsa hade faktiskt hellre köpt en ny dammsugare.
-Å had actually willingly bought a new vacuum.
+Å actually would have rather bought a new vacuum.
 
 Hon hade __i själva verket__ hellre köpt en ny dammsugare.
 
@@ -59,6 +59,7 @@ Det finns __en mängd__ historier om honom
 There are a lot of stories about him.
 
 // bruksanvisning c : manual (booklet that instructs)
+// `en massa` or `en mängd` is more than `många`
 
 Bruksanvisningen var svår att förstå.
 The manual was difficult to understand.

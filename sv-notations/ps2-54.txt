@@ -1,4 +1,5 @@
-noter: behandlade till databas
+databas: 1
+revised: 2015-01-29 19:44 
 
 
 
@@ -31,7 +32,7 @@ Daniel: You know, he lived in an old cottage in the woods, outside of a little v
 
 Daniel: Nej, nej. När man beställde träskor, mätte han ens fötter först och skrev in storleken i sin lilla svarta bok med en tjock svart blyertspenna. Sedan gjorde han träbottnarna. De skulle torka i flera dagar, innan de putsades. När det var klart skulle lädret skäras till och formas, innan det spikades på träbottnen och sedan målades träet. Tänk vilket arbete! Visste du inte hur riktiga träskor görs? Nu måste jag hitta mina gamla slitna träskor!
 
-Daniel: No. When someone ordered wooden shoes, he measured his feet first and wrote in the size in his little black book with a thick black pencil. Then he made the (wooden bottoms). They had to dry for many days, before they were polished. When it was ready, the leather was cut out and shaped, before it was nailed to the wooden bottoms and then the wood was painted. Just think, what a job! You didn't know how real wooden shoes were made? Now I must find my old worn wooden shoes!
+Daniel: No. When someone ordered wooden shoes, he measured his feet first and wrote in the size in his little black book with a thick black pencil. Then he made the (wooden bottoms). They had to dry for many days, before they were polished. When it was ready, the leather was cut out and shaped, before it was nailed to the wooden bottoms and then the wood was painted. Just think, what a job! Didn't you know how real wooden shoes were made? Now I must find my old worn wooden shoes!
 
 
 Åsa: Du, jag har verkligen ingen aning om var de finns. Det var ju omodernt en tid, men nu har jag faktiskt sett att träskor börjar komma tillbaka, i olika modeller och material, förstås. Modet svänger hela tiden, men det märks att praktiska saker håller i längden. Praktiskt och praktiskt förresten, träskor är kanske inte särskilt praktiskt för en polis. Det hörs ju när man kommer klampande!
