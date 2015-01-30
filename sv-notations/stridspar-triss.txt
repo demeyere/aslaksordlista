@@ -1,7 +1,6 @@
 src: http://forum.soldf.com/topic/8803-stridspar-vs-triss/
 collected: 2015-01-29 08:47 
 keywords: stridspar stridstriss
-database: 0
 
 
 Stridspar vs Triss
