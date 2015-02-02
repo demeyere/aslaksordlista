@@ -12,7 +12,7 @@ Dimensioner och färgspecifikationer
 -----------------
 Enligt lagen (1982:269) om Sveriges flagga skall den svenska flaggan vara i proportionerna 10 i höjd till 16 i längd. De inre blå fälten närmast flaggstången skall vara i proportionerna 4 till 5 och de yttre fälten 4 till 9. Korsarmarnas bredd (tjocklek) skall vara hälften av de blå fältens höjd (Höjd: 4,2,4 Längd: 5,2,9).
 
-Svenska flaggans färger definieras närmare i förordningen (1983:826) med riktlinjer för färgnyanserna i Sveriges flagga.
+Svenska flaggans färger definieras närmare i förordningen (1983:826) med riktlinjer för färgnyanserna i Sveriges flagga. Den svenska flaggans färger är **ljust mellanblå** på fälten och **guldgul** på korset.
 
 Färgerna definieras enligt olika färgsystemen på följande sätt:
 
@@ -28,7 +28,7 @@ Dimensions and color specifications
 -----------------
 According to the law (1982:269) about Sweden's flag, the Swedish flag is in the proportions 10 in height and 16 in length. The inner blue fields nearest the flagpole shall be in the proportions 4 to 5 and the outer fields 4 to 9. The crossarm's width (thickness) shall be half of the blue fields height (height: 4,2,4 Length: 5,2,9).
 
-The Swedish flags colors more closely defined in the ordinance (1983:826) with guidelines for the color shades in Sweden's flag.
+The Swedish flags colors more closely defined in the ordinance (1983:826) with guidelines for the color shades in Sweden's flag. The Swedish flag's colors are light medium blue on the field and golden yellow on the cross.
 
 The colors are defined according to different color schemes in the following way:
 
@@ -36,22 +36,5 @@ Pantone:
   Yellow: PMS 116 C (coated paper) and 109 U (uncoated paper)
   Blue:   PMS 301 C (coated paper) and 301 U (uncoated paper)
 CMYK:
-  Yellow: 20% magenta, 100% yellow               0|20|100|0
-  Blue:   100% cyan, 50% magenta, 10% yellow    100|50|10|0
-
-- - -
-
-webb:
-  gul: #FEC920;
-  blå: #006DA6;
-
-- - -
-
-Förordning (1983:826) med riktlinjer för färgnyanserna i Sveriges flagga.
------------------
-Den svenska flaggans färger, som enligt 3§ lagen (1982:269) om Sveriges flagga är **ljust mellanblå** på fälten och **guldgul** på korset, definieras på följande sätt enligt de beteckningar (Natural Colour System, NCS) som används i Svensk Standard SS 019100
-
-
-Ordinance (1983:826) with guidelines for color shades in Sweden's flag.
------------------
-According to the law (1982:269) about Sweden's flag, the Swedish flag's colors are light medium blue on the field and golden yellow on the cross. [irrelevant information edited out. Somehow move just the names of the colors up into the previous sections.]
+  Yellow: 20% magenta, 100% yellow               0|20|100|0     #FEC920;
+  Blue:   100% cyan, 50% magenta, 10% yellow    100|50|10|0     #006DA6;
