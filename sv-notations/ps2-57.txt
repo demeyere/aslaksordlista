@@ -1,5 +1,5 @@
 revised: 2015-02-06 07:15 
-keywords:
+keywords: 57
 
 
 Det svenska hemmet
@@ -17,9 +17,9 @@ Carl Larssons favoritmotiv var hans familj som han målade i vardagliga och fest
 - - -
 Carl Larssons favorite motif was his family which he painted in everyday and festive situations in the home. His photography has been published worldwide. They have been reproduced in the thousands and distributed to almost all Swedish homes, where they have tried to copy the rural rustic and practical home, a blending of old and new furniture, often painted in bright colors.
 
-Karin Larssons textilier i ljusa färger och barnkläder, designade för lek och lättskötthet, var någonting helt nytt för sin tid och de är fortfarande populära.
+Karin Larssons textilier i ljusa färger och barnkläder, designade (pronounced design-a-day) för lek och lättskötthet, var någonting helt nytt för sin tid och de är fortfarande populära.
 - - -
-Karin Larssons textiles in light colors and children's clothes, designed for play and easy maintenance, were something entirely new for their time and are still popular.
+Karin Larssons textiles in light colors and children's clothes, designed for play and easy (care) maintenance, were something entirely new for their time and are still popular. // ease of use could be lättanvänt
 
 Carl Malmsten (1888-1972), en legen inom svensk formgivning, hävdade att möbler ska vara vackra, bekväma och funktionella. Han var inspirerad av svensk hemslöjd, d.v.s. de praktiska föremål som män och kvinnor i århundraden tillverkat i trä, metall och textil för användning i det vardagliga livet. Mest känd har han nog blivit som inredare av offentliga miljöer, t.ex. Stockholms Stadshus och Ulriksdals slott, och för industriell möbeltillverkning. Hans möblerade hem har ofta visats på utställningar.
 - - -
@@ -27,7 +27,7 @@ Carl Malmsten, a legend among swedish design, upheld that furniture should be be
 
 Carl Malmstens möbler förknippas med tidlöst vacker, bekväm och praktisk elegans. Oavsett vilka det svenska hemmets idégivare har varit, är det möbelvaruhuset Ikea som kan sägas ha möblerat de svenska hemmen. Ikeas grundare, Ingvar Kamprads affärsidé om att alla skulle ha råd med vackra, bekväma möbler till ett rimligt pris har slagit igenom helt i Sverige i dag. Ikeas formgivare har ofta inspirerats av svensk tradition och tidigare formgivare som Carl och Karin Larsson och Carl Malmsten.
 - - -
-Carl Malmsten's furniture is associated with timeless beauty, comfort and practical elegance. Regardless of the of the swedish home designers that have been (discussed here), it is the furniture store Ikea that can be said to have furnished the swedish home. Ikeas founder, Ingvar Kamprad's business ideas about how all should be able to afford beautiful, comfortable furniture at a reasonable price has hit throughout the whole of Sweden today. Ikea's designers have often been inspired by swedish tradition and earlier designers like Carl and Karin Larsson and Carl Malmsten.
+Carl Malmsten's furniture is associated with timeless beauty, comfort and practical elegance. Regardless of which of the swedish home designers that have been (discussed here), it is the furniture store Ikea that can be said to have furnished the swedish home. Ikeas founder, Ingvar Kamprad's business ideas about how all should be able to afford beautiful, comfortable furniture at a reasonable price has hit throughout the whole of Sweden today. Ikea's designers have often been inspired by swedish tradition and earlier designers like Carl and Karin Larsson and Carl Malmsten.
 
 Typiskt för Ikea-möbler är att de har namn, t.ex. soffan Göteborg och bokhyllan Billy.
 - - -
@@ -42,3 +42,9 @@ DISKUTERA: Hur vill du möblera din bostad? Vilken möbelstil passar dig bäst? 
 LÄSTIPS: Sundborn eller Dagar av ljus av Phillipe Delerm
 
 RESTIPS: Besök Carl Larssons hem i Sundborn i Dalarna.
+
+- - -
+
+ha råd med = have means to
+exempel
+uppslag = a spread in a magazine, an entry, and idea or plan;
