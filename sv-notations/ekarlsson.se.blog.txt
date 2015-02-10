@@ -1,11 +1,13 @@
 process: being absorbed into the aslakssvenska databas
-revised: 2015-01-27 08:09 
+revised: 2015-02-09 09:55 
 
 
 [Swedish, basically]
 ====================
 
 The Aslak edited content of a blog that was published from 2007 to 2010 at <http://www.ekarlsson.se/swedish/> by Erik Karlsson from Umeå, Sweden.
+
+[ ] Add Erik Karlsson to references is Aslakssvenska.
 
 - - -
 
@@ -15,16 +17,16 @@ The Aslak edited content of a blog that was published from 2007 to 2010 at <http
 
 These are a couple of useful phrases and words to use when giving or asking for directions.
 
-- **"Ursäkta, vet du var banken ligger?"**  
-- **"Jadå, du går uppför den här gatan, sedan tar du vänster och då hittar du banken på höger sida av gatan."**  
-- **"Tack så mycket."**  
+- "Ursäkta, vet du var banken ligger?"  
+- "Jadå, du går uppför den här gatan, sedan tar du vänster och då hittar du banken på höger sida av gatan."  
+- "Tack så mycket."  
 - _"Excuse me, do you know the way to the bank?"_  
 - _Certainly, just walk up this road, then take left and you'll find the bank on the right side of the street."_  
 - _Thanks a lot."_  
   
-- **"Hej, hur hittar jag till biografen här i stan?"**  
-- **"Först går du nedför den här gatan. När du ser den stora blå skylten som säger 'Nu har du gått för långt!' så svänger du in till vänster strax innan. Bion ligger rakt fram på Astralgatan 14, höger sida."**  
-- **"Tackar."**  
+- "Hej, hur hittar jag till biografen här i stan?"  
+- "Först går du nedför den här gatan. När du ser den stora blå skylten som säger 'Nu har du gått för långt!' så svänger du in till vänster strax innan. Bion ligger rakt fram på Astralgatan 14, höger sida."  
+- "Tackar."  
 - _"Hello. Can you tell me how to find the cinema?_  
 - _"First, go down this road. When you see the big blue sign saying: 'Now you've gone too far!', turn left just before it. The cinema is located straight ahead on Astralgatan 14, on your right."_  
 - _"Thanks a bunch."_  
@@ -57,13 +59,13 @@ At the moment I'm reading a book called "Världens dåligaste språk" (World's b
   
 A sentence could look like this:
 
-**Olof var den starkaste pojken i klassen**  _Olof was the strongest boy in the class_
+Olof var den starkaste pojken i klassen  _Olof was the strongest boy in the class_
 
 (it is written starkaste with an 'e' added, because it's a description of the boy)
 
 But, take a look at this:
 
-**dålig, sämre, sämst**   bad, badder, baddest
+dålig, sämre, sämst   bad, badder, baddest
 
 All of a sudden, we've got two other words instead of expected "dåligare, dåligast". I don't know why this was decided, but it's just the way it is.
 
@@ -104,7 +106,7 @@ Eighteenth - Artonde
 Nineteenth - Nittonde
 Twentieth - Tjugonde
 
-  **And now some times of day:**  
+  And now some times of day:  
 
 Morning - Morgon, Förmiddag (said about the time before 12)
 Midday - Mitt på dagen
@@ -114,7 +116,7 @@ Night - Natt
 
 
 
-**Clock:**  
+Clock:  
 
 Twelve o'clock - Klockan tolv   (The movie starts at twelve o'clock - _Filmen börjar klockan tolv_)
 Five minutes past twelve - Fem minuter över tolv
@@ -132,14 +134,12 @@ One o'clock - Klockan ett
 
 
   
-**Holidays and events:**  
+Holidays and events:  
 Christmas Eve & Day - Julafton, Juldagen
 Midsummer's Eve - Midsommarafton
 Easter - Påsk
 Halloween - Allhelgonadagen
 First day of May - Första Maj
-  
-[MP3](http://www.ekarlsson.se/swedish/holidays.mp3)
 
 
 
@@ -158,47 +158,19 @@ Musician - Musiker
   
 
 
-## Wednesday, August 8, 2007
-
-###  Weekdays and months
-
-Monday: måndag
-Tuesday: tisdag
-Wednesday: onsdag
-Thursday: torsdag
-Friday: fredag
-Saturday: lördag
-Sunday: söndag
-
--------  
-January: januari
-February: februari
-March: mars
-April: april
-May: maj
-June: juni
-July: juli
-August: augusti
-September: september
-October: oktober
-November: november
-December: december
-
-
-
 ## Wednesday, September 12, 2007
 
 ###  Var & Vart
 
-**Var** and **vart** are used in questions. It means _where_, but in different ways. Say you wanted to know where you and your friends were going (a location).
+Var and vart are used in questions. It means _where_, but in different ways. Say you wanted to know where you and your friends were going (a location).
 
-__Vart_ ska vi gå nu?_ **Where shall we go now?**  
+__Vart_ ska vi gå nu?_ Where shall we go now?  
 
 In this case you should use "vart" because theres' _activity_ involved in the question. You're asking about where you're going; wherever it is, you're *going* to get there.
 
 "Var" is used in questions that asks where a certain thing is located:
   
-__Var_ är min strumpa?_ **Where is my sock?**  
+__Var_ är min strumpa?_ Where is my sock?  
 
 Therefore, "Var" is used in questions about something _static_, not moving from its place.
 
@@ -210,13 +182,13 @@ Most swedes are lazy with these two words, they only use "Vart" in both cases wh
 
 ###  Att & Som
 
-Roughly translated, both _att_ and _som_ means **that**.
+Roughly translated, both _att_ and _som_ means `that`.
 
 But they are different in one way,
   
 _Att_ is used in questions or statements that refers to possible or definite outcomes. "Is this going to happen?", "Will he make it?", "This is what we'll do." and so on.
 
-_Tror du _att_ han klarar av det?_ **Do you think that he will make it?**  
+_Tror du _att_ han klarar av det?_ Do you think that he will make it?  
   
 In parts:
 
@@ -227,7 +199,7 @@ _Som_ on the other hand is a word to use when you're talking or asking about a s
 
 I hope you understand what I mean, because it is very difficult for me to explain.
 
-_Är det den där skivan _som_ du så gärna ville ha?_ **Is that the album that you wanted so badly?**  
+_Är det den där skivan _som_ du så gärna ville ha?_ Is that the album that you wanted so badly?  
   
 In parts:
 
@@ -236,10 +208,10 @@ skivan - album
 som du - that you
 så gärna ville ha - wanted so badly
   
-But the words __kommer att__ together means **will** or **going to, gonna**:
+But the words __kommer att__ together means will or going to, gonna:
 
-_Jag kommer att köpa en bil idag_ **I will buy a car today** or **I'm going to buy a car today**  
-  
+_Jag kommer att köpa en bil idag_ I will buy a car today or I'm going to buy a car today  
+
 
 
 ## Saturday, October 20, 2007
@@ -291,7 +263,6 @@ Upload (noun) - Uppladdning
 Download (verb)- Ladda ned, ladda hem
 Download (noun) - Nedladdning
 Harddrive - Hårddisk
-Desktop wallpaper - Skrivbordsbakgrund
 memory - minne
 
 
@@ -316,17 +287,15 @@ Var finns/Var är...? - Where's/Where can I find...?
 
 ###  Some Swedish proverbs/sayings
 
-Alright, I'm just translating these directly into English since I have no idea of the English equivalent for them.
-
-Bättre fly än illa fäkta   It's better to run, than to stay and fight poorly
-Alla goda ting är tre  Good things comes in three(s)
-Borta bra men hemma bäst  Away is good, but home is best (Home sweet home)
-Blod är tjockare än vatten   Blood is thicker than water
-Den som viskar han ljuger   He who whispers is lying
-En olycka kommer sällan ensam   An accident never comes alone
-Många bäckar små blir en stor å   Many small brooks becomes a big stream
-Gammal kärlek rostar aldrig   Old love never rusts
-Låt maten tysta munnen   Let the food quiet the mouth
+Bättre fly än illa fäkta.
+Alla goda ting är tre.
+Borta bra men hemma bäst.
+Blod är tjockare än vatten.
+Den som viskar han ljuger.
+En olycka kommer sällan ensam.
+Många bäckar små blir en stor å.
+Gammal kärlek rostar aldrig.
+Låt maten tysta munnen.
 
 
 
@@ -358,46 +327,42 @@ Possessive pronouns (Possessiva pronomen)
 
 The words "sin", "sitt" and "sina" are reflexive possessive pronouns in Swedish. According to Wikipedia, "A reflexive pronoun is a pronoun that is preceded by the noun or pronoun to which it refers (its antecedent) within the same clause".
 
-**Sin** is used when defining singular objects, like this:  
-**Han/Hon flyttade sin stol** - He/She moved his/her chair  
+Sin is used when defining singular objects, like this:  
+Han/Hon flyttade sin stol - He/She moved his/her chair  
   
-As you can see, it doesn't differ between genders. But here's the tricky part. Remember **en**, **ett**, **den** and **det**? The reflexive possessive pronoun changes because of the noun being used in the sentence (in this case, **stol** becomes **stolen** when defined, since it's "**en stol** - a chair" and "**stolen** - the chair").
+As you can see, it doesn't differ between genders. But here's the tricky part. Remember en, ett, den and det? The reflexive possessive pronoun changes because of the noun being used in the sentence (in this case, stol becomes stolen when defined, since it's "en stol - a chair" and "stolen - the chair").
 
-**Sitt** is also used with singular objects, like this:  
+Sitt is also used with singular objects, like this:  
 
-**Hon skadade sitt knä** - She hurt her knee  
+Hon skadade sitt knä - She hurt her knee  
   
-As with **sin**, **sitt** doesn't differ between genders either. And the only reason for using **sitt** in this example is because **knä** becomes **knäet** when defined (as the Swedish language doesn't have a word for "the", I hope you know that by now :)
+As with sin, sitt doesn't differ between genders either. And the only reason for using sitt in this example is because knä becomes knäet when defined (as the Swedish language doesn't have a word for "the", I hope you know that by now :)
 
-**Sina** is used with two objects or more, plural. It doesn't change form at all.  
+Sina is used with two objects or more, plural. It doesn't change form at all.  
 
-**Han skrev ett brev till sina föräldrar** - He wrote a letter to his parents  
-**Mamman kramade sina barn** - The mother hugged her children  
-**Katten slickade sina tassar** - The cat was licking its paws
+Han skrev ett brev till sina föräldrar - He wrote a letter to his parents  
+Mamman kramade sina barn - The mother hugged her children  
+Katten slickade sina tassar - The cat was licking its paws
 
+- - -
 
-
-###  At placement in Umeå
-
-Yesterday I prepared 20 English words for my 7th grade students (they're around 13 years old). These are the words they will be tested on next Thursday:
-
-skeleton - **skelett**
-hide-and-seek - **kurragömma**
-scary - **skrämmande**
-basement - **källare**
-rotten - **rutten
-janitor - **vaktmästare
-cleaning - **städning
-electricity - **elektricitet
-a couple of - **några
-doorknob - **dörrhandtag
-pull - **rycka, dra
-hinge - **gångjärn
-cloud - **moln
-dust - **damm
-(to) scream - **skrika
-slumped - **hopsjunken
-finally - **till slut
+skeleton - skelett
+hide-and-seek - kurragömma
+scary - skrämmande
+basement - källare
+rotten - rutten
+janitor - vaktmästare
+cleaning - städning
+electricity - elektricitet
+a couple of - några
+doorknob - dörrhandtag
+pull - rycka, dra
+hinge - gångjärn
+cloud - moln
+dust - damm
+(to) scream - skrika
+slumped - hopsjunken
+finally - till slut
 identify - identifiera
 champion - mästare
 
@@ -406,18 +371,18 @@ champion - mästare
 ###  Verbs
 
 
-Erase - **Radera**
-Lie - **Ljuga**
-Place - **Placera**
-Sing - **Sjunga**
-Throw - **Kasta**
-Water - **Vattna**
-Admire - **Beundra**
-Construct - **Konstruera**
-Criticize - **Kritisera**
-Disturb - **Störa**
-Release - **Frigöra, Släppa**
-Reflect - **Reflektera**
+Erase - Radera
+Lie - Ljuga
+Place - Placera
+Sing - Sjunga
+Throw - Kasta
+Water - Vattna
+Admire - Beundra
+Construct - Konstruera
+Criticize - Kritisera
+Disturb - Störa
+Release - Frigöra, Släppa
+Reflect - Reflektera
 
 
 
