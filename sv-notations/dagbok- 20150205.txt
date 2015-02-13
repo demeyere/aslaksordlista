@@ -1,4 +1,4 @@
-revised: 2015-02-09 13:54 
+revised: 2015-02-11 13:58 
 keywords: dagbok
 
 - - -
@@ -99,7 +99,7 @@ comments
 
 Another swedish idiom which would be interesting to see if it has any similar counterparts in other languages is:
 
-    Skadeglädjen är den enda sanna glädjen // The joy derived from the misfortune of others is the only true joy.
+Skadeglädjen är den enda sanna glädjen // The joy derived from the misfortune of others is the only true joy.
 
 There doesn’t seem to be a specific english translation for the word “skadeglädje” except for using the german “schadenfreude”, some dictionaries suggest “malicious pleasure”.
 
