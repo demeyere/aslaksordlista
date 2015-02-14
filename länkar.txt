@@ -2,6 +2,9 @@
 Länkar
 ==============
 
+http://en.wiktionary.org/wiki/verksam
+http://en.wiktionary.org/wiki/motsvara#Swedish
+http://sv.wikisource.org/wiki/I_Jesu_namn_till_bords_vi_g%C3%A5
 http://en.wikipedia.org/wiki/Swedish_grammar // this is an awesome overview that should be read occationally
 
 
@@ -185,4 +188,3 @@ http://www.forsvarsmakten.se/sv/Jobba-har/Bli-soldatsjoman/Yrken/Infanteri2/Span
 site:forsvarsmakten.se filetype:pdf infanteri
 fältövning: field training exercise? // http://www.ne.se/fältövning  
 http://sv.wikipedia.org/wiki/F%C3%B6rband_(milit%C3%A4r) stridspar : omgång : grupp : trupp : ...
-
