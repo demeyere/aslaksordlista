@@ -1,5 +1,6 @@
 process: being absorbed into the aslakssvenska databas
 revised: 2015-02-09 09:55 
+keywords: 
 
 
 [Swedish, basically]
@@ -7,38 +8,28 @@ revised: 2015-02-09 09:55
 
 The Aslak edited content of a blog that was published from 2007 to 2010 at <http://www.ekarlsson.se/swedish/> by Erik Karlsson from Umeå, Sweden.
 
-[ ] Add Erik Karlsson to references is Aslakssvenska.
-
-- - -
-
 ## Friday, July 13, 2007
 
 ###  Directions
 
-These are a couple of useful phrases and words to use when giving or asking for directions.
-
-- "Ursäkta, vet du var banken ligger?"  
-- "Jadå, du går uppför den här gatan, sedan tar du vänster och då hittar du banken på höger sida av gatan."  
-- "Tack så mycket."  
-- _"Excuse me, do you know the way to the bank?"_  
-- _Certainly, just walk up this road, then take left and you'll find the bank on the right side of the street."_  
-- _Thanks a lot."_  
+"Ursäkta, vet du var banken ligger?"  
+"Jadå, du går uppför den här gatan, sedan tar du vänster och då hittar du banken på höger sida av gatan."  
+"Tack så mycket."  
+_"Excuse me, do you know the way to the bank?"_  
+_Certainly, just walk up this road, then take left and you'll find the bank on the right side of the street."_  
+_Thanks a lot."_  
   
-- "Hej, hur hittar jag till biografen här i stan?"  
-- "Först går du nedför den här gatan. När du ser den stora blå skylten som säger 'Nu har du gått för långt!' så svänger du in till vänster strax innan. Bion ligger rakt fram på Astralgatan 14, höger sida."  
-- "Tackar."  
-- _"Hello. Can you tell me how to find the cinema?_  
-- _"First, go down this road. When you see the big blue sign saying: 'Now you've gone too far!', turn left just before it. The cinema is located straight ahead on Astralgatan 14, on your right."_  
-- _"Thanks a bunch."_  
-
+"Hej, hur hittar jag till biografen här i stan?"  
+"Först går du nedför den här gatan. När du ser den stora blå skylten som säger 'Nu har du gått för långt!' så svänger du in till vänster strax innan. Bion ligger rakt fram på Astralgatan 14, höger sida."  
+"Tackar."  
+_"Hello. Can you tell me how to find the cinema?_  
+_"First, go down this road. When you see the big blue sign saying: 'Now you've gone too far!', turn left just before it. The cinema is located straight ahead on Astralgatan 14, on your right."_  
+_"Thanks a bunch."_  
 
 Uppför or Upp - Upwards, Up
 Nedför or Nedåt or Ner - Downwards, Down
-Vänster - Left
-Höger - Right
 Framåt or Rakt fram - Straight ahead
 Bakåt - Backwards
-
 
 
 ## Thursday, August 30, 2007
@@ -47,10 +38,8 @@ Bakåt - Backwards
 
 Cutlery - Bestick
 Fork, forks - Gaffel, gafflar
-Table, tables - Bord (same in plural)
 Napkin, napkins - Servett, -er
 Sink - Diskho
-
 
 
 ###  "Dåligast" and some verbs
@@ -78,12 +67,9 @@ Sending a fax message - faxa
 Having lunch - luncha
 
 
-
 ## Tuesday, August 21, 2007
 
 ###  Dates and different times of day
-
-First these:
 
 First - Första
 Second - Andra
@@ -106,24 +92,15 @@ Eighteenth - Artonde
 Nineteenth - Nittonde
 Twentieth - Tjugonde
 
-  And now some times of day:  
-
-Morning - Morgon, Förmiddag (said about the time before 12)
-Midday - Mitt på dagen
-Afternoon - Eftermiddag
-Evening - Kväll
-Night - Natt
-
-
 
 Clock:  
 
-Twelve o'clock - Klockan tolv   (The movie starts at twelve o'clock - _Filmen börjar klockan tolv_)
+Twelve o'clock - Klockan tolv
 Five minutes past twelve - Fem minuter över tolv
 Ten past twelve - Tio över tolv
 Quarter past twelve - Kvart över tolv
 Twenty past twelve - Tjugo över tolv
-Twentyfive past twelve - Fem i halv ett
+Twenty five past twelve - Fem i halv ett
 Twelve thirty (Half twelve) - Halv ett
 Twenty five to one - Fem över halv ett
 Twenty to one - Tjugo i ett
@@ -133,11 +110,9 @@ Five to one - Fem i ett
 One o'clock - Klockan ett
 
 
-  
 Holidays and events:  
 Christmas Eve & Day - Julafton, Juldagen
 Midsummer's Eve - Midsommarafton
-Easter - Påsk
 Halloween - Allhelgonadagen
 First day of May - Första Maj
 
@@ -155,7 +130,6 @@ Salesman - Försäljare, or just säljare
 Pilot - Pilot
 Electrician - Elektriker
 Musician - Musiker
-  
 
 
 ## Wednesday, September 12, 2007
@@ -238,20 +212,14 @@ _Ärlig_ - Honest
 
 Think of the vowel sound in words like "bird" and "girl". That's the closest sound I can think of that resembles 'ö'. By itself, "ö" means "island".
   
-_öva_ - practice
-_försöka & pröva_ - try
 _ödslig_ - deserted, desolate
 _frö_ - seed
-
 
 
 ## Wednesday, December 5, 2007
 
 ###  Words related to computers & Internet
 
-Game - Spel
-Computer - Dator
-Keyboard - Tangentbord
 Motherboard - Moderkort
 Mouse - Mus
 Program - Program
@@ -263,15 +231,11 @@ Upload (noun) - Uppladdning
 Download (verb)- Ladda ned, ladda hem
 Download (noun) - Nedladdning
 Harddrive - Hårddisk
-memory - minne
-
 
 
 ## Monday, January 28, 2008
 
 ###  Shopping phrases
-
-I thought of a couple of useful phrases to use when you're out shopping in Sweden. Be it clothes, appliances or food, these will impress your cashier/retailer/dealer :)
 
 Vad kostar den här? - How much for this one?
 Finns den i andra färger? - Does it come in other colours?
@@ -280,7 +244,6 @@ Jag letar efter... - I'm looking for...
 Var är herr-avdelningen? - Where's the mens' section?
 Var är dam-avdelningen? - Where's the ladies' section?
 Var finns/Var är...? - Where's/Where can I find...?
-
 
 
 ## Friday, February 1, 2008
@@ -298,7 +261,6 @@ Gammal kärlek rostar aldrig.
 Låt maten tysta munnen.
 
 
-
 ## Monday, March 17, 2008
 
 ###  verbs in present, imperfect and past tense
@@ -306,42 +268,26 @@ Låt maten tysta munnen.
 riva, rev, rivit - tear, tore, torn  
 berätta; säga till, berättade; sade till, berättat; sagt till - tell, told, told  
 tänka; tycka; tro, tänkte; tyckte; trodde, tänkt; tyckt; trott - think, thought, thought  
-kasta, kastade, kastat - throw, threw, thrown
-
 
 
 ## Friday, March 14, 2008
 
-###  Possessive pronouns in Swedish 1
-
-Possessive pronouns (Possessiva pronomen)
-  
-1. my - min, mitt, mina
-2. your - din, ditt, dina
-3. his - hans; sin, sitt, sina
-4. her - hennes; sin, sitt, sina
-5. its - dess; sin, sitt, sina
-6. our - vår, vårt, våra
-7. your - er, ert, era
-8. their - deras; sin, sitt, sina
+###  Possessive pronouns in Swedish
 
 The words "sin", "sitt" and "sina" are reflexive possessive pronouns in Swedish. According to Wikipedia, "A reflexive pronoun is a pronoun that is preceded by the noun or pronoun to which it refers (its antecedent) within the same clause".
 
-Sin is used when defining singular objects, like this:  
-Han/Hon flyttade sin stol - He/She moved his/her chair  
   
 As you can see, it doesn't differ between genders. But here's the tricky part. Remember en, ett, den and det? The reflexive possessive pronoun changes because of the noun being used in the sentence (in this case, stol becomes stolen when defined, since it's "en stol - a chair" and "stolen - the chair").
 
-Sitt is also used with singular objects, like this:  
+Sitt is also used with singular objects, like this:
 
-Hon skadade sitt knä - She hurt her knee  
+Hon skadade sitt knä - She hurt her knee
   
 As with sin, sitt doesn't differ between genders either. And the only reason for using sitt in this example is because knä becomes knäet when defined (as the Swedish language doesn't have a word for "the", I hope you know that by now :)
 
 Sina is used with two objects or more, plural. It doesn't change form at all.  
 
-Han skrev ett brev till sina föräldrar - He wrote a letter to his parents  
-Mamman kramade sina barn - The mother hugged her children  
+Han skrev ett brev till sina föräldrar - He wrote a letter to his parents
 Katten slickade sina tassar - The cat was licking its paws
 
 - - -
@@ -354,29 +300,17 @@ rotten - rutten
 janitor - vaktmästare
 cleaning - städning
 electricity - elektricitet
-a couple of - några
 doorknob - dörrhandtag
 pull - rycka, dra
 hinge - gångjärn
-cloud - moln
-dust - damm
-(to) scream - skrika
 slumped - hopsjunken
-finally - till slut
 identify - identifiera
 champion - mästare
 
-
-
 ###  Verbs
 
-
-Erase - Radera
-Lie - Ljuga
 Place - Placera
 Sing - Sjunga
-Throw - Kasta
-Water - Vattna
 Admire - Beundra
 Construct - Konstruera
 Criticize - Kritisera
@@ -384,14 +318,8 @@ Disturb - Störa
 Release - Frigöra, Släppa
 Reflect - Reflektera
 
-
-
-## Wednesday, March 11, 2009
-
 ###  English words that mean something else in Swedish
 
-Gift - (Married or Poisonous)
-Kiss - Wee
 Master - Masts (plural)
 Spark - Kick
 Talk - Talcum (powder)
