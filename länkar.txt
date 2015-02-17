@@ -7,6 +7,8 @@ http://en.wiktionary.org/wiki/motsvara#Swedish
 http://sv.wikisource.org/wiki/I_Jesu_namn_till_bords_vi_g%C3%A5
 http://en.wikipedia.org/wiki/Swedish_grammar // this is an awesome overview that should be read occationally
 
+http://dansbandskanalen.se/
+
 
 unprocessed länkar
 -----------
@@ -14,7 +16,6 @@ Dagens Nyheter <http://www.dn.se>
 Guide to pronunciation <http://www2.hhs.se/isa/swedish/chap9.htm#sjsound>
 http://americanswedish.pastperfect-online.com/30926cgi/mweb.exe?request=record;id=D238CDDE-F00C-4D87-B461-403997330689;type=201
 http://arstechnica.com/science/2013/08/scientists-make-impossible-material-dubbed-upsalite-by-accident/
-http://astro.elle.se/blodmane/
 http://blogg.djungeltrumman.se/kulturarbete/
 http://blogg.forsvarsmakten.se/
 http://blogg.forsvarsmakten.se/enannandelavforsvarsmakten/2011/12/08/att-ga-ner-i-en-flod/
@@ -30,7 +31,6 @@ http://blogs.transparent.com/swedish/fun-with-swedish-compound-words-no-really/
 http://blogs.transparent.com/swedish/page/278/
 http://blogs.transparent.com/swedish/useful-words-jobbig/#more-36
 http://blogs.transparent.com/swedish/expressing-coolness-in-swedish/
-http://dansbandskanalen.se/
 http://eldoga.wordpress.com/2008/07/30/morgonvandring-i-barens-tid/ // vandring
 http://en.bab.la/dictionary/swedish-english/strid
 http://en.wikibooks.org/wiki/Swedish/List_of_strong_and_irregular_verbs
