@@ -165,15 +165,20 @@ What would you do/say?
 1. om du hittade 500 kronor/100 000 kronor på gatan?
 2. om du såg några personer slå en liggande person på gatan?
 3. om du visste att din bästa väns partner var otrogen?
+   unfaithful
 4. om din bästa väns partner ville vara tillsammans med dig?
 5. om du fick möjlighet att köpa en mycket fin cykel billigt men du misstänkte att den var stulen?
 6. om någon i din bekantskapskrets drack för mycket alkohol?
-7. om din bästa vän hade en ny fri syr som du tyckte var förfärlig?
+                  (known*group)
+7. om din bästa vän hade en ny frisyr som du tyckte var förfärlig?
+   (hair)(terrible)
 8. om du upptäckte att 200 000 kronor hade blivit insatta av misstag på ditt bankkonto?
 9. om en god vän luktade mycket svett?
 10. om du fick 100 kronor för mycket tillbaka i affären?
 11. om du köpte en vara på avbetalning men aldrig fick någon räkning?
+    (on credit?) (invoice)
 12. om du såg en person ligga på gatan och han verkade berusad?
+    (berusad)
 13. om du i en affär såg att en person tog en tröja och lade ner den i sin väska?
 14. om en person på en fest drack mycket och sedan tänkte köra bil hem?
 15. om du på en loppmarknad fick chansen att köpa en silverkanna för 15 kronor därför att säljaren trodde att den var gjord av en värdelös metall?
