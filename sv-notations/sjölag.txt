@@ -1,0 +1,167 @@
+källen: http://www.riksdagen.se/sv/Dokument-Lagar/Lagar/Svenskforfattningssamling/Sjolag-19941009_sfs-1994-1009/
+revised: 2015-02-23 08:08 
+keywords: logg
+
+
+[this is not the entire page]
+
+
+18 kap. Om dagböcker, bevarande av bevis, sjöförklaring, annan undersökning av sjöolyckor och besiktning
+
+Dagböcker // Day books (log)
+
+1 § På ett handelsfartyg med en bruttodräktighet av minst 20 ska, när fartyget hålls i drift, en skeppsdagbok föras och, om fartyget är maskindrivet eller försett med hjälpmaskin, en maskindagbok. Detta gäller också i fråga om fiskefartyg med en bruttodräktighet av minst 80.
+
+1 § On a merchant ship with a gross tonnage of at least 20, when the ship is in operation, a ship's log is kept, if the ship is propelled or equipped with machine, a machine log. This is also true in the case of vessels with a gross tonnage on 80.
+
+
+Regeringen eller, efter regeringens bemyndigande, Transportstyrelsen får i enskilda fall medge undantag från skyldigheten att föra dagbok och meddela föreskrifter om avgifter för prövning av en ansökan om undantag.
+
+The Government or, if authorized by the Government, The Transportation Board may grant exemption from the obligation to keep a log and issue regulations concerning fees for the examination of an application for exemption.
+
+Särskilda bestämmelser gäller om annan dagbok på vissa fartyg. Lag (2010:1551).
+
+2 § Dagbok upprättas enligt formulär som fastställs av Transportstyrelsen. Med beaktande av fartygens art och användning kan olika formulär fastställas.
+
+Anteckningarna i dagboken skall göras i tidsföljd, i hamn för varje dygn och till sjöss för varje vakt. Vad som förekommer under en vakt får antecknas i en kladd. En sådan anteckning skall föras in i dagboken så snart det kan ske.
+
+Dagbok och kladd till dagbok skall föras med ordning och tydlighet. Anteckningar får inte utplånas, strykas över eller på något annat sätt göras oläsliga. Om en felskrivning sker skall rättelse göras genom en särskild anteckning. Lag (2008:1311).
+
+3 § Ett fartygs dagböcker förs under befälhavarens tillsyn.
+
+Om skeppsdagboken inte förs av befälhavaren skall den föras av den främste av styrmännen. I skeppsdagboken skall noggranna uppgifter föras in om vad som inträffar under resan om kännedom om detta kan vara till nytta för redare, lastägare, försäkringsgivare eller någon annan vars rätt kan vara beroende av resans utgång.
+
+Maskindagboken förs av maskinchefen eller, om denne så bestämmer, av den främste av det övriga maskinbefälet. I maskindagboken skall uppges förrådet vid fartygets avgång från hamn av de förnödenheter som behövs för maskineriets drift, förbrukningen av dessa för varje dygn samt allt annat av vikt som rör maskineriets gång och skötsel. När tid anges skall samma ortstid användas som i skeppsdagboken.
+
+4 § Ytterligare föreskrifter om dagböcker meddelas av regeringen eller den myndighet som regeringen bestämmer.
+
+5 § En dagbok förd på ett svenskt fartyg eller på ett danskt, finskt eller norskt fartyg som befinner sig i svensk hamn skall hållas tillgänglig för var och en som vill ta del av innehållet, om hans rätt är beroende av detta. I fråga om anteckningar som har samband med en sammanstötning med ett annat fartyg, till vars dagbok motsvarande tillgång inte finns, gäller detta dock inte förrän sjöförklaring eller undersökning enligt 20 § hålls offentligt eller talan väckts på grund av sammanstötningen.
+
+En dagbok skall förvaras av redaren i minst tre år efter dess avslutning. Om talan väcks inom den tiden i anledning av en händelse om vilken en anteckning gjorts i dagboken, skall boken förvaras till dess målet har avgjorts genom lagakraftvunnen dom.
+
+Bestämmelserna i första och andra styckena gäller även i fråga om kladd till dagbok samt på teknisk väg gjorda uppteckningar om ett fartygs navigering och gången av dess maskineri.
+
+Bevarande av bevis vid sjöolycka
+
+5 a § Om det har inträffat en sjöolycka eller ett tillbud till sjöss ska följande material, för tiden före, under och efter olyckan, bevaras:
+1. sjökort,
+2. dagböcker,
+3. elektroniska och magnetiska inspelningar och videoband, inklusive information från färdskrivarsystem och annan elektronisk utrustning, och
+4. teknisk, medicinsk, livräddande eller annan liknande utrustning som skäligen kan anses ha betydelse för undersökning av olyckan eller tillbudet.
+
+Materialet får inte undanhållas, förstöras, ändras eller manipuleras. Materialet ska bevaras till dess den myndighet som undersöker olyckan eller tillbudet har avslutat sin undersökning eller beslutat att inte inleda någon undersökning. För dagböcker och på teknisk väg gjorda uppteckningar om ett fartygs navigering och gången av dess maskineri gäller härutöver 5 §. Lag (2011:547).
+
+Sjöförklaring
+
+6 § Sjöförklaring skall hållas för ett svenskt handelsfartyg eller fiskefartyg
+1. när någon, medan fartyget var på väg, i samband med fartygets drift har eller kan antas ha avlidit eller fått svår kroppsskada,
+2. när i annat fall i samband med fartygets drift någon ombordanställd eller någon annan som följer med fartyget har eller kan antas ha avlidit eller fått svår kroppsskada,
+3. när någon som avlidit ombord har begravts i sjön,
+4. när allvarlig förgiftning har eller kan antas ha inträffat ombord,
+5. när fartyget har sammanstött med ett annat fartyg eller stött på grund,
+6. när fartyget har försvunnit eller övergetts i sjön,
+7. när i samband med fartygets drift skada av någon betydelse har eller kan antas ha uppkommit antingen på fartyget eller, medan fartyget var på väg, på egendom utanför fartyget, eller
+8. när brand, explosion eller förskjutning av någon betydelse har inträffat i lasten.
+
+Bestämmelser om vissa undantag från första stycket finns i 13 § tredje stycket och 17 §.
+
+7 § Sjöförklaring skall vidare hållas för ett svenskt fartyg, när i anledning av en händelse som har eller kan antas ha inträffat i samband med fartygets drift Transportstyrelsen förordnar om detta eller befälhavaren eller redaren finner det påkallat. Detsamma gäller när en lastägare eller lastförsäkringsgivare i annat fall än som avses i 13 § tredje stycket eller 17 § andra stycket begär det för att få upplysning om orsaken till en skada av någon betydelse på godset, vilken har eller kan antas ha uppkommit i samband med fartygets drift.
+
+Om Transportstyrelsen förordnar att sjöförklaring skall hållas, skall befälhavaren eller redaren underrättas om detta. En lastägares eller lastförsäkringsgivares begäran om sjöförklaring skall göras hos någon av dessa. Lag (2008:1311).
+
+8 § Genom sjöförklaringen skall händelsen och dess orsaker om möjligt klarläggas. Alla förhållanden som kan antas ha medverkat till händelsen eller vara av betydelse från sjösäkerhetssynpunkt skall utredas.
+
+Utredningen sker genom förhör med fartygets befälhavare och de medlemmar av besättningen och andra personer som antas kunna lämna någon upplysning i saken. Handlingar eller föremål som antas kunna tjäna till upplysning skall granskas. I den mån det kan antas främja utredningen skall syn hållas på fartyget eller den plats där händelsen inträffat.
+
+9 § Om det inte finns något hinder skall sjöförklaring hållas i den hamn där händelsen har inträffat eller, om händelsen inträffat till sjöss, i den första hamn till vilken fartyget eller befälhavaren därefter anländer. Sjöförklaringen får dock anstå till dess fartyget anlöper en annan hamn, om en avsevärd besparing i kostnaderna för fartyget eller någon annan väsentlig fördel därigenom kan uppnås utan att syftet med sjöförklaringen åsidosätts. Befälhavaren eller redaren skall genast skriftligen underrätta Transportstyrelsen om anståndet och anledningen till det.
+
+Medan fartyget befinner sig i en hamn som anges i första stycket kan sjöförklaringen hållas även på en annan ort, om särskilda skäl föranleder det.
+
+Sjöförklaring med anledning av att ett fartyg har försvunnit eller med anledning av att befälhavaren och var och en som kunnat träda i hans ställe har omkommit, skall hållas på den ort som Transportstyrelsen bestämmer. Lag (2008:1311).
+
+10 § Sjöförklaring inom landet hålls av den tingsrätt som enligt 21 kap. 1 § utsetts att vara sjörättsdomstol. Behörig är den domstol som är närmast den hamn eller ort där sjöförklaringen skall hållas enligt 9 §. Regeringen kan dock för en viss hamn förordna att en annan av sjörättsdomstolarna skall vara behörig, om det är ändamålsenligt med hänsyn till trafikförbindelserna och övriga förhållanden.
+
+Om annat inte följer av denna lag, gäller för sjöförklaring inför domstol lagen (1996:242) om domstolsärenden.
+
+Vid sammanträde för sjöförklaring skall rätten bestå av en lagfaren domare som ordförande och två personer med kunskap om och erfarenhet av sjöfart. Åtminstone en av de senare bör ha grundlig erfarenhet från tjänst som fartygs- eller maskinbefäl på handelsfartyg och nyligen ha utövat en sådan tjänst. Rätten utser för varje sjöförklaring de särskilda ledamöterna från en förteckning som Sjöfartsverket årligen upprättar för varje sjöfartsinspektionsdistrikt. Förteckningen skall uppta minst tjugo personer. Om det är ändamålsenligt i ett visst fall att en person med särskild sakkunskap deltar, får rätten tillkalla en sådan person att inträda som ytterligare ledamot i rätten även om han inte är upptagen i förteckningen. De särskilda ledamöterna skall vara svenska medborgare. Den som är underårig eller i konkurstillstånd eller som har förvaltare enligt 11 kap. 7 § föräldrabalken får inte vara ledamot. De särskilda ledamöterna har rätt till ersättning av allmänna medel enligt bestämmelser som meddelas av regeringen.
+
+I Danmark, Finland och Norge hålls sjöförklaring för ett svenskt fartyg av den domstol som är behörig enligt det landets lag.
+
+I övrigt hålls sjöförklaring utomlands av svensk utlandsmyndighet som enligt bemyndigande av Utrikesdepartementet har sådan behörighet. Om det lämpligen kan ske skall vid sjöförklaringen delta två av myndigheten tillkallade, i sjöfart kunniga personer, helst svenska, danska, finska eller norska medborgare, mot vilka inte förekommer jäv som gäller mot domare. Är ett deltagande av person med särskild sakkunskap ändamålsenligt i ett visst fall, får myndigheten tillkalla även en sådan person. På en ort där behörig svensk utlandsmyndighet inte finns, hålls sjöförklaringen av behörig dansk, finsk eller norsk utlandsmyndighet.
+
+I fråga om sjöförklaring inför en utlandsmyndighet gäller bestämmelserna om sjöförklaring vid domstol i tillämpliga delar. Utlandsmyndigheten får dock inte ta upp ed eller utfärda vitesföreläggande. Lag (1996:268).
+
+11 § När sjöförklaring skall äga rum skall fartygets befälhavare snarast möjligt göra anmälan om detta hos den domstol som skall hålla sjöförklaringen. Om anmälan inte görs av befälhavaren svarar redaren för att anmälan görs. Detta gäller också när redaren tagit emot en underrättelse eller en begäran enligt 7 § andra stycket.
+
+Anmälningen skall vara skriftlig med uppgift på hela besättningen och på de personer, bland besättningen eller i övrigt, som antas kunna lämna upplysning i saken och, om det kan ske, på sakägarna och deras ombud. Den skall vara åtföljd av ett exemplar av rapporten enligt 6 kap. 14 §.
+
+Om anmälningen görs efter ett förordnande eller en begäran enligt 7 § skall den även innehålla uppgift om detta.
+
+12 § När anmälan har gjorts skall rätten sätta ut sammanträde för sjöförklaring att äga rum så snart det kan ske. Om det är ändamålsenligt skall sammanträdet hållas ombord på fartyget.
+
+Till sammanträdet kallar rätten på lämpligt sätt fartygets befälhavare och de övriga personer som skall höras. En medlem av besättningen kan kallas genom befälhavaren.
+
+Befälhavaren skall föreläggas att till sammanträdet medföra fartygets dagböcker och kladdar till dem, om de finns i behåll. Befälhavaren eller någon annan kan föreläggas att vid sammanträdet visa även andra handlingar eller föremål som antas kunna tjäna till upplysning i saken. Föreläggandet får meddelas vid vite.
+
+Om det kan ske skall sakägarna genom särskilda meddelanden underrättas om tid och plats för sammanträdet samt var och när anmälningen om sjöförklaring med tillhörande handlingar finns tillgänglig. Transportstyrelsen skall alltid underrättas om tid och plats för sammanträdet.
+
+De särskilda ledamöterna skall ta del av anmälningshandlingarna. Om det finns tid för det skall de för ordföranden före sammanträdet skriftligen ange de frågor som bör utredas från nautisk, teknisk eller någon annan synpunkt. Lag (2008:1311).
+
+13 § Om sjöförklaringen gäller en sammanstötning med ett annat fartyg, får rätten bevilja anstånd med sjöförklaringen om den därigenom kan hållas samtidigt med sjöförklaring eller motsvarande utredning för det andra fartyget. Ett sådant anstånd får inte beviljas för längre tid än som är oundgängligen nödvändigt.
+
+Utöver vad som följer av 5 kap. 1 § rättegångsbalken får sjöförklaring hållas inom stängda dörrar, om det vid förklaringen kommer att lämnas uppgifter för vilka sekretess gäller enligt 29 kap. 13 § offentlighets- och sekretesslagen (2009:400). Vid sjöförklaring inom stängda dörrar får en annan enskild sakägare än redaren inte närvara utan redarens samtycke.
+
+Har sammanstötning skett med ett utländskt fartyg, för vilket varken sjöförklaring eller motsvarande utredning ska hållas, behöver sjöförklaring inte äga rum om Transportstyrelsen inte bestämmer något annat. Hålls sjöförklaring ska bestämmelserna i andra stycket om handläggning inom stängda dörrar ha motsvarande tillämpning. Lag (2009:460).
+
+14 § Vid sjöförklaringens början skall fartygets dagböcker och kladdar till dem jämföras med varandra och med det exemplar av rapporten enligt 6 kap. 14 § som fogats till anmälningen. Av dem som skall höras får endast den som har tagit befattning med dagboksföringen närvara vid genomgången, om inte särskilda skäl föranleder något annat.
+
+Annat skriftligt utredningsmaterial läggs fram och syn företas när det är lämpligt.
+
+15 § Befälhavaren och övriga personer som har kallats skall höras var för sig. Ingen av dem får närvara vid förhör med någon annan utan att det finns särskilda skäl för det.
+
+Förhöret hålls av rätten. Med rättens tillstånd kan förhöret hållas av företrädare för Transportstyrelsen eller av en sakägare. Var och en som har hörts skall bekräfta sin berättelse med ed, om inte laga hinder möter eller rätten i övrigt med hänsyn till omständigheterna finner att ed inte bör avläggas. Rätten skall före förhöret upplysa den som skall höras om hans skyldighet att avlägga ed och om edens vikt.
+
+Ed som avses i andra stycket har denna lydelse: "Jag N. N. bekräftar och försäkrar på heder och samvete att jag har sagt hela sanningen och intet förtigit, tillagt eller förändrat. "
+
+Andra än befälhavaren eller medlemmar av besättningen har rätt att för sin inställelse vid rätten få ersättning av allmänna medel i enlighet med bestämmelserna om ersättning till vittne. Ersättningen skall stanna på staten. I fråga om ersättning för inställelse till förhör inför en utlandsmyndighet meddelas bestämmelser av regeringen. Lag (2008:1311).
+
+16 § Om en utredning som har skett genom sjöförklaring är ofullständig i något avseende, kan Transportstyrelsen förordna att den skall fullständigas vid en ny sjöförklaring och bestämma på vilken ort den nya sjöförklaringen skall hållas. I ett sådant fall har bestämmelserna i 7 § andra stycket och 11 § motsvarande tillämpning. Lag (2008:1311).
+
+17 § Om en tillfredsställande utredning av en händelse som avses i 6 § är eller kan väntas bli tillgänglig i någon annan ordning, får Transportstyrelsen medge att sjöförklaring enligt det lagrummet underlåts eller att den skjuts upp i avvaktan på en sådan utredning.
+
+Regeringen får föreskriva att sjöförklaring enligt 6 § inte behöver hållas, om sjöolyckan eller händelsen är eller skall bli föremål för en sådan undersökning som avses i 20 §.
+
+Regeringen får föreskriva inskränkningar i Transportstyrelsens rätt enligt 7 § första stycket, 13 § tredje stycket, 16 § och 18 § andra stycket att förordna om sjöförklaring i fall då sjöolyckan eller händelsen är eller skall bli föremål för en sådan undersökning som avses i 20 §. Lag (2008:1311).
+
+18 § För fartyg hemmahörande i Danmark, Finland eller Norge skall rätten hålla sjöförklaring när befälhavaren eller redaren eller behörig myndighet i fartygets hemland finner det påkallat. För annat utländskt fartyg hålls i ett sådant fall sjöförklaring om det finns skäl.
+
+Om en utredning av en händelse som inträffat i samband med ett utländskt fartygs drift är nödvändig från sjösäkerhetssynpunkt och fartyget befinner sig inom Sveriges sjöterritorium, får Transportstyrelsen förordna att sjöförklaring skall äga rum.
+
+Finner en myndighet som anges i första stycket att sjöförklaring är påkallad eller förordnar Transportstyrelsen om sjöförklaring, skall befälhavaren eller redaren underrättas om detta. Anmälan om sjöförklaring görs därefter av befälhavaren eller redaren enligt 11 §. Lag (2008:1311).
+
+19 §/Upphör att gälla U:2015-01-01/ Sjöfartsverket, Transportstyrelsen, Kustbevakningen, Tullverket och polismyndighet ska lämna en tingsrätt som håller sjöförklaring den medverkan tingsrätten begär för utredningen. För polismyndigheternas utredningar gäller bestämmelserna om förundersökning i 23 kap. rättegångsbalken. Lag (2008:1311).
+
+19 §/Träder i kraft I:2015-01-01/ Sjöfartsverket, Transportstyrelsen, Kustbevakningen, Tullverket och Polismyndigheten ska lämna en tingsrätt som håller sjöförklaring den medverkan som tingsrätten begär för utredningen. För Polismyndighetens utredningar gäller bestämmelserna om förundersökning i 23 kap. rättegångsbalken. Lag (2014:614).
+
+Annan undersökning av sjöolyckor
+
+20 § Om undersökning från säkerhetssynpunkt av sjöolyckor och andra händelser som berör sjöfarten finns bestämmelser i lagen (1990:712) om undersökning av olyckor.
+
+Besiktning
+
+21 § Sjöfartsverket skall varje år upprätta en förteckning över personer som är lämpliga att utföra uppdrag att besiktiga fartyg eller last. Förteckningen skall hållas tillgänglig hos de tingsrätter som Sjöfartsverket anger.
+
+22 § Uppstår fråga huruvida ett fartyg efter inträffad skada skall anses kunna sättas i stånd eller inte, skall yttrande om detta avges av minst tre besiktningsmän.
+
+Besiktningsmännen förordnas på ansökan av fartygets ägare, redare eller befälhavare. Inom landet förordnar rätten på den ort där besiktningen skall äga rum besiktningsmän bland de personer som är upptagna på förteckningen enligt 21 §. Utomlands förordnas besiktningsmän av den myndighet som är behörig enligt lag eller sedvänja på besiktningsorten eller av en svensk utlandsmyndighet eller, där en sådan inte finns, av en dansk, finsk eller norsk utlandsmyndighet.
+
+Vid besiktning inom landet skall besiktningsmännen avkräva befälhavaren fartygets nationalitetshandling. Om fartyget förklaras vara icke iståndsättligt, skall de till Sjöfartsverket genast sända in nationalitetshandlingen, en avskrift av yttrandet och bevis om att de är behörigen förordnade. När en besiktning äger rum utomlands skall utlandsmyndigheten, om det kan ske, iaktta vad som nu sagts. Sjöfartsverket skall utan dröjsmål ge registermyndigheten del av besiktningsmännens yttrande, om det rör ett svenskt fartyg.
+
+23 § Om skada har drabbat ett fartyg eller gods i gemensamt haveri, får var och en som haveriet rör låta en eller flera besiktningsmän utreda och värdera skadan. Detta gäller också i fråga om en skada i enskilt haveri när utredning om skadan fordras för bestämmande av bidragsvärdet för fartyg eller gods.
+
+Besiktningsmän utses av den som haveriet rör eller förordnas på hans ansökan av den myndighet som anges i 22 §.
+
+24 § Om ägaren till ett fartyg eller redaren eller någon som i redarens ställe har befattning med fartyget eller befälhavaren vill anordna en annan besiktning av fartyg eller gods än som avses i 22 eller 23 § och han inte själv utser besiktningsmän, skall den myndighet som anges i 22 § på hans ansökan förordna en eller flera besiktningsmän. Detta gäller också, om en lastägare eller lastförsäkringsgivare vill låta besiktiga lasten i andra fall än som avses i 23 §.
+
+25 § En besiktningsman får inte vägras tillträde till fartyget och lasten för att utföra besiktningen utom när sådant tillträde skulle föranleda oskälig kostnad för fartyget eller någon annan väsentlig olägenhet.
+

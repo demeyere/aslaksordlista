@@ -6,16 +6,24 @@ Rik och frisk
 =================
 "Hellre fattig och frisk än rik och sjuk" heter det, men det har visat sig att den rike
 också är den friskaste.
+it is said that "Rather poor and healthy than rich and sick", but it has been shown that the rich are also the healthiest.
 
-Högre status hos kvinnor ger en god hälsa, medan låg status ger dålig häl sa.
+Högre status hos kvinnor ger en god hälsa, medan låg status ger dålig hälsa.
+Hig status among women give them good health, while low status give them bad health.
 Det visar en studie som gjorts vid Karolinska institutet i Stockholm, där man jämfört 300 friska kvinnor med en lika stor grupp hjärtsjuka kvinnor.
+It is shown in a study that has worked with KIS, where they compared 300 health women with a similarly sized group of women with heart disease.
 Studien visar att kvinnor med lågstatusjobb löpte fyra gånger så hög risk att bli sjuka jämfört med kvinnor med högstatusjobb.
+The study shows that women with a low status jobs ran four times the risk of becoming sick compared to the women with the high status jobs.
 Hos män är sambandet inte lika tydligt.
+Among men the relation isn't as clear.
 
 Världshälsoorganisationen, WHO, har tagit fram ett nytt sätt att beräkna förväntad medellivslängd.
+WHO has taken up a new way to calculate expected average life span.
 Tidigare räknade man bara med hur länge man förväntades leva, medan man numera utgår från både livslängd och hälsotillstånd.
+Previously they calculated only how long they expected them to live, while now they assume from both life span and state of health.
 
 Så här länge kommer vi att leva och vara friska enligt en WHO-rapport från år 2000:
+So here is how long we will live and be healthy according to a WHO report from 2000:
 
  1. Japan             74,5 år
  2  Australien        73,2 år
@@ -29,6 +37,7 @@ Så här länge kommer vi att leva och vara friska enligt en WHO-rapport från �
 10. Andorra           72.3 år
 
 Så här placerade sig några andra länder:
+So here is how they place several other countries:
 
 13. Nederländerna     72,0 år
 14. Storbritannien    71,7 år
@@ -37,6 +46,7 @@ Så här placerade sig några andra länder:
 30. Singapore         69,3 år
 
 Tolka statistiken!
+Interpret the statistics
 Använd ord som enligt, antal, andel, jämfört med, öka/minska, de flesta/det mesta.
 
 DISKUTERA:

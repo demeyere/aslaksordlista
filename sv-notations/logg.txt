@@ -1,0 +1,35 @@
+Loggbok // A logbook
+http://sv.wikipedia.org/wiki/Loggbok
+
+En loggbok, även skeppsdagbok eller skeppsjournal, är en bok där man löpande, i kronologisk ordning, antecknar uppgifter om vad som händer ombord på ett fartyg vid lastning eller lossning av gods, angöring, avgång och under resan. Under sjöresa införs anteckningar allt eftersom resan framskrider, med uppgifter om fart, kurs, position, avverkad distans och händelser ombord.
+
+A logbook, also a ship's log or ship's journal, is a book where one continuously, and in chronological order, writes down tasks/information about what is happening on board a ship, including loading or unloading of cargo, landing, departure and during the journey. During the sea voyage introduces notes as the journey progresses, with information on speed, course, position, distances covered and events on board.
+
+Ordet loggbok kommer från loggen, med vilken man kunde uppskatta avverkad distans. Genom att kombinera distans med styrd kurs kunde man bestämma sin ungefärliga position, i tider då annan positionsbestämning till havs kunde göras endast under goda förhållanden.
+
+The word logbook comes from the log, with which one could estimate the distance travelled. By combining distance with controlled course one could determine their approximate position, in times when another position determination at sea could be done only under good conditions.
+
+På handelsfartyg förs en loggbok på fartyg från 20 ton brutto, på fiskefartyg från 80 ton brutto.[källa behövs] Vid sidan av den egentliga skeppsdagboken förs maskindagbok och andra loggböcker, såsom loggböcker över radiotrafik, lastning och bunkring kan förekomma.
+
+On merchant ships a logbook is kept on ships greater than 20 gross tons, on fishing ships greater than 80 gross tons. [Source needed] In addition to the actual ship's log a machinery log and other logbooks, such as communication logs, and loading and fueling logs may exist.
+
+Anteckningarna i loggboken skall göras av styrman under överseende av befälhavaren, till sjöss i allmänhet senast vid vaktbyte (uppgifterna kan först införas i en skild "kladd"). Uppgifter får inte strykas, utan måste vid behov rättas med en skild anteckning.
+
+The entries in the logbook shall be made by the helmsman under the supervision of the commander, at sea, in general, with the most recent watch data (the data can first be recorded in a separate `draft`). Entries must not be deleted, but must, if necessary, corrected by a separate entry.
+
+Loggbok skall även föras av dykare, såväl kommersiella som rekreationsdykare. Även flygplan har loggböcker
+
+Logbooks are even kept by divers, both commercial and recreational. Even planes have logbooks.
+
+Logg används i överförd bemärkelse om andra anteckningar av motsvarande karaktär, såsom i datorers loggfiler.
+
+The log is used in a figurative sense with other notes of the same character, such as in computer log files.
+
+- - -
+
+Krigsdagbok // battlelog
+http://sv.wikipedia.org/wiki/Krigsdagbok
+
+Krigsdagbok är en för ändamålet utformad dagbok som skall föras vid staber och krigsförband för att dokumentera krigshändelserna. Där förs in egna åtgärder, observationer om fiendens verksamhet, mottagna och givna order, taktiska överväganden, operationsplaner med mera. Till dagboken kan bifogas operationskartor, stridsberättelser och andra handlingar. Krigsdagboken utgör den huvudsakliga grunden för skildringen av krigets historia.
+
+A battlelog is a special purpose journal that is kept by staff and military units to document battle events. In it is kept your own actions, observations of the enemy activity, received and issued orders, the tactical situation, operational plans and more. Annexes to the log can include: operational maps, battle narratives and other documents. The battlelog forms the main basis for the portrayal of the war history.
