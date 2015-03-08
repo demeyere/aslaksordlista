@@ -2,6 +2,7 @@ revised: 2015-03-01 20:31
 källa: http://www.forsvarsmakten.se/sv/var-verksamhet/ovningar/avslutade-ovningar/cold-response-2014/vinterenhet-tipsar/
 fonts: http://www.dafont.com/gunplay.font
 
+
 VINTERENHETEN TIPSAR  //  WINTER UNIT TIPS
 ==========================================
 
@@ -26,7 +27,7 @@ enbart = only, alone, just, solely
 ännu = (med inte) yet; still, even (in comparisons); yet, another, in addition; 
 helst = preferably, rather (superlative of gärna)
 
-A guy shouldn't only dring when he is thirsty, then he will have a bad water balance. A guy should drink at least 2.5 liters of water in a 24 hour period and in cold conditions even more. Preferably the water should be at least as warm as body temp.
+A guy shouldn't only drink when he is thirsty, then he will have a bad water balance. A guy should drink at least 2.5 liters of water in a 24 hour period and in cold conditions even more. Preferably the water should be at least as warm as body temp.
 
 
 Att klä sig korrekt
@@ -69,12 +70,12 @@ tyder =
 tina upp =
 fläckarna =
 
-Show should be large enough that a guy can wear an extra pair of socks and still be able to move all his toes. It is important to watch out for each other. Pay attention to your buddies skin. White spots on the skin mean frostbite. Warm up the areas with a warm hand.
+Shoes should be large enough that a guy can wear an extra pair of socks and still be able to move all his toes. It is important to watch out for each other. Pay attention to your buddies face (and skin). White spots on the skin mean frostbite. Warm up the areas with a warm hand.
 
 
 Vädret
 
-"Normala" väderförhållanden i övningsområdet i februari och mars är varierande kallt - soligt - blåsigt. Kraftigt snöfall kan förekomma särskilt på höglandet. Sannolikt kan regn förekomma i de kustnära delarna av övningsområdet. Under mars månad är det 6-8 timmar dagsljus med skymning ca en timme. Temperaturen ligger på dagen mellan –5 C till +5 C. Nattemperatur ligger på mellan –10 C till 0 C.
+"Normala" väderförhållanden i övningsområdet i februari och mars är varierande kallt - soligt - blåsigt. Kraftigt snöfall kan förekomma särskilt på höglandet. Sannolikt kan regn förekomma i de kustnära delarna av övningsområdet. Under mars månad är det 6-8 timmar dagsljus med skymning ca en timme. Temperaturen ligger på dagen mellan –5 C till +5 C. Nattemperatur ligger på mellan –10 C till 0 C (fryspunkten).
 
 förhållanden =
 varierande =

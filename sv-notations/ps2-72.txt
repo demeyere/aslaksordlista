@@ -1,4 +1,4 @@
-revised: 2015-02-22 09:52 
+revised: 2015-03-05 20:25 
 keywords: 72 ocr
 
 
@@ -6,16 +6,14 @@ Minns du ordet? 8
 =================
 Sätt in ordet i rätt form!
 
-slösa
-äga
-hellre
-en rest
-anta
-en hälsa
-dyrbar
-onödig
-erkänna
-böra
+slösa       to waste
+hellre      preferably  
+en rest     a residual   
+anta        to adopt      
+onödig      unnecessary     
+erkänna     to recognize       
+böra        ought       
+
 
 1.
 Vad ska du använda de pengar som du har kvar till när du har köpt bil?
@@ -25,6 +23,9 @@ Vad ska du använda __________ av pengarna till?
 Mormor har en klocka som har kostat mycket pengar.
 Hon har en __________ klocka.
 
+dyrbar      precious      
+
+
 3.
 Morfar köper aldrig saker som han inte behöver.
 Han använder inte pengarna till __________ saker.
@@ -33,9 +34,15 @@ Han använder inte pengarna till __________ saker.
 Läraren är ofta sjuk.
 Han har dålig __________.
 
+en hälsa    a health     
+
+
 5.
 Familjen har ett eget hus.
 De __________ sitt hus.
+
+äga         to own
+
 
 6. Åsa tycker att det skulle vara bra om Daniel bäddade sin säng.
 Hon tycker att han __________ bädda sin säng på morgnarna.

@@ -1,4 +1,4 @@
-revised: 2015-02-22 09:48 
+revised: 2015-03-05 19:25 
 keywords: 68 ocr
 
 
@@ -38,11 +38,11 @@ Why do so many atletes risk their carriers and health by using illegal substance
 
 
 1945 bildades Svenska korporationsidrottsförbundet, i dag kallat Korpen som sysslar med motionsidrott på arbetsplatserna.
-In 1945 The `corporation for swedish corporate sports` was founded, today it is called `the raven` and is engaged in exercise for the workplace.
+In 1945 The `organization for swedish corporate sports` was founded, today it is called `the raven` and is engaged in exercise for the workplace.
 Föreningen Friskis & Svettis bildades 1978 och har nu föreningar på de flesta platser i Sverige.
 The `association of healthy ice and sweaty ice` was founded in 1978 and has now become associated with many places in Sweden.
 Friskis & Svettis introducerade gympapass till musik.
-Friskis & Svettis introduced gymnastics to music.
+Friskis & Svettis introduced gymnastics|aerobics to music.
 
 Allt fler har i dag ett stillasittande arbete och de inser att det är nödvändigt med någon form av motion för att orka med vardagen.
 To an increasing degree today, many have a sedentary job and they understand (in see) that it is necessary for some form of exercise to cope with the everyday.
