@@ -1,11 +1,10 @@
 revised: 2015-02-22 09:53 
 keywords: 73 ocr
 
-HORFORSTAELSE 8
+HÖRFORSTÅELSE 8
 =================
 
 Vad är lycka?
-Svara kort på frågorna!
 
 1. Vilka är lyckligast i världen enligt undersökningen, rika eller fattiga?
 
