@@ -1,4 +1,4 @@
-revised: 2015-03-05 20:25 
+revised: 2015-03-10 08:21 
 keywords: 72 ocr
 
 
@@ -6,59 +6,51 @@ Minns du ordet? 8
 =================
 Sätt in ordet i rätt form!
 
-slösa       to waste
-hellre      preferably  
-en rest     a residual   
-anta        to adopt      
-onödig      unnecessary     
-erkänna     to recognize       
-böra        ought       
-
-
 1.
 Vad ska du använda de pengar som du har kvar till när du har köpt bil?
-Vad ska du använda __________ av pengarna till?
+Vad ska du använda __resten__ av pengarna till?
+en rest     remainder, leftover;
 
 2.
 Mormor har en klocka som har kostat mycket pengar.
-Hon har en __________ klocka.
-
-dyrbar      precious      
-
+Hon har en __dyrbar__ klocka.
+dyrbar      precious, expensive      
 
 3.
 Morfar köper aldrig saker som han inte behöver.
-Han använder inte pengarna till __________ saker.
+Han använder inte pengarna till __onödiga__ saker.
+onödig      unnecessary     
 
 4.
 Läraren är ofta sjuk.
-Han har dålig __________.
-
+Han har dålig _hälsa__.
 en hälsa    a health     
-
 
 5.
 Familjen har ett eget hus.
-De __________ sitt hus.
-
+De __äger__ sitt hus.
 äga         to own
 
-
 6. Åsa tycker att det skulle vara bra om Daniel bäddade sin säng.
-Hon tycker att han __________ bädda sin säng på morgnarna.
+Hon tycker att han __bör__ bädda sin säng på morgnarna.
+böra        ought       
 
 7.
 Mormor tycker att ungdomar använder sina pengar till fel saker.
-Ungdomar __________ bort sina pengar, tycker mormor.
+Ungdomar __slösar__ bort sina pengar, tycker mormor.
+slösa       to waste
 
 8.
 Han sa att det var han som hade tagit hundralappen.
-Han __________ att det var han som hade gjort det.
+Han __erkänner__ att det var han som hade gjort det.
+erkänna     to admit
 
 9.
 Daniel var inte riktigt säker, men han trodde att Åsa gillade datorn.
-Daniel __________ att hon var lika glad som han över den nya datorn .
+Daniel __antar__ att hon var lika glad som han över den nya datorn .
+anta        to accept      
 
 10.
 Åsa tycker bättre om fisk än kött.
-Hon äter __________ fisk än kött.
+Hon äter __hellre__ fisk än kött.
+hellre      preferably  
