@@ -193,7 +193,7 @@
 --> ett bröllop wedding; Många besöker också hotellets kyrka, som är speciellt populär för barndop och bröllop. Many also visit the hotels church which is especially popular for christenings and weddings. 
 --> en bulle (~n; bullar; bullarna;) 1. a bun; a small bread roll; 2. (slang) a taxi, a cab;  
 --> en burk (~en; ~ar; ~arna;) a jar; a can; Lägg lite sand i burken. Put some sand in the can. 
---> en buss (~en; ~ar; ~arna;) a bus;  De åker buss. Om vi inte skyndar oss, kommer vi missa bussen. If we don't hurry, we'll miss the bus. påkörd av en buss; 
+--> en buss (~en; ~ar; ~arna;) a bus; De åker buss. Om vi inte skyndar oss, kommer vi missa bussen. If we don't hurry, we'll miss the bus. påkörd av en buss; 
 --> en busshållplats bus stop;  
 --> en by (~n; ~ar; ~arna;) village, hamlet;  
 --> bygga (verb: bygger; byggde; byggt; bygg; ~nde; byggd;) to build; Bygg inte ditt hus på sand. Don't build your house on sand. Det behövs 40 000 ton snö och 10 000 ton is, som hämtas upp ur Torneälven, för att bygga det 5 000 kvm stora hotellet. It takes 40,000 tons of snow and 10,000 tons of ice, which is collected out of the river Torneälven, to build the 5,000 square meter hotel. Varje år byggs ett nytt hotell som invigs i början av december och förvandlas till smältvatten under våren. Every year a new hotel is built which opens at the beginning of December and is transformed back to melted water in the spring. 
@@ -205,7 +205,7 @@
 --> bädda (verb: ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) göra i ordning eller förbereda en sovplats, vanligtvis en säng; to make one's bed; Var och en bäddar sin säng. Everyone is expected to make his or her own bed. 
 --> ett bälte a belt;  
 --> en bänk (~en; ~ar; ~arna;) bench, a long sofa without bolster; bench; where players of a sport sit when not playing; workbench; school desk; a very simple table - possibly with a sloping top - for the use of students and school pupils; kitchen bench;  
---> bära (verb: bär; bar; burit; bär; ~nde; buren;) 1. to carry; to lift and transport anywhere else.  2. to wear; e.g. a piece of clothing or jewelry. Min resväska är så tung att jag inte kan bära den. My suitcase is so heavy I can´t carry it. 
+--> bära (verb: bär; bar; burit; bär; ~nde; buren;) 1. to carry; to lift and transport anywhere else. 2. to wear (eg, a piece of clothing or jewelry). Min resväska är så tung att jag inte kan bära den. My suitcase is so heavy I can´t carry it. 
 --> ett bäst-före-datum best by date;  
 --> bästa top;  
 --> böra (verb: bör; borde; bort; bör; ~nde;) åligga att ta till handling; ska lämpligen; rekommenderas att; should, ought to; Det borde fungera. That should work. Du borde nog göra den där uträkningen igen. You should do that calculation once again. Du bör sova minst åtta timmar varje natt. You should sleep at least eight hours every night. Hon bör sitta i båten. She should sit/be sitting in the boat. 
@@ -244,11 +244,11 @@
 --> dela (verb: ~r; ~de; ~t; ~; ~nde; ~d;) 1. to deal, share; divide something between recipients; 2. to share; to have in common; 3. to split; divide something in different parts; Då delar vi upp tårtan i lika stora bitar. Let's divide the cake into equal parts. Smaken är som baken, delad. Taste is like your bum, divided (idiom). 
 --> delta (verb) to participate;  
 --> dem them;  
---> den it; that; 3rd person pronoun;  Den där, då? What about that one? just det; Just that! That's the idea! Quite so! 
+--> den it; that; 3rd person pronoun; Den där, då? What about that one? just det; Just that! That's the idea! Quite so! 
 --> den (before an adjective preceding a noun) the; Den där, då? What about that one? Jag är född den 11:e februari (11/2). 
 --> den där that there;  
 --> den här this; this one;  
---> denna this, that (depending on context).  
+--> denna this, that (depending on context);  
 --> deras their; Deras expedition grävde fram antika ruiner. Their expedition uncovered ancient ruins. Jag hittade en länk till deras webbplats. I found a link to their web site När grannarna är bortresta, vaktar jag deras hund. När grannarna åker bort tar de med sig sin hund. When the neighbors are traveling, I tend their dog. When the neighbors travel [anywhere], they bring their dog. 
 --> desperat (adjektiv) desperate, furious;  
 --> dessutom (adverb) besides, moreover, furthermore, in addition; En del is säljs dessutom både till andra delar av Sverige och utomlands, även till varma länder som Niger i Afrika. A share of the ice is sold, moreover, both in other parts of Sweden and to other countries, even to warmer countries like Niger in Africa. 
@@ -270,7 +270,7 @@
 --> en doktor a Doctor;  
 --> ett dokument (~et; ~; ~en;) document;  
 --> dold (adjektiv: dolt; ~a;) obscured, invisible, covered, hidden (dold kopia BCC);  
---> en dold kopia kopia av e-brev (eller vanligt brev) som sänds till en eller flera extra mottagare utan att de andra adressaterna får veta det. Avsändaren anger vilka som ska få en dold kopia av e-post i ett särskilt adressfält, "Dold kopia", "Dold mottagare" eller "Bcc". Ingen av de andra mottagarna kan se namnen på de dolda mottagarna. Om det finns flera dolda mottagare kan de inte heller se varandras namn. Den engelska benämningen bcc står för blank carbon copy. BCC;  demyr.us/1AnuVpF 
+--> en dold kopia kopia av e-brev (eller vanligt brev) som sänds till en eller flera extra mottagare utan att de andra adressaterna får veta det. Avsändaren anger vilka som ska få en dold kopia av e-post i ett särskilt adressfält, `Dold kopia`, `Dold mottagare` eller `BCC`. Ingen av de andra mottagarna kan se namnen på de dolda mottagarna. Om det finns flera dolda mottagare kan de inte heller se varandras namn. BCC;  demyr.us/1AnuVpF 
 --> en dotter (~n; döttrar; döttrarna;) a daughter;  
 --> dra (verb: ~r; drog; ~git; ~; ~gande; ~gen;) 1. pull; 2. to tell a short story or (dirty) joke; 3. (slang) leave for some other place; dra benen efter sig ("gå alltför långsamt"); dawdle; Ska vi dra ner på stan? Should we get downtown? 
 --> dricka (verb: dricker; drack; druckit; drick; ~nde; drucken;) to drink; to regularly drink alcohol; Man ska dricka mycket vatten när man är förstoppad. You have to drink a lot of water when you're constipated. 
@@ -401,7 +401,7 @@
 --> fjortonde fourteenth;  
 --> fjärde fourth;  
 --> en flaska (~n; flaskor; flaskorna;) En cylindrisk behållare (kärl), vanligtvis avsmalnande mot toppen så att den lätt kan förslutas, som används för förvaring av vätskor, särskilt drycker, och typiskt tillverkad av glas eller plast. bottle, flask; Han köpte tre flaskor öl. 
---> fler (adjektiv: ~; ~a; flest; flesta;) more and most (in numbers); several;  De flesta internetanvändarna förväntar sig hög anslutningshastighet. Most internet users expect high connection speeds. Den högröstade minoriteten representerar inte majoriteten i de flesta fallen. The vocal minority do not represent the majority in most cases. Finns det fler kakor? Are there more cookies? 
+--> fler (adjektiv: ~; ~a; flest; flesta;) more and most (in numbers); several; De flesta internetanvändarna förväntar sig hög anslutningshastighet. Most internet users expect high connection speeds. Den högröstade minoriteten representerar inte majoriteten i de flesta fallen. The vocal minority do not represent the majority in most cases. Finns det fler kakor? Are there more cookies? 
 --> en flicka (~n; flickor; flickorna;) a girl;  
 --> en flickvän my girlfriend;  
 --> flingor cold cereal, flakes; Jag gillar flingor när de fortfarande är krispiga. I like cereal when it's still crispy. 
@@ -549,7 +549,7 @@
 --> förvara (verb) to store;  
 --> en förälder (~n; föräldrar; föräldarna;) parent;  
 --> en gaffel (~n; gafflar; gafflarna;) a fork;  
---> galen (adjektiv: galet; galna; galnare; galnast;) 1. som är på ett sätt eller göra saker som inte anses normalt eller klokt, ofta på ett impulsivt sätt; 2. fel, tokig;  1. crazy; lunatic, mad; 2. crazy; out of control; 3. crazy; filled with foolish or unreasoned affection; 4. wrong; not quite correct; Vi är alla lite galna på ett eller annat sätt. We're all a little crazy in one way or another. 
+--> galen (adjektiv: galet; galna; galnare; galnast;) 1. som är på ett sätt eller göra saker som inte anses normalt eller klokt, ofta på ett impulsivt sätt; 2. fel, tokig; 1. crazy; lunatic, mad; 2. crazy; out of control; 3. crazy; filled with foolish or unreasoned affection; 4. wrong; not quite correct; Vi är alla lite galna på ett eller annat sätt. We're all a little crazy in one way or another. 
 --> gammal (adjektiv: ~t; gamla; äldre; äldst;) old; Hur gammal är du? How old are you? Kan du recitera den gamla dikten? Can you recite the old poem? 
 --> ganska (adverb) pretty, quite, rather;  
 --> en garderob skrubben; wardrobe; closet;  
@@ -743,7 +743,7 @@
 --> en häst (~en; ~ar; ~arna;) 1. a horse; a large mammal, Equus caballus; 2. (chess, colloquial) knight; Deras hästar bor i stallet. Their horses live in the stable. Jag tittade, och framför mig stod en blek häst! I looked, and before me was a pale horse! 
 --> hävda (verb) 1. to maintain, to keep (in order), to preserve; 2. to maintain, to state, to claim;  
 --> en hög (~en; ~ar; ~arna;) anhopning av saker el. material; pile; heap; a quantity of things or material heaped or piled together;  
---> hög (adjektiv: ~t; ~a; ~re; ~st;) high; loud;  De flesta internetanvändarna förväntar sig hög anslutningshastighet. Most internet users expect high connection speeds. Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. Jag fick inte en blund i ögonen hela natten eftersom grannen spelade sådan hög musik. I didn't sleep a wink all night since my neighbor was playing such loud music. Kostnaderna är höga och intäkterna låga. Vad kan man göra? Costs are up, revenue is down. What can you do? När vi såg bilden, skrattade vi högt. When we saw the picture, we laughed out loud. På höga höjder finns det mindre syre i luften. At high elevations, there is less oxygen in the air. 
+--> hög (adjektiv: ~t; ~a; ~re; ~st;) high; loud; De flesta internetanvändarna förväntar sig hög anslutningshastighet. Most internet users expect high connection speeds. Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. Jag fick inte en blund i ögonen hela natten eftersom grannen spelade sådan hög musik. I didn't sleep a wink all night since my neighbor was playing such loud music. Kostnaderna är höga och intäkterna låga. Vad kan man göra? Costs are up, revenue is down. What can you do? När vi såg bilden, skrattade vi högt. When we saw the picture, we laughed out loud. På höga höjder finns det mindre syre i luften. At high elevations, there is less oxygen in the air. 
 --> höger right; sväng vänster sväng höger; turn left then turn right; Vägen kröker sig åt höger. The road curves to the right. 
 --> en högtid (~en; ~er; ~erna;) A holiday, festival or similar festive occasion. Julen är min familjs viktigaste högtid. Christmas is the most important holiday for my family. 
 --> höna (substantiv) hen;  
@@ -751,7 +751,7 @@
 --> höra av sig (verb) to be heard by someone, to notify;  
 --> ett hörn (~et; ~; ~en;) 1. a corner; the point where two converging lines meet; an angle, either external or internal. 2. a corner; the space in the angle between converging lines or walls which meet in a point; the point where two walls meet; 3. a corner; an intersection of two streets; any of the four outer points off the street at that intersection. 4. a corner; an edge or extremity; the part farthest from the center.  
 --> höst autumn; Varje höst börjar ett nytt läsår. Every fall, the school year begins anew. 
---> i 1. in; located inside; 2. in; specifies a place, a region or a country; 3. (about time) to; before a full hour; 4. (in various constructions) last, previous; 5. time—duration;  Falla i drickat. Fall into the water. i fas, ur fas; in phase, out of phase; i torsdags; last Thursday; Jag bodde där i sex år. I lived there for six years. Stockholm ligger i östra Sverige. Stockholm lies in eastern Sweden. Två gånger i sekunden|minuten|timmen|veckan|månaden men två gånger om dagen|dygnet|året. —@skrusiduller 
+--> i 1. in; located inside; 2. in; specifies a place, a region or a country; 3. (about time) to; before a full hour; 4. (in various constructions) last, previous; 5. time—duration; Falla i drickat. Fall into the water. i fas, ur fas; in phase, out of phase; i torsdags; last Thursday; Jag bodde där i sex år. I lived there for six years. Stockholm ligger i östra Sverige. Stockholm lies in eastern Sweden. Två gånger i sekunden|minuten|timmen|veckan|månaden men två gånger om dagen|dygnet|året. —@skrusiduller 
 --> i alla fall (adverb) 1. trots något som tidigare nämnts; ändå; under alla omständigheter; Synonymer: ändå, i varje fall, hur som helst; 2. åtminstone; Synonymer: i varje fall; in any case; at least; if nothing else; anyhow; ...; i alla fall; anyhow (in all cases); 
 --> i alla fel at any rate, anyways;  
 --> i början av in the beginning of;  
@@ -774,7 +774,7 @@
 --> ibland (adverb) sometimes; Ibland tycker jag inte om det! 
 --> idag (adverb) 1. today; current day; 2. in these days; in this era; Vad är det för dag i dag? What day is it today? 
 --> ett ide (~t; ~n; ~na;) a den for the hibernation of a bear or badger;  
---> en idé (~n; ~er; ~erna;) an idea; theory;  Gör inte det! Det är en dålig idé! Don't do that! It's a bad idea! 
+--> en idé (~n; ~er; ~erna;) an idea; theory; Gör inte det! Det är en dålig idé! Don't do that! It's a bad idea! 
 --> ett ideal (~et; ~; ~en;) ideal; perfect standard; Två personer som har betytt mycket för det svenska heminredningsidealet är konstnären Carl Larsson (1853-1919) och hans hustru Karin (1859-1928). Two people who have been of importance for much of the swedish home furnishings ideal are artist Carl Larsson and his wife Karin. 
 --> en identitet (~en; ~er; ~erna;) identity; Alla har ju olika stil och med kläderna visar man sin identitet. Everyone has their different styles and with the clothes one shows their identity. Hans fall handlade om misstagen identitet. His was a case of mistaken identity. 
 --> en idrott (idtrotten; idtrotter; idtrotterna;) sport (any athletic activity that uses physical skills);  
@@ -831,7 +831,7 @@
 --> jaså really? you don't say? indeed; Jaså. I see. 
 --> javisst of course, certainly;   
 --> jo yes; used as a disagreement to a negative statement. Du har inte borstat tänderna, eller hur? - Jo, det har jag. You haven't brushed your teeth, have you? - Yes, I have. Jo, det gör vi. 
---> ett jobb (~et; ~; ~en;) job; a task; a place of work;  drömjobb; a dream job; Mamma tog bilen till jobbet och pappa tog bussen. 
+--> ett jobb (~et; ~; ~en;) job; a task; a place of work; drömjobb; a dream job; Mamma tog bilen till jobbet och pappa tog bussen. 
 --> jobba (verb: ~r; ~de; ~t; ~; ~nde;) 1. to work (to do a specific task); 2. to work; to be employed to do something (for a living);  
 --> jobbig (adjektiv: ~t; ~a; ~are; ~ast;) onerous, arduous, difficult, tiring, requiring or using a lot of energy or strength;  
 --> John Blund the sandman;  
@@ -860,7 +860,7 @@
 --> kall (adjektiv: ~t; ~a; ~are; ~ast;) cold; Det är kallt ute och det regnar. Det är kallt; du borde sätta på dig något med långa ärmar. It's cold; you'd better wear something with long sleeves. Det är tyst och kallt, temperaturen inomhus ligger mellan -3° och -6°C, men på morgonen kan man ta ett bastubad för att värma sig. It is quiet and cold, the temperature inside is between M3 and M6, but in the morning one can take a sauna to warm oneself up. Vinter är årstiden med det kortaste dagarna och kallast temperatur. Winter is the season of shortest days and coldest temperatures. 
 --> kalla (verb: ~r; ~de; ~t; ~; ~nde; ~d;) 1. to call, denote, refer to; to give as a name; 2. to call, request, beckon, summon; Rädslan för flytta eller genomgå förändring kallas tropofobi. The fear of moving or making changes is called tropophobia. 
 --> en kamera camera;  
---> en kamrat (~en; ~er; ~erna;) vän;  companion, comrade, buddy (FM blog); Du är en bra kamrat. 
+--> en kamrat (~en; ~er; ~erna;) vän; companion, comrade, buddy (FM blog); Du är en bra kamrat. 
 --> en kanal channel;  
 --> en kanna (~n; kannor; kannorna;) a pot, a jug - container for water, usually with handle;  
 --> kanske (adverb) maybe, possibly, perhaps;  
@@ -889,7 +889,7 @@
 --> klia (verb: ~r; ~de; ~t; ~; ~nde|~ndes;) to scratch (an itch); Den unga tjejen kliar på utslaget. The young girl is scratching an itch. Jag måste klia mig på armen. 
 --> klicka (verb) to click;  
 --> klippa (verb: klipper; klippte; klippt; klipp; ~nde; klippt;) 1. to cut with scissors, in particular to cut somebody's hair 2.(reflexive) to let someone cut one's hair, to have a haircut 3.to cut; to cease recording activities 4. to perform film editing 5. to cut a credit card into pieces in order to invalidate it. Jag vill klippa mitt hår. 
---> en klocka (~n; klockor; klockorna;) a clock; watch; an instrument used to measure or keep track of time;  För trettio år sedan slog blixten ner i det där klocktornet. Thirty years ago, lightning struck that clock tower. Hur mycket är klockan? Hon är 23:15. Klockan är kvart i fyra. Klockan är tio över tolv. Ursäkta mig, vad är klockan? Excuse me, what time is it?" Vad är klockan? Vi har ett möte imorgon klockan "tio och trettio" (10:30) i City Park Hotel. 
+--> en klocka (~n; klockor; klockorna;) a clock; watch; an instrument used to measure or keep track of time; För trettio år sedan slog blixten ner i det där klocktornet. Thirty years ago, lightning struck that clock tower. Hur mycket är klockan? Hon är 23:15. Klockan är kvart i fyra. Klockan är tio över tolv. Ursäkta mig, vad är klockan? Excuse me, what time is it?" Vad är klockan? Vi har ett möte imorgon klockan "tio och trettio" (10:30) i City Park Hotel. 
 --> klok (adjektiv: ~t; ~a; ~are; ~aste;) wise, intelligent;  
 --> en klåda (~n;) kliande, irritation; (bildligt "lust att göra något"); Synonymer: kliande; itch [figuratively, "desire to do something"]; skrivklåda; itch to write; 
 --> klä (verb: ~r; ~dde; ~tt; ~; ~ende; ~dd;) to clothe, to dress, to wear (clothes); Barn i USA klär ut sig i maskeraddräkter varje år på Halloween. Children in the US wear costumes every year on Halloween. Blir du olika behandlad beroende på hur du klär dig? Are you treated differently depending on how you dress? Ja, man blir det man har på sig. Yes, one becomes what one wears. Men man kan förstås inte klä sig hur som helst! But one can, of course, not dress as one wishes! Så här klär jag mig. 
@@ -1119,7 +1119,7 @@
 --> mala (verb: mal|maler; malde; malt; mal; ~nde; mald|malen;) 1. to grind; to make smaller; 2. to speak ceaselessly, usually about one single subject; Att börja mala sitt eget kaffe är att börja med ett nytt sorts kaffedrickande. När du maler dina kaffebönor själv kan du få ett färskare kaffe med mer smaker och aromer. 
 --> en mamma mom;  
 --> en man (~nen; män; männen;) a man;  
---> man one (pronoun);  `a guy...` (northern Minnesota-ska); Ingen vill ju att ens kompisar ska klä sig konstigt. Nobody wants that ones friends should dress weird. Ursäkta, hur säger man "car" på svenska? Excuse me, how do you say 'car' in Swedish? 
+--> man one (pronoun); `a guy...` (northern Minnesota-ska); Ingen vill ju att ens kompisar ska klä sig konstigt. Nobody wants that ones friends should dress weird. Ursäkta, hur säger man "car" på svenska? Excuse me, how do you say 'car' in Swedish? 
 --> en mark (~en; ~er; ~erna;) 1. (uncountable) ground (as opposed to the sky or the sea); 2. (countable, uncountable) ground, field; Bonden ägde mycket mark; The farmer owned a lot of ground; Ha fast mark under fötterna; to be on terra firma (literally "to have firm ground under (one's) feet") 
 --> en marknad (~en; ~er; ~erna;) market; Var ligger den närmaste marknaden? Where is the nearest market? 
 --> ett markplan ground level;  
@@ -1155,7 +1155,7 @@
 --> messa (verb: ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) (vardagligt) skicka ett textmeddelande; Etymologi: från engelska message; to text, sms, message;  
 --> mest (adverb) most;  
 --> mid- middle;  
---> en middag tid omkring kl 12 på dagen, även kvällsmåltid; dinner 18:00; midday, noon;  Middag hos Aslak 18.00. 
+--> en middag tid omkring kl 12 på dagen, även kvällsmåltid; dinner 18:00; midday, noon; Middag hos Aslak 18.00. 
 --> ett middagsbord dining table;  
 --> midnattsol 24 hours of sun per day because you are so close to a polar region;  
 --> midsommar Midsummer day;  
@@ -1166,7 +1166,7 @@
 --> en mil (~en; ~; ~en;) längdmått; i metersystemet motsvarande 10 km; 10 kilometers; Sverige är 160 mil från norr till söder och 40 mil från väster till öster. 
 --> en miljard billion; 1 000 000 000;  
 --> en miljon million;  
---> en miljö (~n; ~er; ~erna;) environment (area around something); Mest känd har han nog blivit som inredare av offentliga miljöer, t.ex. Stockholms Stadshus och Ulriksdals slott, och för industriell möbeltillverkning. He has probably become most known as an interior designer of public environments, for example Stockholm City Hall and Ulrikdals castle, and for industrial furniture manufacturing.  
+--> en miljö (~n; ~er; ~erna;) environment (area around something); Mest känd har han nog blivit som inredare av offentliga miljöer, t.ex. Stockholms Stadshus och Ulriksdals slott, och för industriell möbeltillverkning. He has probably become most known as an interior designer of public environments, for example Stockholm City Hall and Ulrikdals castle, and for industrial furniture manufacturing. 
 --> min (possessive) my, mine;  
 --> ett minne (~t; ~n; ~na;) 1. memory; component used in computers etc. store information; 2. (uncountable) the amount of information possible to store in a computer memory; 3. the ability of an organism of remembering things, by storing them in the brain; 4. a record of a specific thing remembered; 5. remembrance; souvenir; 6. memorabilia; 7. memoir; 8. (arithmetic) carry; Sju plus åtta ger fem, och ett i minne. Seven and eight gives five, and one to carry. 
 --> minst (adverb) at least; Du bör sova minst åtta timmar varje natt. You should sleep at least eight hours every night. 
@@ -1238,9 +1238,9 @@
 --> en mörketid (~en;) polarnatt eller mörkårstid; från norska `mørketid`;  
 --> en mössa mjukt klädesplagg som bärs på huvudet; a hat; a tuque;  
 --> möta (verb: möter; mötte; mött; möt; ~nde; mött;) to meet; to encounter;  
---> ett möte (~t; ~n; ~na;) a meeting; an appointment;  Chefen håller ett möte. The boss is holding a meeting. Dom anställda håller ett möte i styrelserummet. The employees are having a meeting in the boardroom. Jag stämmer ett möte med någon på tisdag. I arrange a meeting with someone on Tuesday. Vi har ett möte imorgon klockan "tio och trettio" (10:30) i City Park Hotel. 
+--> ett möte (~t; ~n; ~na;) a meeting; an appointment; Chefen håller ett möte. The boss is holding a meeting. Dom anställda håller ett möte i styrelserummet. The employees are having a meeting in the boardroom. Jag stämmer ett möte med någon på tisdag. I arrange a meeting with someone on Tuesday. Vi har ett möte imorgon klockan "tio och trettio" (10:30) i City Park Hotel. 
 --> en nacke (~n; nackar; nackarna;) a back of the neck, nape;  
---> en nalle (~n; nallar; nallarna;) 1. kortform för nallebjörn, ett kramdjur, en leksaksbjörn i tyg eller annat mjukt material med stoppning. 2. (slang, 1980- och 1990-tal) mobiltelefon teddy bear; bear; (colloquial) mobile phone;  Den unga flickan kramade om sin nallebjörn. The young girl hugged her teddy bear. Det är inte tillåtet ta med nallebjörnar till skolan. Bringing teddy bears to school is not allowed. Skiter nallen i skogen? Does a bear poop in the woods? 
+--> en nalle (~n; nallar; nallarna;) 1. kortform för nallebjörn, ett kramdjur, en leksaksbjörn i tyg eller annat mjukt material med stoppning. 2. (slang, 1980- och 1990-tal) mobiltelefon teddy bear; bear; (colloquial) mobile phone; Den unga flickan kramade om sin nallebjörn. The young girl hugged her teddy bear. Det är inte tillåtet ta med nallebjörnar till skolan. Bringing teddy bears to school is not allowed. Skiter nallen i skogen? Does a bear poop in the woods? 
 --> ett namn (~et; ~; ~en;) a name; Typiskt för Ikea-möbler är att de har namn, t.ex. soffan Göteborg och bokhyllan Billy. It is typical for IKEA furniture to have names, for example The Göteborg Sofa and the Billy Bookcase. 
 --> narvära (verb) to attend;  
 --> en natt (~en;) night; Det är mycket bra att kunna, om man flugit vilse om natten. 
@@ -1258,7 +1258,7 @@
 --> nittio ninety;  
 --> nitton nineteen;  
 --> njuta (verb: njuter; njöt; njutit; njut; ~nde; njuten;) to enjoy;  
---> nog (adverb) enough, sufficient; probably;  Du borde nog göra den där uträkningen igen. You should do that calculation once again. 
+--> nog (adverb) enough, sufficient; probably; Du borde nog göra den där uträkningen igen. You should do that calculation once again. 
 --> noll zero;  
 --> Norge (substantiv) Norway;  
 --> normal (adjektiv: ~t; ~a; ~are; ~ast;) bruklig, standard, ej avvikande, följer normen; normal; (I still have issues with this word in general... ;)  
@@ -1353,7 +1353,7 @@
 --> en pannlampa (~n; pannlampor; pannlamporna;) headlamp;  
 --> papegoja (substantiv) parrot;  
 --> en pappa a father;  
---> ett papper (pappret; ~; pappren;) paper; a sheet of paper; a document; a paper or peer reviewed article;  ha sina papper i ordning; have one's papers in order (i.e. passport, visa); Skrivaren har slut på papper. The printer is out of paper. 
+--> ett papper (pappret; ~; pappren;) paper; a sheet of paper; a document; a paper or peer reviewed article; ha sina papper i ordning; have one's papers in order (i.e. passport, visa); Skrivaren har slut på papper. The printer is out of paper. 
 --> pappershandduk paper towel;  
 --> papperskorgen trash;  
 --> en pappersmugg paper cup (for coffee);  
@@ -1369,7 +1369,7 @@
 --> en pasta pasta;  
 --> en patrull (~en;) patrol, squad; Fyradagarspatrull i West of MeS. fyrtiofemtimmarspatrull? 
 --> en paus 1. rast; ledig tid mellan två aktiviteter; 2. (musik) bestämt intervall av tystnad i ett musikaliskt stycke; pause, break;  
---> pendla (verb: ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) svänga fram och tillbaka som en pendel; Synonymer: svänga; to commute; to swing to and fro, oscillate;  pendla mellan Göteborg och Kungsbacka; commute between Göteborg and Kungsbacka; Personerna pendlar till jobbet med tåg. The people are commuting by train. 
+--> pendla (verb: ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) svänga fram och tillbaka som en pendel; Synonymer: svänga; to commute; to swing to and fro, oscillate; pendla mellan Göteborg och Kungsbacka; commute between Göteborg and Kungsbacka; Personerna pendlar till jobbet med tåg. The people are commuting by train. 
 --> en peng (~en; ~ar; ~arna;) coin; money; Nej, jag har inga pengar med mig. No, I have no money with me. Vi hade en diskussion om pengar. We had an argument about money. Visa mig pengarna! Show me the money! Är du medveten om din kollega har hållit på och försnillat pengar? Are you aware that your colleague has been embezzling money? 
 --> en penna (~n; pennor; pennorna;) pen; Min penna har slut på bläck. My pen is out of ink. Pennan är för dålig, den läcker överallt! This pen is unusable, it leaks everywhere! 
 --> en pensionär a retiree;  
@@ -1407,7 +1407,7 @@
 --> ett postnummer zip code;  
 --> en potatis a potatoe;  
 --> en poäng (~en; ~; ~en;) a point, a score; Fel svar ger inga poäng. A wrong answer gives no points. 
---> praktisk (adjektiv: ~t; ~a;) practical; Carl Malmstens möbler förknippas med tidlöst vacker, bekväm och praktisk elegans. Carl Malmsten's furniture is associated with timeless beauty, comfort and practical elegance. De har kopierats i tusental och spridits till nästan alla svenska hem, där man har försökt ta efter det lantligt rustika, praktiska hemmet med en blandning av gamla och nya möbler, ofta målade i glada färger. They have been reproduced in the thousands and distributed to almost all Swedish homes, where they have tried to copy the rural rustic and practical home, a blending of old and new furniture, often painted in bright colors. Förr var träskor det skönaste och mest praktiska jag kunde tänka mig.  Earlier, wooden shoes were the most comfortable and most practical (things) that I could think of. 
+--> praktisk (adjektiv: ~t; ~a;) practical; Carl Malmstens möbler förknippas med tidlöst vacker, bekväm och praktisk elegans. Carl Malmsten's furniture is associated with timeless beauty, comfort and practical elegance. De har kopierats i tusental och spridits till nästan alla svenska hem, där man har försökt ta efter det lantligt rustika, praktiska hemmet med en blandning av gamla och nya möbler, ofta målade i glada färger. They have been reproduced in the thousands and distributed to almost all Swedish homes, where they have tried to copy the rural rustic and practical home, a blending of old and new furniture, often painted in bright colors. Förr var träskor det skönaste och mest praktiska jag kunde tänka mig. Earlier, wooden shoes were the most comfortable and most practical (things) that I could think of. 
 --> prata (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to speak; (more informal than `tala`.) Jag pratar lite japanska. I speak a little japanese. 
 --> en pratkvarn person som pratar (alltför) mycket; a chatterbox (noisy person);  
 --> pratsam (adjektiv: ~t; ~ma;) som pratar mycket, pratsjuk; talkative; chatty, garrulous, loquacious;  
@@ -1571,7 +1571,7 @@
 --> självsäker (adjektiv) confident;  
 --> sjätte sixth; Den sjätte punkten på dagordningen verkar väldigt intressant. The sixth item on the agenda looks very interesting. 
 --> en sjö (~n; ~ar; ~arna;) a lake; a small sea; Gotland är den största ön i Östersjön. Gotland is the largest island in the Baltic Sea. Min farbror har en segelbåt ute på sjön. My uncle has a sailboat out on the lake. 
---> ska (verb: ~; skulle; skolat;) will; shall, have to; to be said to;  Det ska bli så smutt. Jag skulle vilja ha ett riktigt bröllop som Karl och Johanna hade. Mannen ska just ge rosor till sin flickvän. The man is about to give roses to his girlfriend. Ska du sova snart? Will you go to sleep soon? 
+--> ska (verb: ~; skulle; skolat;) will; shall, have to; to be said to; Det ska bli så smutt. Jag skulle vilja ha ett riktigt bröllop som Karl och Johanna hade. Mannen ska just ge rosor till sin flickvän. The man is about to give roses to his girlfriend. Ska du sova snart? Will you go to sleep soon? 
 --> en skada (~n; skador; skadorna;) a damage (abstract measure of something not being intact), a harm, a wound;  
 --> skada (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to harm, to hurt, to damage, to wound; Fordonets passagerare blev inte skadad. The passenger of the vehicle was unharmed. Skada inte paketet. Do not damage the package. Tjugo personer blev allvarligt skadade. Twenty people were seriously injured. Tre människor skadades i olyckan Three people were injured in the accident. 
 --> skaffa (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to get, to acquire, to procure;  
@@ -1627,11 +1627,11 @@
 --> skära till (verb) to cut out; När det var klart skulle lädret skäras till och formas, innan det spikades på träbottnen och sedan målades träet. When it was ready, the leather was cut out and shaped, before it was nailed to the wooden bottoms and then the wood was painted. 
 --> skärbräda cutting board;  
 --> en skärm (~en; ~ar; ~arna;) 1. screen; an informational viewing area; 2. (computer) monitor; 3. screen; a physical divider to block an area from view; 4. visor on a cap;  
---> skärmning Skärmning eller avskärmning innebär inom elektrotekniken att minska det elektromagnetiska fältet i ett utrymme genom att blockera fältet med barriärer bestående av ledande eller magnetiska material.  shielding;  
+--> skärmning Skärmning eller avskärmning innebär inom elektrotekniken att minska det elektromagnetiska fältet i ett utrymme genom att blockera fältet med barriärer bestående av ledande eller magnetiska material. shielding;  
 --> skärp (fancy) belt;  
 --> en sköld shield; Riddaren blockerade slaget med sin sköld. The knight blocked the blow with his shield. 
 --> sköldpadda turtle;  
---> skön (adjektiv: ~t; ~a; ~are; ~ast;) comfortable, beautiful, nice; Förr var träskor det skönaste och mest praktiska jag kunde tänka mig.  Earlier, wooden shoes were the most comfortable and most practical (things) that I could think of. Och glöm inte bort era mål och varför ni tränar, ha en skön sommar och använd era kroppar, det är inte bara i hängmattan som avslappning uppnås! 
+--> skön (adjektiv: ~t; ~a; ~are; ~ast;) comfortable, beautiful, nice; Förr var träskor det skönaste och mest praktiska jag kunde tänka mig. Earlier, wooden shoes were the most comfortable and most practical (things) that I could think of. Och glöm inte bort era mål och varför ni tränar, ha en skön sommar och använd era kroppar, det är inte bara i hängmattan som avslappning uppnås! 
 --> en skörd (~en; ~ar; ~arna;) a harvest;  
 --> ett slag (~et; ~; ~en;) 1. hit; punch; 2. the hit of a ball by a bat or a racket; 3. battle between two armies, navies or air forces; 4. stroke; the striking of a clock; 5. stroke; the time when a clock strikes; 6. (medicine) stroke; a loss of brain function arising when the blood supply to the brain is suddenly interrupted. 7. kind; sort; 8. while; moment; a short period of time; 9. A fold on the legs of a pair of trousers, where about an inch of the leg is folded upwards. Riddaren blockerade slaget med sin sköld. The knight blocked the blow with his shield. 
 --> en slang a hose;  
@@ -1640,7 +1640,7 @@
 --> en slidkniv sheath knife;  
 --> en slips a tie;  
 --> sliten (adjektiv: slitet; slitna;) worn; Nu måste jag hitta mina gamla slitna träskor! Now I must find my old worn wooden shoes! 
---> ett slott (~et; ~; ~en;) a castle; small palace or very large manor; a representative building where fortification - if at all present - is secondary; Mest känd har han nog blivit som inredare av offentliga miljöer, t.ex. Stockholms Stadshus och Ulriksdals slott, och för industriell möbeltillverkning. He has probably become most known as an interior designer of public environments, for example Stockholm City Hall and Ulrikdals castle, and for industrial furniture manufacturing.  Nästan alla hem i Sverige har någon möbel från Ikea, också Kungliga slottet sägs det. Almost all homes in Sweden have some furniture from IKEA, it is also said that the king's castle has some. demyr.us/1BhfPRD 
+--> ett slott (~et; ~; ~en;) a castle; small palace or very large manor; a representative building where fortification - if at all present - is secondary; Mest känd har han nog blivit som inredare av offentliga miljöer, t.ex. Stockholms Stadshus och Ulriksdals slott, och för industriell möbeltillverkning. He has probably become most known as an interior designer of public environments, for example Stockholm City Hall and Ulrikdals castle, and for industrial furniture manufacturing. Nästan alla hem i Sverige har någon möbel från Ikea, också Kungliga slottet sägs det. Almost all homes in Sweden have some furniture from IKEA, it is also said that the king's castle has some. demyr.us/1BhfPRD 
 --> en slump (~en; ~ar; ~arna;) random, chance, happenstance, coincidence; sv.wikipedia.org has a link to `slumpartikel` for a random/chance article. Jag låter inte min framtid avgöras av slumpen. I will not leave my future up to chance. 
 --> ett slut (~et; ~; ~en;) an end; Batteriet är slut. Den blodiga konflikten i Syrien ser tyvärr inget slut och det mänskliga lidandet fortsätter att växa. Jag läste det från början till slut två gånger. I read it from beginning to the end twice. Min penna har slut på bläck. My pen is out of ink. Skrivaren har slut på papper. The printer is out of paper. Slutet av den boken är mycket bra skrivet. The end of that book is very well written. 
 --> sluta (verb: ~r; ~de; ~t; ~; ~nde; ~d;) 1. to stop (come to an end); 2. to quit (e.g. school, a job or a habit); 3. to cease doing something; 4. to finish; to have as a result (from a competition); Efter lunch kan jag inte sluta gäspa. After lunch, I can't stop yawning. Matchen slutade med ett kryss. När det slutar regna, ska vi gå på promenad. When it stops raining we will go for a walk. 
@@ -1650,7 +1650,7 @@
 --> en släkt (~en; ~er; ~erna;) personer som har en gemensam härstamning; family, relatives, ancestors; Jag är släkt med Odinn. 
 --> en släkting (~en; ~ar; ~arna;) relative;  
 --> ett släktträd (~et; ~; ~en;) family tree;  demyr.us/1CfY1Mn 
---> slät (adjektiv: ~t; ~a; ~are; ~ast;) smooth; (if describing coffee) without anything in it;  en slät kopp kaffe; a plain cup of coffee (without anything in it); Hyn ser så slät och fin ut. 
+--> slät (adjektiv: ~t; ~a; ~are; ~ast;) smooth; (if describing coffee) without anything in it; en slät kopp kaffe; a plain cup of coffee (without anything in it); Hyn ser så slät och fin ut. 
 --> slösa (verb: ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) (alltför) lättvindigt ge bort saker, särskilt pengar vid köp av tjänster och produkter; to waste; to squander;  
 --> en smak (~en; ~er; ~erna;) taste; Smaken är som baken, delad. Taste is like your bum, divided (idiom). 
 --> smaka (verb: ~r; ~de; ~t; ~;) to taste; Det smakar gott. It tastes good. Jag smakade ett riktigt gott öl igår. I tasted a really delicious brand of beer yesterday. 
@@ -1693,7 +1693,7 @@
 --> sola (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to lie in the sun;  
 --> en soldat (~en; ~er; ~erna;) a soldier; Ett stridspar är enligt Soldaten i fält lika effektivt som fyra soldater som uppträder individuellt. A buddy team is, according to soldiers in the field, as effective as four soldiers performing individually. 
 --> solig (adjektiv: ~t; ~a; ~are; ~ast;) sunny;  
---> som as, like; as (in the same was that);  Smaken är som baken, delad. Taste is like your bum, divided (idiom). 
+--> som as, like; as (in the same was that); Smaken är som baken, delad. Taste is like your bum, divided (idiom). 
 --> som who, which, that; as (to the same extent|degree that); Här är några människor som bor på Granvägen 4. 
 --> en sommar (~en; somrar; somrarna;) summer;  
 --> sommarlov vacation;  
@@ -1876,7 +1876,7 @@
 --> ett tag (~et; ~; ~en;) 1. a grip, a hold (of something); 2. a stroke (with an oar, in swimming); 3. a while, a moment, a minute, sec, second, tic; Släpp inte taget. Don’t let go. 
 --> ett tak (~et; ~; ~en;) roof, ceiling; Det hänger spindelnät från taket. There are cobwebs hanging from the ceiling. En fin kristallkrona hänger från taket. A fine crystal chandelier hangs from the ceiling. Jag skulle älska ha en trädgård på taket. I would love to have a garden on the roof. 
 --> ett tal (~et; ~; ~en;) number; En smutt grej med filmer från 20-talet är att man får bestämma musiken själv. A nice feature of movies from the 20s is that you can pick your own music. Vad tror du talet innebär? What do you think the speech implied? 
---> tala (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to speak; talk;  Jag talar engelska och lite japanska och lite svenska I speak english, a little japanese and little swedish. Jag talar svenska. I speak Swedish. Vad talar du för språk? What language do you speak? 
+--> tala (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to speak; talk; Jag talar engelska och lite japanska och lite svenska I speak english, a little japanese and little swedish. Jag talar svenska. I speak Swedish. Vad talar du för språk? What language do you speak? 
 --> en tall pine tree;  
 --> en tallrik (~en; ~ar; ~arna;) a plate (a serving dish);  
 --> en tand (~en; tänder; tänderna;) 1. a tooth; in a mouth or on a saw; 2. a tooth, a dent, a cog; on a gearwheel or cogwheel; 3. a tine, a prong (on a fork or comb or similar); Den unga flickan borstar sina tänder med en tandborste. 
@@ -2242,7 +2242,7 @@
 --> ärva inherit;  
 --> äsch interjektion som signalerar att någonting är oviktigt; det är osignifikant, onödigt eller saknar betydelse; strunt i det; Seriously?  
 --> äta (verb: äter; åt; ätit; ät; ~nde; äten;) to eat; Swedes don't have meals, they eat them. Först åt vi och sedan gick vi ut. We ate first, then we went out. Han äter frukost. He eats breakfast. Jag har ätit så mycket jag knappt kan knäppa byxorna! I ate so much I can barely button my pants! 
---> en ätpinne Ätpinnar är pinnar som används i främst Östasien för att äta med.  chopstick;  
+--> en ätpinne Ätpinnar är pinnar som används i främst Östasien för att äta med. chopstick;  
 --> en ättling (~en; ~ar; ~arna;) decendant; Norges kung Harald är ättlingar till Karl XIV Johan. 
 --> även (adverb) too, even, also; För att klara av sin tjänst i Afghanistan måste man även hålla kroppen i trim. Så jag gjorde en jättegod potatisgratäng, som även innehöll morot, broccoli, lök och vitlök. So I made a delicious potato gratin, which included carrot, broccoli, onion and garlic; 
 --> även känd som also known as (a.k.a); Jag är Aslak. 
@@ -2252,14 +2252,14 @@
 --> ett ögonblick moment; instant;  
 --> en ögonbryn an eyebrow;  
 --> öka (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to increase;  
---> en öl (~en;) alkoholdryck som görs av malt, humle och vatten;  beer (a serving, as in one bottle or glass); Ett glas öl. A glass of beer. Kan jag få en öl, tack. Can I have a beer, please. 
---> ett öl (~et; ~; ~en;) alkoholdryck som görs av malt, humle och vatten;  a beer (a kind or brand of beer); Jag smakade ett riktigt gott öl igår. I tasted a really delicious brand of beer yesterday. 
+--> en öl (~en;) alkoholdryck som görs av malt, humle och vatten; beer (a serving, as in one bottle or glass); Ett glas öl. A glass of beer. Kan jag få en öl, tack. Can I have a beer, please. 
+--> ett öl (~et; ~; ~en;) alkoholdryck som görs av malt, humle och vatten; a beer (a kind or brand of beer); Jag smakade ett riktigt gott öl igår. I tasted a really delicious brand of beer yesterday. 
 --> en ölburk (~en; ~ar; ~arna;) a beer can;  
 --> en ölflaska en flaska fylld med öl eller en flaska som det har varit öl i. a beer bottle;  
 --> önska (verb) wish;  
 --> öppet open; Du har ett öppet sinne. You have an open mind. ett öppet brev till regeringen; an open letter to the government; 
 --> öppettider opening hours;  
---> öppna (verb) to open;  Det är så roligt se barn öppna sina julklappar. It's so funny to see children opening their Christmas gifts. 
+--> öppna (verb) to open; Det är så roligt se barn öppna sina julklappar. It's so funny to see children opening their Christmas gifts. 
 --> ett öra an ear;  
 --> öster (adverb) east; eastward; Gotland är den största ön i Östersjön. Gotland is the largest island in the Baltic Sea. Hudson är öster om Minneapolis. 
 --> östra (adjektiv) eastern; Stockholm ligger i östra Sverige. Stockholm lies in eastern Sweden. 
