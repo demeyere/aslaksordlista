@@ -611,11 +611,11 @@
 — ett gym // gym; pronounced hard;  
 — ett gymnasium // last three years of school; an upper secondary school;  
 — en gympa // gymnastics;  
-— gå // (verb: ~r; gick; ~tt; ~; ~ende; ~ngen;) go, walk ... (has 23 other definitions); Förr var folk rädda för mörkret och att gå vilse i skogen. Invände inte din pappa den här gången? Didn't your father object this time? Jag går hem. Maten är dålig, den går inte att äta. This food is off, it can't be eaten. 
+— gå // (verb: ~r; gick; ~tt; ~; ~ende; ~ngen;) go, walk ... (has 23 other definitions); Förr var folk rädda för mörkret och att gå vilse i skogen. Jag går hem. Maten är dålig, den går inte att äta. This food is off, it can't be eaten. 
 — gå på en spaning // go on a RECCE;  
 — gå upp // (verb) go up, get up;  
 — gå ut // (verb) go out; Först åt vi och sedan gick vi ut. We ate first, then we went out. 
-— en gång // (~er;) 1. walk, path, trail; a maintained, usually quite narrow path on which to walk, which in general does not follow next to a road. 2. the number of times a thing happens. Det är inte första gången, och kommer inte heller vara den sista. It's not the first time, and won't be the last. Webbsidan ska förnyas och en ny, enklare adress för sidan är på gång. 
+— en gång // (~er;) 1. walk, path, trail; a maintained, usually quite narrow path on which to walk, which in general does not follow next to a road. 2. the number of times a thing happens. Det är inte första gången, och kommer inte heller vara den sista. It's not the first time, and won't be the last. Invände inte din fru den här gången? Didn't your wife object this time? Webbsidan ska förnyas och en ny, enklare adress för sidan är på gång. 
 — en gång till // one more time;  
 — en gård // yard;  
 — en gås // (~en; gäss; gässen;) a goose; ha en gås oplockad med någon; have a bone to pick with somebody; Två bullriga gäss bor nära dammen. Two noisy geese live near the pond. 
@@ -817,6 +817,7 @@
 — ett intryck // an impression;  
 — inuti // 1. in, within, inside; 2. on the inside; De stora tyckte, att jag skulle sluta med mina teckningar av boaormen utanpå och inuti och hellre intressera mig för geografi, historia, räkning och grammatik. 
 — en invånare // an inhabitant; Stockholm har cirka 800 000 invånare, med förorter cirka 1,7 miljoner. Sverige har över 9 miljoner invånare. Sweden has a population of over 9 million people. 
+— invända // (verb: invänder; invände; invänt; invänd; ~nde; invänd;) Grammatikkommentar: A & x mot y; A & att + S; to argue, to protest; Invände inte din fru den här gången? Didn't your wife object this time? Jag föreslog att vi skulle gå på bio, men Freya invände att hon var trött. ... och där verkar ingen ha något att invända mot det. 
 — invändigt // (adverb) på insiden; internally; Då ritade jag boaormen som den såg ut invändigt, så att de stora skulle förstå vad det var. 
 — irritera // (verb) to irritate;  
 — irriterande // (adjektiv) irritating; En textbit är en låt har spelat på repeat i min hjärna sedan i tisdags, lite irriterande då det är från Kents Ingenting. 
@@ -1393,6 +1394,7 @@
 — planera // (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to plan (to create a plan for); Vi planerade en överraskningsfest i hemlighet. We planned a surprise party in secret. 
 — en plats // (~en; ~er; ~erna;) a place; a room, position, job, area, ground, location, lot...; (uncountable) room, space; Allt på plats. Everything in its place. (Mise en place.) Polisen kom sent till rånplatsen. The police arrived late at the robbery scene. Tror du helvetet är en sådan dålig plats? Do you think that hell will be such a bad place? Vi valde en plats på måfå. We chose a seat at random. 
 — ett plommon // (~et; ~; ~en;) plum;  
+— plugg // (substantiv) (en) something to plug a hole with; (ett) a study (något som du kan plugga); (ett) a potato (spud);  
 — plugga // (verb: ~r; ~de; ~t; ~; ~nde;) 1. to plug; to stop with a plug; 2. (informal) to study, to attend school; 3. to read up, to study intensively, as in preparing for a test; 4. to promote; Jag har varit uppe hela natten och pluggat inför det här provet. I've been up all night studying for this test. 
 — ett plån // liten plan yta som kan användas upprepade gånger;  
 — en plånbok // mindre väska eller fodral för förvaring av pengar, kreditkort och liknande wallet;  
@@ -1408,7 +1410,7 @@
 — en port // (~en; ~ar; ~arna;) 1. an entrance (into a building), a gate, a portal, a door, a doorway. 2. (computing) a port (logical or physical construct in and from which data are transferred). I Gamla stan är det fullt av portar och knutar som man kan gömma sig bakom, och ibland kan jag huka mig bakom någon bil. 
 — en post // entry, item; Post 51 av 102 (sorterade) 
 — ett postnummer // zip code;  
-— en potatis // a potatoe;  
+— en potatis // (~en; ~ar; ~arna;) jordäpple; a potato; potatismos; mashed potatoes; skalpotatis; potatoes in their skins; 
 — en poäng // (~en; ~; ~en;) a point, a score; Fel svar ger inga poäng. A wrong answer gives no points. 
 — praktisk // (adjektiv: ~t; ~a;) practical; Carl Malmstens möbler förknippas med tidlöst vacker, bekväm och praktisk elegans. Carl Malmsten's furniture is associated with timeless beauty, comfort and practical elegance. De har kopierats i tusental och spridits till nästan alla svenska hem, där man har försökt ta efter det lantligt rustika, praktiska hemmet med en blandning av gamla och nya möbler, ofta målade i glada färger. They have been reproduced in the thousands and distributed to almost all Swedish homes, where they have tried to copy the rural rustic and practical home, a blending of old and new furniture, often painted in bright colors. Förr var träskor det skönaste och mest praktiska jag kunde tänka mig. Earlier, wooden shoes were the most comfortable and most practical (things) that I could think of. 
 — prata // (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to speak; (more informal than `tala`.) Jag pratar lite japanska. I speak a little japanese. 
@@ -2120,7 +2122,7 @@
 — en veckodagar // weekday;  
 — ett veckoslut // weekend;  
 — vem // who is;  
-— verka // (verb: ~r; ~de; ~t; ~; ~nde;) 1. to work, to act; 2. to seem as, appear, to have an appearance as of; Den sjätte punkten på dagordningen verkar väldigt intressant. The sixth item on the agenda looks very interesting. Ingen verkar ha tillräckligt med pengar. Nobody seems to have enough money. Mat verkar smaklös när man är förkyld. Food seems tasteless when one has a cold. Våra traditioner måste verka främmande för dig. Our customs must seem alien to you. 
+— verka // (verb: ~r; ~de; ~t; ~; ~nde;) 1. to work, to act; 2. to seem as, appear, to have an appearance as of; Den sjätte punkten på dagordningen verkar väldigt intressant. The sixth item on the agenda looks very interesting. Ingen verkar ha tillräckligt med pengar. Nobody seems to have enough money. Mat verkar smaklös när man är förkyld. Food seems tasteless when one has a cold. ... och där verkar ingen ha något att invända mot det. Våra traditioner måste verka främmande för dig. Our customs must seem alien to you. 
 — verkligen // (adverb) really, in reality, actually, in fact; truly; Det var verkligen roligt prata med dig. It's been a pleasure chatting with you. Geografin har verkligen varit mig till god hjälp. Jag ville veta, om han verkligen förstod någonting. I wanted to know if he really understood anything. 
 — en verklighet // a reality;  
 — en verkstad // (~en; verkstäder; verkstäderna;) 1. workshop; 2. garage; a place where cars are serviced and repaired (short for bilverkstad); Man slog nästan i huvudet när man steg in, för det var så lågt i tak i hans lilla verkstad. One almost bumped his head when he stepped in, because the ceiling was so low in his little workshop. 
