@@ -1,5 +1,5 @@
 — -a // 1. (on an positive adjective) Suffix to mark that the corresponding noun is either in plural or in definite singular form; 2. Marker of definiteness for noun plurals ending in -n (fourth declension). läten; lätena; "sounds; the sounds"; 3. A verb-building suffix that can be added to noun or adjectives, such as disk (“dishes”) >> diska (“do the dishes”) or öl (“beer”) >> öla (“to drink beer”); 4. Create a noun from a numeral, such as tre (“three”) >> trea (“a three; a bronze medalist; a three-room apartment”);  
-— en adress // (~en; ~er; ~erna;) uppgift om var någon bor, bostad an address; a street address; Webbsidan ska förnyas och en ny, enklare adress för sidan är på gång. 
+— en adress // (~en; ~er; ~erna;) uppgift om var någon bor, bostad; an address; a street address; Webbsidan ska förnyas och en ny, enklare adress för sidan är på gång. 
 — en advokat // (~en; ~er; ~erna;) lawyer;  
 — en affär // (~en; ~er; ~erna;) 1. a shop, a store; 2. a deal; an agreement between two parties to trade. 3. an affair; that which is done or is to be done; especially something which receives great public attention. 4. an affair; an adulterous relationship. Jag går till affären, vill du följa med? I'm going to the store, want to go with me? 
 — en afton // (~en; ~ar; ~arna;) 1. (dated) afternoon, evening; 2. (chiefly in compounds) eve;  
@@ -391,7 +391,7 @@
 — fin // (adjektiv: ~t; ~a; ~are; ~ast;) fine; Bara fint. just fine. Du ser fin ut i den klänningen. You look beautiful in that dress. En fin kristallkrona hänger från taket. A fine crystal chandelier hangs from the ceiling. 
 — ett finger // a finger;  
 — finna // (verb: finner; fann; funnit; finn; ~nde; funnen;) to find, to locate, to discover; Sanningen finns därute. The truth is out there. 
-— finnas // (verb: finns; fanns; funnits;) vara, existera, förekomma am, is, are; 483 objekt kunde inte synkroniseras. Mer information finns i iTunes. Det finns lite bröd kvar. There is a little bread left. Det finns lite vatten i flaskan. There is a little water in the bottle. Finns det fler kakor? Are there more cookies? 
+— finnas // (verb: finns; fanns; funnits;) vara, existera, förekomma; am, is, are; 483 objekt kunde inte synkroniseras. Mer information finns i iTunes. Det finns lite bröd kvar. There is a little bread left. Det finns lite vatten i flaskan. There is a little water in the bottle. Finns det fler kakor? Are there more cookies? 
 — fira // (verb) celebrate;  
 — en firma // a firm;  
 — fisa // (verb: fiser; fes; fisit; fis; ~nde; fisen;) to fart;  
@@ -536,7 +536,7 @@
 — förrän // 1. until, before, ere; // the part before the conjunction must be negative; Du får inte gå förrän du gjort klart allt arbete. You can not go until you have finished all work. Inte förrän tio i tio hade Göteborg Energis driftcentral rättat till felet. Not until 9:50 had Göteborg Energis' operations center corrected the mistake. 
 — förskola // preschool;  
 — en förskollärare // a preschool teacher;  
-— ett förslag // en plan om hur något skall göras draft, motion, proposal, suggestion, proposition, idea; Jag har några förslag. I have some suggestions. 
+— ett förslag // en plan om hur något skall göras; draft, motion, proposal, suggestion, proposition, idea; Jag har några förslag. I have some suggestions. 
 — först // (adjektiv: ~; ~a;) first; Det är inte första gången, och kommer inte heller vara den sista. It's not the first time, and won't be the last. Först visste jag inte vad jag skulle säga. At first I didn't know what to say. Först åt vi och sedan gick vi ut. We ate first, then we went out. 
 — förstå // (verb: ~r; förstod; ~tt; ~; ~ende; ~dd;) to understand; Jag förstår inte. Kan du upprepa det? I don't understand. Can you repeat that? Jag ville veta, om han verkligen förstod någonting. I wanted to know if he really understood anything. Ursäkta mig, jag förstår inte. Säga det en gång till, tack. 
 — förstås // (adverb) of course, naturally; Det var ju omodernt en tid, men nu har jag faktiskt sett att träskor börjar komma tillbaka, i olika modeller och material, förstås. The were not modern there for a time, but now I have actually seen that wooden shoes are beginning to come back, in different models and materials, of course. 
@@ -1009,7 +1009,7 @@
 — en kärlek // (~en;) a love;  
 — ett kök // (~et; ~; ~en;) kitchen;  
 — ett kön // (~et; ~; ~en;) sex, gender;  
-— köpa // (verb: köper; köpte; köpt; köp; ~nde; köpt;) skaffa sig något genom att betala för det, handla to buy; to purchase; (Using `köpa` you need to specify what you are buying, with `handla` you do not.) Han köpte tre flaskor öl. 
+— köpa // (verb: köper; köpte; köpt; köp; ~nde; köpt;) skaffa sig något genom att betala för det, handla; to buy; to purchase; (Using `köpa` you need to specify what you are buying, with `handla` you do not.) Han köpte tre flaskor öl. 
 — köra // (verb: kör; körde; kört; kör; ~nde; körd;) 1. to run, to operate, to drive (as in a car); 2. (computing) to execute, run; Jag ska köra bil, så jag tar bara ett glas vatten. I have to drive, so I'll just have a glass of water. Kör mot stan. Drive towards the town. köra diskmaskin; övningköra; driving practice; 
 — köra om // (verb) to pass; to overtake; to pull ahead of; Man får inte köra om på den här vägsträckan. You can't pass on this stretch of road. 
 — ett kött // (~et;) meat, flesh; steka kött i ugnen; roast meat in the oven; 
@@ -1244,7 +1244,7 @@
 — möta // (verb: möter; mötte; mött; möt; ~nde; mött;) to meet; to encounter;  
 — ett möte // (~t; ~n; ~na;) a meeting; an appointment; Chefen håller ett möte. The boss is holding a meeting. Dom anställda håller ett möte i styrelserummet. The employees are having a meeting in the boardroom. Jag stämmer ett möte med någon på tisdag. I arrange a meeting with someone on Tuesday. Vi har ett möte imorgon klockan "tio och trettio" (10:30) i City Park Hotel. 
 — en nacke // (~n; nackar; nackarna;) a back of the neck, nape;  
-— en nalle // (~n; nallar; nallarna;) 1. kortform för nallebjörn, ett kramdjur, en leksaksbjörn i tyg eller annat mjukt material med stoppning. 2. (slang, 1980- och 1990-tal) mobiltelefon teddy bear; bear; (colloquial) mobile phone; Den unga flickan kramade om sin nallebjörn. The young girl hugged her teddy bear. Det är inte tillåtet ta med nallebjörnar till skolan. Bringing teddy bears to school is not allowed. Skiter nallen i skogen? Does a bear poop in the woods? 
+— en nalle // (~n; nallar; nallarna;) 1. kortform för nallebjörn, ett kramdjur, en leksaksbjörn i tyg eller annat mjukt material med stoppning. 2. (slang, 1980- och 1990-tal) mobiltelefon; teddy bear; bear; (colloquial) mobile phone; Den unga flickan kramade om sin nallebjörn. The young girl hugged her teddy bear. Det är inte tillåtet ta med nallebjörnar till skolan. Bringing teddy bears to school is not allowed. Skiter nallen i skogen? Does a bear poop in the woods? 
 — ett namn // (~et; ~; ~en;) a name; Typiskt för Ikea-möbler är att de har namn, t.ex. soffan Göteborg och bokhyllan Billy. It is typical for IKEA furniture to have names, for example The Göteborg Sofa and the Billy Bookcase. 
 — narvära // (verb) to attend;  
 — en natt // (~en;) night; Det är mycket bra att kunna, om man flugit vilse om natten. 
@@ -1397,7 +1397,7 @@
 — plugg // (substantiv) (en) something to plug a hole with; (ett) a study (något som du kan plugga); (ett) a potato (spud);  
 — plugga // (verb: ~r; ~de; ~t; ~; ~nde;) 1. to plug; to stop with a plug; 2. (informal) to study, to attend school; 3. to read up, to study intensively, as in preparing for a test; 4. to promote; Jag har varit uppe hela natten och pluggat inför det här provet. I've been up all night studying for this test. 
 — ett plån // liten plan yta som kan användas upprepade gånger;  
-— en plånbok // mindre väska eller fodral för förvaring av pengar, kreditkort och liknande wallet;  
+— en plånbok // mindre väska eller fodral för förvaring av pengar, kreditkort och liknande; wallet;  
 — ett plåster // a patch;  
 — plötsligt // (adverb) suddenly; without forewarning;  
 — en pojke // (~n; pojkar; pojkarna;) boy;  
@@ -1598,7 +1598,7 @@
 — en skjorta // a shirt; Jag har en vit skjorta på mig. I have a white shirt on me (notice that I am not wearing it... it just happens to be on me. ;) Or apparently you could be clad in something "Jag klädd i en svart skjorta" 
 — skjuta // (verb: skjuter; sköt; skjutit; skjut; ~nde; skjuten;) 1. to shoot; to fire; 2. (sports) to kick a ball or similar; or to hit it with a stick, in order to attempt to score a goal in a sport such as soccer, football, hockey or similar. 3. to push on an object in order to move it; to shove; 3. to protrude, to extend (like a shoot); När Konstantinopel grundades som huvudstad i öst blev staden nytt centrum i det romerska riket, tyngdpunkten sköts bort från Rom. 
 — en sko // (~n; ~r; ~rna;) a shoe; klätterskor 
-— en skog // (~en; ~ar; ~arna;) (geografi) område bestående av stor mängd träd a forest; woods; Fallet är omgivet av skog. The fall is surrounded by forest. Förr var folk rädda för mörkret och att gå vilse i skogen. Jo, han bodde i en gammal stuga i skogen, utanför en liten by. You know, he lived in an old cottage in the woods, outside of a little village. Man ser inte skogen för bara träd. You can't see the forest due to the trees. Skiter nallen i skogen? Does a bear poop in the woods? Vill du fotvandra genom skogen? Do you want to hike through the woods? 
+— en skog // (~en; ~ar; ~arna;) (geografi) område bestående av stor mängd träd; a forest; woods; Fallet är omgivet av skog. The fall is surrounded by forest. Förr var folk rädda för mörkret och att gå vilse i skogen. Jo, han bodde i en gammal stuga i skogen, utanför en liten by. You know, he lived in an old cottage in the woods, outside of a little village. Man ser inte skogen för bara träd. You can't see the forest due to the trees. Skiter nallen i skogen? Does a bear poop in the woods? Vill du fotvandra genom skogen? Do you want to hike through the woods? 
 — en skola // (~n; skolor; skolorna;) a school; De var bästa vänner under alla år i skolan. They were best friends through all years in school. Det är inte tillåtet ta med nallebjörnar till skolan. Bringing teddy bears to school is not allowed. Han vill inte gå till skolan idag. He does not want to go to school today. 
 — skotta // (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to shovel (sand or snow); Följaktligen ägnade jag en del av söndagen åt att kratta ihop nedfallna plommon och skotta upp dem i en skottkärra. Man använder en skyffel för att skotta snö. Pappa hade ryggskott hela helgen, så jag fick skotta. 
 — en skottkärra // (~n; skottkärror; skottkärrorna;) wheelbarrow; Följaktligen ägnade jag en del av söndagen åt att kratta ihop nedfallna plommon och skotta upp dem i en skottkärra. 
