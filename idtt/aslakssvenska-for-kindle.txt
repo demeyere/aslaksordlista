@@ -82,6 +82,7 @@
 — ett barnbarn // a grandchild;  
 — en barnmorska // a midwife;  
 — ett batteri // (~et; ~er; ~erna;) battery; Batteriet är slut. dött batteri; demyr.us/1BEcnpa 
+— battlespace // (substantiv) Battlespace: Miljö, faktorer och förhållanden som måste förstås för att framgångsrikt bekämpa makt, skydda kraften, eller slutföra uppdraget. Detta inkluderar air, land, hav, utrymme, och den medföljande fienden och vänliga krafter, anläggningar, väder, terräng, den elektromagnetiska spektrumet och information miljön inom de operativa områden och områden av intresse. ¶ Befälhavare konceptuella utsikt över området och faktorer som han måste förstå att framgångsrikt tillämpa bekämpa kraft, skydda kraften, och slutföra uppdraget. Omfattar alla tillämpliga delar av luft, hav, utrymme och mark verksamhet att befälhavaren måste överväga att planera och utföra militära operationer. Battlespace dimensioner kan förändras över tiden eftersom uppdraget expanderar eller ett avtal, enligt operativa mål och tvinga sammansättning. Battlespace ger befälhavaren en mental forum för att analysera och välja handlingsalternativ för att anställa militära styrkor i förhållande till tid, tempo och djup. battlespace;  
 — be // (verb: ~r; bad; ~tt; ~; ~ende; ~dd;) 1. to ask for, request someone else to do something; 2. to pray; 3. to beg, to plead with someone for help or for a favor;  
 — befalla // (verb: befaller; befallde; befallt; befall; ~nde; befalld;) order, command; Du kan ej befalla mig! 
 — en befolkning // (~en; ~ar; ~arna;) population; Majoriteten av befolkningen är utblottad. The majority of the population is destitute. 
@@ -1741,7 +1742,7 @@
 — en stad // (~en; städer; städerna;) a city;  
 — en stan // the city; short for staden;  
 — en standard // (~en; ~er; ~erna;) a standard; a norm;  
-— en standardrutin // (~en; ~er; ~erna;) SOP; standing operating procedure;  
+— en standardrutin // (~en; ~er; ~erna;) standardrutiner eller standardförfarande: En uppsättning instruktioner som omfattar dessa funktioner operationer som lämpar sig för en definitiv eller standardiserade förfarande utan att förlora i effektivitet. Förfarande är tillämpliga om inte beställt annars. SOP; standing operating procedure;  demyr.us/1H7nKcK demyr.us/1ALlKQa 
 — stanna // (verb: ~r; ~de; ~t; ~; ~nde; ~d;) 1. avsluta en rörelse; erhålla hastigheten 0 relativt något referenssystem; 2. få att stanna (1.); 3. inte lämna en plats; bli kvar; 1. to stay; to remain at a place; 2. to stop; to cease moving; 3. (colloquial) to turn off (an engine); to stop (someone); to tell or force someone or something to stop (the more formal synonym is stoppa); Vi stannade hos en kompis när flyget blev inställt. We stayed at a friend's place when the flight was canceled. 
 — stark // (adjektiv: ~t; ~a; ~are; ~ast;) 1. strong; able to use great force; 2. strong; capable of withstanding great physical force; 3. strong; highly stimulating to the senses; 4. spicy, hot; with a biting taste; 5. strong; having a high concentration of an essential; possibly alcohol; 6. (grammar) strong; 7. (military) strong; not easily subdued or taken;  
 — en start // a start; drömstart; a dream start; 
