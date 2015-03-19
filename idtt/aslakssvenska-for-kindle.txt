@@ -543,6 +543,7 @@
 — försvinna // (verb: försvinner; försvann; försvunnit; försvinn; ~nde; försvunnen;) to disappear; to vanish;  
 — försvunnen // (adjektiv: försvunnet; försvunna;) lost, missing; Det har varit en intensiv sommar för Hemvärnet i Norrland med många eftersök av försvunna personer. Råd och Tips vid eftersök av försvunnen person. Advice and Tips on tracking the missing person. 
 — en försäkringskassa // insurance company;  
+— en försändelse // (~n; ~r; ~rna;) brev, paket eller annat föremål som skickas som post e.dyl. från ett ställe till ett annat; item of mail, consignment; spåra försändelse; track shipment; 
 — försöka // (verb: försöker; försökte; försökt; försök; ~nde; försökt;) to attempt, to try; Ett dåligt försök, försök igen! A poor attempt, try again! Han misslyckades med sitt försök slå världsrekordet. He failed in his attempt to beat the world record. Jag fick inte hjälpa honom, utan bara titta på när han försökte. I wasn't allowed to help him, only watch him try. 
 — försörja // (verb: försörjer; försörjde; försörjt; försörj; ~nde; försörjd;) to supply, to feed;  
 — förtjust i // (adjektiv) infatuated with  
@@ -935,6 +936,7 @@
 — en kontakt // contact, electrical outlet;  
 — kontakta // (verb) to contact;  
 — kontant // (adjektiv: ~a;) som betalas i mynt och sedlar; cash; in coins and banknotes; Jag behöver betala kontant. Finns det någon bankomat här? I need to pay in cash. Is there an ATM here? Jag skulle hellre vilja få prispengarna kontant. I'd rather receive the prize in cash. 
+— en kontanter // (~; ~na;) fysiska pengar såsom mynt och sedlar; cash;  
 — ett konto // (~t; ~n; ~na;) an account;  
 — ett kontor // (~et; ~; ~en;) an office (room or building);  demyr.us/1DjK4OS 
 — en kopia // (~n; kopior; kopiorna;) a copy, a reproduction, a duplicate;  
@@ -1561,6 +1563,7 @@
 — simma // (verb) to swim;  
 — sin // their; Hon flyttade sin stol. She moved her chair. När grannarna är bortresta, vaktar jag deras hund. När grannarna åker bort tar de med sig sin hund. When the neighbors are traveling, I tend their dog. When the neighbors travel [anywhere], they bring their dog. 
 — en singel // (~n; singlar; singlarna;) a single (recording); an unmarried person without girl- or boyfriend;  
+— ett sinne // (~t; ~n; ~na;) mind, sense; Du har ett öppet sinne. You have an open mind. 
 — sista // (adjektiv) som kommer efter alla andra; last; Det här är sista gången jag kommer varna dig. That's the last time I'm going to warn you. Det är inte första gången, och kommer inte heller vara den sista. It's not the first time, and won't be the last. 
 — sitta // (verb: sitter; satt; suttit; sitt; sitande; sutten;) to sit; Varsågod och sitt. Please sit. 
 — en situation // (~en; ~er; ~erna;) a situation;  
@@ -1731,6 +1734,7 @@
 — ett språk // (~et; ~; ~en;) a language; Hur vågar du använda sådant språk i det här huset?! How dare you use such language in this house?! Vad talar du för språk? What language do you speak? 
 — språka // (verb: ~r; ~de; ~t; ~; ~nde;) to speak; Man undrar också om barnen bara språkar i hemmet och i skolan. Vi språkade en stund och skildes åt. 
 — ett spår // a track; a trail; Tåget mot Malmö avgår kl. 13 från spår 11. The train for Malmö departs at 1 pm from track 11. 
+— spåra // (verb: ~r; ~de; ~t; ~; ~nde; ~d;) to track, to trace; to follow the track or trail of someone/something; spåra försändelse; track shipment; 
 — spänna // (verb: spänner; spände; spänt; spänn;) 1. to stretch, to tighten (a rope, a spring); 2. to pull (the string of) a bow or crossbow; 3. to fasten (a belt), to clamp (put in a spanner), to strap on (skies etc.); 4. to span (to extend across a gap); 5. to build a bridge; 6. (dated, dialect) to kick, to jump; 7. (slang) to spend (time or money);  
 — spännande // (adjektiv) exciting;  
 — ett spöregn // pouring rain;  
