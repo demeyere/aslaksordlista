@@ -500,7 +500,7 @@
 — för // because;  
 — för // 1. for, for the sake of something or somebody; 2. Used before the object of verbs indicating movement in conjunction with upp and ner; Jag är inte på humör för skämt. I'm not in the mood for jokes. Sätt kryss för rätt svar. Vad talar du för språk? What language do you speak? 
 — för // (adverb) too; to an excessive degree; Jag söp för mycket i helgen. I drank too much last weekend. 
-— för att // (adverb) in order to; För att klara av sin tjänst i Afghanistan måste man även hålla kroppen i trim. 
+— för att // (adverb) in order to; IOT; För att klara av sin tjänst i Afghanistan måste man även hålla kroppen i trim. 
 — för- // 1. fore-, at the front, before; related to German vor-, emphasis on 1st syllable, see also före-; 2. for-, en-, an intensifier; related to German ver-, emphasis on 2nd syllable;  
 — föra // (verb: för; förde; fört; för; ~nde; förd;) 1. to lead in a partner dance; 2. steer; to guide the course of; to bring from one point to another; 3. to lead, to direct; to steer; 4. to keep (as in a diary or logbook); föra krig; Upproret förde med sig de sociala förändringar som behövdes. The uprising brought about the needed social changes. 
 — en förare // (~n; ~; förarna;) a driver; one who drives a motorized vehicle;  
@@ -1737,7 +1737,7 @@
 — en stad // (~en; städer; städerna;) a city;  
 — en stan // the city; short for staden;  
 — en standard // (~en; ~er; ~erna;) a standard; a norm;  
-— ett standardförfarande // standard operating procedure;  
+— en standardrutin // (~en; ~er; ~erna;) SOP; standing operating procedure;  
 — stanna // (verb: ~r; ~de; ~t; ~; ~nde; ~d;) 1. avsluta en rörelse; erhålla hastigheten 0 relativt något referenssystem; 2. få att stanna (1.); 3. inte lämna en plats; bli kvar; 1. to stay; to remain at a place; 2. to stop; to cease moving; 3. (colloquial) to turn off (an engine); to stop (someone); to tell or force someone or something to stop (the more formal synonym is stoppa); Vi stannade hos en kompis när flyget blev inställt. We stayed at a friend's place when the flight was canceled. 
 — stark // (adjektiv: ~t; ~a; ~are; ~ast;) 1. strong; able to use great force; 2. strong; capable of withstanding great physical force; 3. strong; highly stimulating to the senses; 4. spicy, hot; with a biting taste; 5. strong; having a high concentration of an essential; possibly alcohol; 6. (grammar) strong; 7. (military) strong; not easily subdued or taken;  
 — en start // a start; drömstart; a dream start; 
