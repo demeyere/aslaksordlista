@@ -446,6 +446,7 @@
 — en fredag // Friday;  
 — fri // (adjektiv: ~tt; ~a; ~aste; ~ast;) free, unconstrained; Vi sov i det fria, under stjärnorna. We slept in the open, under the stars. 
 — fria // (verb) to propose (to someone); — Är det inte mannen som ska fria? undrar Daniel och ler. 
+— en friktion // (~en;) 1. gnidning mot yta utefter vilken en kropp rör sig; 2. (fysik) kontaktkraft som motsätter sig relativ rörelse mellan två vid varandra rörande objekt; 3. (generaliserat) motsättningar och samarbetsproblem mellan två eller flera personer; friction (conflict) (uncountable);  
 — ett frimärke // (~n;) postage stamp;  
 — frisk // (adjektiv: ~t; ~a; ~are; ~ast;) 1. healthy. 2. fresh; refreshing. friska luften; (the) fresh air; 
 — en frisyr // (~en; ~er; ~erna;) hairstyle, haircut;  
@@ -952,6 +953,7 @@
 — kort // (adjektiv: ~; ~a; ~are; ~ast;) short; Vilket kort ska jag välja? Which card should I choose? 
 — en korv // (~en; ~ar; ~arna;) sausage, banger;  
 — kosta // (verb: ~r; ~de; ~t; ~; ~nde;) to cost; Den kostar 298 kr. Det kostar tio kronor fylla på din dricka. It costs 10 crowns to refill your drink. 
+— en kraft // (~en; ~er; ~erna;) 1. styrka, förmåga, energi, ork; 2. vara i kraft (gälla), träda i kraft (börja gälla). 3. (fysik) storhet; betecknas F; en kraft får en massa eller kropp att accelerera; mäts i newton; 1. (physics) a force (physical quantity that denotes ability to accelerate a body); 2. strength, power;  
 — kraftig // (adjektiv: ~t; ~a; ~are; ~ast;) 1. strong, solid; 2. sturdy (also used as a euphemism for fat people);  
 — en kram // a hug;  
 — krama // (verb: ~r; ~de; ~t; ~; ~nde; ~d;) 1. to hug (embrace); 2. to squeeze, to press (from all directions around contemporarily); Den unga flickan kramade om sin nallebjörn. The young girl hugged her teddy bear. 
