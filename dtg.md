@@ -33,7 +33,7 @@ månader
 
 Relative dates
 --------------
-+ iförrigår
++ iförrgår
 + igår
 + imorse
 + idag
