@@ -1,5 +1,5 @@
 process: being absorbed into the aslakssvenska databas
-revised: 2015-02-09 09:55 
+revised: 2015-04-14 14:13 
 keywords: 
 
 
@@ -190,28 +190,17 @@ _Jag kommer att köpa en bil idag_ I will buy a car today or I'm going to buy a 
 
 ## Saturday, October 20, 2007
 
-###  How to pronounce å, ä and ö
-
-Åå
-
-What you could think of here is the English word "afford". The 'o'-sound is very close to what 'å' sounds like. A fun fact is that "ha råd med" in Swedish means to afford something, so the word "råd" actually contains the letter defined here. "Råd" by itself means "a piece of advice".
+"ha råd med" means to afford something.
+"Råd" by itself means "a piece of advice".
   
 _Åkomma_ - Disease
 _Får_ - Sheep
 _Påle_ - Pole
 
-  
-Ää
-
-The word "hair" works well for this letter. "Här" sounds exactly the same (except for our r's, of course) and means "here".
-
 _Ärlig_ - Honest
 
   
-Öö
-
-Think of the vowel sound in words like "bird" and "girl". That's the closest sound I can think of that resembles 'ö'. By itself, "ö" means "island".
-  
+"ö" means "island".
 _ödslig_ - deserted, desolate
 _frö_ - seed
 
@@ -220,7 +209,6 @@ _frö_ - seed
 
 ###  Words related to computers & Internet
 
-Motherboard - Moderkort
 Mouse - Mus
 Program - Program
 Printer - Skrivare
