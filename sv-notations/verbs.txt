@@ -1,0 +1,43 @@
+
+Verbs
+=================
+
+About 80% of Swedish verbs group 1 verbs. This is the only productive verb group.
+
+The stem of a verb is based on its present tense. If the present tense ends in `-ar`, the `-r` is removed to form the stem. If the present tense ends in `-er`, the `-er` is removed. For short verbs, the `-r` is removed.
+
+The imperative is the same as the stem.
+
+For group 1 verbs, the stem ends in `-a`, the infinitive is the same as the stem, the present tense ends in `-r`, the past tense in `-de`, the supine in `-t`, and the past participle in `-d`, `-t`, and `-de`.
+
+For group 2 verbs, the stem ends in a consonant, the infinitive ends in `-a`, and the present tense in `-er`. Group 2 verbs are further subdivided into group 2a and 2b. For group 2a verbs, the past tense ends in `-de` and the past participle in `-d`, `-t`, and `-da`. For group 2b verbs, the past tense ends in `-te` and the past participle in `-t`, `-t`, and `-ta`. This is in turn decided by whether the stem ends in a voiced or a voiceless consonant. For example, the stem of `heta` is `het`, and as `t` is a voiceless consonant the past tense ends in `-te`, making `hette` the past tense. If the stem ends in a voiced consonant however, as in `Stör-a` (to disturb), the past tense ends in `-de` making `störde` the past tense.
+
+For group 3 verbs, the stem ends in a vowel that is not `-a`, the infinitive is the same as the stem, the present tense ends in `-r`, the past tense in `-dde`, the supine in `-tt`, and the past participle in `-dd`, `-tt`, and `-dda`.
+
+Group 4 verbs are strong and irregular verbs. Many commonly used verbs belong to this group. For strong verbs, the vowel changes for the past and often the supine, following a definite pattern, for example, `stryka` is a strong verb that follows the `u/y`, `ö`, `u` pattern. Irregular verbs, such as `vara` (to be), are completely irregular and follow no pattern. As of lately, an increasing number of verbs formerly conjugated with a strong inflection has been subject to be conjugated with its weak equivalent form in colloquial speech.
+
+
+     infinitiv   imperativ   presens    imperfekt   supinum    perfekt particip
+------------------------------------------------------------------------------------------
+1    kalla       kalla       kallar     kallade     kallat     kallad / kallat / kallade
+2a   stänga      stäng       stänger    stängde     stängt     stängd / stängt / stängda
+2b   läsa        läs         läser      läste       läst       läst / läst / lästa
+3    sy          sy          syr        sydde       sytt       sydd / sytt / sydda
+4    stryka      stryk       stryker    strök       strukit    struken / struket / strukna
+4    vara        var         är         var         varit      -
+
+
+
+Examples of tenses with English translations
+--------------------------------------------
+Tense            English           Swedish
+Infinitive       To work           Att arbeta
+Present Tense    I work            Jag arbetar
+Past Tense       I worked          Jag arbetade
+Past Perfect     I have worked     Jag har arbetat
+
+
+
+källor
+-----------------
+http://en.wikipedia.org/wiki/Swedish_grammar#Verbs

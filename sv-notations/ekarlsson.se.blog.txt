@@ -1,5 +1,5 @@
 process: being absorbed into the aslakssvenska databas
-revised: 2015-04-14 14:13 
+revised: 2015-04-19 19:15 
 keywords: 
 
 
@@ -70,28 +70,6 @@ Having lunch - luncha
 ## Tuesday, August 21, 2007
 
 ###  Dates and different times of day
-
-First - Första
-Second - Andra
-Third - Tredje
-Fourth - Fjärde
-Fifth - Femte
-Sixth - Sjätte
-Seventh - Sjunde
-Eighth - Åttonde
-Ninth - Nionde
-Tenth - Tionde
-Eleventh - Elfte
-Twelfth - Tolfte
-Thirteenth - Trettonde
-Fourteenth - Fjortonde
-Fifteenth - Femtonde
-Sixteenth - Sextonde
-Seventeenth - Sjuttonde
-Eighteenth - Artonde
-Nineteenth - Nittonde
-Twentieth - Tjugonde
-
 
 Clock:  
 
@@ -254,8 +232,7 @@ Låt maten tysta munnen.
 ###  verbs in present, imperfect and past tense
 
 riva, rev, rivit - tear, tore, torn  
-berätta; säga till, berättade; sade till, berättat; sagt till - tell, told, told  
-tänka; tycka; tro, tänkte; tyckte; trodde, tänkt; tyckt; trott - think, thought, thought  
+säga till, sade till, sagt till - tell, told, told  
 
 
 ## Friday, March 14, 2008
@@ -263,7 +240,6 @@ tänka; tycka; tro, tänkte; tyckte; trodde, tänkt; tyckt; trott - think, thoug
 ###  Possessive pronouns in Swedish
 
 The words "sin", "sitt" and "sina" are reflexive possessive pronouns in Swedish. According to Wikipedia, "A reflexive pronoun is a pronoun that is preceded by the noun or pronoun to which it refers (its antecedent) within the same clause".
-
   
 As you can see, it doesn't differ between genders. But here's the tricky part. Remember en, ett, den and det? The reflexive possessive pronoun changes because of the noun being used in the sentence (in this case, stol becomes stolen when defined, since it's "en stol - a chair" and "stolen - the chair").
 
@@ -289,7 +265,7 @@ janitor - vaktmästare
 cleaning - städning
 electricity - elektricitet
 doorknob - dörrhandtag
-pull - rycka, dra
+pull - rycka
 hinge - gångjärn
 slumped - hopsjunken
 identify - identifiera
@@ -305,9 +281,3 @@ Criticize - Kritisera
 Disturb - Störa
 Release - Frigöra, Släppa
 Reflect - Reflektera
-
-###  English words that mean something else in Swedish
-
-Master - Masts (plural)
-Spark - Kick
-Talk - Talcum (powder)
