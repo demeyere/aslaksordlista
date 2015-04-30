@@ -192,59 +192,86 @@ RESTIPS: Cornelisrnuseet i Gamla Stan i Stockholm.
 
 
 Minns du ordet? 9
-Sätt in ordet i rätt form!
-missförstå
-öka
-lämplig
-bruka
-skaffa
-främst
-sjunka
-anse
+=================
+
+lämplig = suitable, appropriate, apposite
+bruka = to be in the habit of
+skaffa = to get, to acquire, to procure
+sjunka = sink (descend into liquid, etc)
+
 
 1. Priset på kaffe har blivit lägre, läser Åsa i tidningen.
-Priset på kaffe har ________ _
-sortera
-jämföra
+Priset på kaffe har ________
+
+öka = to increase
+
 
 2. Margit tänker inte ha en låda på balkongen med matrester och maskar.
 Hon tänker inte _________ sig en kompost.
 
+
 3. Bara fyra av hundra personer tycker att miljön är den viktigaste frågan.
 Det är inte så många som _________ att miljön är viktigast.
 
+anse = to be of an opinion, feel, think, believe
+
+
 4. Daniel kopplade ihop datorn fel för han förstod inte instruktionerna.
-Han hade helt instruktionerna.
+Han hade helt ___________ instruktionerna.
+
+missförstå = to misunderstand
+
 
 5. Allt fler turister åker på charterresa.
-Antalet charterturister har ________ _
+Antalet charterturister har ________.
 
 6. Resmålet var oftast Italien.
 Resmålet var _________ Italien.
 
+främst = foremost, first (in position or rank)
+
+
 7. Det är vanligt att miljöfrågor ingår i olika kurser på universitetet.
-Miljöfrågor ingå i olika kurser på universitetet.
+Miljöfrågor ______________ ingå i olika kurser på universitetet.
 
 8. Åsa är noga med att kasta olika sopor i olika containrar.
 Hon tycker att det är viktigt att _________ sina sopor.
 
+sortera = to sort
+
+
 9. Daniel undrar om det passar att ringa efter filmen.
 Han undrar om det är _________ att ringa efter filmen.
 
-10. Åsa tittade noga på priserna för hon ville köpa den billigaste frukten.
-Åsa priserna på frukten.
 
+10. Åsa tittade noga på priserna för hon ville köpa den billigaste frukten.
+Åsa _______________  priserna på frukten.
+
+jämföra = to compare
+
+
+- - -
 
 HÖRFÖRSTÅELSE 9
 Äpplet - kunskapens frukt
 Svara kortfattat på frågorna!
+
 l. Vad är ett musteri?
+
 2. Var i landet odlas flest äpplen?
+
 3. Hur många kilo äpplen köper medelsvensken per år?
+
 4. Hur stor del av dem odlas i Sverige?
+
 5. Varifrån importerar Sverige äpplen?
+
 6. Hur länge vet man att det har odlats äpplen i Europa?
+
 7. Vem var ldun?
+
 8. Varifrån kommer uttrycket kunskapens frukt?
+
 9. Vem var Wilhelm Tell?
+
 10. Hur, sägs det, fick Isaac Newton iden till gravitationsteorin?
