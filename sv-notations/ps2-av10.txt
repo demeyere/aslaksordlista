@@ -40,9 +40,16 @@ Vem har rätt?
 
 Följande insändare fanns häromveckan i en vanlig dagstidning:
 
+// insändare = letter to the editor; 
+// häromveckan = the other week?; like häromdagen = the other day;
+
 Vem är det fel på egentligen?
 
+// egentligen = adv. really;
+
 Jag är en gift medelålders man med två tonårsdöttrar.
+
+// tonåring = teenager;
 
 Vi har alltid haft ett bra familjeförhållande tills för några månader sen, i alla fall. Då gick
 min fru och mina döttrar på en matlagningskurs. Efter det är inget sig likt. Inga goda
@@ -50,21 +57,40 @@ middagar med vanlig hederlig husmanskost när man kommer hem efter en tröttsam 
 på jobbet. Ingen korv, inga bruna bönor med knaperstekt bacon, inga härligt doftande
 fläskkotletter med kokt potatis och brun sås, ingen söndagsstek ...
 
+// förehållande = relationship
+// tills = until
+// inget
+// likt
+// hederlig = honest, straight
+// knaperstekt = crispy, crispy fried
+// härligt = wonderful
+// söndagsstek = Sunday Roast -- recipe
+
 Nej , nu är allt kött bannlyst, det är bara sojabiffar, grovt, oätligt ris, grönsaker
 och olika juicer. Sojabiffar!!! Bara ordet får mig att må illa. Biff, det är kött det, inte
 tillplattad, illaluktande röra. Får man kalla saker för vad som helst?.
+
+// att bannlysa = excommunicate, prohibit, ban
+// oätlig = som inte går att äta /på grund av giftighet eller alltför dålig smak/
+// att tillplatta = flatten, compress
+// illaluktande = smelly
 
 Förstå mig rätt, de får gärna äta vad de vill. Men jag vill ha - och behöver - riktig
 mat! "Det är för ditt eget bästa", får jag höra om jag försöker protestera. "Vi vill att
 du ska må bra. Du säger att du gillar djur, men det verkar inte så. Ta ditt ansvar!" Det
 är ju det jag försöker göra.
 
+// ansvar = responsibility
+
 Människan är allätare och har alltid varit det, försöker jag säga, men ingen lyssnar.
 Vad ska jag göra?
+
+// allätare = omnivore
 
 Hjälp en morotsjuicehatande korvälskare!
 
 P.S. Måste katten också bli vegetarian?
+
 
 Några dagar senare kunde man läsa en annan insändare i samma tidning:
 
@@ -75,6 +101,8 @@ i fångenskap, och sedan bara döda dem och äta deras kött och inälvor. Djur 
 varelser som har känslor! Stoppa djurens lidande! Mamma har samma inställning som
 vi. Men pappa bara gormar och skriker att han vill ha "riktig mat". Han kan inte förstå
 vad vi menar. Är han korkad, eller?
+
+// övertyga = to convince, persuade
 
 Det är äckligt att höra honom svamla om korvar och bacon och jag vet inte allt.
 Är någon annan i samma situation som vi?
