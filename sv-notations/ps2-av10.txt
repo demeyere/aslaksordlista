@@ -51,11 +51,7 @@ Jag är en gift medelålders man med två tonårsdöttrar.
 
 // tonåring = teenager;
 
-Vi har alltid haft ett bra familjeförhållande tills för några månader sen, i alla fall. Då gick
-min fru och mina döttrar på en matlagningskurs. Efter det är inget sig likt. Inga goda
-middagar med vanlig hederlig husmanskost när man kommer hem efter en tröttsam dag
-på jobbet. Ingen korv, inga bruna bönor med knaperstekt bacon, inga härligt doftande
-fläskkotletter med kokt potatis och brun sås, ingen söndagsstek ...
+Vi har alltid haft ett bra familjeförhållande tills för några månader sen, i alla fall. Då gick min fru och mina döttrar på en matlagningskurs. Efter det är inget sig likt. Inga goda middagar med vanlig hederlig husmanskost när man kommer hem efter en tröttsam dag på jobbet. Ingen korv, inga bruna bönor med knaperstekt bacon, inga härligt doftande fläskkotletter med kokt potatis och brun sås, ingen söndagsstek ...
 
 // förehållande = relationship
 // tills = until
@@ -66,24 +62,18 @@ fläskkotletter med kokt potatis och brun sås, ingen söndagsstek ...
 // härligt = wonderful
 // söndagsstek = Sunday Roast -- recipe
 
-Nej , nu är allt kött bannlyst, det är bara sojabiffar, grovt, oätligt ris, grönsaker
-och olika juicer. Sojabiffar!!! Bara ordet får mig att må illa. Biff, det är kött det, inte
-tillplattad, illaluktande röra. Får man kalla saker för vad som helst?.
+Nej , nu är allt kött bannlyst, det är bara sojabiffar, grovt, oätligt ris, grönsaker och olika juicer. Sojabiffar!!! Bara ordet får mig att må illa. Biff, det är kött det, inte tillplattad, illaluktande röra. Får man kalla saker för vad som helst?.
 
 // att bannlysa = excommunicate, prohibit, ban
 // oätlig = som inte går att äta /på grund av giftighet eller alltför dålig smak/
 // att tillplatta = flatten, compress
 // illaluktande = smelly
 
-Förstå mig rätt, de får gärna äta vad de vill. Men jag vill ha - och behöver - riktig
-mat! "Det är för ditt eget bästa", får jag höra om jag försöker protestera. "Vi vill att
-du ska må bra. Du säger att du gillar djur, men det verkar inte så. Ta ditt ansvar!" Det
-är ju det jag försöker göra.
+Förstå mig rätt, de får gärna äta vad de vill. Men jag vill ha - och behöver - riktig mat! "Det är för ditt eget bästa", får jag höra om jag försöker protestera. "Vi vill att du ska må bra. Du säger att du gillar djur, men det verkar inte så. Ta ditt ansvar!" Det är ju det jag försöker göra.
 
 // ansvar = responsibility
 
-Människan är allätare och har alltid varit det, försöker jag säga, men ingen lyssnar.
-Vad ska jag göra?
+Människan är allätare och har alltid varit det, försöker jag säga, men ingen lyssnar. Vad ska jag göra?
 
 // allätare = omnivore
 
@@ -96,11 +86,7 @@ Några dagar senare kunde man läsa en annan insändare i samma tidning:
 
 Vad ska vi göra med pappa?
 
-Min syster och jag är övertygade vegetarianer. Vi inser hur fel det är att föda upp djur
-i fångenskap, och sedan bara döda dem och äta deras kött och inälvor. Djur är levande
-varelser som har känslor! Stoppa djurens lidande! Mamma har samma inställning som
-vi. Men pappa bara gormar och skriker att han vill ha "riktig mat". Han kan inte förstå
-vad vi menar. Är han korkad, eller?
+Min syster och jag är övertygade vegetarianer. Vi inser hur fel det är att föda upp djur i fångenskap, och sedan bara döda dem och äta deras kött och inälvor. Djur är levande varelser som har känslor! Stoppa djurens lidande! Mamma har samma inställning som vi. Men pappa bara gormar och skriker att han vill ha "riktig mat". Han kan inte förstå vad vi menar. Är han korkad, eller?
 
 // övertyga = to convince, persuade
 // inse = realize; to become aware of
@@ -113,8 +99,7 @@ vad vi menar. Är han korkad, eller?
 // skrika = scream, cry
 // korkad = Synonymer: dum, ointelligent, trög, blåst
 
-Det är äckligt att höra honom svamla om korvar och bacon och jag vet inte allt.
-Är någon annan i samma situation som vi?
+Det är äckligt att höra honom svamla om korvar och bacon och jag vet inte allt. Är någon annan i samma situation som vi?
 
 // äcklig = disgusting
 // svamla = to ramble
@@ -127,11 +112,11 @@ Fröken Vega Taria
 
 P.S. Vi misstänker att pappa smyger iväg till en korvkiosk ibland. Det är så man kan spy!
 
+// misstänka = to suspect
 // smyga = to sneak
 
-DISKUTERA: Vilka är dina reaktioner på insändarna? Argumentera för och emot pappan
-och dottern. Hur påverkas vi av debatter om sjuka djur och djurhantering? Använd så många
-ord och uttryck som möjligt från texten!
+DISKUTERA: Vilka är dina reaktioner på insändarna? Argumentera för och emot pappan och dottern. Hur påverkas vi av debatter om sjuka djur och djurhantering? Använd så många ord och uttryck som möjligt från texten!
+
 UPPSATS: Välj en av insändarna och skriv ett svar!
 
 
