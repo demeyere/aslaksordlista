@@ -1,0 +1,95 @@
+revised: 2013-07-01 11:48
+
+
+Personal Pronouns
+-----------------
+jag: I
+du: you
+han: he
+hon: she
+den/det: it
+vi: we
+ni: you (plural)
+de: them (pronounced dem) // dem där traktors ;)
+
+
+Siffror
+-----------------
+noll:        0
+en,ett:      1
+två:         2
+tre:         3
+fyra:        4
+fem:         5
+sex:         6
+sju:         7
+åtta:        8
+nio:         9
+tio:        10
+elva:       11
+tolv:       12
+tretton:    13
+fjorton:    14
+femton:     15
+sexton:     16
+sjutton:    17
+arton:      18
+nitton:     19
+tjugo:      20
+tjugotvå:   22
+trettiotre: 33
+fyrtiofyra: 44
+femtiofem:  55
+sextiosex:  66
+sjuttiosju: 77
+åttioåtta:  88
+nittionio:  99
+hundra:    100
+tusen:    1000
+en miljon:           1 000 000
+femton miljoner:    15 000 000
+en miljard:      1 000 000 000
+en biljon:   1 000 000 000 000
+- - -
+
+första
+andra
+tredje
+fjärde
+femte
+sjätte
+sjunde
+åttonde
+nionde
+tionde
+elfte
+tolfte
+tretonde
+fjortonde
+
+- - -
+
+måndag: Monday
+tisdag: Tuesday
+onsdag: Wednesday
+torsdag: Thursday
+fredag: Friday
+lördag: Saturday
+söndag: Sunday
+
+- - -
+
+röd: red
+blå: blue
+grön: green
+gul: yellow
+brun: brown
+vit: white
+svart: black
+lila: purple
+rosa: pink
+grå: gray
+blågrön: teal
+mörkblå: dark blue
+marinblå: navy blue
+mörkgrå: dark grey

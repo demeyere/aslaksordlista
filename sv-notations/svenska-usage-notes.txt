@@ -1,0 +1,39 @@
+
+lära
+-----------------
+
+The verb `lära` requires the presence of two objects; `who is learning` and `what is being learnt`. If the one who is learning is the same as the subject of the clause, the reflexive pronoun `sig` must be placed immediately after the verb, and the construction is understood as `to learn` or `study`. If however the one who is learning is `not` the same as the subject of the clause, the construction is understood as `to teach` or `instruct`. In both cases the subject/matter being learnt must follow.
+
+If `who is learning` is the same as the subject (co-referential), the source of the knowledge being imparted may be specified by a prepositional phrase headed by either `av` or `från`. If this source is an active instructor, `av` is preferred, and if a passive source; then `från` is the preferred choice.
+
+* Jag lär mig franska av min vän.
+* I am learning French from my friend.
+* Jag lär mig franska från en bok.
+* I am learning French from a book.
+
+If the source of knowledge is practice or another activity, this may be conveyed through a subordinate clause, headed by genom:
+
+* Jag lär mig franska genom att prata med en vän.
+* I am learning French by talking to a friend.
+
+
+
+stå
+----------------
+
+* The verb `stå` is often used in constructions such as `stå och <another verb>`. These constructions impart some of the same sense that is commonly expressed in English through the use of a present participle, that is they show that it is an ongoing activity. The standing as such is a minor issue:
+
+** Vad står du och glor på? - What are you staring at?
+** Han bara står och mumlar. - He is just mumbling.
+
+* Note that the verbs `sitta` (to sit) and `ligga` (to lie down) may be used in a similar manner if the activity is taking place sitting or lying down.
+
+* In speech it is pretty common to use `stog` as past tense. However, it is is pretty uniformly considered an error due to a mix up with the verb `slå`, where the past tense indeed is `slog`.
+
+
+
+böra
+-----------------
+
+Böra indicates a recommendation or probability, or obligation perceived from the point of the speaker. This differs from måste which signifies an absolute requirement or even force. The difference between present tense bör and past tense borde is not so much of tense, but of the strength of the request. Borde is less strong and perceived as more polite, and is more like making a suggestion that the subject is free to ignore. In the case of statements of reality such as Det borde fungera, borde indicates more uncertainty then bör; the speaker is not sure if it will work, but they believe it will.
+
