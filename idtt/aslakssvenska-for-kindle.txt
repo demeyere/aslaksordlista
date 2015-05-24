@@ -94,7 +94,7 @@
 — ett barnbarn // a grandchild;  
 — en barnmorska // a midwife;  
 — ett batteri // (~et; ~er; ~erna;) battery; Batteriet är slut. dött batteri; demyr.us/1BEcnpa 
-— battlespace // (substantiv) Battlespace: Miljö, faktorer och förhållanden som måste förstås för att framgångsrikt bekämpa makt, skydda kraften, eller slutföra uppdraget. Detta inkluderar air, land, hav, utrymme, och den medföljande fienden och vänliga krafter, anläggningar, väder, terräng, den elektromagnetiska spektrumet och information miljön inom de operativa områden och områden av intresse. ¶ Befälhavare konceptuella utsikt över området och faktorer som han måste förstå att framgångsrikt tillämpa bekämpa kraft, skydda kraften, och slutföra uppdraget. Omfattar alla tillämpliga delar av luft, hav, utrymme och mark verksamhet att befälhavaren måste överväga att planera och utföra militära operationer. Battlespace dimensioner kan förändras över tiden eftersom uppdraget expanderar eller ett avtal, enligt operativa mål och tvinga sammansättning. Battlespace ger befälhavaren en mental forum för att analysera och välja handlingsalternativ för att anställa militära styrkor i förhållande till tid, tempo och djup. battlespace;  
+— ett battlespace // Battlespace: Miljö, faktorer och förhållanden som måste förstås för att framgångsrikt bekämpa makt, skydda kraften, eller slutföra uppdraget. Detta inkluderar air, land, hav, utrymme, och den medföljande fienden och vänliga krafter, anläggningar, väder, terräng, den elektromagnetiska spektrumet och information miljön inom de operativa områden och områden av intresse. ¶ Befälhavare konceptuella utsikt över området och faktorer som han måste förstå att framgångsrikt tillämpa bekämpa kraft, skydda kraften, och slutföra uppdraget. Omfattar alla tillämpliga delar av luft, hav, utrymme och mark verksamhet att befälhavaren måste överväga att planera och utföra militära operationer. Battlespace dimensioner kan förändras över tiden eftersom uppdraget expanderar eller ett avtal, enligt operativa mål och tvinga sammansättning. Battlespace ger befälhavaren en mental forum för att analysera och välja handlingsalternativ för att anställa militära styrkor i förhållande till tid, tempo och djup. battlespace;  
 — be // (v40 ~r; bad; ~tt; ~; ~ende; ~dd;) 1. to ask for, request someone else to do something; 2. to pray; 3. to beg, to plead with someone for help or for a favor;  
 — befalla // (v befaller; befallde; befallt; befall; ~nde; befalld;) order, command; Du kan ej befalla mig! 
 — en befolkning // (~en; ~ar; ~arna;) population; Majoriteten av befolkningen är utblottad. The majority of the population is destitute. 
@@ -482,7 +482,7 @@
 — full // (adjektiv: ~t; ~a; ~are; ~ast;) full; drunk; Försöka plugga lite också men hjärnan är så full med snor så det känns rätt omöjligt. Supa sig full. Get drunk. 
 — fundera // (v1) think, ponder;  
 — funka // (v1) att fungera; to function, to work, to operate, to be in operation; Det borde fungera. That should work. Det fungerade i filmen! It worked in the movie! Funkar den där gamla radion fortfarande? Så funkar det. How it works. 
-— furu // pinewood;  
+— ett furu // (~t;) pinewood;  
 — fylla // (v2a fyller; fyllde; fyllt; fyll; ~nde; fylld;) fill, to make full; [~ år] to have a birthday; Fyll i rätt ord. Fill in the correct word. Idag fyller Aslak 50 år. 
 — en fyr // (~en; ~ar; ~arna;) torn med starkt (blinkande) sken som leder trafiken på sjön eller på land; lighthouse (not ljushus!), beacon;  
 — fyra // four; Fyradagarspatrull i West of MeS. fyrtiofemtimmarspatrull? 
@@ -760,7 +760,7 @@
 — härifrån // (adverb) from here; herefrom; Gå härifrån och lämna mig i fred. 
 — härlig // (adjektiv: ~t; ~a; ~are; ~ast;) delightful, lovely, great, wonderful;  
 — en häst // (~en; ~ar; ~arna;) 1. a horse; a large mammal, Equus caballus; 2. (chess, colloquial) knight; Deras hästar bor i stallet. Their horses live in the stable. Jag tittade, och framför mig stod en blek häst! I looked, and before me was a pale horse! 
-— hävda // (v1) 1. to maintain, to keep (in order), to preserve; 2. to maintain, to state, to claim;  
+— hävda // (v1) 1. to maintain, to keep (in order), to preserve; 2. to maintain, to state, to claim; Carl Malmsten (1888-1972), en legen inom svensk formgivning, hävdade att möbler ska vara vackra, bekväma och funktionella. Carl Malmsten, a legend among swedish design, upheld that furniture should be beautiful, comfortable and functional. 
 — en hög // (~en; ~ar; ~arna;) anhopning av saker el. material; pile; heap; a quantity of things or material heaped or piled together;  
 — hög // (adjektiv: ~t; ~a; ~re; ~st;) high; loud; De flesta internetanvändarna förväntar sig hög anslutningshastighet. Most internet users expect high connection speeds. Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. Jag fick inte en blund i ögonen hela natten eftersom grannen spelade sådan hög musik. I didn't sleep a wink all night since my neighbor was playing such loud music. Kostnaderna är höga och intäkterna låga. Vad kan man göra? Costs are up, revenue is down. What can you do? När vi såg bilden, skrattade vi högt. When we saw the picture, we laughed out loud. På höga höjder finns det mindre syre i luften. At high elevations, there is less oxygen in the air. 
 — höger // right; sväng vänster sväng höger; turn left then turn right; Vägen kröker sig åt höger. The road curves to the right. 
@@ -849,7 +849,8 @@
 — januari // (substantiv) January;  
 — japanska // Japanese;  
 — jaså // really? you don't say? indeed; Jaså. I see. 
-— javisst // of course, certainly;   
+— javisst // of course, certainly;  
+— jiddra // (v ~r; ~de; ~t; ~; ~de|~ndes; ~d;) (slang) småprata, "snacka skit"; to (small) talk;  
 — jo // yes; used as a disagreement to a negative statement. Du har inte borstat tänderna, eller hur? - Jo, det har jag. You haven't brushed your teeth, have you? - Yes, I have. Jo, det gör vi. 
 — ett jobb // (~et; ~; ~en;) job; a task; a place of work; drömjobb; a dream job; Mamma tog bilen till jobbet och pappa tog bussen. 
 — jobba // (v1) 1. to work (to do a specific task); 2. to work; to be employed to do something (for a living);  
@@ -857,7 +858,7 @@
 — John Blund // the sandman;  
 — en jord // (~en;) earth, land (as opposed to sea); Jorden är täckt mest av vatten. The Earth is covered mostly by water. 
 — en jordgubbe // (~n; jordgubbar; jordgubbarna;) odlad växt och bär av släktet Fragaria; strawberry; jordgubbar med vispgrädde; strawberries with whipped cream; Ta med er champagne, vi står för jordgubbarna. Bring champagne, we'll supply the strawberries. 
-— jordnötssmör // (substantiv) peanut butter;  
+— ett jordnötssmör // peanut butter;  
 — en journalist // journalist;  
 — ju // (adverb) Used to indicate an expectation of common understanding, or that what is said is an obvious fact.  
 — en jul // (~en;) Christmas; Jag får alltid kakor av min mamma till julen. My mother always gives me cookies on Christmas. 
@@ -1685,7 +1686,7 @@
 — smaklig // (adjektiv: ~t; ~a; ~are; ~ast;) tasty;  
 — smaklös // (adjektiv: ~t; ~a;) tasteless; Den rika affärsmannen klagade på lasagnen var smaklös. The rich businessman complained that the lasagna was tasteless. Mat verkar smaklös när man är förkyld. Food seems tasteless when one has a cold. 
 — smal // (adjektiv: ~t; ~a; ~are; ~ast;) thin, narrow, slim;  
-— ett sms // sms; Vilken våghalsig bilförare, som sms:ar! What a reckless driver - he's texting! 
+— ett sms // sms;  
 — en smula // (~n; smulor; smulorna;) 1. a crumb (of bread); 2. a tiny bit; Borsta bort smulorna från bordet! Brush the crumbs off the table! 
 — smula // (v1) to shred (into pieces);  
 — smutsig // (adjektiv: ~t; ~a; ~are; ~ast;) dirty (covered with or containing dirt); Ta av dig de där smutsiga kläderna! Take those dirty clothes off! 
