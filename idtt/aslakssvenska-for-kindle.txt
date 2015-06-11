@@ -467,6 +467,7 @@
 — en fru // (~n; ~ar; ~arna;) a wife;  
 — en frukost // (~en; ~ar; ~arna;) a breakfast; Han äter frukost. He eats breakfast. Jag hinner inte äta frukost. Jag åt äggröra till frukost. 
 — en frukt // a fruit; Torkad frukt är rik på proteiner. Dried fruit is rich in protein. 
+— fruktansvärd // (adjektiv: fruktansvärt; ~a;) 1. som är mycket skrämmande eller värd att frukta; hemsk; 2. dålig, avskyvärd; fearful, dreadful, horrible;  
 — en frys // (~en; ~ar; ~arna;) freezer; under fryspunkten; below freezing; 
 — frysa // (verb) 1. (intransitive) freeze; to be very cold (a temperature below 0 degrees celsius); 2. (intransitive) freeze; to become hard due to low temperature (for liquids); 3. (intransitive) freeze; to become motionless. 4. to feel too cold.  
 — fryst // (adjektiv) frozen; (past tense of transitive to freeze `frysa`); Barnen åker skridskor på dammen när den är helt fryst. The children ice-skate on the pond once it is frozen solid. 
@@ -550,6 +551,8 @@
 — förra gången // last time;  
 — förresten // incidentally;  
 — förrän // 1. until, before, ere; // the part before the conjunction must be negative; Du får inte gå förrän du gjort klart allt arbete. You can not go until you have finished all work. Inte förrän tio i tio hade Göteborg Energis driftcentral rättat till felet. Not until 9:50 had Göteborg Energis' operations center corrected the mistake. 
+— försiktig // (adjektiv: ~t; ~a; ~are; ~aste;) 1. som endast med låg sannolikhet riskerar att ha sönder något; som anstränger sig för att inte ha sönder något; som är lugn och rör sig långsamt därför; 2. som anstränger sig för att inte skada sig själv; 3. som noggrant tänker efter innan hon utför en handling, och som inte förhastar sig; 4. psykologiskt osäker; cautious, careful, prudent; Han lyfte försiktigt på ungen. Om vi vill härleda satsen, måste vi vara mycket försiktiga när vi inför beteckningar. Var försiktig på din resa! Vi måste vara försiktiga så vi inte förstör något bevismaterial. 
+— försiktigt // (adverb) avledning till adjektivet försiktig; på ett försiktigt sätt, med försiktighet; cautiously, carefully, prudently; Han lyfte försiktigt på ungen. 
 — förskola // preschool;  
 — en förskollärare // a preschool teacher;  
 — ett förslag // en plan om hur något skall göras; draft, motion, proposal, suggestion, proposition, idea; Jag har några förslag. I have some suggestions. 
@@ -1089,7 +1092,7 @@
 — lura // (v1) to trick, to fool, to deceive, to lure; Han lurar oss alltid; jag litar inte på honom. He always deceives us; I don't trust him. Tror du du kan lura mig? Tänk dig för! Do you think you can cheat me? Think again! 
 — lycka till // good luck;  
 — lycklig // (adjektiv: ~t; ~a; ~are; ~ast;) 1. lucky, fortunate (successful by luck); 2. lucky, happy, glad (enjoying peace, comfort, etc; contented, joyous); 3. (obsolete) successful (whether by chance or not); Du gör mig så lycklig! You make me so happy! 
-— lyfta // (v2b lyfter; lyfte; lyft; lyft; ~nde; lyft;) to lift; to move something upwards;  
+— lyfta // (v2b lyfter; lyfte; lyft; lyft; ~nde; lyft;) to lift; to move something upwards; Han lyfte försiktigt på ungen. 
 — lyssna // (v1) to listen; Han lyssnar på musik. He listens to music. Lyssna på mig. listen to me. 
 — en låda // (~n; lådor; lådorna;) box; Låt oss nu se vad som finns i lådan. Ingenting! Absolut ingenting! Now let's see what's in the box. Nothing! Absolutely nothing! 
 — låg // (adjektiv: ~t; ~a; ~re; ~st;) 1. low; having a small height; 2. of low moral or ethics; such as a dirty trick; Kostnaderna är höga och intäkterna låga. Vad kan man göra? Costs are up, revenue is down. What can you do? Man slog nästan i huvudet när man steg in, för det var så lågt i tak i hans lilla verkstad. One almost bumped his head when he stepped in, because the ceiling was so low in his little workshop. 
@@ -1457,7 +1460,7 @@
 — en punkt // point;  
 — en puss // a kiss;  
 — putsa // (v1) to shine (to polish); De skulle torka i flera dagar, innan de putsades. They had to dry for many days, before they were polished. 
-— på // to; on; (on a plane; at a place; in a language; on a day or time;) På only means 'at' when it cannot mean 'on top', usually when talking about abstract concepts rather than physical objects that one may be on top of. For 'at' in a truly spatial sense, use vid. alle man på däck; all hands on deck; Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. Han lyssnar på musik. He listens to music. Kan du lägga boken på bordet? Could you please lay the book on the table? Lyssna på mig. listen to me. Vi ses på torsdag. See you Thursday. 
+— på // to; on; (on a plane; at a place; in a language; on a day or time;) På only means 'at' when it cannot mean 'on top', usually when talking about abstract concepts rather than physical objects that one may be on top of. For 'at' in a truly spatial sense, use vid. alle man på däck; all hands on deck; Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. Han lyssnar på musik. He listens to music. Kan du lägga boken på bordet? Could you please lay the book on the table? Lyssna på mig. listen to me. Vi ses på torsdag. See you (next/upcoming) Thursday. 
 — på grund av // due to (p.g.a.);  
 — på kvällen // p.m.; in the evening;   
 — på svenska // in Swedish; Kan du skriva ner det på svenska åt mig, tack. Can you write that down for me in Swedish? 
@@ -1481,6 +1484,7 @@
 — en rast // paus i arbete, särskilt i skolan; a break;  
 — ett recept // (~et; ~; ~en;) 1. (cooking) a recipe. 2. (medicine) a prescription.  
 — redan // (adverb) already; prior to some specified time; Det är redan höst men det är fortfarande varmt. Vintersnön har redan smält. The winter snow has already melted. 
+— redo // (adjektiv) färdig, beredd; `göra sig ~`, `vara ~`; ready; prepared to face whatever is coming one's way; Var redo! — Alltid redo! 
 — ett redskap // (~et; ~; ~en;) 1. a tool (especially for the kitchen or garden), an instrument; 2. a means, a helper, an abstract tool;  
 — en regering // (~en; ~ar; ~arna;) a government; the executive body of a country's governmental system. ett öppet brev till regeringen; an open letter to the government; 
 — ett regn // (~et; ~; ~en;) rain;  
@@ -1495,7 +1499,7 @@
 — renovera // (verb) renovate;  
 — rent ut sagt // clearly, plainly;  demyr.us/1LaHOhf 
 — reparera // (v1) to repair; En bilmekaniker reparerade vår bil. A mechanic fixed our car. 
-— en resa // (~n; resor; resorna;) a travel, a journey, a trip; Under vår resa runt i England, besökte vi klipporna i Dover. During our trip around England we visited the cliffs of Dover. 
+— en resa // (~n; resor; resorna;) a travel, a journey, a trip; Under vår resa runt i England, besökte vi klipporna i Dover. During our trip around England we visited the cliffs of Dover. Var försiktig på din resa! 
 — resa // (v2b reser; reste; rest; res; ~nde; rest;) to travel, to be on a journey;  
 — respekterad // (adjektiv) respected;  
 — en rest // (~en; ~er; ~erna;) 1. del som blir kvar när en (större) andel tagits bort; 2. (matematik) tal som återstår efter subtraktion; 3. (matematik) heltal som återstår efter division eller rotutdragning när den operationen utförts på närmaste mindre heltal som ger heltalssvar; 1. remainder, rest (what remains); 2. (mathematics) remainder; 3. leftover; 11 dividerat med 2 är 5, med 1 i rest; 11 divided by 2 is 5 remainder 1; 
@@ -1973,7 +1977,7 @@
 — tom // (adjektiv: ~t; ~ma; ~mare; ~mast;) empty;  
 — en tomat // a tomato;  
 — torka // (v1) to dry, to wipe; De skulle torka i flera dagar, innan de putsades. They had to dry for many days, before they were polished. Jag måste torka köksgolvet i dag. I need to mop the kitchen floor today. Om jag inte använder hårtork för torka håret, ser det inte bra ut. If I don't use a hairdryer my hair won't look good. torka av diskbänken; wipe off the counter; torka golvet; wipe the floor; torka sig om händerna; dry one's hands; torka tvätten; dry the wash; torka upp efter sig; clean up after oneself; 
-— en torsdag // Thursday; i torsdags; last Thursday; 
+— en torsdag // (~en;) Thursday; i torsdags; last Thursday; Vi ses på torsdag. See you (next/upcoming) Thursday. 
 — en torsk // (~en; ~ar; ~arna;) cod (fish); (Has an interesting colloquial use.)  
 — ett trafikljus // traffic light;  
 — en trafikskola // a traffic school;  
@@ -2166,7 +2170,7 @@
 — viktig // (adjektiv: ~t; ~a; ~are; ~ast;) important, relevant, having priority (of an issue, a person of high status, or a person pretending to have high status); Kommunikationen är viktig. 
 — vila // (v1) 1. to rest; to relieve, to give rest to; 2. to rest; to take a break; to cease working for a little while, to become inactive; 3. to rest; to lean or lay; 4. to rest; to lie or lean or be supported; Ska vi vila bredvid den där busken därborta? Should we rest beside that bush over there? 
 — vild // (adjektiv: vilt; ~a; ~are; ~ast;) wild; Vi gifter oss på en äng med en massa vilda blommor. 
-— vilja // (v4o vill; ville; velat; ~nde;) to want, to wish, to desire; to intend, to be going to, to will; Jag skulle vilja ha ett riktigt bröllop som Karl och Johanna hade. Jag vill inte. I don't want to. 
+— vilja // (v4o vill; ville; velat; ~nde;) 1. to want, to wish, to desire; 2. to intend, to be going to; Jag skulle vilja ha ett riktigt bröllop som Karl och Johanna hade. Jag vill dricka öl. Jag vill ha en öl. Jag vill inte. I don't want to. 
 — vilken // (vilket, vilka) which; who; whom; what a ...; När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske. Tänk vilket arbete! Just think, what a job! 
 — vilken dag som // any day;  
 — vilse // (adverb) being lost, having lost orientation; Det är mycket bra att kunna, om man flugit vilse om natten. Förr var folk rädda för mörkret och att gå vilse i skogen. Vi har gått vilse. 
