@@ -1,16 +1,10 @@
-revised: 2013-07-01 11:48
+revised: 2015-08-10 09:05 
 
 
-Personal Pronouns
+Expressions
 -----------------
-jag: I
-du: you
-han: he
-hon: she
-den/det: it
-vi: we
-ni: you (plural)
-de: them (pronounced dem) // dem där traktors ;)
+att sova som en stock: to sleep like a log
+
 
 
 Siffror
@@ -66,16 +60,6 @@ elfte
 tolfte
 tretonde
 fjortonde
-
-- - -
-
-måndag: Monday
-tisdag: Tuesday
-onsdag: Wednesday
-torsdag: Thursday
-fredag: Friday
-lördag: Saturday
-söndag: Sunday
 
 - - -
 
