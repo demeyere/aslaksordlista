@@ -22,7 +22,7 @@
 — ett allting // everything; Man måste förklara allting för de stora. 
 — alltså // (adverb) accordingly, therefore, ergo, consequently, thus; in other words, that is to say; Jag fick alltså lov att välja ett annat yrke, och så lärde jag mig flyga. 
 — allvarlig // (adjektiv: ~t; ~a; ~are; ~ast;) serious; needing great attention; without humor; På så sätt har jag många gånger i livet kommit i kontakt med allvarliga människor. Tjugo personer blev allvarligt skadade. Twenty people were seriously injured. 
-— ana // (v1) suspect, think, believe, imagine, have a feeling (idea);  
+— ana // (v1) 1. ha en känsla (av något); förnimma, skönja; föreställa sig 2. tro, misstänka, gissa; 1. suspect, think, believe, imagine, have a feeling (idea); 2. guess, believe that something will happen, or has happened. Being fairly certain, but acknowledges that after all, one could be wrong.;  
 — en ananas // pineapple; Dadlarna är jättegoda, men jag föredrar ananas. The dates are delicious, but I prefer pineapple. 
 — andas // (v1) to breathe, respire;  
 — andra // second;  
@@ -1062,6 +1062,7 @@
 — lat // (adjektiv: ~t; ~a; ~are; ~ast;) lazy;  
 — en lax // (~en; ~ar; ~arna;) salmon;  
 — le // (v4o ~r; log; ~tt; ~; ~ende;) 1. to smile; 2. (obsolete) to laugh; Ett leende är det bästa sättet att tacka. A smile is the best way to say "thank you." 
+— leda // (v leder; ledde; lett; led; ~nde; ledd;) 1. hålla i och föra (i viss riktning); 2. (om väg e.d.) föra (i viss riktning); 3. (om ämne) överföra, (ha förmåga att) vidarebefordra elektricitet eller värme; 4. (med preposition till) ge som resultat; få att inträffa; föra till, inducera, orsaka; 5. styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för; 6. vägleda, visa vägen, hjälpa; 7. (om tävling eller spel) ligga först; ha övertag; 8. böja en led; 1. To (gently) lead; to guide, to conduct; 2. To be in the lead; to be the leader of a competition; 3. To guide, to direct; to be in a position of leadership; Det lätta sätt leder ingenstans. —Aslak Sitt upp! Dålig hållning leder till senare ryggproblem. Sit up! Bad posture will lead to back problems later on. 
 — en ledare // leader; Sverige hade just förlorat Finland till Ryssland i ett krig, och man sökte därför efter en stark ledare som kunde ta tillbaka Finland. 
 — ledig // (adjektiv: ~t; ~a; ~are; ~ast;) 1. free, available, not occupied. 2. relaxed, casual, informal. jag har fått lov att vara ledig idag. I have got permission to be off today. 
 — en ledighet // a leave;  
@@ -2300,6 +2301,7 @@ Fraser: raka i höjden, raka i väg; 1. (reflexive) to shave; 2. to dash, dart, 
 — äsch // interjektion som signalerar att någonting är oviktigt; det är osignifikant, onödigt eller saknar betydelse; strunt i det; Seriously?  
 — äta // (v4s äter; åt; ätit; ät; ~nde; äten;) to eat; Swedes don't have meals, they eat them. Först åt vi och sedan gick vi ut. We ate first, then we went out. Han äter frukost. He eats breakfast. Jag har ätit så mycket jag knappt kan knäppa byxorna! I ate so much I can barely button my pants! 
 — en ätpinne // Ätpinnar är pinnar som används i främst Östasien för att äta med. chopstick;  
+— en ätt // (~en; ~er; ~erna;) 1. släkt; ofta de släktingar som härstammar direkt från en person eller familj och som har något slags adlig titel; 2. grupp av åtta runor; del av futharken 1. a (noble or royal) family, a house; 2. family (referring to an extended family, dynasty, etc.) Var honom trofast och hans ätt. Gör kronan på hans hjässa lätt. Och all din tro till honom sätt. Be faithful to Him and his House, make the Crown light upon his Head, and all your faith in Him invest (Kungssången) 
 — en ättling // (~en; ~ar; ~arna;) decendant; Norges kung Harald är ättlingar till Karl XIV Johan. 
 — även // (adverb) too, even, also; För att klara av sin tjänst i Afghanistan måste man även hålla kroppen i trim. Så jag gjorde en jättegod potatisgratäng, som även innehöll morot, broccoli, lök och vitlök. So I made a delicious potato gratin, which included carrot, broccoli, onion and garlic; 
 — även känd som // also known as (a.k.a); Jag är Aslak. 
