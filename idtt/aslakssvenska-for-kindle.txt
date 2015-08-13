@@ -30,7 +30,7 @@
 — en aning // (~en; ~ar; ~arna;) suspicion, idea, notion; foreboding; // not a good replacement for `idé`. Du, jag har verkligen ingen aning om var de finns. You. I have really no idea about where they are. 
 — en ankel // (~n; anklar; anklarna;) ankle;  
 — anlända // (v2a anländer; anlände; anlänt; anländ;) arrive, reach; Våra bröllopsgäster börjar anlända nu! Our wedding guests are starting to arrive! 
-— anmäla sig // (verb) register;  
+— anmäla // (v2 anmäler; anmälde; anmält; anmäl; ~nde; anmäld;) 1. /formellt/ göra någon (t.ex. en myndighet, såsom polisen) medveten om något, t.ex. ett misstänkt lagbrott; 2. /formellt/ göra någon (t.ex. en förening) medveten om ens egen avsikt att deltaga i av föreningen arrangerad tillställning; 3. /formellt/ påpeka något till någon förening e dyl; 1. report, notify authorities about something; 2. sign up (for an activity); 3. to make known that one has arrived; anmäla (någon, något) till polisen; report (someone, something) to the police; När du kommer fram till konferensen, måste du anmäla dig i receptionen. When you arrive to the conference venue, you have to report to the reception. Vilken kurs har du anmält dig till? Which course have you signed up for? 
 — annan // other; another; Du kan inte skylla dina problem på andra. You can't blame other people for your problems. Men hon gör annat också. 
 — en annons // an ad;  
 — anpassa // (v1) 1. adapt, adjust (to some given conditions); 2. make fit (for a certain purpose);  
@@ -41,7 +41,7 @@
 — anställa // (v2a anställer; anställde; anställt; anställ; ~nde; anställd;) to hire, to employ;  
 — anställd // (substantiv) employee;  
 — ansöka // (v2b ansöker; ansökte; ansökt; ansök;) apply;  
-— anta // (v ~r; antog; ~git; ~; ~gande; ~gen;) 1. to suppose; to presume; 2. to accept an offer; Jag antar att det är dags att köpa en ny kaffebryggare. I presume it's time to buy a new coffee machine. 
+— anta // (v4s ~r; antog; ~git; ~; ~gande; ~gen;) 1. to suppose; to presume; 2. to accept an offer; Jag antar att det är dags att köpa en ny kaffebryggare. I presume it's time to buy a new coffee machine. 
 — ett antal // (~et; ~; ~en;) number, quantity, amount;  
 — anteckna // (v1) to note, to write down;  
 — använda // (v2a använder; använde; använt; använd; ~nde; använd;) use, utilize, wear; Får jag använda din pennvässare? Can you lend me your pencil sharpener? 
@@ -74,7 +74,7 @@
 — en avokado // an avacado;  
 — avslappning // (substantiv) relaxation; Och glöm inte bort era mål och varför ni tränar, ha en skön sommar och använd era kroppar, det är inte bara i hängmattan som avslappning uppnås! 
 — avslöja // (v1) reveal, expose, uncover, unmask; Provet avslöjade studenternas brist på förberedelse. With the exam the students revealed a lack of preparation. Utredningen avslöjade en skandal. The investigation revealed a scandal. 
-— avstå // (v ~r; avstod; ~tt; ~; ~ende; ~nden;) to abstain; give up; ... Så kom det sig, att jag vid sex års ålder avstod från en strålande framtid som målare. 
+— avstå // (v4o ~r; avstod; ~tt; ~; ~ende; ~nden;) to abstain; give up; ... Så kom det sig, att jag vid sex års ålder avstod från en strålande framtid som målare. 
 — ett avstånd // (~et; ~; ~en;) a distance (amount of space between two points);  
 — avstängd // (adjektiv: avstängt; ~a;) perfektparticip av stänga av; avspärrad, inaktiverad, spärrad; som stängts av; Min åsikt är att han skall bli avstängd. 
 — en axel // a shoulder;  
@@ -377,7 +377,7 @@
 — faktiskt // (adverb) actually, really, for real;  
 — ett faktum // (~et; ~; ~en;) 1. faktiskt föreliggande sakförhållande, obestridlig information; 2. (matematik, mindre brukligt) produkt; a fact; När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske. 
 — ett fall // (~et; ~; ~en;) 1. a fall (the act of falling); 2. a fall, loss of greatness or wealth, a bankruptcy; 3.a slope, a waterfall, the height of a slope or waterfall; 4. a (legal) case; Den högröstade minoriteten representerar inte majoriteten i de flesta fallen. The vocal minority do not represent the majority in most cases. Fallet är omgivet av skog. The fall is surrounded by forest. Fallet är sjutton meter. The water falls seventeen metres; the decline is seventeen metres. Hans fall handlade om misstagen identitet. His was a case of mistaken identity. i alla fall; anyhow (in all cases); i annat fall; otherwise (in another case); i så fall; if so (in such a case); i vart fall; in any case; i vilket fall som helst; in any case; 
-— falla // (verb) 1. to fall; 2. to die (especially in battle); Falla i drickat. Fall into the water. 
+— falla // (v faller; föll; fallit; fall; ~nde; fallen;) 1. okontrollerat röra sig mot en himlakropps yta; okontrollerat röra sig i ett gravitationsfält; 2. (militärt) bli intagen av fienden; 3. (sport) förlora en tävling eller en match mot någon man sett en möjlighet att slå; 1. to fall; 2. to die (especially in battle); Falla i drickat. Fall into the water. 
 — en familj // (~en; ~er; ~erna;) family;  
 — fan // damn (referring to the devil); Fan det låter smutt. Damn, it sounds neat. Vad fan har du på dig?! What the heck are you wearing?! 
 — en far // (fadern; fäder; fäderna;) father;  
@@ -505,7 +505,6 @@
 — fyrtio // forty;  
 — få // (v4o ~r; fick; ~tt; ~; ~ende|~endes; ~ngen|~dd;) to get; to receive; to be allowed to; Jag fick inte hjälpa honom, utan bara titta på när han försökte. I wasn't allowed to help him, only watch him try. Jag skulle hellre vilja få prispengarna kontant. I'd rather receive the prize in cash. Kan jag få en öl, tack. Can I have a beer, please. 
 — få reda på // find out;  
-— få se // (verb) get to see;  
 — en fågel // (~n; fåglar; fåglarna;) ryggradsdjur med vingar och fjädrar; a bird; Fågeln har bara lagt ett ägg. The bird has only laid one egg. fågelvägen; as the crow flies; Hon fotograferade en ovanlig fågel. She photographed a rare bird. 
 — ett får // (~et; ~; ~en;) ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull; 1. (countable and uncountable) a sheep (animal); 2. a sheep, a follower (member of a congregation, follower of a leader, the latter being described as a shepherd); 3. an idiot (a slow-thinking, stupid person); Som en ulv i fårakläder. 
 — en fåtölj // easy chair;  
@@ -523,7 +522,6 @@
 — föda // (v2a föder; födde; fött; föd; ~nde; född;) to give birth to; (feed?); Jag är född den 11:e februari (11/2). Jag är född i Sverige. I was born in Sweden. Linus odlar ett skägg i väntan på att barnet ska födas. Linus grows a beard waiting for his baby to be born. Var är du född? Where were you born? 
 — en födelsedag // a birthday; Grattis för födelsedagen. Hjärtliga gratulationer Ja må du leva (3). Uti hundrade år. Javisst ska du leva (3). Uti hundrade år. (Jag) Har den äran! (att gratulera för födelsedagen). 
 — följa // (v2a följer; följde; följt; följ; ~nde; följd;) 1. follow; to go after; 2. follow; to be the next in a sequence; 3. follow; to carry out in accordance to; 4. follow; to live one's live according to (religion, teachings, etc); 5. follow; to be a logical consequence of; Bataljonens krigsdagbok ger följande fakta; Hunden följde mig hela vägen till affären. Jag går till affären, vill du följa med? I'm going to the store, want to go with me? Är det viktigt att ha märkeskläder och följa modet? Is it important to have brand-name clothing and follow the fashion? 
-— följa med // (verb) follow;  
 — följaktligen // (adverb) alltså; consequently, accordingly; Följaktligen ägnade jag en del av söndagen åt att kratta ihop nedfallna plommon och skotta upp dem i en skottkärra. 
 — ett fönster // (fönstret; ~; fönstren;) a window;  
 — för // because;  
@@ -535,7 +533,7 @@
 — en förare // (~n; ~; förarna;) a driver; one who drives a motorized vehicle;  
 — ett förband // (~et; ~; ~en;) 1. (medicine) a bandage; 2. (engineering) a joint; 3. (military) a force, an organic unit, a formation; 4. (music) an opening act, a band that plays before the main artist (emphasis on first syllable);  demyr.us/1BhgEde 
 — en förbandslåda // first-aid kit;  
-— förbereda // (verb) to prepare, to get ready;  
+— förbereda // (v förbereder; förberedde; förberett; förbered; ~nde; förberedd;) bereda i förväg; prepare (to make ready for a specific future purpose); Generalen förberedde en attack mot fienden. 
 — förbi // (adverb) 1. (riktning) om något; runt något; 2. över, slut, till ända; past, over; Min tid på jorden är förbi. Mitt hjärta slår två gånger snabbare när Freya går förbi. 
 — förbinda // (v förbinder; förband; förbundit; förbind; ~nde; förbunden;) 1. to unite, to join; 2. to bandage;  
 — en förbindelse // (~n; ~r; ~rna;) connection (an established telephone call); Förbindelse från en webbsida til en annan, eller till en fil eller annan Internetresurs. Länkar är ofta understrukna eller har annan färg än övrig text. On a web page, an active connection to another web page, location, file, or other Internet resource, often underlined or set in a different color from the rest of the text. 
@@ -806,6 +804,7 @@
 — i form // in shape;  
 — i fredags // last Friday;  
 — i förrgår // (adverb) in, or during, the day before yesterday;  
+— i förväg // (adverb) innan (något speciellt) inträffar; in advance;  
 — i genomsnitt // on average;  
 — i kväll // (adverb) tonight; Ring mig ikväll, så gör vi planer. Call me tonight and we'll make plans. 
 — i morgon // (adverb) tomorrow;  

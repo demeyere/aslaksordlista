@@ -29,6 +29,6 @@ Vilka ord är mer manligt? `snacka` eller `prata`?  // Jag vill snacka som en ka
 
 Hur sager man `run the dishwasher`? // `köra diskmaskin`
 
-Hur sager man `it stinks in here` eller `that stinks`? // Det luktar illa här ine.
+Hur sager man `it stinks in here` eller `that stinks`? // Det luktar illa här inne.
 
 Vad sager man när någon nyser eller rapar eller fisar? // Prosit. Ursäkta mig.

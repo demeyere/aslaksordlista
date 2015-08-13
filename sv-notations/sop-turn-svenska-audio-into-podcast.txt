@@ -1,0 +1,26 @@
+revised: 2015-03-13 10:58 
+
+
+Turn a Swedish audio into a podcast
+===================================
+
++ duplicate the audio file
++ rename to amount of strech you wish to apply (eg, *-115.aiff)
++ open Adobe Audition
++ time and pitch
++ stretch and pitch
++ stretch = 114.9% (it rounds it from 115% for some reason)
++ wait
++ save
+
++ open file in iTunes
++ go to the song
++ stop it from playing
++ add to `svenska` playlist
++ open info
++ change media kind to `podcast`
++ check `skip when shuffling`
++ change podcast to the same name as the title
+
++ sync to iPhone
+  (I do this by syncing all podcasts in the `svenska` playlist
