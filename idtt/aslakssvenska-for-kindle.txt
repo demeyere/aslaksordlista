@@ -503,7 +503,7 @@
 — fyra // four; Fyradagarspatrull i West of MeS. fyrtiofemtimmarspatrull? 
 — fyrkantig // (adjektiv: ~t; ~a;) 1. rectangular, square-shaped, quadratic; 2. square (not hip);  
 — fyrtio // forty;  
-— få // (v4o ~r; fick; ~tt; ~; ~ende|~endes; ~ngen|~dd;) to get; to receive; to be allowed to; Jag fick inte hjälpa honom, utan bara titta på när han försökte. I wasn't allowed to help him, only watch him try. Jag skulle hellre vilja få prispengarna kontant. I'd rather receive the prize in cash. Kan jag få en öl, tack. Can I have a beer, please. 
+— få // (v4o ~r; fick; ~tt; ~; ~ende|~endes; ~ngen|~dd;) to get; to receive; to be allowed to; Jag fick inte hjälpa honom, utan bara titta på när han försökte. I wasn't allowed to help him, only watch him try. Jag skulle hellre vilja få prispengarna kontant. I'd rather receive the prize in cash. Kan jag få en öl, tack. 
 — få reda på // find out;  
 — en fågel // (~n; fåglar; fåglarna;) ryggradsdjur med vingar och fjädrar; a bird; Fågeln har bara lagt ett ägg. The bird has only laid one egg. fågelvägen; as the crow flies; Hon fotograferade en ovanlig fågel. She photographed a rare bird. 
 — ett får // (~et; ~; ~en;) ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull; 1. (countable and uncountable) a sheep (animal); 2. a sheep, a follower (member of a congregation, follower of a leader, the latter being described as a shepherd); 3. an idiot (a slow-thinking, stupid person); Som en ulv i fårakläder. 
@@ -705,7 +705,7 @@
 — heller // (adverb) neither (only in use together with a negative); Inte jag heller. Me neither. 
 — ett helskägg // full beard;  
 — helst // (adverb) preferably, rather; superlative form of gärna.; i vilket fall som helst; in any case; Men man kan förstås inte klä sig hur som helst! But one can, of course, not dress as one wishes! 
-— hem // (adverb) till sitt hem eller sin hemort; home; to one's home; Jag går hem. Jag kommer hem. Jag längtar hem eftersom jag bor utomlands. I feel longing for my home because I'm living abroad. Jag sprang ända hem. 
+— hem // (adverb) till sitt hem eller sin hemort; home; to one's home; Jag går hem. Jag kommer hem. Jag längtar hem eftersom jag bor utomlands. I feel longing for my home because I'm living abroad. Jag ska hem. Jag sprang ända hem. 
 — ett hem // (~met; ~; ~men;) home; Jag längtar hem eftersom jag bor utomlands. I feel longing for my home because I'm living abroad. 
 — ett hemland // homeland;  
 — hemlig // (adjektiv: ~t; ~a; ~are; ~ast;) som informationen om hindras spridning; secret (being or kept hidden); En hemlig beundrare har skickat mig blommor! A secret admirer has sent me flowers! Lågan förstörde det hemliga meddelandet på några sekunder. The flame destroyed the secret message in seconds. 
@@ -1705,7 +1705,7 @@
 — sköldpadda // turtle;  
 — skön // (adjektiv: ~t; ~a; ~are; ~ast;) comfortable, beautiful, nice; Förr var träskor det skönaste och mest praktiska jag kunde tänka mig. Earlier, wooden shoes were the most comfortable and most practical (things) that I could think of. Och glöm inte bort era mål och varför ni tränar, ha en skön sommar och använd era kroppar, det är inte bara i hängmattan som avslappning uppnås! 
 — en skörd // (~en; ~ar; ~arna;) a harvest;  
-— ett slag // (~et; ~; ~en;) 1. hit; punch; 2. the hit of a ball by a bat or a racket; 3. battle between two armies, navies or air forces; 4. stroke; the striking of a clock; 5. stroke; the time when a clock strikes; 6. (medicine) stroke; a loss of brain function arising when the blood supply to the brain is suddenly interrupted. 7. kind; sort; 8. while; moment; a short period of time; 9. A fold on the legs of a pair of trousers, where about an inch of the leg is folded upwards. Riddaren blockerade slaget med sin sköld. The knight blocked the blow with his shield. 
+— ett slag // (~et; ~; ~en;) 1. hit; punch; 2. the hit of a ball by a bat or a racket; 3. battle between two armies, navies or air forces; 4. stroke; the striking of a clock; 5. stroke; the time when a clock strikes; 6. (medicine) stroke; a loss of brain function arising when the blood supply to the brain is suddenly interrupted. 7. kind; sort; 8. while; moment; a short period of time; 9. A fold on the legs of a pair of trousers, where about an inch of the leg is folded upwards. Riddaren blockerade slaget med sin sköld. The knight blocked the blow with his shield. Vad är det för slags kniv du har? 
 — en slang // a hose;  
 — slappa // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) (vardagligt) vara overksam, ta det lugnt; (colloquial) to relax; do nothing;  
 — en slev // (~en; ~ar; ~arna;) (cooking) a large spoon (wooden or not) used for cooking rather than eating, a ladle; Var ska sleven vara, om inte i grytan? Where does the spoon belong, if not in the pot? (= I'm not surprised to find you here); 
@@ -1949,7 +1949,7 @@
 — ta det lungt // take it easy;  
 — ta emot // (verb) receive visitors; accept money; Ishotellet kan ta emot 130 nattgäster, som sover i sovsäckar på djurhudar som breds ut över issängar. The Ice Hotel can accommodate 130 overnight guests, who sleep in sleeping bags on furs that are spread out over ice beds. 
 — en tablett // (~en; ~er; ~erna;) tablet or pill;  
-— tack // fras som används för att besvara en hjälpsam handling; `takk` en norska eller isländska; Thanks, please. Tack ska du ha. Thank you. Tack så mycket. Thank you very much. Tusen tack. Thousand thanks. 
+— tack // fras som används för att besvara en hjälpsam handling; `takk` en norska eller isländska; Thanks, please. Tack ska du ha. Thank you. Tack så mycket. Thank you very much. Tusen tack. 
 — ett tag // (~et; ~; ~en;) 1. a grip, a hold (of something); 2. a stroke (with an oar, in swimming); 3. a while, a moment, a minute, sec, second, tic; Släpp inte taget. 
 — ett tak // (~et; ~; ~en;) roof, ceiling; Det hänger spindelnät från taket. There are cobwebs hanging from the ceiling. Jag skulle älska ha en trädgård på taket. I would love to have a garden on the roof. 
 — ett tal // (~et; ~; ~en;) number; En smutt grej med filmer från 20-talet är att man får bestämma musiken själv. A nice feature of movies from the 20s is that you can pick your own music. Vad tror du talet innebär? What do you think the speech implied? 
@@ -2343,7 +2343,7 @@
 — ett ögonblick // moment; instant;  
 — en ögonbryn // an eyebrow;  
 — öka // (v1) to increase;  
-— en öl // (~en;) alkoholdryck som görs av malt, humle och vatten; beer (a serving, as in one bottle or glass); Ett glas öl. A glass of beer. Kan jag få en öl, tack. Can I have a beer, please. 
+— en öl // (~en;) alkoholdryck som görs av malt, humle och vatten; beer (a serving, as in one bottle or glass); Ett glas öl. Kan jag få en öl, tack. 
 — ett öl // (~et; ~; ~en;) alkoholdryck som görs av malt, humle och vatten; a beer (a kind or brand of beer); Jag smakade ett riktigt gott öl igår. I tasted a really delicious brand of beer yesterday. 
 — en ölburk // (~en; ~ar; ~arna;) a beer can;  
 — en ölflaska // en flaska fylld med öl eller en flaska som det har varit öl i. a beer bottle;  
