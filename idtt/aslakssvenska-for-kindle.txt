@@ -244,7 +244,7 @@
 — en cykel // bike;  
 — cykla // (v1) to bike; Använd hjälm när du cyklar. Wear your helmet when you ride your bike. Det är farligt att cykla utan hjälm. It's dangerous to bike without a helmet. Sträckan som cyklades i reportaget är cirka 60 kilometer lång. The distance that was biked in this article is some 60 kilometres long. 
 — d.v.s. // det vill säga; i.e.;  
-— en dag // (~en|dan; ~ar|dar; ~arna;) 1. den tid då solen befinner sig över horisonten; 2. tidsenhet betående av 24 timmar (dygn); a day; a day, the period of time between sunrise and sunset, daytime; Du tronar på minnen från fornstora dar, då ärat ditt namn flög över jorden. Fyradagarspatrull i West of MeS. fyrtiofemtimmarspatrull? God dag. Good day. An older way of saying `Hej`. Vad är det för dag i dag? What day is it today? Vinter är årstiden med det kortaste dagarna och kallast temperatur. Winter is the season of shortest days and coldest temperatures. 
+— en dag // (~en|dan; ~ar|dar; ~arna;) 1. den tid då solen befinner sig över horisonten; 2. tidsenhet betående av 24 timmar (dygn); a day; a day, the period of time between sunrise and sunset, daytime; Fyradagarspatrull i West of MeS. fyrtiofemtimmarspatrull? God dag. Good day. An older way of saying `Hej`. Vad är det för dag i dag? What day is it today? Vinter är årstiden med det kortaste dagarna och kallast temperatur. Winter is the season of shortest days and coldest temperatures. 
 — en dagbok // (~en;) Bok vari man dagligen skriver ner sina personliga händelser och tankar. a diary, journal, log;  
 — ett dagis // day care;  
 — daglig // (adjektiv: ~t; ~a;) daily;  
@@ -447,7 +447,7 @@
 — for ... sedan // ago;  
 — forma // (v1) to shape, give form; När det var klart skulle lädret skäras till och formas, innan det spikades på träbottnen och sedan målades träet. When it was ready, the leather was cut out and shaped, before it was nailed to the wooden bottoms and then the wood was painted. 
 — formell // (adjektiv: ~t; ~a; ~are; ~ast;) formal, official, strict;  
-— fornstor // (adjektiv: ~t; ~a;) (poetiskt) som i äldre tider var eller tycktes vara en storhet; Användning: Det i särklass vanligaste bruket är i konstruktionen fornstora dar/dagar. Du tronar på minnen från fornstora dar, då ärat ditt namn flög över jorden. 
+— fornstor // (adjektiv: ~t; ~a;) (poetiskt) som i äldre tider var eller tycktes vara en storhet; Användning: Det i särklass vanligaste bruket är i konstruktionen fornstora dar/dagar.  
 — en fors // (~en; ~ar; ~arna;) snabbt strömmande parti av vattendrag; waterfall, rapids;  
 — forska // (v1) to research;  
 — en forskare // a researcher;  
@@ -536,6 +536,7 @@
 — ett förband // (~et; ~; ~en;) 1. (medicine) a bandage; 2. (engineering) a joint; 3. (military) a force, an organic unit, a formation; 4. (music) an opening act, a band that plays before the main artist (emphasis on first syllable);  demyr.us/1BhgEde 
 — en förbandslåda // first-aid kit;  
 — förbereda // (verb) to prepare, to get ready;  
+— förbi // (adverb) 1. (riktning) om något; runt något; 2. över, slut, till ända; past, over; Min tid på jorden är förbi. Mitt hjärta slår två gånger snabbare när Freya går förbi. 
 — förbinda // (v förbinder; förband; förbundit; förbind; ~nde; förbunden;) 1. to unite, to join; 2. to bandage;  
 — en förbindelse // (~n; ~r; ~rna;) connection (an established telephone call); Förbindelse från en webbsida til en annan, eller till en fil eller annan Internetresurs. Länkar är ofta understrukna eller har annan färg än övrig text. On a web page, an active connection to another web page, location, file, or other Internet resource, often underlined or set in a different color from the rest of the text. 
 — förbättra // (v1) (transitive) improve, enhance, make better;  
@@ -743,7 +744,7 @@
 — ett hotell // (~et;) a hotel;  
 — hugga // (v hugger; högg; huggit; hugg; ~nde; huggen;) to slash, to cut;  
 — huka // (verb) to squat (reflexive); I Gamla stan är det fullt av portar och knutar som man kan gömma sig bakom, och ibland kan jag huka mig bakom någon bil. demyr.us/1FlCcvS 
-— en hund // (~en; ~ar; ~arna;) dog; Ge dig iväg från min fruktträdgård, annars så skickar jag hundarna på dig! Get out of my orchard or I'll set the dogs on you! Hon och hennes kompisar tränar agility med sina hundar. She and her friends do agility training with their dogs. Min hund kommer inte bita dig. (Det är inte min hund.) My dog will not bite you. Varning för hunden! Be careful of the dog! 
+— en hund // (~en; ~ar; ~arna;) dog; Ge dig iväg från min fruktträdgård, annars så skickar jag hundarna på dig! Get out of my orchard or I'll set the dogs on you! Hon och hennes kompisar tränar agility med sina hundar. She and her friends do agility training with their dogs. Min hund kommer inte bita dig. (Den är inte min hund.) My dog will not bite you. Varning för hunden! Be careful of the dog! 
 — ett hundra // a hundred;  
 — hundrade // hundreth;  
 — hundsort // a dog kind or type;  
@@ -1226,7 +1227,7 @@
 — en miljon // million;  
 — en miljö // (~n; ~er; ~erna;) environment (area around something); Mest känd har han nog blivit som inredare av offentliga miljöer, t.ex. Stockholms Stadshus och Ulriksdals slott, och för industriell möbeltillverkning. He has probably become most known as an interior designer of public environments, for example Stockholm City Hall and Ulrikdals castle, and for industrial furniture manufacturing. 
 — min // (possessive) my, mine;  
-— ett minne // (~t; ~n; ~na;) 1. memory; component used in computers etc. store information; 2. (uncountable) the amount of information possible to store in a computer memory; 3. the ability of an organism of remembering things, by storing them in the brain; 4. a record of a specific thing remembered; 5. remembrance; souvenir; 6. memorabilia; 7. memoir; 8. (arithmetic) carry; Du tronar på minnen från fornstora dar, då ärat ditt namn flög över jorden. Sju plus åtta ger fem, och ett i minne. Seven and eight gives five, and one to carry. 
+— ett minne // (~t; ~n; ~na;) 1. memory; component used in computers etc. store information; 2. (uncountable) the amount of information possible to store in a computer memory; 3. the ability of an organism of remembering things, by storing them in the brain; 4. a record of a specific thing remembered; 5. remembrance; souvenir; 6. memorabilia; 7. memoir; 8. (arithmetic) carry; Sju plus åtta ger fem, och ett i minne. Seven and eight gives five, and one to carry. 
 — minst // (adverb) at least; Du bör sova minst åtta timmar varje natt. You should sleep at least eight hours every night. 
 — en minut // (~en; ~er; ~erna;) a minute; Hans nya uppfinning exploderade på bara några minuter. His new invention exploded within minutes. Motorn roterar 1000 varv per minut. The engine goes 1000 revolutions per minute. 
 — missa // (v1) 1. inte lyckas vara med om något, särskilt p.g.a. glömska, försening, tidsbrist etc.; även misslyckas med att uppnå ett mål; 2. inte träffa rätt, särskilt vid kast, spark o.dyl. av boll o.dyl., men även bildligt; 1. to miss; to fail to hit (a target); 2. to miss; to be late for something; 3. to miss; to forget about (something which happened or should be done); 4. to miss; to fail to attend; 5. to miss; to fail to understand or have a shortcoming of perception; 6. to overlook; to look over and beyond (anything) without seeing it; Om vi inte skyndar oss, kommer vi missa bussen. If we don't hurry, we'll miss the bus. 
@@ -2042,6 +2043,7 @@
 — ett troll // (~et; ~; ~en;) a supernatural being; Min brorson gillar historier med troll och älvor. My nephew likes stories with trolls/goblins and fairies. 
 — en trollslända // (~n; trollsländor; trollsländorna;) dragonfly; Trollsländor äter myggor. Dragonflys eat mosquitos. 
 — en tron // (~en;) throne;  
+— trona // (v ~r; ~de; ~t;) ha en framträdande placering (på en tron el. dyl.); be enthroned; Du tronar på minnen från fornstora dar, då ärat ditt namn flög över jorden. You rest on the memories of the great days of yore. 
 — en tronföljare // successor to the throne;  
 — trots // in spite of, despite (that); De kom i tid trots att de försov sig. They arrived on time despite the fact that they overslept. Stranden var full av barn, trots regnet. The beach was full of kids, despite the rain. Trots min motvilja, gick jag med honom. In spite of my reluctance, I went with him. 
 — en trumma // (~n; trummor; trummorna;) a drum;  
@@ -2326,6 +2328,7 @@
 — ännu // (adverb) still, yet; Det tar bara några sekunder och vardagsfikat förvandlas till en ännu godare kaffestund. 
 — äntligen // finally;  
 — ett äpple // (~t; ~n; ~na;) an apple;  
+— ärad // (adjektiv: ärat; ~e;) perfektparticip av ära; som äras, som värderas högt; honoured;  
 — ärmlös // sleeveless;  
 — ärva // inherit;  
 — äsch // interjektion som signalerar att någonting är oviktigt; det är osignifikant, onödigt eller saknar betydelse; strunt i det; Seriously?  
