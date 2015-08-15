@@ -12,19 +12,18 @@ The Aslak edited content of a blog that was published from 2007 to 2010 at <http
 
 ###  Directions
 
-"Ursäkta, vet du var banken ligger?"  
+"Ursäkta, vet du var banken ligger?"
 "Jadå, du går uppför den här gatan, sedan tar du vänster och då hittar du banken på höger sida av gatan."  
-"Tack så mycket."  
+
 _"Excuse me, do you know the way to the bank?"_  
 _Certainly, just walk up this road, then take left and you'll find the bank on the right side of the street."_  
-_Thanks a lot."_  
   
 "Hej, hur hittar jag till biografen här i stan?"  
 "Först går du nedför den här gatan. När du ser den stora blå skylten som säger 'Nu har du gått för långt!' så svänger du in till vänster strax innan. Bion ligger rakt fram på Astralgatan 14, höger sida."  
-"Tackar."  
+
 _"Hello. Can you tell me how to find the cinema?_  
 _"First, go down this road. When you see the big blue sign saying: 'Now you've gone too far!', turn left just before it. The cinema is located straight ahead on Astralgatan 14, on your right."_  
-_"Thanks a bunch."_  
+
 
 Uppför or Upp - Upwards, Up
 Nedför or Nedåt or Ner - Downwards, Down
@@ -177,7 +176,6 @@ _Påle_ - Pole
 
 _Ärlig_ - Honest
 
-  
 "ö" means "island".
 _ödslig_ - deserted, desolate
 _frö_ - seed

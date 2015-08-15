@@ -11,8 +11,9 @@ Syre finns runt om oss i luften. Bränsle brukar oftast vara pinnar, kvistar och
 
 // kvist = twig
 // gren = branch
-// veken = wick
-// stearin = candle
+// veken = the wick
+// stearin = wax
+// ljus = light or candle // levandeljus
 
 2. Elda på säkra platser
 
@@ -31,8 +32,8 @@ Förbered ved i olika storlekar och börja med att tända i t.ex. näver (det br
 
 4. Njut av elden men ha den under uppsikt.
 
-// njuta = enjoy
-// uppsikt = supervision
+// njuta = enjoy // mostly uses the particle `av`
+// uppsikt = supervision, control
 
 Använd elden till det som var tanken – laga mat, grilla korv, sprida värme, ljus eller bara ha för mys. Ha alltid elden under uppsikt. Lägg på ved lite då och då, men inte mer än du behöver.
 
@@ -41,7 +42,8 @@ Använd elden till det som var tanken – laga mat, grilla korv, sprida värme, 
 När elden inte behövs längre är det bäst att låta den brinna ut. Häll sedan försiktigt vatten över glöden tills det inte ryker mer. Häll även försiktigt vatten på de varma stenarna. Men låt dem svalna först, annars kan de spricka.
 
 // hälla = to pour
-// försiktig = carefully
+// försiktig = careful
+// försiktigt = carefully
 // svalna = to cool
 // spricka = to fracture, to crack
 

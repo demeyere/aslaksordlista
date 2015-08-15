@@ -176,7 +176,8 @@ Somliga går med trasiga skor.
 Säj, vad beror det på?
 Gud fader som i himmelen bor
 kanske vill ha det så.
-ur Somliga går med trasiga skor
+
+--ur Somliga går med trasiga skor
 
 Täck över texten och svara på frågorna!
 1. Varför kom Cornelis till Sverige?
@@ -194,59 +195,44 @@ RESTIPS: Cornelisrnuseet i Gamla Stan i Stockholm.
 Minns du ordet? 9
 =================
 
-lämplig = suitable, appropriate, apposite
-bruka = to be in the habit of
-skaffa = to get, to acquire, to procure
-sjunka = sink (descend into liquid, etc)
-
-
 1. Priset på kaffe har blivit lägre, läser Åsa i tidningen.
-Priset på kaffe har ________
-
-öka = to increase
-
+Priset på kaffe har __ sjunka __
+sjunka = sink (descend into liquid, etc), go down, fall
 
 2. Margit tänker inte ha en låda på balkongen med matrester och maskar.
-Hon tänker inte _________ sig en kompost.
-
+Hon tänker inte __ skaffa __ sig en kompost.
+skaffa = to get, to acquire, to procure
 
 3. Bara fyra av hundra personer tycker att miljön är den viktigaste frågan.
-Det är inte så många som _________ att miljön är viktigast.
-
+Det är inte så många som __ anser __ att miljön är viktigast.
 anse = to be of an opinion, feel, think, believe
 
-
 4. Daniel kopplade ihop datorn fel för han förstod inte instruktionerna.
-Han hade helt ___________ instruktionerna.
-
+Han hade helt __ missförstått __ instruktionerna.
 missförstå = to misunderstand
 
-
 5. Allt fler turister åker på charterresa.
-Antalet charterturister har ________.
+Antalet charterturister har __ ökatt __.
+öka = to increase
 
 6. Resmålet var oftast Italien.
-Resmålet var _________ Italien.
-
+Resmålet var __ främst __ Italien.
 främst = foremost, first (in position or rank)
 
-
 7. Det är vanligt att miljöfrågor ingår i olika kurser på universitetet.
-Miljöfrågor ______________ ingå i olika kurser på universitetet.
+Miljöfrågor __ brukar __ ingå i olika kurser på universitetet.
+bruka = to be in the habit of
 
 8. Åsa är noga med att kasta olika sopor i olika containrar.
-Hon tycker att det är viktigt att _________ sina sopor.
-
+Hon tycker att det är viktigt att __ sortera __ sina sopor.
 sortera = to sort
 
-
 9. Daniel undrar om det passar att ringa efter filmen.
-Han undrar om det är _________ att ringa efter filmen.
-
+Han undrar om det är __ lämpligt __ att ringa efter filmen.
+lämplig = suitable, appropriate, apposite, fit (passa)
 
 10. Åsa tittade noga på priserna för hon ville köpa den billigaste frukten.
-Åsa _______________  priserna på frukten.
-
+Åsa __jämförde __  priserna på frukten.
 jämföra = to compare
 
 
