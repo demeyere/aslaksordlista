@@ -124,7 +124,52 @@ Här är tre tips:
 
 RESTIPS: Bärnstensmuseet i Kämpinge i sydvästra Skåne
 
-78
+
+///
+
+østersjø = Baltic
+gulaktig = yellowish
+-aktig = -like -ish
+blåaktig, brunaktig, felaktig, førdelaktig, gråaktig, grønaktig, gulaktig, oskiljaktig, rosaaktig, rødaktig, tvivelaktig, varaktig, vitaktig, dåraktig
+kant = edge, border, brim, math (boundary, edge)
+bryn = edge of a forest (skogsbryn)
+bärnsten (även rav) raven = sv.wiki amber
+førnstelna = to fossilize, petrify
+kåda = resin
+kvarleva (~n ~or ~orna) = a remainder
+utdød = extinct
+tall = pine
+art = species
+bestå = consist of, made of
+kol = carbon, coal
+väte = hydrogen
+syre = oxygen
+nyans = shade, hue, 2. nuance
+genomskinlig = translucent
+genomsynlig = transparent
+sällan = seldom, rarely
+rest = remainder, rest, leftover
+framfør = in front of
+kraftig = powerful
+forntiden = ancient past
+smycke = jewelry
+prydnandsførmål = ornaments (knicknacks)
+medel = substance
+betalning = payment
+betala = to pay
+byta = to exchange, swap
+handel = trade, commerce
+slav = slave
+anse = to be of an opinion
+førr = (adv) before, at an earlier time
+ladda = to change, to cause to take an electrical charge
+äkta - adj. genuine, authentic
+gnida v1 = rub, scrape
+
+han är lite egen = broke the mold, a little crazy
+en våg (vågor) = a wave
+
+///
 
 
 Dofta eller lukta
@@ -152,6 +197,28 @@ mesta.
 
 DISKUTERA: Vad är det som gör att vi tycker att något luktar gott eller illa? Varför är vi så rädda för att lukta? Vilka hygienprodukter och rengöringsmedel skulle du inte kunna vara utan? Vad kan man säga om statistiken? Använd så många ord och uttryck som möjligt från texten!
 79
+
+
+///
+
+førknippa v1 = to associate
+dofta = smell
+lukta = to smell
+stinka = to stink
+førutom = except
+handflata = palm
+gardin = curtains
+prepaxat = preparation
+bero på = be due to
+smink = make up, cosmetic
+illa
+ägna = spend
+jag stig ur bilen
+rultrappa = escalator
+stiga på
+
+
+///
 
 
 

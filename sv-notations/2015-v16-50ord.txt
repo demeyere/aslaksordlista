@@ -200,3 +200,6 @@ http://www.lardigsvenska.com/2010/09/partikelverb-ga.html
 http://blogs.transparent.com/swedish/particle-verbs/
 
 [ ] dependent clauses
+
+// Jag tycker att spela piano är en god utbildning, men jat inte kan tänka när Knut2 spelar den. Jag tror att spela piano ska hjälpa honom spela trummar.
+
