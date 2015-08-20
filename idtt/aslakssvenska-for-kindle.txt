@@ -635,6 +635,7 @@
 — en groda // (~n; grodor; grodorna;) frog;  
 — grubbla // (v ~r; ~de; ~t; ~; ~nde;) tänka djupt och under längre tid och ofta på ett dystert sätt; Vanliga konstruktioner: grubbla över något; to ponder; grubbla över livets stora och existentiella gåtor; Redan under sin tid som militär började han grubbla på nya uppfinningar. 
 — grunda // (v1) to start, to found, to lay the foundation; När Konstantinopel grundades som huvudstad i öst blev staden nytt centrum i det romerska riket, tyngdpunkten sköts bort från Rom. 
+— grundlig // (adjektiv: ~t; ~a; ~are; ~ast;) som behandlar något från många aspekter och ofta också studerar bakomliggande aspekter; thorough, solid, careful; De utförde en grundlig renovering av huset. För att kunna fastställa vilket av alternativen som bäst uppfyllde hans behov valde han att grundligt jämföra de olika alternativen. 
 — en grundskola // (~n;) an elementary school;  
 — en grupp // (~en; ~er; ~erna;) a group; Har medlemmarna i den gruppen något att klaga på måste man åtgärda det. Så här svarade några ungdomar, som är den trendkänsligaste gruppen: So here answered some youth who are the trendiest group: 
 — ett grupparbete // group project;  
@@ -899,7 +900,7 @@
 — juni // June;  
 — juridisk // (adjektiv: ~t; ~a;) legal;  
 — just // (adverb) just; just det; Just that! That's the idea! Quite so! Mannen ska just ge rosor till sin flickvän. The man is about to give roses to his girlfriend. 
-— jämföra // (v jämför; jämförde; jämfört; jämför; ~nde; jämförd;) 1. to compare; to assess similarities and differences between; 2. to compare; to declare two things to be similar in some respect;  
+— jämföra // (v jämför; jämförde; jämfört; jämför; ~nde|~ndes; jämförd;) undersöka, bedöma eller observera likheter och skillnader mellan två eller flera saker i förhållande till varandra; 1. to compare; to assess similarities and differences between; 2. to compare; to declare two things to be similar in some respect; För att kunna fastställa vilket av alternativen som bäst uppfyllde hans behov valde han att grundligt jämföra de olika alternativen. 
 — jämt // (adverb) alltid, hela tiden; ständigt; all the time; frequently; constantly; always; De stora förstår aldrig någonting av sig själva, och det är tröttsamt för oss barn att ständigt och jämt behöva förklara allting för dem. Det blir mycket billigare och jag har jämt mina gamla jeans och tröja. It becomes much cheaper and I always have my old jeans and sweater. Det blåser jämt i den här stan. han är jämt upptagen; he is always busy; Idiom: jämt och ständigt ("hela tiden, alltid"); forever ("all the time, always"); 
 — en jäst // yeast;  
 — jätte- // The word is frequently used compounded with adjectives, where it gives an emphatic meaning; Det var jättegott. That was delicious. Det är jättevarmt härinne. It's very hot in here. Hennes hår ser jättebra ut i flätor. Her hair looks really good in braids. 
@@ -1165,6 +1166,7 @@
 — en lök // (~en; ~ar; ~arna;) onion; (has an interesting colloquial use;) Så jag gjorde en jättegod potatisgratäng, som även innehöll morot, broccoli, lök och vitlök. So I made a delicious potato gratin, which included carrot, broccoli, onion and garlic; 
 — en lön // a salary;  
 — löpa // (v löper; löpte; löpt; löp; ~nde; löpt;) delta i löpning; springa fort; to run (as in a race);  demyr.us/1EknCTt demyr.us/1b9aNll 
+— löpande // (adjektiv) presensparticip av löpa; som löper; 1. running; 2. continuous, uninterupted; löpande utgifter; running expenses; 
 — ett löpband // Ett löpband är ett motionsredskap som används för att träna löpning eller gång i syfte att öka kondition och uthållighet. treadmill;  
 — en lördag // (~en;) Saturday; from lögaredagen (the bathing or wash day); i lördag=past saturday; på lördag=this saturday;  
 — -lös // Added on a noun to yield an adjective denoting a lack of. Compare English -less. Modernt eller tidlöst. 
@@ -1324,6 +1326,7 @@
 — njuta // (v njuter; njöt; njutit; njut; ~nde; njuten;) to enjoy;  
 — nog // (adverb) enough, sufficient; probably; Du borde nog göra den där uträkningen igen. You should do that calculation once again. 
 — noga // (adj.) careful; (adv.) carefully;  
+— noggrann // (adjektiv: noggrant; ~a; ~are; ~ast;) 1. som berör något grundligt, i detalj eller ur många aspekter på ett sätt så att; 2. som anser eller gör något strängt enligt en regel utan undantag; precise; taking great care to do something exactly right; Du måste bli mer noggrann med handtvätten. Hon är väldigt noggrann med att man hälsar; han är å andra sidan väldigt noggrann med att undvika henne. 
 — noll // zero;  
 — Norge // (substantiv) Norway;  
 — normal // (adjektiv: ~t; ~a; ~are; ~ast;) bruklig, standard, ej avvikande, följer normen; normal; (I still have issues with this word in general... ;)  
@@ -1442,6 +1445,7 @@
 — en pepparkaka // (~n; pepparkakor; pepparkakorna;) A ginger snap, traditionally in the shape of a heart.  
 — per // for each, for every; Motorn roterar 1000 varv per minut. The engine goes 1000 revolutions per minute. 
 — en perrong // (~en; ~er; ~erna;) a platform; raised area from which one leaves or enters a train, metro, etc.;  
+— ett pers // (~et; ~; ~en;) 1. kortform för person(er); 2. (sportslang) personligt rekord;  
 — en persika // a peach;  
 — en person // (~en; ~er; ~erna;) a person;  
 — en personal // a human;  
@@ -2120,6 +2124,7 @@
 — en undersökning // examination;  
 — undervisa // (verb) teach;  
 — undra // (v1) to wonder (to ponder about something);  
+— undvika // (v undviker; undvek; undvikit; undvik; ~nde; undviken;) göra så att man inte hamnar i en viss situation eller utför en viss handling; to avoid (to keep away from); Hon är väldigt noggrann med att man hälsar; han är å andra sidan väldigt noggrann med att undvika henne. 
 — ung // (adjektiv: ~t; ~a; yngre; yngsta;) young; Det svenska kungahuset är det yngsta i Europa. 
 — en ungdom // (~en; ~ar; ~arna;) youth; young person; teenager, youngster; Så här svarade några ungdomar, som är den trendkänsligaste gruppen: So here answered some youth who are the trendiest group: 
 — ungefär // (adverb) inte exakt, men inte långt ifrån (särskilt om tal och innebörden i påståenden); about, approximately;  
@@ -2292,6 +2297,7 @@
 — yrkesliv // professional life;  
 — en yta // (~n; ytor; ytorna;) space, area; surface; upside of a flat object or outside hull; Dammens lugna yta reflekterade månljuset. The still surface of the pond reflected the moonlight. en plan yta; a level (plane) surface; 
 — en å // (~n; ~ar; ~arna;) litet vattendrag, i allmänhet större än en bäck men mindre än en flod; a river, a creek, a big stream; Gå inte över ån efter vatten. Don’t cross the stream to get water. 
+— å andra sidan // anger att det finns två olika saker att ta hänsyn till, eller att saker kan ses ur mer än en synvinkel; (idiomatic) on the other hand...  
 — åka // (v2b åker; åkte; åkt; åk; ~nde;) to go (by use of something else than the natural transporting functions of the human or animal body); to travel (to ride); Barnen åker skridskor på dammen när den är helt fryst. The children ice-skate on the pond once it is frozen solid. De åker buss. 
 — åka skidor // (verb) to go skiiing;  
 — en åker // (~n; åkrar; åkrarna;) field; a wide, open space that is used to grow crops;  
