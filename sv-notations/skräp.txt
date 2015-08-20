@@ -104,3 +104,8 @@ http://sunnliden.se/?p=3042  // å tredje sidan // and social media rant ;)
 
 https://en.wiktionary.org/wiki/Category:Swedish_idioms
 https://sv.wiktionary.org/w/index.php?title=Kategori:Svenska/Idiom
+
+https://sv.wiktionary.org/wiki/Kategori:Svenska/Månader
+https://sv.wiktionary.org/wiki/utkik
+https://sv.wiktionary.org/wiki/kika
+
