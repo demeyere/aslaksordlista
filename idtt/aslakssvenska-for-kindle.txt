@@ -722,7 +722,7 @@
 — het // (adjektiv: ~t; ~a; ~are; ~ast;) hot;  
 — -het // 1. (efterled) det att vara; 2. (efterled) någon/något som är; productive suffix giving an adjective a nounal meaning; -ness, -ity; Karin Larssons textilier i ljusa färger och barnkläder, designade för lek och lättskötthet, var någonting helt nytt för sin tid och de är fortfarande populära. Karin Larssons textiles in light colors and children's clothes, designed for play and easy maintenance, were something entirely new for their time and are still popular. 
 — heta // (v2b heter; hette; ~t; het; ~nde;) be called; have as one's name; Jag heter Arþursson i efternamn. Jag heter Aslak Arþursson. Vad heter du? 
-— en himmel // (himlen; himlar; himlarna;) 1. sky; 2. heaven;  
+— en himmel // (himlen; himlar; himlarna;) 1. sky; 2. heaven; Fyrverkerier lyste upp kvällshimlen. Fireworks lit the night sky. 
 — en hink // (~en; ~ar; ~arna;) ihålig handtagsförsedd behållare, oftast med cirkulär bottenyta och lätt utåtgående sidor, avsedd att inrymma vatten, jord, grus, sand etc.; bucket (container); Det är ett hål i hinken. 
 — hinna // (v4s hinner; hann; hunnit; hinn; ~nde; hinnen;) 1. to have sufficient time to do something; 2. to manage to do something in time; 3. to be on time, not to be late; Jag hinner inte äta frukost. 
 — en hiss // (~en; ~ar; ~arna;) 1. (mindre) rum ofta helt avgränsat av väggar där vanligen en eller två av väggarna utgörs av dörrar, konstruerat för att (vanligen motordrivet) kunna färdas längs en rak, vertikal bana i syfte att transportera människor och gods mellan olika höjder, vanligen våningar i en byggnad; 2. (musik) höjt h; ton med frekvens nära 523.25 · 2n Hz, för något heltal n (om ettstrukna a antas ha frekvensen 440 Hz enligt överenskommen standard), vilken i liksvävande temperatur är enharmonisk med c och dessess; elevator; Ta hissen upp till nionde våningen. Take the elevator to the ninth floor. 
@@ -1523,8 +1523,7 @@
 — rakna // (v ~r; ~de;) bli rakare; räta ut sig; to straiten; (icelandic) (intransitive) to become unraveled or unwound; (norwegian) to fray, unravel;  
 — rakt fram // up to; straight ahead;  
 — en ram // (~en; ~ar; ~arna;) 1. frame (e.g. around a painting); 2. frame, boundaries (the set of options for actions given); 3. frame (a context for understanding); 4. paw (of a bear);  
-— ramla // (v1) fall;  
-— ramla ner // (verb) fall;  
+— ramla // (v1) om djur: tappa balansen, ofta så att individen senare blir liggande på marken; to fall, to stumble; Hon ramlade av hästen. Hon ramlade bakåt och landade hårt på skinkorna. She fell backwards landing hard on her buttocks. 
 — randig // (adjektiv: ~t; ~a; ~are; ~ast;) som har ett mönster som åtminstone ungefär består av många smala och (obegränsat) långa rektanglar bredvid varandra, med fixt avstånd mellan dem; 1. striped; 2. (of paper) lined;  
 — en rapsolja // canola or rapeseed oil;  
 — en rast // paus i arbete, särskilt i skolan; a break;  
@@ -2257,6 +2256,7 @@
 — en vokal // vowel;  
 — vuxen // (adjektiv: vuxet; vuxna;) adult (fully grown);  
 — en våg // a scale;  
+— en våg // a wave;  
 — våga // (v1) dare, to have enough courage (to do something); Hur vågar du använda sådant språk i det här huset?! How dare you use such language in this house?! Jag vågar inte fråga henne en tredje gång. I don't dare to ask her a third time. 
 — en våning // (~en; ~ar; ~arna;) 1. a large apartment; 2. floor, story of a building; Du kan duscha i badrummet på övervåningen. You can shower in the bathroom upstairs. Min lägenhet ligger på första våningen. My flat is on the first floor. Vi tog hissen upp till översta våningen. övre våningen; upper floor; demyr.us/1GPmdaX 
 — en vår // (~en; ~ar; ~arna;) (tidsuttryck) den årstid som följer en kallare period (vintern) och kommer innan en varmare (sommaren); spring; the season between winter and summer;  

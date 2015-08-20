@@ -109,3 +109,6 @@ https://sv.wiktionary.org/wiki/Kategori:Svenska/Månader
 https://sv.wiktionary.org/wiki/utkik
 https://sv.wiktionary.org/wiki/kika
 https://en.wiktionary.org/wiki/rand#Swedish
+https://en.wiktionary.org/wiki/löpa#Swedish  // long distance...
+https://en.wiktionary.org/wiki/lopp
+
