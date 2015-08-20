@@ -873,7 +873,7 @@
 — en invånare // an inhabitant; Stockholm har cirka 800 000 invånare, med förorter cirka 1,7 miljoner. Sverige har över 9 miljoner invånare. Sweden has a population of over 9 million people. 
 — invända // (v2a invänder; invände; invänt; invänd; ~nde; invänd;) Grammatikkommentar: A & x mot y; A & att + S; to argue, to protest; Invände inte din fru den här gången? Didn't your wife object this time? Jag föreslog att vi skulle gå på bio, men Freya invände att hon var trött. ... och där verkar ingen ha något att invända mot det. 
 — invändigt // (adverb) på insiden; internally; Då ritade jag boaormen som den såg ut invändigt, så att de stora skulle förstå vad det var. 
-— irra // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) vandra omkring utan syfte; (även om blicken); En massa människor irrade runt på stan. 
+— irra // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) vandra omkring utan syfte; (även om blicken); to wanter around without purpose; En massa människor irrade runt på stan. 
 — irritera // (verb) to irritate;  
 — irriterande // (adjektiv) irritating; En textbit är en låt har spelat på repeat i min hjärna sedan i tisdags, lite irriterande då det är från Kents Ingenting. 
 — en is // (~en; ~ar; ~arna;) ice; Alla möbler i hotellet görs också av den kristallklara isen och man kan beundra de vackra isskulpturerna, lamporna av is och ta ett glas i isbaren. All furniture in the hotel is also made of the crystal clear ice and one can admire the beautiful ice sculptures, lamps of ice and have a drink in the ice bar. Om is på vägen man kan halka. Tro mig, vi har all tid i världen, det är ingen ko på isen. 
@@ -1222,7 +1222,7 @@
 — mera // (adverb) more, anymore;  
 — messa // (v1) (vardagligt) skicka ett textmeddelande; Etymologi: från engelska message; to text, sms, message;  
 — mest // (adverb) most;  
-— en meter // (~n; ~|metrar; metrarna;) 1. (fysik) SI-enheten för längd; den sträcka som ljuset tillryggalägger i vakuum under tiden 1/299 792 458 sekund; 2. en sträcka av en meter enligt ovan; a meter (distance) Fallet är sjutton meter. The water falls seventeen metres; the decline is seventeen metres. Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. 
+— en meter // (~n; ~|metrar; metrarna;) 1. (fysik) SI-enheten för längd; den sträcka som ljuset tillryggalägger i vakuum under tiden 1/299 792 458 sekund; 2. en sträcka av en meter enligt ovan; a meter (distance); Fallet är sjutton meter. The water falls seventeen metres; the decline is seventeen metres. Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. 
 — mid- // middle;  
 — en middag // tid omkring kl 12 på dagen, även kvällsmåltid; dinner 18:00; midday, noon; Middag hos Aslak 18.00. 
 — ett middagsbord // dining table;  
@@ -1730,7 +1730,7 @@
 — en slump // (~en; ~ar; ~arna;) random, chance, happenstance, coincidence; sv.wikipedia.org has a link to `slumpartikel` for a random/chance article. Jag låter inte min framtid avgöras av slumpen. I will not leave my future up to chance. 
 — ett slut // (~et; ~; ~en;) an end; Batteriet är slut. Jag läste det från början till slut två gånger. I read it from beginning to the end twice. Min penna har slut på bläck. My pen is out of ink. Skrivaren har slut på papper. The printer is out of paper. Slutet av den boken är mycket bra skrivet. The end of that book is very well written. 
 — sluta // (v1) 1. to stop (come to an end); 2. to quit (e.g. school, a job or a habit); 3. to cease doing something; 4. to finish; to have as a result (from a competition); Efter lunch kan jag inte sluta gäspa. After lunch, I can't stop yawning. Matchen slutade med ett kryss. När det slutar regna, ska vi gå på promenad. When it stops raining we will go for a walk. 
-— slutföra // (v slutför; slutförde; slutfört; slutför; ~nde; slutförd;) föra till ett slut, avsluta; bring (carry) to a conclusion, complete, finish; projektet slutfördes 1984; the project was brought to a conclusion in 1984; Uppdraget är slutfört. 
+— slutföra // (v slutför; slutförde; slutfört; slutför; ~nde; slutförd;) föra till ett slut, avsluta; bring (carry) to a conclusion, complete, finish; accomplish; projektet slutfördes 1984; the project was brought to a conclusion in 1984; Uppdraget är slutfört. 
 — slutligen // (adverb) finally;  
 — slå // (v4s ~r; slog; slagit; ~; ~ende; slagen;) hit, punch, beat; strike, especially with a tool; strike of a clock; 5 more... För trettio år sedan slog blixten ner i det där klocktornet. Thirty years ago, lightning struck that clock tower. Han misslyckades med sitt försök slå världsrekordet. He failed in his attempt to beat the world record. Hon slog hål på hans teori. Ikeas grundare, Ingvar Kamprads affärsidé om att alla skulle ha råd med vackra, bekväma möbler till ett rimligt pris har slagit igenom helt i Sverige i dag. Ikeas founder, Ingvar Kamprad's business ideas about how all should be able to afford beautiful, comfortable furniture at a reasonable price has hit throughout the whole of Sweden today. Man slog nästan i huvudet när man steg in, för det var så lågt i tak i hans lilla verkstad. One almost bumped his head when he stepped in, because the ceiling was so low in his little workshop. Mitt hjärta slår två gånger snabbare när Freya går förbi. slå ihop; close up a book; slå in; wrap up; slå ut; opens up (as in a flower); 
 — en släkt // (~en; ~er; ~erna;) personer som har en gemensam härstamning; family, relatives, ancestors; Jag är släkt med Odinn. 
@@ -1895,7 +1895,7 @@
 — surfa // (v1) to surf the internet;  
 — svag // (adjektiv: ~t; ~a; ~are; ~ast;) 1. (om djur, robot, muskel, motor etc.) som har låg förmåga att ge upphov till stora krafter; 2. (om person) som dåligt klarar att utföra mycket (gott) vid stress, bakslag etc.; 3. (om material) som inte tål stora krafter utan att gå sönder; ömtålig; 4. (om lösning) med låg koncentration; 5. (om syra el. bas) som har låg sannolikhet att protolysera; 6. (om ljud) med låg intensitet; 7. som inte har förmåga att orsaka några större effekter; 8. (om misstankar etc.) mindre sannolika; 9. (om skäl etc.) mindre viktiga; 10. (om ström etc.) inte hög; 11. (med prepostionen för) förtjust; 1. weak; lacking in force or ability; 2. weak; dilute; 3. (grammar) weak; regular in inflection;  
 — sval // (adjektiv: ~t; ~a; ~are; ~ast;) 1. cool, slightly chilly; 2. chilly; distant and without warmth;  
-— en svamp // (~en; ~ar; ~arna;) fungus or mushroom;  
+— en svamp // (~en; ~ar; ~arna;) fungus or mushroom;  https://sv.wikipedia.org/wiki/Svampar 
 — ett svar // (~et; ~; ~en;) an answer, response, reply; Hennes svar var löjliga. Her replies were ridiculous. Om Sfinxen ställer en gåta, är det bäst du vet svaret. If the Sphinx asks you a riddle, you better know the answer. Skriv svar. Write answers. Sätt ett kryss i den ruta som stämmer överens med ditt svar. 
 — svara // (v1) to answer, to reply, to respond; Snälla svara på frågan ärligt. Please answer the question honestly. 
 — svart // (adjektiv: ~; ~a; ~are; ~ast;) black; Jag gillar Svarta havets vågor. I like the waves of the Black Sea. 
