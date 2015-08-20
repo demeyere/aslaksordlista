@@ -133,7 +133,7 @@
 — ett bibliotek // (~et; ~; ~en;) 1. byggnad avsedd att innehålla en större mängd böcker, tidskrifter o.dyl., skött av speciell personal; Synonymer: en bibbla (vardagligt); 2. samling av böcker, tidskrifter o.dyl.; a library;  
 — en bibliotekarie // person som arbetar på bibliotek; a librarian;  
 — en biff // a steak; Jag grillar en biff. I grill a steak. Jag steker en biff. I fry a steak. 
-— en bil // (~en; ~ar; ~arna;) a car; Bilen startar inte. The car won't start. Den bilhandlaren har inte modellen jag letar efter. That car dealership doesn't have the model I'm looking for. En bilmekaniker reparerade vår bil. A mechanic fixed our car. Jag kör min bil. Jag lagar min bil. Var parkerade du bilen? Where did you park the car? 
+— en bil // (~en; ~ar; ~arna;) 1. (fordon, allmänt) personbil, bil (2.) avsedd för transport av ett fåtal personer; 2. (fordon) motordrivet (oftast) fyrhjuligt fordon // från ålderdomligt ordet `automobil`; a car; Bilen startar inte. The car won't start. Den bilhandlaren har inte modellen jag letar efter. That car dealership doesn't have the model I'm looking for. En bilmekaniker reparerade vår bil. A mechanic fixed our car. Jag kör min bil. Jag lagar min bil. Var parkerade du bilen? Where did you park the car? 
 — en bild // (~en; ~er; ~erna;) an image, a picture; En bild säger mer än tusen ord. 
 — ett bildäck // car deck (of a ship); Hytterna ligger på däck fem och nio, inga hytter finns under bildäck; 
 — en biljett // (~en; ~er; ~erna;) 1. ticket; an entitling pass;  
@@ -448,6 +448,7 @@
 — ett fodral // (~et; ~; ~en;) cover, case;  
 — ett folk // (~et; ~; ~en;) 1. (uncountable) people in general, humans; 2. a people, a nation; in compounds referring to local or national traditions (folklore), national institutions (folkhem) or international relations (folkrätt);  
 — for ... sedan // ago;  
+— ett fordon // (~et; ~; ~en;) rörligt föremål som används för transport av människor eller gods, vanligen på vägar; transportmedel; a vehicle, a conveyance; Fordonets passagerare blev inte skadad. The passenger of the vehicle was unharmed. 
 — forma // (v1) to shape, give form; När det var klart skulle lädret skäras till och formas, innan det spikades på träbottnen och sedan målades träet. When it was ready, the leather was cut out and shaped, before it was nailed to the wooden bottoms and then the wood was painted. 
 — formell // (adjektiv: ~t; ~a; ~are; ~ast;) formal, official, strict;  
 — fornstor // (adjektiv: ~t; ~a;) (poetiskt) som i äldre tider var eller tycktes vara en storhet; Användning: Det i särklass vanligaste bruket är i konstruktionen fornstora dar/dagar.  
@@ -497,7 +498,7 @@
 — fuktig // (adjektiv: ~t; ~are; ~ast;) humid, moist, damp; Jag är fuktig av svett. I am damp with sweat. 
 — ful // (adjektiv: ~t; ~a; ~are; ~ast;) ugly; Den fula ankungen växte upp till bli en vacker svan. The ugly duckling grew up to be a beautiful swan. 
 — full // (adjektiv: ~t; ~a; ~are; ~ast;) full; drunk; Försöka plugga lite också men hjärnan är så full med snor så det känns rätt omöjligt. Supa sig full. Get drunk. 
-— fullborda // (v ~r; ~de; ~t; ~; ~nde; ~d;) slutföra en serie handlingar; göra fullständig en uppgift; to make complete, to finish; // Old Swedish fulbordha, from Middle Low German vulborden, based on the noun vulbort ‎(“full board, a ship built to completion”). När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske. 
+— fullborda // (v ~r; ~de; ~t; ~; ~nde; ~d;) slutföra en serie handlingar; göra fullständig en uppgift; to make complete, to finish; När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske. 
 — fundera // (v1) think, ponder; Hon funderade på att överge Sverige och flytta till New York. Jag funderar på åka till Ryssland nästa månad. I'm considering visiting Russia next month. 
 — funka // (v1) att fungera; to function, to work, to operate, to be in operation; Det borde fungera. That should work. Det fungerade i filmen! It worked in the movie! Funkar den där gamla radion fortfarande? Så funkar det. How it works. 
 — ett furu // (~t;) pinewood;  
@@ -744,7 +745,7 @@
 — hos // at the home of/in the home of; Middag hos Aslak 18.00. 
 — hosta // (v1) to cough; Jag hostar. I cough. 
 — hota // (v1) to threaten; Men det uppståndna Lammet hotas inte av drakar eller svärd. 
-— ett hotell // (~et;) a hotel;  
+— ett hotell // (~et; ~; ~en;) etablissemang med rum för uthyrning till nattgäster; a hotel;  
 — hugga // (v hugger; högg; huggit; hugg; ~nde; huggen;) to slash, to cut;  
 — huka // (verb) to squat (reflexive); I Gamla stan är det fullt av portar och knutar som man kan gömma sig bakom, och ibland kan jag huka mig bakom någon bil. demyr.us/1FlCcvS 
 — en hund // (~en; ~ar; ~arna;) dog; Ge dig iväg från min fruktträdgård, annars så skickar jag hundarna på dig! Get out of my orchard or I'll set the dogs on you! Hon och hennes kompisar tränar agility med sina hundar. She and her friends do agility training with their dogs. Min hund kommer inte bita dig. (Den är inte min hund.) My dog will not bite you. Varning för hunden! Be careful of the dog! 
@@ -1086,7 +1087,7 @@
 — lat // (adjektiv: ~t; ~a; ~are; ~ast;) lazy;  
 — en lax // (~en; ~ar; ~arna;) salmon;  
 — le // (v4o ~r; log; ~tt; ~; ~ende;) 1. to smile; 2. (obsolete) to laugh; Ett leende är det bästa sättet att tacka. A smile is the best way to say "thank you." 
-— leda // (v leder; ledde; lett; led; ~nde; ledd;) 1. hålla i och föra (i viss riktning); 2. (om väg e.d.) föra (i viss riktning); 3. (om ämne) överföra, (ha förmåga att) vidarebefordra elektricitet eller värme; 4. (med preposition till) ge som resultat; få att inträffa; föra till, inducera, orsaka; 5. styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för; 6. vägleda, visa vägen, hjälpa; 7. (om tävling eller spel) ligga först; ha övertag; 8. böja en led; 1. To (gently) lead; to guide, to conduct; 2. To be in the lead; to be the leader of a competition; 3. To guide, to direct; to be in a position of leadership; Det lätta sätt leder ingenstans. —Aslak Sitt upp! Dålig hållning leder till senare ryggproblem. Sit up! Bad posture will lead to back problems later on. 
+— leda // (v leder; ledde; lett; led; ~nde; ledd;) 1. hålla i och föra (i viss riktning); 2. (om väg e.d.) föra (i viss riktning); 3. (om ämne) överföra, (ha förmåga att) vidarebefordra elektricitet eller värme; 4. (med preposition till) ge som resultat; få att inträffa; föra till, inducera, orsaka; 5. styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för; 6. vägleda, visa vägen, hjälpa; 7. (om tävling eller spel) ligga först; ha övertag; 8. böja en led; 1. To (gently) lead; to guide, to conduct; 2. To be in the lead; to be the leader of a competition; 3. To guide, to direct; to be in a position of leadership; Det lätta sätt leder ingenstans. —Aslak; Sitt upp! Dålig hållning leder till senare ryggproblem. Sit up! Bad posture will lead to back problems later on. 
 — en ledare // leader; Sverige hade just förlorat Finland till Ryssland i ett krig, och man sökte därför efter en stark ledare som kunde ta tillbaka Finland. 
 — ledig // (adjektiv: ~t; ~a; ~are; ~ast;) 1. free, available, not occupied. 2. relaxed, casual, informal. jag har fått lov att vara ledig idag. I have got permission to be off today. 
 — en ledighet // a leave;  
@@ -1164,7 +1165,7 @@
 — läsa // (v2b läser; läste; läst; läs; ~nde; läst;) to read; Har du läst ut boken? Have you finished the book? Jag läste t.o.m. sidan 39. I read the book to, and including, page 39. Pojken läser en bok i parken. 
 — läsa till // (verb) read to;  
 — en läsk // pop; soda;  
-— lätt // (adjektiv: ~; ~a; ~are; ~ast;) 1. light; of low weight; 2. (of food) light; containing only small amounts of fat and/or sugar; 3. (of alcoholic drinks) containing only small amounts of alcohol; containing less alcohol than customary; 4. easy; not difficult; Det lätta sätt leder ingenstans. —Aslak Det är lättare be om förlåtelse än om tillåtelse. It's easier to ask forgiveness than permission. Igår gjorde jag hemläxan. Den var lätt. Yesterday I did my homework. It was easy. Laga fisk hemma lätt som en plätt. Make fish at home, easy as a (small pancake)[pie]. 
+— lätt // (adjektiv: ~; ~a; ~are; ~ast;) 1. light; of low weight; 2. (of food) light; containing only small amounts of fat and/or sugar; 3. (of alcoholic drinks) containing only small amounts of alcohol; containing less alcohol than customary; 4. easy; not difficult; Det lätta sätt leder ingenstans. —Aslak; Det är lättare be om förlåtelse än om tillåtelse. It's easier to ask forgiveness than permission. Igår gjorde jag hemläxan. Den var lätt. Yesterday I did my homework. It was easy. Laga fisk hemma lätt som en plätt. Make fish at home, easy as a (small pancake)[pie]. 
 — en läxa // (~n; läxor; läxorna;) homework; a lesson;  
 — en lök // (~en; ~ar; ~arna;) onion; (has an interesting colloquial use;) Så jag gjorde en jättegod potatisgratäng, som även innehöll morot, broccoli, lök och vitlök. So I made a delicious potato gratin, which included carrot, broccoli, onion and garlic; 
 — en lön // a salary;  
@@ -1221,6 +1222,7 @@
 — mera // (adverb) more, anymore;  
 — messa // (v1) (vardagligt) skicka ett textmeddelande; Etymologi: från engelska message; to text, sms, message;  
 — mest // (adverb) most;  
+— en meter // (~n; ~|metrar; metrarna;) 1. (fysik) SI-enheten för längd; den sträcka som ljuset tillryggalägger i vakuum under tiden 1/299 792 458 sekund; 2. en sträcka av en meter enligt ovan; a meter (distance) Fallet är sjutton meter. The water falls seventeen metres; the decline is seventeen metres. Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. 
 — mid- // middle;  
 — en middag // tid omkring kl 12 på dagen, även kvällsmåltid; dinner 18:00; midday, noon; Middag hos Aslak 18.00. 
 — ett middagsbord // dining table;  
@@ -1448,7 +1450,7 @@
 — en pepparkaka // (~n; pepparkakor; pepparkakorna;) A ginger snap, traditionally in the shape of a heart.  
 — per // for each, for every; Motorn roterar 1000 varv per minut. The engine goes 1000 revolutions per minute. 
 — en perrong // (~en; ~er; ~erna;) a platform; raised area from which one leaves or enters a train, metro, etc.;  
-— ett pers // (~et; ~; ~en;) 1. kortform för person(er); 2. (sportslang) personligt rekord;  
+— ett pers // (~et; ~; ~en;) 1. kortform för person(er); 2. (sportslang) personligt rekord; 500 pers kanske är en smula överdrivet. Frågar fem pers om vägen men kommer jättefel. 
 — en persika // a peach;  
 — en person // (~en; ~er; ~erna;) a person;  
 — en personal // a human;  
@@ -1528,7 +1530,7 @@
 — en rapsolja // canola or rapeseed oil;  
 — en rast // paus i arbete, särskilt i skolan; a break;  
 — ett recept // (~et; ~; ~en;) 1. (cooking) a recipe. 2. (medicine) a prescription.  
-— redan // (adverb) already; prior to some specified time; Det är redan höst men det är fortfarande varmt. Vintersnön har redan smält. The winter snow has already melted. 
+— redan // (adverb) 1. så pass (oväntat, ovanligt etc.) tidigt, så tidigt som; 2. vid ett tidigare tillfälle; already; prior to some specified time; Det är redan höst men det är fortfarande varmt. Har du redan gjort klart rapporten? Jag har redan skrivit klart rapporten, så du kan gå hem. Tåget ankom redan 15.07. Vintersnön har redan smält. The winter snow has already melted. 
 — redo // (adjektiv) färdig, beredd; `göra sig ~`, `vara ~`; ready; prepared to face whatever is coming one's way; Var redo! — Alltid redo! 
 — ett redskap // (~et; ~; ~en;) 1. a tool (especially for the kitchen or garden), an instrument; 2. a means, a helper, an abstract tool;  
 — en regering // (~en; ~ar; ~arna;) a government; the executive body of a country's governmental system. ett öppet brev till regeringen; an open letter to the government; 
@@ -1608,7 +1610,7 @@
 — en sambo // (~n; ~r; ~rna;) a person that you are co-habitating/living with;  
 — ett samhälle // (~t; ~n; ~na;) society, community;  
 — en samhällskunskap // a social studies;  
-— en samling // (~en; ~ar; ~arna;) 1. grupp av relaterade saker; 2. det att samlas, insamling; collection  
+— en samling // (~en; ~ar; ~arna;) 1. grupp av relaterade saker; 2. det att samlas, insamling; a collection;  
 — samma // same;  
 — ett samtal // (~et; ~; ~en;) 1. a conversation, a talk, an interview, a review; 2. a phone call, a call;  
 — ett samvete // (~t; ~n; ~na;) a conscience (moral sense);  
@@ -1743,7 +1745,7 @@
 — smaklös // (adjektiv: ~t; ~a;) tasteless; Den rika affärsmannen klagade på lasagnen var smaklös. The rich businessman complained that the lasagna was tasteless. Mat verkar smaklös när man är förkyld. Food seems tasteless when one has a cold. 
 — smal // (adjektiv: ~t; ~a; ~are; ~ast;) thin, narrow, slim;  
 — ett sms // sms;  
-— en smula // (~n; smulor; smulorna;) 1. a crumb (of bread); 2. a tiny bit; Borsta bort smulorna från bordet! Brush the crumbs off the table! 
+— en smula // (~n; smulor; smulorna;) 1. a crumb (of bread); 2. a tiny bit; 500 pers kanske är en smula överdrivet. Borsta bort smulorna från bordet! Brush the crumbs off the table! 
 — smula // (v1) to shred (into pieces);  
 — smutsig // (adjektiv: ~t; ~a; ~are; ~ast;) dirty (covered with or containing dirt); Ta av dig de där smutsiga kläderna! Take those dirty clothes off! 
 — smutt // (adjektiv: ~; ~a; ~are; ~ast;) (slang) neat, nice, well done, clever (like in hack); Det lirade riktigt smutt. It worked (played out) really well. Det ska bli så smutt. Fan det låter smutt. Damn, it sounds neat. 
@@ -1944,7 +1946,7 @@
 — säljas // sold;  
 — en säng // (~en; ~ar; ~arna;) bed; ligga i sängen; lie in bed; Var och en bäddar sin säng. Everyone is expected to make his or her own bed. 
 — särskilt // (adverb) particularly, in particular; Praktiskt och praktiskt förresten, träskor är kanske inte särskilt praktiskt för en polis. Practical and practical incidentally, wooden shoes are probably not particularly practical for a policeman. 
-— ett sätt // (~et; ~; ~en;) 1. manners; behaviour; 2. way, manner; how something is done; De tillverkades av en gammal hantverkare som gjorde tofflor på det gamla sättet, för hand. They were made by an old craftsman who made wooden shoes in the old way, by hand. Det lätta sätt leder ingenstans. —Aslak Ett leende är det bästa sättet att tacka. A smile is the best way to say "thank you." Hon uttrycker sig på ett komiskt sätt. She has a comical way of saying things. Vi är alla lite galna på ett eller annat sätt. We're all a little crazy in one way or another. 
+— ett sätt // (~et; ~; ~en;) 1. manners; behaviour; 2. way, manner; how something is done; De tillverkades av en gammal hantverkare som gjorde tofflor på det gamla sättet, för hand. They were made by an old craftsman who made wooden shoes in the old way, by hand. Det lätta sätt leder ingenstans. —Aslak; Ett leende är det bästa sättet att tacka. A smile is the best way to say "thank you." Hon uttrycker sig på ett komiskt sätt. She has a comical way of saying things. Vi är alla lite galna på ett eller annat sätt. We're all a little crazy in one way or another. 
 — sätta // (v2b sätter; satte; satt; sätt; ~nde; satt;) 1. (reflexive) to sit; to move oneself into a sitting position; 2. to put or place; to make to stick or adhere to; 3. to set; to put something (in particular, something immovable); 4. to set or adjust; to choose a setting; 5. to set; to assign work to; 6. to set; to arrange; to prepare a text for printing; 7. to plant certain plants, such as potatoes or onions; Han satte sig ner och lossade på slipsen. He sat down and loosened his tie. I mörkret satte jag av misstag på mig en marinblå och en svart strumpa. In the dark I accidentally put on one navy sock and one black. Ibland gillar jag bara sätta mig med en bra bok. Sometimes I just like to sit down with a good book. Sätt kryss för rätt svar. 
 — sätta in // (verb) insert;  
 — sätta på // (verb) put on; Hon tog av sig tofflorna och satte på sig skorna igen. She took off her slippers and put on her shoes again. 
@@ -2307,6 +2309,7 @@
 — åka skidor // (verb) to go skiiing;  
 — en åker // (~n; åkrar; åkrarna;) field; a wide, open space that is used to grow crops;  
 — en ålder // (~n; åldrar; åldrarna;) 1. age; how old something or someone is; 2. an age, an era; a particular time period; Så kom det sig, att jag vid sex års ålder avstod från en strålande framtid som målare. 
+— ålderdomlig // (adjektiv: ~t; ~a; ~are; ~ast;) 1. som främst användes tidigare i historien; 2. som inte längre är på modet; 3. som förlorat eller blivit av med sin aktualitet; archaic (old-fashioned or antiquated); Metoden att räkna med kulramar är ålderdomlig. 
 — ett år // (~et; ~; ~en;) year; Idag fyller Aslak 50 år. Jag är 50 år. Nästa år är ett skottår. Next year is a leap year. 
 — en årskurs // a grade;  
 — ett årsmöte // annual meeting;  
