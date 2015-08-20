@@ -51,7 +51,7 @@
 — en apelsinjuice // orange juice;  
 — ett apotek // (~et; ~; ~en;) pharmacy;  
 — april // April;  
-— arbeta // (v1) to work; Det här är ett problem som jag fortfarande arbetar med. Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. Min dotter arbetar som flygvärdinna. My daughter works as a stewardess. 
+— arbeta // (v1) to work; Det här är ett problem som jag fortfarande arbetar med. Min dotter arbetar som flygvärdinna. My daughter works as a stewardess. 
 — en arbetare // (~n; ~; arbetarna;) 1. a worker; one who does work, often as part of an employment. 2. (more or less obsolete, uncountable) A collective term for all employees in a society. Arbetaren lastar av frakten. The worker is unloading the freight. 
 — ett arbete // (~t;) a job; Mitt arbete här är gjort. My work here is done. 
 — en arbetsbänk // workbench;  
@@ -237,7 +237,7 @@
 — en central // (~en; ~er; ~erna;) a central, a centre, a central station, a junction, a connection point, an electrical switchboard;  
 — en champinjon // (~en; ~er; ~erna;) (mat) individ av släktet champinjoner (Agaricus), särskilt om denna använd såsom matsvamp (i synnerhet om de vanligast odlade arterna Agaricus bisporus och Agaricus campestris); mushroom;  
 — en chans // (~en; ~er; ~erna;) chance; an opportunity or possibility;  
-— en chef // (~en; ~er; ~erna;) chief, boss, head, director, manager, leader; A boss; person in charge, person who directly oversees the work being done; Vår chef behandlar oss artigt. Our boss treats us courteously. 
+— en chef // (~en; ~er; ~erna;) person som leder en grupp personer och fattar beslut i den; chief, boss, head, director, manager, leader; A boss; person in charge, person who directly oversees the work being done; Vår chef behandlar oss artigt. Our boss treats us courteously. 
 — en choklad // (~en; ~er; ~erna;) chocolate;  
 — cirka // (adverb) ungefär, omkring; i storleksordning som framgår av sammanhanget (förkortas ca); circa, roughly, about, approximately; Stockholm har cirka 800 000 invånare, med förorter cirka 1,7 miljoner. 
 — en citron // (~en; ~er; ~erna;) lemon; Det är gott med en klyfta citron i vattnet. 
@@ -284,7 +284,7 @@
 — direkt // (adjektiv: ~; ~a; ~are; ~ast;) 1. direct; 2. direct, frank, outspoken; 3. immediate;  
 — diska // (v1) wash dishes;  
 — en diskbänk // kitchen sink;  
-— diskmaskin // (substantiv) dishwasher; köra diskmaskin; 
+— en diskmaskin // mekanisk och vanligen elektrisk maskin som rengör disk (tallrikar, glas, muggar, bestick, skålar, matlagningskärl m.m.); dishwasher; köra diskmaskin; 
 — diskutera // (v1) to discuss (to converse or debate concerning a particular topic);  
 — dissa // (v1) (slang) to dis; to show disrespect for; not to appreciate; Han dissade mig! 
 — dit // (adverb) there; to that place; that way, in that direction; thither; Jag har aldrig varit i London, men jag ska dit snart. 
@@ -793,7 +793,7 @@
 — en häst // (~en; ~ar; ~arna;) 1. a horse; a large mammal, Equus caballus; 2. (chess, colloquial) knight; Deras hästar bor i stallet. Their horses live in the stable. Jag tittade, och framför mig stod en blek häst! I looked, and before me was a pale horse! 
 — hävda // (v1) 1. to maintain, to keep (in order), to preserve; 2. to maintain, to state, to claim; Carl Malmsten (1888-1972), en legen inom svensk formgivning, hävdade att möbler ska vara vackra, bekväma och funktionella. Carl Malmsten, a legend among swedish design, upheld that furniture should be beautiful, comfortable and functional. 
 — en hög // (~en; ~ar; ~arna;) samling av saker som ligger på varann; pile; heap; a quantity of things or material heaped or piled together;  
-— hög // (adjektiv: ~t; ~a; ~re; ~st;) high; loud; De flesta internetanvändarna förväntar sig hög anslutningshastighet. Most internet users expect high connection speeds. Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. Jag fick inte en blund i ögonen hela natten eftersom grannen spelade sådan hög musik. I didn't sleep a wink all night since my neighbor was playing such loud music. Kostnaderna är höga och intäkterna låga. Vad kan man göra? Costs are up, revenue is down. What can you do? När vi såg bilden, skrattade vi högt. When we saw the picture, we laughed out loud. På höga höjder finns det mindre syre i luften. At high elevations, there is less oxygen in the air. 
+— hög // (adjektiv: ~t; ~a; ~re; ~st;) high; loud; De flesta internetanvändarna förväntar sig hög anslutningshastighet. Most internet users expect high connection speeds. Jag fick inte en blund i ögonen hela natten eftersom grannen spelade sådan hög musik. I didn't sleep a wink all night since my neighbor was playing such loud music. Kostnaderna är höga och intäkterna låga. Vad kan man göra? Costs are up, revenue is down. What can you do? När vi såg bilden, skrattade vi högt. When we saw the picture, we laughed out loud. På höga höjder finns det mindre syre i luften. At high elevations, there is less oxygen in the air. 
 — höger // right; sväng vänster sväng höger; turn left then turn right; Vägen kröker sig åt höger. The road curves to the right. 
 — en högtid // (~en; ~er; ~erna;) A holiday, festival or similar festive occasion. Julen är min familjs viktigaste högtid. Christmas is the most important holiday for my family. 
 — höna // (substantiv) hen;  
@@ -871,6 +871,7 @@
 — en invånare // an inhabitant; Stockholm har cirka 800 000 invånare, med förorter cirka 1,7 miljoner. Sverige har över 9 miljoner invånare. Sweden has a population of over 9 million people. 
 — invända // (v2a invänder; invände; invänt; invänd; ~nde; invänd;) Grammatikkommentar: A & x mot y; A & att + S; to argue, to protest; Invände inte din fru den här gången? Didn't your wife object this time? Jag föreslog att vi skulle gå på bio, men Freya invände att hon var trött. ... och där verkar ingen ha något att invända mot det. 
 — invändigt // (adverb) på insiden; internally; Då ritade jag boaormen som den såg ut invändigt, så att de stora skulle förstå vad det var. 
+— irra // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) vandra omkring utan syfte; (även om blicken); En massa människor irrade runt på stan. 
 — irritera // (verb) to irritate;  
 — irriterande // (adjektiv) irritating; En textbit är en låt har spelat på repeat i min hjärna sedan i tisdags, lite irriterande då det är från Kents Ingenting. 
 — en is // (~en; ~ar; ~arna;) ice; Alla möbler i hotellet görs också av den kristallklara isen och man kan beundra de vackra isskulpturerna, lamporna av is och ta ett glas i isbaren. All furniture in the hotel is also made of the crystal clear ice and one can admire the beautiful ice sculptures, lamps of ice and have a drink in the ice bar. Om is på vägen man kan halka. 
@@ -1071,7 +1072,8 @@
 — köra om // (verb) to pass; to overtake; to pull ahead of; Man får inte köra om på den här vägsträckan. You can't pass on this stretch of road. 
 — ett kött // (~et;) meat, flesh; steka kött i ugnen; roast meat in the oven; 
 — en köttbulle // meatball;  
-— ett lag // (~et; ~; ~en;) a workgroup, a team; group of people which in sports compete together versus another team; or in general, work closely together; Det där är mot lagen! That’s against the law! 
+— ett lag // (~et; ~; ~en;) a workgroup, a team; group of people which in sports compete together versus another team; or in general, work closely together;  
+— en lag // (~en; ~ar; ~arna;) 1. a law; a written or understood rule that concerns behaviours and the appropriate consequences thereof. Laws are usually associated with mores. 2. law; the body of written rules governing a society. 3. a law; a one-sided contract. 4. a law; an observed physical law. 5. (mathematics) a law; a statement that is true under specified conditions. Det där är mot lagen! That’s against the law! Det finns en massa lagar och regler. 
 — laga // (v1) to prepare, to cook (food); fix a car; Hon lagar mat. Jag lagar min bil. Jag älskar att laga mat med vin. I love to cook with wine. 
 — lagom // (adverb) Lagom är ett svenskt ord med betydelsen 'varken för mycket eller för litet', 'utan överdrift', 'för ändamålet lämplig storlek, mängd, etc'. just right; neither too much nor too little; För mycket eller för lite skämmer allt. Too much or too little ruins everything. Lagom mycket krydda kan få mat att smaka underbart. The right amount of spice can make food taste wonderful. 
 — en lampa // lamp;  
@@ -1188,7 +1190,7 @@
 — en marknad // (~en; ~er; ~erna;) market; Var ligger den närmaste marknaden? Where is the nearest market? 
 — ett markplan // ground level;  
 — mars // (substantiv) March;  
-— en massa // a lot; Varför betalar vi en massa extra för märkeskläder? Why do we pay a lot extra for brandname clothes? Vi gifter oss på en äng med en massa vilda blommor. 
+— en massa // (~n; massor; massorna;) 1. (fysik) en storhet, materiemängd; 2. obestämd, halvfast substans som är någorlunda finfördelad, särskilt om pappersmassa; 3. stor, samlad mängd personer; 4. konkursmassa, ett bolag satt under konkursförvaltning, motsvarande en fysisk persons dödsbo eller sterbhus; 5. stort antal; 1. a mass (of people; the masses), a large crowd; 2. a lot (of), many; 3. a mass (a substance); 4. (physics) mass (as measured in kilograms); Det finns en massa lagar och regler. En elefant har mycket högre massa än en myra. En massa människor irrade runt på stan. Massa kan mätas i kilogram. Polisen försökte skingra massan. Varför betalar vi en massa extra för märkeskläder? Why do we pay a lot extra for brandname clothes? Vi gifter oss på en äng med en massa vilda blommor. 
 — en mat // (~en;) food; Hon lagar mat. Jag älskar att laga mat med vin. I love to cook with wine. 
 — en mataffär // a grocery store;  
 — en matbit // snack;  
@@ -1295,7 +1297,7 @@
 — märka // (v märker; märkte; märkt; märk; ~nde; märkt;) 1. mark; indicate in some way for later reference; 2. scar; to give somebody an injury - physical or mental - which affects the person for a long time; 3. take note of, notice; Han märkte inte av min ironi. He didn't notice my irony. Modet svänger hela tiden, men det märks att praktiska saker håller i längden. Fashion swings all the time, but it indicates that practical things stay in fashion for a long time. 
 — ett märke // (~t; ~n; ~na;) mark, brand, make;  
 — en mässa // (~n; mässor; mässorna;) a mass;  
-— mäta // (v mäter; mätte; mätt; mät; ~nde; mätt;) to measure; När man beställde träskor, mätte han ens fötter först och skrev in storleken i sin lilla svarta bok med en tjock svart blyertspenna. When someone ordered wooden shoes, he measured his feet first and wrote in the size in his little black book with a thick black pencil. 
+— mäta // (v mäter; mätte; mätt; mät; ~nde; mätt;) to measure; Massa kan mätas i kilogram. När man beställde träskor, mätte han ens fötter först och skrev in storleken i sin lilla svarta bok med en tjock svart blyertspenna. When someone ordered wooden shoes, he measured his feet first and wrote in the size in his little black book with a thick black pencil. 
 — mätt // (adjektiv: ~; ~a; ~are; ~ast;) 1. full, satisfied (from eating); 2. (not comparable) measured, past participle of mäta.;  
 — en möbel // (~n; möbler; möblerna;) piece of furniture; Carl Malmsten (1888-1972), en legen inom svensk formgivning, hävdade att möbler ska vara vackra, bekväma och funktionella. Carl Malmsten, a legend among swedish design, upheld that furniture should be beautiful, comfortable and functional. 
 — möblera // (v ~r; ~de; ~t; ~; ~nde; ~d;) placera ut möbler i ett rum, en lägenhet, en byggnad eller en uteplats; to furnish, to place furniture in rooms; Oavsett vilka det svenska hemmets idégivare har varit, är det möbelvaruhuset Ikea som kan sägas ha möblerat de svenska hemmen. Regardless of the of the swedish home designers that have been (discussed here), it is the furniture store Ikea that can be said to have furnished the swedish home. 
@@ -2129,7 +2131,7 @@
 — en ungdom // (~en; ~ar; ~arna;) youth; young person; teenager, youngster; Så här svarade några ungdomar, som är den trendkänsligaste gruppen: So here answered some youth who are the trendiest group: 
 — ungefär // (adverb) inte exakt, men inte långt ifrån (särskilt om tal och innebörden i påståenden); about, approximately;  
 — ett universitet // (~et; ~; ~en;) university;  
-— upp // 1. mot ett högre plan eller en högre nivå; 2. från liggande till stående läge; 3. från slutet till öppet läge; 4. allmänt perfektiverande verbpartikel - i denna användning ibland utbytbart mot ned; up (away from earth’s centre); Den fula ankungen växte upp till bli en vacker svan. The ugly duckling grew up to be a beautiful swan. Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. torka upp efter sig; clean up after oneself; 
+— upp // 1. mot ett högre plan eller en högre nivå; 2. från liggande till stående läge; 3. från slutet till öppet läge; 4. allmänt perfektiverande verbpartikel - i denna användning ibland utbytbart mot ned; up (away from earth’s centre); Den fula ankungen växte upp till bli en vacker svan. The ugly duckling grew up to be a beautiful swan. torka upp efter sig; clean up after oneself; 
 — ett uppdrag // (~et; ~; ~en;) assignment, mission, duty, order, errand, sortie; till varje pris, utföra uppdraget; at all costs, accomplish the mission; Uppdraget är slutfört. 
 — uppe // (adverb) 1. i en högre position relativt till den talande; 2. motsatsen till nere; up; I en låda högst uppe på vinden, kanske? In a box high up in the attic, maybe? Jag har varit uppe hela natten och pluggat inför det här provet. I've been up all night studying for this test. Jag satt uppe, i stället för att gå och lägga mig (ned). Katten är uppe i trädet. 
 — uppför // (adverb) suggests movement up an incline; Jag går uppför kyrkgången med dig. 
