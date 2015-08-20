@@ -225,7 +225,7 @@
 — en båt // (~en; ~ar; ~arna;) transportmedel som används för transport på flytande vatten; // Båt är ett av de få inanimata substantiv (alltså de som inte syftar på en person eller ett djur) på svenska som kan användas med femininumformen av pronomen. Alltså kan hon, henne och hennes användas när de syftas på en båt. Det är ungefär lika vanligt och accepterat som att använda pronomenen den och dess när man talar om en båt. Detta kallas personifiering, själva ordet ”båt” i sig är inte feminint. a boat; // boats are often referred to using feminine pronouns; Du kommer behöva en större båt. You're going to need a bigger boat. Hon bör sitta i båten. She should sit in the boat. https://sv.wikipedia.org/wiki/Båt 
 — bädda // (v1) göra i ordning eller förbereda en sovplats, vanligtvis en säng; to make one's bed; Var och en bäddar sin säng. Everyone is expected to make his or her own bed. 
 — ett bälte // a belt;  
-— en bänk // (~en; ~ar; ~arna;) bench, a long sofa without bolster; bench; where players of a sport sit when not playing; workbench; school desk; a very simple table - possibly with a sloping top - for the use of students and school pupils; kitchen bench;  
+— en bänk // (~en; ~ar; ~arna;) 1. bench, a long sofa without bolster; 2. bench; where players of a sport sit when not playing; 3. workbench; 4. school desk; a very simple table - possibly with a sloping top - for the use of students and school pupils; 5. kitchen bench;  
 — bära // (v bär; bar; burit; bär; ~nde; buren;) 1. to carry; to lift and transport anywhere else. 2. to wear (eg, a piece of clothing or jewelry). Min resväska är så tung att jag inte kan bära den. My suitcase is so heavy I can´t carry it. 
 — ett bäst-före-datum // best by date;  
 — bästa // top;  
@@ -255,7 +255,7 @@
 — dansa // (v1) to dance;  
 — en danska // a Danish;  
 — en data // (~n; dator; datorna;) (uncountable) information, especially encoded information that can be processed by computers;  
-— en databas // (~en; ~er; ~erna;) database;  
+— en databas // (~en; ~er; ~erna;) 1. en samling av information som är strukturerad på ett sådant sätt att det ska vara lätt att komma åt en specifik del av informationen; 2. en databashanterare (ett datorprogram) för sådana databaser; database;  
 — en dator // (~n; ~er; ~erna;) a computer;  
 — ett datum // (~et; ~; ~en;) date (day, month, year);  
 — de // them; vi sager `dom`;  
@@ -370,7 +370,7 @@
 — er // you plural;  
 — era // your; Ni ska lämna in era rapporter på måndag morgon. You are to hand in your reports on Monday morning. 
 — -era // -ate, -ize; make a verb from a noun, similar to Swedish -a; used on loan-words with French -er and German -ieren;  
-— en erfarenhet // an experience; Slutligen så så har vi genom erfarenhet lärt oss lite hur man lyckas få till pizzorna, hur man lättast transporterar dem till och från grillen, samt det viktigaste hur man får till den rätta frasigheten och ser till att fyllningen är lagom grillad. 
+— en erfarenhet // praktisk, genom upplevelser förvärvad, kunskap eller färdighet; an experience; Slutligen så så har vi genom erfarenhet lärt oss lite hur man lyckas få till pizzorna, hur man lättast transporterar dem till och från grillen, samt det viktigaste hur man får till den rätta frasigheten och ser till att fyllningen är lagom grillad. 
 — erkänna // (v2a erkänner; erkände; erkänt; erkänn; ~nde; erkänd;) 1. admit; to concede as true; 2. recognize; acknowledge the existence of; 3. recognize; realize or discover the nature of something; Jag erkänner, jag gjorde fel. I admit, I made a mistake. Till slut var jag tvungen erkänna han hade rätt. In the end I had to admit that he was right. 
 — en expedit // (~en; ~er; ~erna;) försäljare; butiksbiträde; kassörska; clerk, salesperson;  
 — ett extrapris // (~et; ~er; ~erna;) från ett ordinarie pris tillfälligt nedsatt pris för en tjänst eller produkt; används ofta av företag i syfte att locka kunder till köp; a sale price; a special offer;  
@@ -437,6 +437,7 @@
 — fly // (v3 ~r; ~dde; ~tt; ~;) flee;  
 — ett flyg // (~et; ~; ~en;) airplane flight; Vi stannade hos en kompis när flyget blev inställt. We stayed at a friend's place when the flight was canceled. 
 — flyga // (v4s flyger; flög; flugit; flyg; ~nde; flugen;) to fly; Jag har flugit litet varstans i världen. 
+— en flygledare // (~n; ~; flygledarna;) person som styr flygtrafiken inom ett visst område och säkerställer att den sker på ett säkert sätt; air traffic controller; Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. 
 — en flygresa // a flight;  
 — flyta // (v4s flyter; flöt; flutit; flyt; ~nde; fluten;) 1. to float; of an object or substance, to be supported by a fluid of greater density; 2. to float; to be capable of floating; 3. to float; to drift gently through the air; 4. to float; to move in a particular direction with the liquid in which one is floating; 5. to float; to move in a fluid manner. 6. to flow; to move as a fluid; 7. to flow; to move or match smoothly;  
 — flytande // (adjektiv) fluently;  
@@ -457,8 +458,8 @@
 — fortfarande // (adverb) still; up to a time, as in the preceding time; Det här är ett problem som jag fortfarande arbetar med. Det är redan höst men det är fortfarande varmt. Funkar den där gamla radion fortfarande? Jag gillar flingor när de fortfarande är krispiga. I like cereal when it's still crispy. Karin Larssons textilier i ljusa färger och barnkläder, designade för lek och lättskötthet, var någonting helt nytt för sin tid och de är fortfarande populära. Karin Larssons textiles in light colors and children's clothes, designed for play and easy maintenance, were something entirely new for their time and are still popular. 
 — fortsätta // (v fortsätter; fortsätte; fortsätt; fortsätt; ~nde; fortsätt;) to continue, to proceed; Den blodiga konflikten i Syrien ser tyvärr inget slut och det mänskliga lidandet fortsätter att växa. Ni får fortsätta med projektet under min frånvaro. You can keep the project going in my absence. Vi måste fortsätta kämpa för mänskliga rättigheter. We have to keep on fighting for human rights. 
 — en fot // (~en; fötter; fötterna;) a foot; När man beställde träskor, mätte han ens fötter först och skrev in storleken i sin lilla svarta bok med en tjock svart blyertspenna. When someone ordered wooden shoes, he measured his feet first and wrote in the size in his little black book with a thick black pencil. 
-— en fotballsklubb // soccer club;  
 — en fotboll // (~en; ~ar; ~arna;) 1. en bollsport som spelas av två lag på en rektangulär spelplan med en luftfylld boll som får spelas med alla kroppsdelar utom armar och händer; 2. luftfylld boll använd i sporten med samma namn, tidigare oftast av läder, men numera plast och liknande syntetmaterial; soccer; football;  
+— en fotbollsklubb // soccer club;  
 — ett fotbollslag // a football team;  
 — ett foto // (~t; ~n; ~na;) snapshot, photograph;  
 — ett fotspår // (~et; ~; ~en;) footprint, footstep; hon går i sin fars fotspår; she follows in her father's footsteps; her father is her role model; 
@@ -719,7 +720,7 @@
 — henne // her;  
 — hennes // (possessive) her;  
 — het // (adjektiv: ~t; ~a; ~are; ~ast;) hot;  
-— -het // productive suffix giving an adjective a nounal meaning; -ness, -ity; Karin Larssons textilier i ljusa färger och barnkläder, designade för lek och lättskötthet, var någonting helt nytt för sin tid och de är fortfarande populära. Karin Larssons textiles in light colors and children's clothes, designed for play and easy maintenance, were something entirely new for their time and are still popular. 
+— -het // 1. (efterled) det att vara; 2. (efterled) någon/något som är; productive suffix giving an adjective a nounal meaning; -ness, -ity; Karin Larssons textilier i ljusa färger och barnkläder, designade för lek och lättskötthet, var någonting helt nytt för sin tid och de är fortfarande populära. Karin Larssons textiles in light colors and children's clothes, designed for play and easy maintenance, were something entirely new for their time and are still popular. 
 — heta // (v2b heter; hette; ~t; het; ~nde;) be called; have as one's name; Jag heter Arþursson i efternamn. Jag heter Aslak Arþursson. Vad heter du? 
 — en himmel // (himlen; himlar; himlarna;) 1. sky; 2. heaven;  
 — en hink // (~en; ~ar; ~arna;) ihålig handtagsförsedd behållare, oftast med cirkulär bottenyta och lätt utåtgående sidor, avsedd att inrymma vatten, jord, grus, sand etc.; bucket (container); Det är ett hål i hinken. 
@@ -1036,7 +1037,7 @@
 — kunnig // (adjektiv: ~t; ~a; ~are; ~ast;) 1. (om personer) som kan, som har kunskap, duktig, skicklig; 2. (om upplysningar) känd, bekant; härav namnkunnig; 1. skilled; having skill; 2. knowledgeable; having knowledge; 3. knowledgeable; being well informed; Skolorna har duktig och kunnig personal, med en otroligt fin stämning. 
 — en kurs // a course;  
 — en kusin // cousin;  
-— en kvadrat // (~en;) 1. (geometry) square, a polygon; 2. (mathematics) square, a number (or other element) raised in second power;  
+— en kvadrat // (~en;) 1. (geometry) square, a polygon; 2. (mathematics) square, a number (or other element) raised in second power; Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. 
 — en kvalitet // (~en; ~er; ~erna;) 1. quality (level of excellence); 2. a quality, a property; Det som är dyrare är nästan jämt snyggare och av bättre kvalitet. There are some more expensive and almost always cooler and of better quality. 
 — kvar // (adjektiv) left, remaining; Det finns lite bröd kvar. There is a little bread left. Jag tror din mamma slängde det som var kvar av pajen. I think your mom threw out the rest of the pie. Man bör sitta kvar när planet landar. One should remain seated when the plane lands. 
 — en kvart // (~en; ~ar; ~arna;) En kvart är en fjärdedel av ett rationellt tal eller mått. Termen används vanligen i genitiv, kvarts. En fjärdedel av ett tal är detta dividerat med fyra och kan skrivas 1/4, 0,25 eller 25%. 1. a quarter (one of four equal parts); 2. a quarter of an hour, 15 minutes; 3. a small appartment, pad; Hur mycket är klockan? Hon är 23:15. 
@@ -1145,7 +1146,7 @@
 — låta // (v låter; lät; låtit; låt; ~nde;) 1. to make sound; 2. to sound; to seem; to appear; 3. to allow; to let; Fan det låter smutt. Damn, it sounds neat. Jag låter inte min framtid avgöras av slumpen. I will not leave my future up to chance. Låt dig inte ryckas med av ilska. Don't get carried away by anger. Låt oss nu se vad som finns i lådan. Ingenting! Absolut ingenting! Now let's see what's in the box. Nothing! Absolutely nothing! 
 — ett läder // (lädret;) leather (material produced by tanning animal skin); När det var klart skulle lädret skäras till och formas, innan det spikades på träbottnen och sedan målades träet. When it was ready, the leather was cut out and shaped, before it was nailed to the wooden bottoms and then the wood was painted. 
 — en lägenhet // (~en; ~er; ~erna;) an apartment;  
-— ett läger // (lägret; ~; lägren;) a (sleeping) quarter, a camp;  
+— ett läger // (lägret; ~; lägren;) 1. tillfällig boplats för en grupp av människor t.ex. scouter, fångar eller militärer; 2. (politik) antal personer som har samma uppfattning i en eller några liknande frågor; a (sleeping) quarter, a camp;  
 — en lägereld // campfire;  
 — lägga // (v4o lägger; lade|la; lagt; lägg; ~nde; lagd;) 1. lay, put; to place something down in a position of rest, in particular when it either lies down flat, or the eventual orientation doesn't matter, such as, in a heap. 2. to put (into a bag, in a pocket or in a box of some kind); 3. to cause something or someone to lie down; 4. (reflexive) to lie down; to assume a reclining position. 5. (reflexive, about snow) accumulate on the ground without melting; 6. to lay someone in a bed; to make someone to go to bed; 7. (reflexive) to go to bed; to go to sleep; 8. lay; to install (eg, flooring or a roof); 9. lay; give birth to (about egg); 10. fold into a shape suitable for storage (about large pieces of fabric, (eg, sheets or larger table cloths)); 11. (card games) to play (a card); 12. (card games, reflexive) to fold; to cease to take further part in a certain deal; to withdraw from further betting. 13. (reflexive, with a preposition) to position oneself, with respect to someone else who is moving in the same direction; Synonyms: (to put into a pocket): stoppa ner; (to put someone in bed): stoppa om (about small children), natta (about small children); (go to bed): gå och lägga sig, hoppa i säng, knyta sig, krypa till kojs; (fold into a suitable shape): vika ihop (also about clothing in general); (play a card): spela ut; Fågeln har bara lagt ett ägg. The bird has only laid one egg. Jag ska gå lägga mig. Jag tycker inte om min granne. Hon lägger sig alltid i. I don't like my neighbor. She's a meddler. Jag tänker lägga mig tidigt ikväll. I intend to get to bed early tonight. Jag är säker på att jag lade nyckeln i den fickan. I'm positive I put the key in that pocket. Kan du lägga boken på bordet? Could you please lay the book on the table? Lägg lite sand i burken. Put some sand in the can. 
 — en läkare // a doctor;  
@@ -1524,7 +1525,7 @@
 — en ram // (~en; ~ar; ~arna;) 1. frame (e.g. around a painting); 2. frame, boundaries (the set of options for actions given); 3. frame (a context for understanding); 4. paw (of a bear);  
 — ramla // (v1) fall;  
 — ramla ner // (verb) fall;  
-— randig // (adjektiv: ~t; ~a; ~are; ~ast;) striped;  
+— randig // (adjektiv: ~t; ~a; ~are; ~ast;) som har ett mönster som åtminstone ungefär består av många smala och (obegränsat) långa rektanglar bredvid varandra, med fixt avstånd mellan dem; 1. striped; 2. (of paper) lined;  
 — en rapsolja // canola or rapeseed oil;  
 — en rast // paus i arbete, särskilt i skolan; a break;  
 — ett recept // (~et; ~; ~en;) 1. (cooking) a recipe. 2. (medicine) a prescription.  
@@ -1608,6 +1609,7 @@
 — en sambo // (~n; ~r; ~rna;) a person that you are co-habitating/living with;  
 — ett samhälle // (~t; ~n; ~na;) society, community;  
 — en samhällskunskap // a social studies;  
+— en samling // (~en; ~ar; ~arna;) 1. grupp av relaterade saker; 2. det att samlas, insamling; collection  
 — samma // same;  
 — ett samtal // (~et; ~; ~en;) 1. a conversation, a talk, an interview, a review; 2. a phone call, a call;  
 — ett samvete // (~t; ~n; ~na;) a conscience (moral sense);  
@@ -2030,6 +2032,7 @@
 — tom // (adjektiv: ~t; ~ma; ~mare; ~mast;) empty;  
 — en tomat // a tomato;  
 — torka // (v1) to dry, to wipe; De skulle torka i flera dagar, innan de putsades. They had to dry for many days, before they were polished. Jag måste torka köksgolvet i dag. I need to mop the kitchen floor today. Om jag inte använder hårtork för torka håret, ser det inte bra ut. If I don't use a hairdryer my hair won't look good. torka av diskbänken; wipe off the counter; torka golvet; wipe the floor; torka sig om händerna; dry one's hands; torka tvätten; dry the wash; torka upp efter sig; clean up after oneself; 
+— ett torn // (~et; ~; ~en;) 1. hög smal ihålig byggnad, fristående eller som del av större komplex 2. (schack) en schackpjäs som går rakt längs rader eller kolumner; 1. tower; 2. (chess) rook; Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. Jungfrun kunde se sin riddare från tornet. The maiden could see her knight from the tower. 
 — en torsdag // (~en;) Thursday; i torsdags; last Thursday; Vi ses på torsdag. See you (next/upcoming) Thursday. 
 — en torsk // (~en; ~ar; ~arna;) cod (fish); (Has an interesting colloquial use.)  
 — ett trafikljus // traffic light;  
