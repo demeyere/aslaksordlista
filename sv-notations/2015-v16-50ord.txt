@@ -1,5 +1,4 @@
 
-
 Kan man säga `Jag ska tebaks...` när man menar `I'll be back`?
 // tebaks om en stund = BRB -- Barbro
 
@@ -9,13 +8,6 @@ Etymology: From gå (go, walk), åt (to) and skog (forest): literally to "go to 
 http://en.wiktionary.org/wiki/gå_åt_skogen
 
 - - -
-
-Things that I have heard in music but don't know which words (significant meaning changes)
------------------
-
-    Jag vill ha det. // Jag vill ha dig.
-    Folja med... // Folja mig...
-    ... aldrig med det.  // ... aldrig med dig.
 
 > Tänk först!
 
@@ -202,4 +194,3 @@ http://blogs.transparent.com/swedish/particle-verbs/
 [ ] dependent clauses
 
 // Jag tycker att spela piano är en god utbildning, men jat inte kan tänka när Knut2 spelar den. Jag tror att spela piano ska hjälpa honom spela trummar.
-

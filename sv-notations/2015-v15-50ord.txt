@@ -14,7 +14,5 @@ Under Påskloven gick Knutarna och jag till en myntsamlare visning med scouterna
 
 Nån måste brygga kaffe-- kaffe kan inte brygga själv;
 
-
 past = i mondags, i julas, i påskas, i pinstas, i midsommars
 future = på mondag, jul, påsk, pingst, midsommar
-
