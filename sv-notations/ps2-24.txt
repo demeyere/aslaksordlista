@@ -1,7 +1,3 @@
-
-{title}
-=================
-
 Det svenska kungahuset är det yngsta i Europa och det kommer från en borgerlig fransk familj.
 The Swedish Royal Family is the youngest in Europe and it comes from a bourgeois french family.
 
@@ -10,7 +6,7 @@ Genom en lång rad händelser, som låter som i saga, blev advokatsonen Jean Bap
 Through a long series of events, that sound like something from a saga, JBB, an lawyer's son from the small town of Pau in southern France, became the King of Sweden and Norway.
 
 År 1810 dog den svenske kronprinsen Karl August plötsligt, och eftersom kung Karl XIII var barnlös måste man välja en ny tronföljare.
-In 1810, the Swedish Crown Prince Karl August died suddenly, and since King Karl the 8th was childless, they must choose successor (throne following person).
+In 1810, the Swedish Crown Prince Karl August died suddenly, and since King Karl the 13th was childless, they must choose successor (throne following person).
 
 Sverige hade just förlorat Finland till Ryssland i ett krig, och man sökte därför efter en stark ledare som kunde ta tillbaka Finland.
 Sweden had just lost Finland to Russia in a war and therefore they searched for a strong commander (leader) who could take back Finland.
@@ -38,7 +34,7 @@ Efter ett kort krig mot Norge tvingade han norrmännen att acceptera unionen.
 After a short war with Norway, he forced the northmen (Norwegians) to accept the union.
 
 Kriget mot Norge 1814 blev Sveriges sista och svenskarna har sedan dess kunnat leva i fred.
-The war with Norway in 1814 became Sweden's last and the swedes have from then been able to live in peace // why is `dess` there?
+The war with Norway in 1814 became Sweden's last and the swedes have since then been able to live in peace // why is `dess` there?
 
 Karl XIV Johan och hans drottning Desideria fick en son, som blev kung år 1844 under namnet Oskar I. 
 K14J and his queen Desidera had a son who became king in 1844 with the name Oskar I.

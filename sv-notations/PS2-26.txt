@@ -15,19 +15,19 @@ Han läste mest i Bibeln, som var den enda bok som fanns i hemmet.
 He read the most in the Bible as that was the only book that he had at home.
 
 Jöns hade en kusin i Småland, Arvid, som inte hade samma tur.
-Jöns had a cousin in Småland, Arvid, who didn't have the same luck.
+Jöns had a cousin in Småland, Arvid, who didn't have the same luck.   // att lyckas is always passive
 
 Hans föräldrar hade svårt att försörja sina tretton barn.
-His parents had a difficult time feeding his 13 children.
+His parents had a difficult time feeding their 13 children.
 
 De behövdes hemma för att hjälpa till med arbetet på åkrarna.
-They needed him at home to help work the fields.
+They were needed at home to help work the fields.
 
 Dessutom var det svårt att gå de två milen till skolan när man bara hade ett par varma skor till alla syskonen.
 Additionally, it was difficult to go the 20 km to school when one only had a par of warm shoes for all the siblings.
 
 Barnen måste helt enkelt turas om att använda dem.
-All the children must simply take turns using them. // helt enkelt?
+All the children must quite simply take turns using them. // helt enkelt
 
 Jöns bodde kvar på landet i hela sitt liv och besökte aldrig ens en stad.
 Jöns lived still on the land his whole live and never even visited a city.
@@ -36,7 +36,7 @@ Knappt 10% av befolkningen bodde i städerna på den här tiden.
 Barely 10% of the population lived in the cities at that time.
 
 Men Arvid, däremot, hade lyckats spara ihop till en Amerikabiljett genom att arbeta hårt hos en bonde.
-But, Arvid, on the other hand, had managed to save up for a ticket to America through working hard as a farmer.
+But, Arvid, on the other hand, had managed to save up for a ticket to America through working hard on a farm.
 
 När han blev 19 år packade han sin väska och gav sig iväg.
 When he turned 19, he packed his bag and left. 
@@ -56,20 +56,17 @@ People also left for political and religious reasons.
 Daniels farfar Oscar föddes 1916, mitt under första världskriget.
 Daniels grandfather oscar was born in 1916, during the middle of the first world war. 
 
-ord>>>
-over>>>
 Nu hade emigrationen minskat, samtidigt som industrin utvecklades.
-
+Now the emigration had diminished just as industries were developing.
 
 Men ändå bodde nästan var femte svensk i Amerika i början av århundradet.
-
+But still almost a fifth of swedes lived in America at the beginning of the the century.
 
 Oscar var ett av sju syskon.
 Oscar was one of seven siblings.
 
-
 Familjen bodde trångt, deras lägenhet var bara 35 kvm stor.
-
+The family lived cramped in their apartment of only 35 square meters.
 
 Barnen fick dela säng och oftast sov de i köket där det var varmt, tre av dem sov i kökssoffan.
 

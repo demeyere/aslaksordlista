@@ -1,6 +1,5 @@
-Drivs med WordPress
 
-[dröm] Det bryggande kaffe står på bryggan medan jag väntar och står i båten. Kanske jag kunde fiska lite och kastar mot bryggan för att hämta min kaffe. Båten ligger fel därför den styrbord sida är bredvid bryggan. Är det orsaken att vi kan inte gå iland från båten? Stranden är inte så länge bort. Tror du att det är kaffe där?
+[dröm] Nån bryggar kaffe på bryggan men det inte färdigt än. Jag står och väntar i båten. Kanske kunde jag fiska lite och kastar mot bryggan för att hämta min kaffe. Båten ligger fel för den styrbord är mot bryggan. Är det orsaken att vi inte kan gå iland från båten? Stranden är inte så långt bort. Tror du att det finns kaffe där?
 
 http://sv.wikipedia.org/wiki/En_sj%C3%B6man_g%C3%A5r_iland
 http://sv.wikipedia.org/wiki/D%C3%A4ck_(anl%C3%A4ggning)
@@ -9,6 +8,13 @@ http://sv.wikipedia.org/wiki/Styrbord
 http://sv.wikipedia.org/wiki/Babord
 
 
-I Påsk lekte jag alfapet på svenska med mamma. Det var svårt därför de flesta ord var bara tre eller fyra bokstaver långa.
+I Påskas spelade(lekte) jag alfapet med mamma. Det var svårt därför att de flesta orden bara var tre eller fyra bokstaver långa.
 
-Under Påskloven gick Knutarna och jag till en myntsamlare visning med scouterna. Jag hittade några mynt från Norge, Danmark och Sverige. Jag också köpte en mynt från Ryssland som jag tyckte var kul.
+Under Påskloven gick Knutarna och jag till en myntsamlare visning med scouterna. Jag hittade några mynt från Norge, Danmark och Sverige. Jag också köpte ett mynt från Ryssland som jag tyckte var kul. Jag gav den till Kari.
+
+Nån måste brygga kaffe-- kaffe kan inte brygga själv;
+
+
+past = i mondags, i julas, i påskas, i pinstas, i midsommars
+future = på mondag, jul, påsk, pingst, midsommar
+

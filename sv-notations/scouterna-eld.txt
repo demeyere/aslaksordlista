@@ -13,7 +13,7 @@ Syre finns runt om oss i luften. Bränsle brukar oftast vara pinnar, kvistar och
 // gren = branch
 // veken = the wick
 // stearin = wax
-// ljus = light or candle // levandeljus
+// ljus = light or candle // levande ljus
 
 2. Elda på säkra platser
 
