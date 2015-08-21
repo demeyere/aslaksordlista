@@ -1,7 +1,6 @@
 
-{title}
-=================
-
+Vikingarna — Nordens sjökrigare
+===============================
 
 Vikingarna är kända for sina smala, snabba skepp och sina långa resor på floder och över öppna hav.
 
@@ -62,4 +61,3 @@ LASTIPS: Röde Orm av Frans G. Bengtsson
 RESTIPS: Gotlands fornsal, Länsmuseet på Gotland, Visby
 Vikingabyn i Tofta, söder om Visby
 Birkamuseet på Björkö i Mälaren
-

@@ -316,7 +316,7 @@
 — duscha // (v1) to shower; Du kan duscha i badrummet på övervåningen. You can shower in the bathroom upstairs. 
 — en dy // (~n;) mud, mire, sludge;  
 — ett dygn // (~et; ~; ~en;) en natt och en dag, 24 timmar; The 24 hour period stretching from midnight to midnight; A measurement of time, equaling 24 hours; Det är tjugofyra timmar på ett dygn. There are twenty four hours in one day. 
-— dyka // (v2b dyker; dykte|dök; dykt; dyk; ~nde; dykt;) 1. to dive; 2. to swim under water; 3. to jump into the water head-first;  
+— dyka // (v2b dyker; dykte|dök; dykt; dyk; ~nde; dykt;) 1. färdas under vattenytan; 2. färdas nedåt, djupare ned i vattnet; 1. to dive; 2. to swim under water; 3. to jump into the water head-first;  
 — dyka upp // (verb) show up, appear, arrive, surface;  
 — dyr // (adjektiv: ~t; ~a; ~are; ~ast;) expensive;  
 — dyrbar // (adjektiv: ~t; ~a; ~are; ~ast;) 1. som har ett högt pris/värde; dyr; 2. värdefull; precious, expensive, valuable; Vatten är en dyrbar råvara. 
@@ -438,6 +438,7 @@
 — ett flyg // (~et; ~; ~en;) airplane flight; Vi stannade hos en kompis när flyget blev inställt. We stayed at a friend's place when the flight was canceled. 
 — flyga // (v4s flyger; flög; flugit; flyg; ~nde; flugen;) to fly; Jag har flugit litet varstans i världen. 
 — en flygledare // (~n; ~; flygledarna;) person som styr flygtrafiken inom ett visst område och säkerställer att den sker på ett säkert sätt; air traffic controller; Flygledarna arbetar högst upp i tornet, i en driftcentral på 90 kvadratmeter. 
+— en flygplats // (~en; ~er; ~erna;) område där flygplan kan landa och lyfta, och där passagerare går ombord respektive av från flygplanen; airport; Kvinnan på flygplatsen kontrollerade våra boardingkort. The woman at the airport checked for our boarding passes. METAR-koden för Stockholm flygplatsen är `ESSA`. 
 — en flygresa // a flight;  
 — flyta // (v4s flyter; flöt; flutit; flyt; ~nde; fluten;) 1. to float; of an object or substance, to be supported by a fluid of greater density; 2. to float; to be capable of floating; 3. to float; to drift gently through the air; 4. to float; to move in a particular direction with the liquid in which one is floating; 5. to float; to move in a fluid manner. 6. to flow; to move as a fluid; 7. to flow; to move or match smoothly;  
 — flytande // (adjektiv) fluently;  
@@ -598,7 +599,7 @@
 — ganska // (adverb) pretty, quite, rather;  
 — en garderob // skrubben; wardrobe; closet;  
 — en gata // (~n; gator; gatorna;) street;  
-— ge // (v ~r; gav; ~tt; ~;) giva; to give; Fel svar ger inga poäng. A wrong answer gives no points. Min arga svägerska gav mig en blåtira häromdagen. My angry sister-in-law gave me a black eye the other day. Sju plus åtta ger fem, och ett i minne. Seven and eight gives five, and one to carry. Vad gav du henne i födelsedagspresent? What did you give her for her birthday? Övning ger färdighet. 
+— ge // (v ~r; gav; ~tt; ~;) giva; göra så att någon annan person (eller något annat föremål) får något (nytt, ofta ett föremål), ofta något man själv tidigare ägde och ofta genom att fysiskt överlämna det; // Vanliga konstruktioner: ge något till någon, ge någon något; to give; Fel svar ger inga poäng. A wrong answer gives no points. Min arga svägerska gav mig en blåtira häromdagen. My angry sister-in-law gave me a black eye the other day. Sju plus åtta ger fem, och ett i minne. Seven and eight gives five, and one to carry. Vad gav du henne i födelsedagspresent? What did you give her for her birthday? Övning ger färdighet. 
 — geggig // (adjektiv: ~t; ~a; ~are; ~ast;) stickey, gooey;  
 — gemensam // (adjektiv: ~t; ~ma;) common, joint, mutual;  
 — genast // (adverb) just nu (eller då) i denna stund, direkt; utan att vänta; immediately, at once, right away;  
@@ -2258,7 +2259,7 @@
 — en vokal // vowel;  
 — vuxen // (adjektiv: vuxet; vuxna;) adult (fully grown);  
 — en våg // a scale;  
-— en våg // a wave;  
+— en våg // a wave; Det finns sällan en enda våg. There is rarely a single wave. (Sjaldan er ein báran stök. | Det er sjelden en enkelt bølge.) 
 — våga // (v1) dare, to have enough courage (to do something); Hur vågar du använda sådant språk i det här huset?! How dare you use such language in this house?! Jag vågar inte fråga henne en tredje gång. I don't dare to ask her a third time. 
 — en våning // (~en; ~ar; ~arna;) 1. a large apartment; 2. floor, story of a building; Du kan duscha i badrummet på övervåningen. You can shower in the bathroom upstairs. Min lägenhet ligger på första våningen. My flat is on the first floor. Vi tog hissen upp till översta våningen. övre våningen; upper floor; demyr.us/1GPmdaX 
 — en vår // (~en; ~ar; ~arna;) (tidsuttryck) den årstid som följer en kallare period (vintern) och kommer innan en varmare (sommaren); spring; the season between winter and summer;  

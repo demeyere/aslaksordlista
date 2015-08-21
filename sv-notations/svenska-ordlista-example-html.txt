@@ -1,0 +1,91 @@
+<div><style>
+dl.ordlist {}
+dl.ordlist dt {float:left; padding-right:5px;font-size:16px; line-height:14px; position:relative; top:-2px; }
+dl.ordlist dt span {border-right:1px solid #aaa; }
+dl.ordlist dt span.enett {border:0; font-style:normal; font-style:italic; color:#bbb; }
+dl.ordlist dd {font-style:normal; font-size:12px; line-height:14px;margin-left:7px; margin-bottom:10px}
+dl.ordlist dd a {color:#999;}
+dl.ordlist dd span.type {color:#999; font-style:italic;}
+dl.ordlist dd span.andra {font-weight:bold;font-size:14px;}
+</style></div>
+
+
+Min ordlista
+============
+
+<dl class="ordlist">
+
+<!-- fuktig --><dt>fuktig</dt><dd><span class="type">adj</span> humid, moist, damp; <em>fuktig av svett</em> damp with sweat; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=fuktig">folkets/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cfuktig">korp/~</a> </dd>
+
+<!-- fällkniv --><dt><span class="enett">en </span>fällkniv</dt><dd><span class="type">n</span> folding knife, pocket knife; // <a target="svwiki" href="http://sv.wikipedia.org/wiki/fällkniv">sv.wiki/~</a></dd>
+
+<!-- golv --><dt><span class="enett">ett </span>golv</dt><dd><span class="type">n</span> floor; <em>Jag måste torka köks~et i dag</em> I need to mop the kitchen floor today;</dd>
+
+<!-- jordgubbe --><dt><span class="enett">en </span>jordgubbe</dt><dd><span class="type">n</span> strawberry; // <a target="svwiki" href="http://sv.wikipedia.org/wiki/jordgubbe">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cjordgubbe">korp/~</a> </dd>
+
+<!-- klämdag --><dt><span class="enett">en </span>klämdag</dt><dd><span class="type">n</span> a single workday squeezed between a holiday and a weekend (when many people go on a longer vacation); squeeze day, or "hug" day in Norwegian; <em>example</em> example; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=klämdag">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/klämdag#Swedish">wiktionary/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cklämdag">korp/~</a> </dd>
+
+<!-- kniv --><dt><span class="enett">en </span>kniv</dt><dd><span class="type">n</span> a knife; <em>~sudd</em> point of a knife; <em>slid~</em> sheath-knife; // <a target="wiktionary" href="http://en.wiktionary.org/wiki/kniv#Swedish">wiktionary/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/kniv">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Ckniv">korp/~</a> </dd>
+
+<!-- kontakt --><dt><span class="enett">en </span>kontakt</dt><dd><span class="type">n</span> contact, electrical outlet; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=kontakt">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/kontakt#Swedish">wiktionary/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Ckontakt">korp/~</a></dd>
+
+<!-- kontakta --><dt>kontakta</dt><dd><span class="type">v</span> to contact; <em>kontakta oss</em> contact us; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=kontakta">folkets/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Ckontakta">korp/~</a> </dd>
+
+<!-- krigsdagbok --><dt><span class="enett">en </span>krigsdagbok</dt><dd><span class="type">n</span> war diary; battle journal; <em>Bataljonens ~ ger följande fakta:</em>; // <a target="svwiki" href="http://sv.wikipedia.org/wiki/krigsdagbok">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Ckrigsdagbok">korp/~</a> </dd>
+
+<!-- ligga --><dt>ligga</dt><dd><span class="type">v</span> to lie, to be situated in a horizontal postition; <em>~ i sängen</em> lie in bed; <em>boken ligger på bordet</em> the book is on the table; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=ligga">folkets/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/ligga">sv.wiki/~</a></dd>
+
+<!-- loggbok --><dt><span class="enett">en </span>loggbok</dt><dd><span class="type">n</span> a journal of events kept in chronological order; <em>dagbok på fartyg, skeppsdagbok</em>; <em>Arbete med reflekterande skrivande, ~ och i nätverk är tre exempel på metoder som boken tar upp för att man ska se hur man jobbar och vad man kan göra för att förändra sitt arbete.</em>; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=loggbok">folkets/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/loggbok">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cloggbok">korp/~</a> </dd>
+
+<!-- låda --><dt><span class="enett">en </span>låda</dt><dd><span class="type">n</span> box; <em>verktygs~</em> toolbox; <em>förbands~</em> first-aid kit; <em>byrå~</em> drawer; <em>brev~</em> mailbox; <em>leksand~</em> sandbox; <em>mat~</em> lunchbox; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=låda">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/låda#Swedish">wiktionary/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/låda">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Clåda">korp/~</a></dd>
+
+<!-- lägereld --><dt><span class="enett">en </span>läger<span></span>eld</dt><dd><span class="type">n</span> campfire; <a href="http://sv.wikipedia.org/wiki/Lägereld">sv.wiki/~</a> </dd>
+
+<!-- länk --><dt><span class="enett">en </span>länk</dt><dd><span class="type">n</span> link; <em>jag hittade en ~ till deras webbplats</em> I found a link to their web site;</dd>
+
+<!-- lök --><dt><span class="enett">en </span>lök</dt><dd><span class="type">n</span> onion; <em>röd~</em> red onion; // <a target="wiktionary" href="http://en.wiktionary.org/wiki/lök#Swedish">wiktionary/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/Lök_(art)">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Clök">korp/~</a> </dd>
+
+<!-- mamma --><dt><span class="enett">en </span>mamma</dt><dd><span class="type">n</span> mom; <em>Hon saknar sin ~</em> She misses her mum; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=mamma">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/mamma#Swedish">wiktionary/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/mamma">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cmamma">korp/~</a> </dd>
+
+<!-- morot --><dt><span class="enett">en </span>morot</dt><dd><span class="type">n</span> carrot [figuratively: stimulus, bait]; <em>Så jag gjorde en jättegod potatisgratäng, som även innehöll ~, broccoli, lök och vitlök</em> So I made a delicious potato gratin, which included carrot, broccoli, onion and garlic; // <a target="svwiki" href="http://sv.wikipedia.org/wiki/morot">sv.wiki/~</a> </dd>
+
+<!-- omgång --><dt><span class="enett">en </span>omgång</dt><dd><span class="type">n</span> a round, a turn, a batch, a load, a <a target="svwiki" href="http://sv.wikipedia.org/wiki/omgång">fire team</a>; <em>~chef</em> fire team leader; #mil</dd>
+
+<!-- ordlista --><dt><span class="enett">en </span>ord<span></span>lista</dt><dd><span class="type">n</span> a word list;</dd>
+
+<!-- osvuren --><dt><span class="enett"></span>osvuren</dt><dd><span class="type">adj</span> unsaid; <em>Men osvuret är bäst</em>; <em>Osvuret är inte alltid bäst.</em> //  <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=osvuren">folkets/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=lemgram%7Cosvuren..av.1">korp/~</a> <a href="http://sv.wikipedia.org/wiki/Lista_över_svenska_ordspråk">Swedish Idioms.</a> </dd>
+
+<!-- projekt --><dt><span class="enett">ett </span>projekt</dt><dd><span class="type">n</span> <em>(plan till) ett större arbete (med ett bestämt syfte)</em> (plan for) a major piece of work (with a stated objective); // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=projekt">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/projekt#Swedish">wiktionary/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/projekt">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cprojekt">korp/~</a> </dd>
+
+<!-- ryggsäck --><dt><span class="enett">en </span>ryggsäck</dt><dd><span class="type">n</span> a backpack; <em>Min ~ väger 23 kilo</em> My ruck weighs 23 kilo; // <a target="svwiki" href="http://sv.wikipedia.org/wiki/ryggsäck">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cryggsäck">korp/~</a> </dd>
+
+<!-- skitsnack --><dt><span class="enett">ett </span>skitsnack</dt><dd><span class="type">n colloq</span> bullshit; <em>det där är bara ~!</em> that's just a load of bull!; <em>Det där är bara rent ~!</em> That's nothing but bullshit!; <em>Efter några öl och lite ~ gick vi hem.</em> After a few beers and some small talk, we went home.; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=skitsnack">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/skitsnack#Swedish">wiktionary/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cskitsnack">korp/~</a> </dd>
+
+<!-- skägg --><dt><span class="enett">ett </span>skägg</dt><dd><span class="type">n</span> beard; <em>Att stå med ~et i brevlådan</em> to be caught with your pants down, or in this case, with your beard in the mailbox; </dd>
+
+<!-- svärd --><dt><span class="enett">ett </span>svärd</dt><dd><span class="type">n</span> a sword; <em>Men det uppståndna Lammet hotas inte av drakar eller ~</em>; // <a target="svwiki" href="http://sv.wikipedia.org/wiki/svärd">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Csvärd">korp/~</a> </dd>
+
+<!-- torka --><dt>torka</dt><dd><span class="type">v</span> to dry, to wipe; <em>~ sig om händerna</em> dry one's hands; <em>~ av diskbänken</em> wipe off the counter; <em>~ upp efter sig</em> clean up after oneself; <em>~ golvet</em> wipe the floor; <em>~ tvätten</em> dry the wash; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=torka">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/torka#Swedish">wiktionary/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Ctorka">korp/~</a> </dd>
+
+<!-- tyg --><dt><span class="enett">ett </span>tyg</dt><dd><span class="type">n</span> cloth, textile, fabric; (dated) gear, equipment (especially for the military)( cf, <em><a href="http://sv.wikipedia.org/wiki/Tygmateriel">tygmateriel</a></em>); I get the impression that <em>tyg</em> is the combination of <em>utrustning och kläder</em>... <em>kit?</em> <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=tyg">folkets/~</a> <a target="googlet" href="http://translate.google.com/#sv/en/tyg">translate.google/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/tyg#Swedish">wiktionary/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/tyg">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Ctyg">korp/~</a></dd>
+
+<!-- tyngdpunkt --><dt><span class="enett">en </span>tyngdpunkt</dt><dd><span class="type">n</span> schwerpunkt, center of gravity, the emphasis, main point of focus, (the most important thing); <em>När Konstantinopel grundades som huvudstad i öst blev staden nytt centrum i det romerska riket, tyngdpunkten sköts bort från Rom</em>; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=tyngdpunkt">folkets/~</a> <a target="googlet" href="http://translate.google.com/#sv/en/tyngdpunkt">translate.google/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/tyngdpunkt">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Ctyngdpunkt">korp/~</a> </dd>
+
+<!-- tält --><dt><span class="enett">ett </span>tält</dt><dd><span class="type">n</span> tent; <em>Då brukar jag bo i ~</em> I usually stay in a tent; <em>Jag sover i ~</em> I sleep in a tent.</dd>
+
+<!-- uppdrag --><dt><span class="enett">ett </span>uppdrag</dt><dd><span class="type">n</span> assignment, mission, duty, order, errand, sortie; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=uppdrag">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/uppdrag#Swedish">wiktionary/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cuppdrag">korp/~</a> </dd>
+
+<!-- utsökt --><dt><span class="enett"></span>utsökt</dt><dd><span class="type">adj</span> delicious, exquisite; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=utsökt">folkets/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cutsökt">korp/~</a></dd>
+
+<!-- viktig --><dt>viktig</dt><dd><span class="type">adj</span> important; <em>En ~ fråga är hur resurserna ska räcka till för att tillfredsställa våra konsumtionsvanor?</em> An important questions is how...; // <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cviktig">korp/~</a></dd>
+
+<!-- vitlök --><dt><span class="enett">en </span>vitlök</dt><dd><span class="type">n</span> garlic; <em>~klyfta</em> clove of garlic; // <a target="svwiki" href="http://sv.wikipedia.org/wiki/vitlök">sv.wiki/~</a> </dd>
+
+<!-- väg --><dt><span class="enett">en </span>väg</dt><dd><span class="type">n</span> way, road, route, path, course, track, trail; <em>konflikten kan lösas på fredlig ~</em> the conflict can be resolved in a peaceful way; <em>hur lång ~ har du till arbetet?</em> how far is it to your work?; <em>tre timmars ~</em> a three-hour journey; <em>krokiga ~ar</em> windy roads; <em>stå/vara i ~en ("hindra")</em> idiom: stand/be in the way ("hinder"); <em>hitta ~en ("hitta rätt")</em> idiom: find the way; <em>vart tog han ~en? ("var blev han av?")</em> idiom: where did he go? ("what happened to him?"); <em>motor~</em> motorway; <em>~korsning</em> crossroads, intersection; <em>kors~</em> crossroads;  <em>på den ~en är det</em> that's the way it is; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=väg">folkets/~</a> <a target="googlet" href="http://translate.google.com/#sv/en/väg">translate.google/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/väg#Swedish">wiktionary/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/väg">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cväg">korp/~</a> </dd>
+
+<!-- vägg --><dt><span class="enett">en </span>vägg</dt><dd><span class="type">n</span> <em>sida på ett hus eller i ett rum</em> wall, (barrier, obstacle); <em>cell~</em> cell wall; <em>~målning</em> wall painting, mural; <em>berg~</em> rock (cliff) face; <em>hus~</em> house wall; <em>ställa (någon) mot ~en ("tvinga (någon) att ge besked")</em> idiom: put (somebody) up against the wall ("force (somebody) to make a statement"); <em>uppåt ~arna ("alldeles fel")</em> idiom: all wrong; // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=vägg">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/vägg#Swedish">wiktionary/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/vägg">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cvägg">korp/~</a><br/></dd>
+
+<!-- vän --><dt><span class="enett">en </span>vän</dt><dd><span class="type">n</span> friend, (somebody who likes something); <em>en ~ till mig</em> a friend of mine; <em>~ av ordning</em> friend of orderliness; <em>~krets</em> circle of friends; <em>djur~</em> animal lover; <em>natur~</em> nature lover; <em>de var bästa ~ner under alla år i skolan</em> they were best friends through all years in school; <em>vi är bara ~ner</em> we're just friends (ie, not a couple); // <a target="folk" href="http://folkets-lexikon.csc.kth.se/folkets/service?word=vän">folkets/~</a> <a target="wiktionary" href="http://en.wiktionary.org/wiki/vän#Swedish">wiktionary/~</a> <a target="svwiki" href="http://sv.wikipedia.org/wiki/vän">sv.wiki/~</a> <a target="korp" href="http://spraakbanken.gu.se/korp/#page=0&search=word%7Cvän">korp/~</a> </dd>
+
+
+<!-- /dl.ordlist --></dl>
