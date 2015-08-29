@@ -1,0 +1,4991 @@
+url: http://www.datatermgruppen.se/fragor-och-svar.html
+revised: 2015-08-23 21:16 
+
+
+  * [Kontakt][1]
+  * [Översikt][2]
+  * [Förstasidan][3]
+  * [Sökning][4]
+  * [Rekommendationer][5]
+  * [Ordlista][6]
+  * [Frågor och svar][7]
+  * [Förkortningslistan][8]
+  * [Principer för termarbete][9]
+  * [Kommentarer och önskemål][10]
+  * [Sändlista för fortlöpande information][11]
+  * [Länka till & skriva om oss][12]
+  * [Om Datatermgruppen][13]
+  * [Länkar][14]
+
+
+### Inloggning for arbetsgruppen
+
+
+Användarnamn
+
+
+Lösenord
+
+[ > Glömt lösenordet?][15]
+
+[ > Glömt användarnamnet?][16]
+
+
+* * *
+
+
+**Svenska datatermgruppens
+
+sekretariat sköts av**
+
+
+[ ![Sveriges nationella centrum för terminologi och fackspråk ][17]][18]
+
+
+**Arbetet stöds av**
+
+
+[![][19]][20]
+
+
+[Förstasidan][3] > [Rekommendationer][5] > Frågor och svar
+
+Frågor och svar
+
+## Frågor och svar, lista, Version 2013-nov
+
+Detta är listan med frågor och svar i nummerordning. Det finns också en
+[revideringslista][21].
+
+Här kan du läsa om:
+
+    * hantering av åäö i internetadresser ([fråga 1][22])
+
+    * punkt efter internetadresser ([fråga 2][23])
+
+    * avstavning av internetadresser ([fråga 3][24])
+
+    * behörighet och skydd ([fråga 4][25])
+
+    * utläsning av tecknet _@_ ([fråga 5][26])
+
+    * försvenskning av dataord ([fråga 6][27])
+
+    * böjning av (dator)mus ([fråga 7][28])
+
+    * _netiquette_ ([fråga 8][29])
+
+    * _e-zine_ ([fråga 9][30])
+
+    * _smiley_ ([fråga 10][31])
+
+    * _feature_ ([fråga 11][32])
+
+    * _IC-krets_ och andra tautologier ([fråga 12][33])
+
+    * _cad_ och _cam_ ([fråga 13][34])
+
+    * accent- och apostroftecken i e-postadresser ([fråga 14][35])
+
+    * oönskad raddelning i sifferuttryck ([fråga 15][36])
+
+    * bindestreck i sammansättningar ([fråga 16][37])
+
+    * bindestreck i flerordsuttryck ([fråga 17][38])
+
+    * särskrivning ([fråga 18][39])
+
+    * produkt- och företagsnamn i löptext ([fråga 19][40])
+
+    * [Borttagen fråga om _versalt i i sammansättningar med internet_] ([fråga 20][41])
+
+    * initialförkortade namn versalt eller gement ([fråga 21][42])
+
+    * skrivning av _CD_ m.fl. gement ([fråga 22][43])
+
+    * böjningsändelser till förkortningar ([fråga 23][44])
+
+    * böjning av _cd_ m.fl. ([fråga 24][45])
+
+    * plural av _pc_ m.fl. ([fråga 25][46])
+
+    * initialförkortningar på nätet ([fråga 26][47])
+
+    * _i_ eller _på_ internet ([fråga 27][48])
+
+    * surfa _på_ eller _i_ nätet ([fråga 28][49])
+
+    * välja _i_, _från_ eller _på_ en meny ([fråga 29][50])
+
+    * koppla upp sig _mot_ eller _till_ ([fråga 30][51])
+
+    * installera _i_ eller _på_ ([fråga 31][52])
+
+    * skriva ut _till_ eller _på_ ([fråga 32][53])
+
+    * göra något _i_, _på_, _med_ eller _via_ en internettjänst ([fråga 33][54])
+
+    * göra förfrågning _mot_, _till_ eller _i_ en databas ([fråga 34][55])
+
+    * logga _in_ eller _på_ ([fråga 35][56])
+
+    * försvenskning av uttal av främmande namn ([fråga 36][57])
+
+    * källhänvisningar och källförteckningar till internet m.m. ([fråga 37][58])
+
+    * epost eller e-post ([fråga 38][59])
+
+    * översättning av _mediate_ ([fråga 39][60])
+
+    * översättning av _joystick, hjälm, handske, kroppsdräkt_ ([fråga 40][61])
+
+    * vad som räknas in i _www_ och _URL_ ([fråga 41][62])
+
+    * _banner ads_ ([fråga 42][63])
+
+    * [Borttagen fråga om _override_] ([fråga 43][64])
+
+    * _align_ ([fråga 44][65])
+
+    * _nod_ ([fråga 45][66])
+
+    * _kommandofil, skript, manus_ och _makro_ ([fråga 46][67])
+
+    * minnesresident ([fråga 47][68])
+
+    * å ä ö på gamla sättet ([fråga 48][69])
+
+    * [Borttagen fråga] ([fråga 49][70])
+
+    * _outsourcing_ ([fråga 50][71])
+
+    * _device_ ([fråga 51][72])
+
+    * parallellbearbetning ([fråga 52][73])
+
+    * förkortningen Y2K ([fråga 53][74])
+
+    * access ([fråga 54][75])
+
+    * flame ([fråga 55][76])
+
+    * spam ([fråga 56][77])
+
+    * set-top box ([fråga 57][78])
+
+    * böjning av _modem_ ([fråga 58][79])
+
+    * bugg ([fråga 59][80])
+
+    * trackball ([fråga 60][81])
+
+    * [Borttagen fråga] ([fråga 61][82])
+
+    * n/a ([fråga 62][83])
+
+    * packet switching ([fråga 63][84])
+
+    * projektor för dator ([fråga 64][85])
+
+    * implementera ([fråga 65][86])
+
+    * acknowledge ([fråga 66][87])
+
+    * bps ([fråga 67][88])
+
+    * Boolean ([fråga 68][89])
+
+    * case sensitive ([fråga 69][90])
+
+    * cluster ([fråga 70][91])
+
+    * databuss ([fråga 71][92])
+
+    * data mining ([fråga 72][93])
+
+    * punkt och komma som decimaltecken ([fråga 73][94])
+
+    * deploy ([fråga 74][95])
+
+    * dimmed ([fråga 75][96])
+
+    * display ([fråga 76][97])
+
+    * DNS query ([fråga 77][98])
+
+    * downtime ([fråga 78][99])
+
+    * drag-and-drop ([fråga 79][100])
+
+    * entity ([fråga 80][101])
+
+    * e-posttermer ([fråga 81][102])
+
+    * -tion eller -ering ([fråga 82][103])
+
+    * FAQ, Q&A ([fråga 83][104])
+
+    * frames ([fråga 84][105])
+
+    * gateway, bridge ([fråga 85][106])
+
+    * interaktiv ([fråga 86][107])
+
+    * inkrementell ([fråga 87][108])
+
+    * minnen - intern-, arbets- och primär- ([fråga 88][109])
+
+    * Java ([fråga 89][110])
+
+    * legacy ([fråga 90][111])
+
+    * markup language ([fråga 91][112])
+
+    * peer-to-peer ([fråga 92][113])
+
+    * _plug-and-play_ ([fråga 93][114])
+
+    * _i_ eller _på_ en volym ([fråga 94][115])
+
+    * protokoll ([fråga 95][116])
+
+    * provider ([fråga 96][117])
+
+    * scalable ([fråga 97][118])
+
+    * screenshot, screen dump ([fråga 98][119])
+
+    * sökrobot och sökmotor ([fråga 99][120])
+
+    * web design ([fråga 100][121])
+
+    * community ([fråga 101][122])
+
+    * desktop ([fråga 102][123])
+
+    * DOS/DoS ([fråga 103][124])
+
+    * host ([fråga 104][125])
+
+    * hard disk ([fråga 105][126])
+
+    * metadata ([fråga 106][127])
+
+    * nät/nätverk ([fråga 107][128])
+
+    * stamnät eller stomnät ([fråga 108][129])
+
+    * WAP ([fråga 109][130])
+
+    * zippad fil ([fråga 110][131])
+
+    * (e-)content ([fråga 111][132])
+
+    * redundans ([fråga 112][133])
+
+    * feltolerans ([fråga 113][134])
+
+    * mobilt eller trådlöst internet ([fråga 114][135])
+
+    * _in silico_ ([fråga 115][136])
+
+    * sub-site ([fråga 116][137])
+
+    * _Bluetooth_ eller _Blåtand_ ([fråga 117][138])
+
+    * alternativknapp ([fråga 118][139])
+
+    * bläck(stråle)skrivare ([fråga 119][140])
+
+    * [Borttagen fråga] ([fråga 120][141])
+
+    * yrkesbenämning för _data mining_ ([fråga 121][142])
+
+    * e-handel, näthandel ([fråga 122][143])
+
+    * progress bar ([fråga 123][144])
+
+    * Quality of Service, QoS ([fråga 124][145])
+
+    * information retrieval ([fråga 125][146])
+
+    * iterative ([fråga 126][147])
+
+    * proprietary ([fråga 127][148])
+
+    * Read me ([fråga 128][149])
+
+    * input ([fråga 129][150])
+
+    * runtime ([fråga 130][151])
+
+    * monitor ([fråga 131][152])
+
+    * modems överföringskapacitet ([fråga 132][153])
+
+    * presence service ([fråga 133][154])
+
+    * parsing ([fråga 134][155])
+
+    * portability ([fråga 135][156])
+
+    * intelligenta/smarta hus/hem ([fråga 136][157])
+
+    * sms ([fråga 137][158])
+
+    * instant message ([fråga 138][159])
+
+    * boot(a) ([fråga 139][160])
+
+    * bread crumb trail ([fråga 140][161])
+
+    * speech control ([fråga 141][162])
+
+    * toppdomäner ([fråga 142][163])
+
+    * (Borttagen fråga om _blogs, weblogs_) ([fråga 143][164])
+
+    * data recovery ([fråga 144][165])
+
+    * open source ([fråga 145][166])
+
+    * avatar ([fråga 146][167])
+
+    * on demand ([fråga 147][168])
+
+    * ERSATT (elektronisk eller digital) ([fråga 148][169])
+
+    * cybersquatting ([fråga 149][170])
+
+    * dvd recorder ([fråga 150][171])
+
+    * tweak ([fråga 151][172])
+
+    * handsfree ([fråga 152][173])
+
+    * high-end och low-end ([fråga 153][174])
+
+    * malware ([fråga 154][175])
+
+    * sladdlös eller trådlös telefon ([fråga 155][176])
+
+    * tåggla/toggle ([fråga 156][177])
+
+    * hot spot ([fråga 157][178])
+
+    * enable och disable ([fråga 158][179])
+
+    * styles, stylesheets och templates ([fråga 159][180])
+
+    * tangenten Enter/Return/Retur/Vagnretur ([fråga 160][181])
+
+    * image maps, hot spots ([fråga 161][182])
+
+    * _customization_, _localization_ och _personalization_ ([fråga 162][183])
+
+    * _softkey_ ([fråga 163][184])
+
+    * _roaming_ ([fråga 164][185])
+
+    * tv på dator ([fråga 165][186])
+
+    * uppdatering/uppgradering av program ([fråga 166][187])
+
+    * _back office_ och _front office systems_ ([fråga 167][188])
+
+    * Hash och hashing ([fråga 168][189])
+
+    * nomadic VoIP ([fråga 169][190])
+
+    * avancerade mobiltelefoner ([fråga 170][191])
+
+    * utelämna www ([fråga 171][192])
+
+    * skrivsätt för menyval ([fråga 172][193])
+
+    * The semantic web ([fråga 173][194])
+
+    * deep/invisible web ([fråga 174][195])
+
+    * emulering/simulering ([fråga 175][196])
+
+    * ubiquitous ([fråga 176][197])
+
+    * Twitter ([fråga 177][198])
+
+    * desktop web site ([fråga 178][199])
+
+* * *
+
+**Fråga 1: **Hur ska man hantera _å_, _ä_ och _ö_ eller t.ex. _é_ och _ü_ i webbadresser?
+
+**Svar: **Skriv _a_, _a_ och _o_ respektive _e_ och _u_ i stället.
+
+**Kommentar:
+
+**I de flesta moderna datorsystem kan man använda de svenska bokstäverna _å_,
+_ä_ och _ö_ i filnamn. Tyvärr finns det i Sverige inte någon standard för vad
+man ska skriva i stället för _å_, _ä_ och _ö_ i de fall där dessa bokstäver
+inte kan användas. Att ersätta dem med bokstavskombinationerna aa, ae
+respektive oe, något som är relativt vanligt, är olämpligt av flera skäl:
+
+    1. Med de nya s.k. IDN-adresserna (international domain name) kan _å_,
+_ä_, _ö_, _é_ och _ü_ i dag användas i se-domänen. I com-, net- och nu-
+domänerna fungerar ytterligare bokstäver med en lång rad diakritiska tecken,
+och på sikt kommer hela teckenkoden Unicode att göras tillgänglig i flertalet
+domäner. Har man bara också en a-z-adress, som IDN-adressen förslagsvis pekar
+till, behöver en IDN-adress aldrig utgöra något problem för utländska
+användare eller användare med gamla webbläsare utan IDN-stöd. (Se även
+artiklar om lämpliga strategier för användningen av IDN-adresser, [ _Hur
+använder man IDN-domäner?_][200] och [ _Risker vid användning av Unicode i
+domännamn_][201].)
+
+    2. Om man inte har tillgång till ett visst diakritiskt tecken är det
+brukligt att helt enkelt slopa det, inte att ersätta det med andra tecken. På
+svenska tidningar klarar man t.ex. i regel inte av de slaviska språkens
+omvända cirkumflex. Man skriver då bara _Dvorák_ - utan omvänd cirkumflex över _r_.
+
+    3. Det är ett större ingrepp att lägga till en bokstav. Med _o_ och _a_
+blir antalet bokstäver oförändrat.
+
+    4. Alla _oe_ och _ae_ står inte alltid för _ö_ och _ä_ (jämför t.ex.
+_oersättlig_, _aerodynamisk_), och Boel Aabye och Joel Aalto löper risken att
+på motsatt sätt få sina namn misstolkade.
+
+Har man problem med diakritiska tecken, bör man enligt vår mening alltså göra
+så små ingrepp som möjligt i teckenhanteringen. Den bästa lösningen är då ofta
+att slopa diakriterna. I andra sammanhang där _å_, _ä_ och _ö_ inte kan
+åstadkommas kan man självfallet internt komma överens om att använda ett visst
+skrivsätt (kom då ihåg att det kanske inte förstås av utomstående). Vid
+utdelningen av e-postadresser till de anställda i ett företag särskiljs ofta
+två personer med liknande namn, t.ex. Anders Jonsson och Anders Jönsson, genom
+att en initial eller annan särskiljande markör adderas i någonderas e-postadress.
+
+* * *
+
+**Fråga 2: **Ska man ha punkt efter en internetadress (e-postadress eller
+webbadress) som avslutar en mening?
+
+**Svar: **Ja, det går bra så länge man vänder sig till internetvana människor.
+I annat fall får man undvika att lägga adressen sist eller t.ex. lägga den
+inom vinkelparenteser.
+
+**Kommentar:
+
+**På sikt kommer allt fler att lära sig att internetadresser i regel inte
+avslutas med punkt. Därför kan man nu i texter riktade till internetvana
+människor och så småningom i alla texter avsluta en e-post- eller webbadress i
+slutet av en mening med punkt. Så länge människor kan antas vara osäkra på om
+meningens punkt ingår i själva adressen, får man försöka att bygga om
+ordföljden i sådana meningar, så att adressen inte kommer sist: _Vår adress är
+x_ kan skrivas _X är vår adress_, _Adressen X går till vår webbplats_ etc. Om
+det inte går eller om adressen av någon annan anledning behöver särskiljas
+från den omgivande texten, kan man lägga adressen inom vinkelparenteser med
+meningens punkt efter parentesen: _Min adress är < Den här e-postadressen är
+skyddad från spamrobotar, du måste ha Javascript aktiverat för att visa den
+>._ Vinkelparenteser har blivit de allmänt använda tecknen för att avgränsa
+internetadresser. Vinkelparenteserna gör det också lättare att urskilja
+adresser i en omgivande textmassa. För att särskilja adressen ytterligare kan
+den även skrivas med annat typsnitt.
+
+* * *
+
+**Fråga 3: **Kan man avstava internetadresser (e-postadresser och webbadresser)?
+
+**Svar: **Det bör undvikas. Om det inte är möjligt, avstava mellan adressens
+huvuddelar, inte mitt i ett namn (dvs. mitt i en sammanhållen bokstavsföljd).
+
+**Kommentar:
+
+**Avstavningar av internetadresser bör i regel undvikas, även om det ibland
+kan vara svårt i tidningstext med smala spalter. Använder man ett annat,
+mindre typsnitt för internetadressen kan den kanske ändå få plats på en rad.
+Om man måste avstava bör man ta bort avstavningsbindestrecket, eftersom
+läsaren annars kan tro att bindestrecket ska ingå som tecken i adressen. Man
+bör av motsatt anledning också undvika att avstava vid bindestreck som ska
+ingå i adressen. Var för övrigt uppmärksam på att den automatiska
+avstavningsfunktionen i ordbehandlingsprogram gärna avstavar vid sådana
+bindestreck. Om en avstavning inte kan undvikas bör den inte heller göras mitt
+i ett person- eller företagsnamn utan mellan adressens huvuddelar, t.ex. efter
+_@_ (snabel-a) i e-postadresser, efter prefixet _http://_ i webbadresser eller
+efter andra snedstreck, punkter och liknande.
+
+* * *
+
+**Fråga 4: **_Behörighet_ och _skydd_ - hur används orden?
+
+**Svar: **Tänk på nycklar och lås - datoranvändare har _behörighet_, filer och
+program har _skydd_.
+
+**Kommentar:
+
+**Behörighet och skydd fungerar ungefär som nycklar och lås.
+
+Filer, program, dataposter m.m. förses med _skydd_ (eng. _protection_), t.ex.
+skydd mot läsning, mot skrivning, mot borttagning etc. Olika användare kan ha
+olika _behörighet_ (eng. _privilege_, _authority_) för en viss fil. Så kan en
+fils ägare ha behörighet att läsa, skriva eller ta bort filen, medan övriga
+användare bara får läsa den.
+
+Svenska datatermgruppen, Roger Hansson & Peter Svanberg
+
+* * *
+
+**Fråga 5: **Varför ska man kalla _@_ snabel-a, det ska väl läsas ut _at_?
+
+**Svar:** I e-adresser är det tecknet _@_ som åsyftas, inte vad det betyder
+('på', 'vid', eller 'at' på engelska).
+
+**Kommentar:
+
+**Till Svenska datatermgruppen har vi fått reaktioner på termen _snabel-a_ för
+tecknet _@_, som förekommer i e-postadresser. Somliga tycker att det i stället
+borde läsas ut som ett ord, förslagsvis engelskans "at" eller (mer sällan) ett
+motsvarande svenskt "på" (eller "vid"). Och visst är det så att tecknet _@_
+betyder 'på' ('vid'): _namnet x på_ (_vid_) _adressen y_. Men det är viktigt
+att kunna skilja på själva tecknet och vad tecknet står för. Om vi t.ex. vill
+ge någon vår e-postadress är det förstås tecknet _@_ vi avser när vi läser upp
+adressen, inte bokstäverna _p _och _å_ (eller _v, i _och _d _) vilket man
+skulle kunna tro om vi läste "på" (eller "vid"). Föreställningen att _at_ -
+även i svenskan - är liktydigt med tecknet _@_ bygger på ren okunnighet; _at_
+är och förblir en engelsk preposition och är inte namnet på tecknet. Om
+tecknet ska anses stå för några bokstäver går det dessutom snarast tillbaka på
+franskans _à_, som i _à-pris_.)
+
+Varför kan då inte _@_ helt enkelt kallas _at-tecken_, som några föreslagit
+(efter eng. _at-sign_)? _At-tecken_ är olämpligt inte minst för att det kan
+missförstås: utläses det [æt] som på engelska ligger det nära uttalet av _et-
+tecken_, utläses det [at] kan det tydas som _att._ för 'attention', ett annat
+uttryck som ofta förekommer i adresser. _På-tecken_ (eller _vid-tecken_) då?
+Ja, hade vi vant oss vid att utläsa _@_ som "på" (eller "vid"), precis som vi
+utläser _&_ som "och", hade det kanske varit naturligt. Men någon sådan
+tradition finns inte. Däremot har det sedan flera år varit vanligt, inte minst
+bland datoranvändarna själva, att omtala _@_ som just "snabel-a". Även tecknet
+& måste när det förekommer t.ex. i firmanamn ibland utläsas som "et-tecken"
+och inte som "och", eftersom det kan vara viktigt att poängtera att namnet ska
+skrivas med detta tecken och inte med ordet _och_.
+
+Om man tycker att det är helt entydigt att det är tecknet _@_ som avses när
+man läser ut en adress och ändå vill använda en preposition, välj i första
+hand _på_. Adressen < Den här e-postadressen är skyddad från spamrobotar, du
+måste ha Javascript aktiverat för att visa den > läses då helt helt enkelt ut
+"Nils punkt Nilsson på x-verket punkt s e". Anser man att _på_ blir
+missvisande att använda med den aktuella domänadressen bör man hålla fast vid
+_snabel-a_.
+
+Det kan vidare tyckas att snabel-a låter oseriöst, att det ger intryck av
+vardaglig, icke-officiell benämning. Men det gäller också många andra ord i
+språket, innan man vant sig vid dem. Dessutom måste saker inte alltid namnges
+med termer som utstrålar vetenskaplighet - vardagliga liknelser fungerar ofta
+lika bra (jämför _gomsegel_, _kattfot_ [trekronorsstämpel], _kofot_, _magmun_
+och _skruvskalle_). De mer eller mindre officiella benämningarna på tecknet
+_@_ i andra länder utgörs för övrigt ofta av just sådana liknelser: _sobatjka_
+'liten hund' (ryska), _kissanhäntä_ 'kattsvans' (finska), _kukac_ 'mask',
+'larv' (ungerska), _apestaart(je)_ '(liten) apsvans' (nederländska),
+_Klammeraffe_ 'klängande apa' (tyska), _majmun (majmunski rep)_ 'apa
+(apsvans)' (serbiska), _ensaimada_ 'bulle' (spiralformat bakverk)
+(katalanska), _shablul/strudel_ 'strudel' (bakverk) (hebreiska), _chiocciola_
+'snigel' (italienska), _escargot_ 'snigel' (franska).
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 6: **Varför måste ni försvenska stavningen av amerikanska dataord, som _webb_ av _web_?
+
+**Svar: **För att man på svenska ska kunna stava, böja, uttala och bilda sammansättningar av dem.
+
+**Kommentar:
+
+**För många nya främmande företeelser vi anammar finns sedan tidigare ett
+naturligt svenskt ordval. För t.ex. _mail_ har vi _post_, varför Svenska
+datatermgruppen har valt att rekommendera _e-post_ för _e-mail_ (stavningen
+_mejl_ kan användas i ledigt språkbruk). På samma sätt översätts _site_ med
+_plats_. För web site rekommenderar Datatermgruppen därför webbplats (men sajt
+kan användas i ledigt språkbruk).
+
+I andra fall kanske ett bra svenskt ord råkar uppfinnas, trots att det inte
+fanns något tidigare uttryck att luta sig mot. Men för vissa nya företeelser
+kan det vara svårt att hitta svenska ord. Därför har t.ex. _rave_ med den
+försvenskade stavningen _rejv_ accepterats av språkvården.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 7: **Kan _(dator)mus_ skrivas _musar_ i plural? I engelskan kan man
+vid sidan om _mice_ någon gång också se pluralformen _mouses_ för just
+(dator)mus.
+
+**Svar: **Nej, det bör böjas _mus-möss_.
+
+**Kommentar:
+
+**Att formen _musar_ förekommer beror troligtvis på påverkan från mönster som
+_kofotar_ (om verktyget) vid sidan av _kofötter_, där alltså ett ord som
+används bildligt kan få svag böjning. Det finns också några gamla exempel på
+detta, där den ursprungliga betydelsen sedan länge förbleknat: _bokar_ (om
+trädet), men _böcker_; _smörgåsar_, men _gäss_ (om fåglarna).
+
+Det är dock ingen genomgående regel att ord i bildlig användning ska böjas på
+annat sätt än när ordet används i egentlig betydelse.
+
+Svenska datatermgruppen, Birgitta Lindgren
+
+* * *
+
+**Fråga 8: **Vad ska netiquette kallas på svenska: _netikett_, _nätikett_?
+
+**Svar: **Använd _nätvett_ eller _nätetikett_.
+
+**Kommentar:
+
+**_Netiquette_ är ju finurligt på engelska, men det heter ju inte _net _utan_
+nät_ på svenska. _Nätikett_ lider av att det faktiskt inte heter _ätikett_ på
+svenska. Vi rekommenderar i första hand _nätvett _(efter norskans _nettvett_)
+i analogi med sjövett och trafikvett. I andra hand förordar vi det något
+längre _nätetikett_. Man kan skriva t.ex. "Normalt nätvett medger..." eller
+"Nätetiketten föreskriver..."
+
+Svenska datatermgruppen, Johan Anglemark
+
+* * *
+
+**Fråga 9: **Vad ska man kalla _e-zine_ på svenska?
+
+**Svar: **_E-magasin, e-tidskrift_ eller _e-tidning_ om det är en publikation
+av mer etablerat slag, och _e-fansin_ eller _e-fanzine_ om det är en
+amatörpublikation.
+
+Svenska datatermgruppen, Johan Anglemark
+
+* * *
+
+**Fråga 10: **Vad kan man säga på svenska i stället för _smileys_? Kanske
+_smilfinkar_ som jag såg någonstans?
+
+**Svar: **Vi föreslår _humörsymbol_ som överordnad term för alla typer av
+symboler som uttrycker känslor, stämningar, attityder e.d. Som benämning på
+just de figurer som visar ansikten med olika miner anser vi att det svenska
+_smilis_ passar bra.
+
+**Kommentar:
+
+**Vi har redan tidigare rekommenderat _smilis_ (-en, -ar, -arna), med
+utgångspunkt i svenskans smil, som en direkt motsvarighet till det engelska
+_smiley_. Ordet är kortare och har nog färre negativa associationer än ditt
+annars ganska fyndiga _smilfink_. _Humörsymbol_ kan användas om man tycker att
+_smilis_ inte lämpar sig, kanske när figuren inte smilar! Dessutom finns det
+många andra symboler - ett brinnande ljus, ett bultande hjärta osv. - där
+känslorna inte visas i form av ett leende eller icke-leende ansiktsuttryck.
+Här passar humörsymbol bättre, och naturligtvis också som direkt motsvarighet
+till de engelska orden _emoticon_ och _mood icon_.
+
+* * *
+
+**Fråga 11: **Vad är den svenska översättningen till _feature_?
+
+**Svar: **Det beror på sammanhanget, men den vanligaste översättningen i
+datasammanhang är _funktion_ eller _egenskap_.
+
+Svenska datatermgruppen, Johan Anglemark
+
+* * *
+
+**Fråga 12: **Är det tillåtet att använda ordet _IC-krets_, trots att det
+egentligen är en tautologi (C = circuit 'krets')?
+
+**Svar: **Ja, det är i likhet med t.ex. _cd-skiva_ (d = disc 'skiva') och
+_ISBN-nummer_ (N = number) helt accepterat.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 13: **Hur ska förkortningarna för _computer aided design_ och
+_computer aided manufacturing_ skrivas i svenska texter?
+
+**Svar: **Skriv gement.
+
+**Kommentar:
+
+**I Svenska språknämndens samlingar med textmaterial ur diverse tidningar
+finns både _CAD_, _Cad_, _cad_, _CAD/CAM_, _Cad-Cam_ och _cad-cam_ belagda som
+former. Fortfarande tycks det vanligaste vara att man liksom med de flesta
+andra utländska initialförkortningar skriver det med versaler (_CAD_,
+_CAD/CAM_). I Sverige följer vi dock en regel som säger att förkortningar som
+börjat fungera som egna ord och som snarare än det utskrivna uttrycket blivit
+normalformen, skrivs gement. Jämför ord som _mc_, _wc_, _vd_, _tv_, _vvs_,
+_pc_, _cd_. Man kan således med fördel välja att skriva _cad_ gement. Vi
+avråder från blandformen _Cad_.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 14: **Hur gör man med accenter och apostrofer, t.ex. i _Tim O'Connor_,
+när man skapar en e-postadress? Slopar man tecknet eller byter ut det mot ett
+annat tecken?
+
+**Svar: **Om tecknet inte kan åstadkommas bör det strykas.
+
+**Kommentar:
+
+**Om apostrof, accent och liknande tecken inte kan åstadkommas i t.ex.
+e-postadresser är det i regel inte lämpligt att byta ut dem mot andra
+(vilseledande) tecken. De bör istället strykas: _é_ skrivs _e_ osv. Det gäller
+även tecken som ligger mellan bokstavstecknen, som den aktuella apostrofen. I
+namnexemplet ovan bör man således skriva ihop _OConnor_. O:et, ett iriskt
+namnprefix med betydelsen 'sonson', 'ättling', hör liksom vårt -sonsuffix ihop
+med efternamnet. Att ersätta apostrofen med en punkt, som möjligen kan locka
+någon, är olämpligt eftersom det kan tolkas som initialbokstav för ett
+mellannamn.
+
+* * *
+
+**Fråga 15: **Om hårt blanktecken (= fast mellanslag) inte fungerar på webben
+skapar det bl.a. problem i sifferuttryck: man riskerar att få sifferuttrycken
+delade över radbrytningen. Hur ska detta problem hanteras?
+
+**Svar: **I moderna webbläsare ger koden _&nbsp;_ hårda blanktecken.
+
+**Kommentar:
+
+**Om hårda blanktecken inte kan åstadkommas:
+
+    1. När det gäller penningbelopp kan punkter ersätta de mellanslag som
+annars ska avskilja siffrorna i tresiffriga grupper från slutet räknat:
+53.450.000. Men om en sådan regel införs t.ex. på en arbetsplats är det
+viktigt att samtidigt påminna om att punkt och komma i engelska och svenska
+sifferuttryck används på motsatt sätt (i engelskan är punkt decimaltecken och
+komma skiljetecken, i svenskan är punkt skiljetecken och komma decimaltecken).
+
+    2. Svårare är det med telefon- och postadresser och liknande. Här kan man
+dock ofta acceptera den godtyckliga radbrytningen, som inte behöver vara lika
+störande eller riskabel som för penningbeloppen. Radbrytningar är i regel
+också att föredra framför det tänkbara alternativet, en hopdragen siffergrupp.
+1234567 är alltså som telefonnummeruppställning sämre än 123 45
+
+67.
+
+* * *
+
+**Fråga 16: **Skriver man _internet-abonnemang_ (med bindestreck) eller
+_internetabonnemang_ (hopskrivet)?
+
+**Svar: **Skriv ihop: _internetabonnemang_.
+
+**Kommentar:
+
+**Det är i databranschen vanligt att sammansättningar skrivs med bindestreck,
+_internet-abonnenter_, _webb-sidor_ etc., trots att det inte finns någon
+anledning till detta. Skriv _internetabonnenter_, _webbsidor_. Etablerade och
+vanliga sammansättningar bör skrivas ihop i ett ord och utan bindestreck. Det
+gäller alltså även sammansättningar som består av ett främmande och ett
+svenskt led, som i exemplen ovan. Det gäller i regel också sammansättningar
+med egennamn. Skriv _Appleprodukter_, _Microsoftprogram_. Det bör dock påpekas
+att företag och andra organisationer ofta själva använder bindestreck när de
+skriver sammansättningar med sitt namn.
+
+Tillfälliga och helt nya sammansättningar (i synnerhet sammansättningar med
+svenska och främmande ordled) kan av tydlighetsskäl ibland vara motiverade att
+skriva med bindestreck. Se vidare Svenska skrivregler, punkt 272.
+
+Sammansättningar med siffror och förkortningar skrivs dock med bindestreck:
+_pc-användare_, _e-post_, _c-program_. Se då upp så att inte bindestrecken
+smittar av sig till andra ställen i sammansättningen: skriv _e-postadress_,
+_e-postlista_, inte _e-post-adress_, _e-post-lista_. Se vidare Svenska
+skrivregler, punkt 271.
+
+* * *
+
+**Fråga 17: **Ska man skriva _pop up-meny_ eller _popupmeny_?
+
+**Svar: **Skriv _popupmeny_ men hellre _poppuppmeny_ (jämför
+[_extrafönster_][202]).
+
+**Kommentar:
+
+**Etablerade sammansättningar med flerordsuttryck som förled skrivs i regel
+som ett ord: _popupmeny_, inte _pop up-meny_. Likaså skriver man t.ex.
+_offpiståkning_, inte _off pist-åkning_, _percapsulambeslut_, inte _per
+capsulam-beslut_. Se vidare Svenska skrivregler, punkt 134.
+
+* * *
+
+**Fråga 18: **Skriver man _webb redaktör_ eller _webbredaktör_?
+
+**Svar: **Ett vanligt fel på webbsidor och i reklamannonser för datorprodukter
+är särskrivningar av sammansättningar: _e-post adress_, _webb redaktör_. Skriv
+_e-postadress_, _webbredaktör_.
+
+Se vidare Svenska skrivregler, punkt 129-134.
+
+* * *
+
+**Fråga 19: **Hur bör namn som _PostScript_, _PageMaker, SUNET_, _MiROi
+Utbildning_, _SweJA Kunskapscenter_ m.fl. skrivas i löptext?
+
+**Svar: **Skriv _Pagemaker, Postscript, Sunet, Miroi utbildning, Sweja
+kunskapscenter_.
+
+**Kommentar:
+
+**Många av dessa namn är att uppfatta som produktnamnslogotyper vilkas syfte
+är att skapa uppmärksamhet i annonser och liknande. I löptext kan det
+emellertid vara mycket störande med versaler och andra grafiska egenheter som
+sticker ut, och man har som utomstående heller ingen skyldighet att återge
+namnen i samma form som i logotyperna (_Ikea_ behöver inte skrivas _IKEA_,
+trots att företaget försökt uppmana pressen att göra det). Skrivsätt som inte
+avviker alltför mycket från svenska skrivregler får gärna återges som
+företagen själva skriver, men större avvikelser bör inte föras vidare till
+löptext. I sådana fall, liksom då man inte känner till ett företags sätt att
+skriva sitt namn eller ett visst produktnamn, bör man skriva namnen med endast
+versal begynnelsebokstav, precis som vid vanliga namn: _Pagemaker, Postscript,
+Sunet, Miroi utbildning, Sweja kunskapscenter_. Se vidare Svenska skrivregler,
+punkt 101.
+
+* * *
+
+**Fråga 20: **[Borttagen fråga om _versalt i i sammansättningar med internet_]
+
+**Svar: **(Irrelevant då internet nu skrivs gement.)
+
+* * *
+
+**Fråga 21: **När ska initialförkortade namn skrivas versalt respektive gement?
+
+**Svar: **De skrivs versalt om de utläses bokstav för bokstav och gement om de
+utläses som ett ord. Således _IBM_ (International Business Machines) men
+_Perl_ (Practical Extraction and Report Language). Se vidare Svenska
+skrivregler, punkt 147.
+
+* * *
+
+**Fråga 22: **Kan _CD_, _CD-ROM_ och _PC_ verkligen skrivas gement, dvs. _cd_,
+_cd-rom_, _pc_?
+
+**Svar: **Mycket etablerade initialförkortningar som inte är egennamn och som
+också används som självständiga uttryck (vi använder t.ex. cd, mycket sällan
+det fullständiga uttrycket compact disc) bör skrivas med små bokstäver, alltså
+pc, cd, cd-rom, cad/cam, www, html, url, ftp, rtf - precis som mc, tv, bh, wc,
+vvs och vd. Förkortningar som RAM, BBS, DAT, PDF, SGML, GIF, JPEG, POP, USB
+m.fl. skrivs än så länge i regel versalt. Vissa förkortningar skrivs ofta
+gement helt enkelt för att de ses skrivna på det sättet i filnamn och
+liknande, som gif, jpeg m.fl. Det är dock inte försvarbart från
+skrivregelssynpunkt. Förkortningar kan dock i analogi med närliggande uttryck
+skrivas gement även om de inte är så etablerade. Nya uttryck som dvd-skiva,
+md-skiva, cd-r och cd-rw bör i likhet med t.ex. cd och cd-rom skrivas med små
+bokstäver. Se vidare Svenska skrivregler, punkt 147.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 23: **Hur fogar jag ändelser till förkortningar? Skriver jag _pcar_, _pc-ar_ eller _pc:ar_?
+
+**Svar: **Man kan ha kolon före alla sorters ändelser efter sådana här
+initialförkortningar: _pc:ar, pc:n, IBM:s, IBM:are_ etc. Det är den regeln
+Svenska språknämnden förordar och som vi också tillämpar i våra dokument. Om
+man vill kan man även följa en äldre regel som säger att man har kolon bara
+före genitivändelse (alltså _IBM:s_) men bindestreck vid andra ändelser
+(alltså _pc-ar_, _IBM-are_). Observera att man vid initialförkortningar som
+bildar ett utläsbart ord, t.ex. _Basic_, inte sätter ut något tecken före
+ändelse, alltså _Basics_. Se vidare Svenska skrivregler, punkt 149-150.
+
+* * *
+
+**Fråga 24: **Hur böjer jag _cd_ i plural? Flera _cd_, _cd's_, _cd:ar_, _cd- n_?
+
+**Svar: **Det skulle i princip kunna böjas utan någon särskild pluraländelse:
+en _cd_, flera _cd_. En pluraländelse krävs dock vid bestämd form, varför man
+bör skriva _cd:ar_, _cd:arna_. Den bästa lösningen är dock ofta att lägga till
+ett böjningsbart efterled: _cd-skivor_, _cd-spelare_, _cd-läsare_ (jämför _tv-apparater_).
+
+* * *
+
+**Fråga 25: **Varför ska förkortningen _pc_ få pluraländelsen _pc:ar_ och inte _pc:er_?
+
+**Svar: **_Pc:ar_ är bildat i analogi med pluralformer av liknande
+förkortningar, t.ex. _vd:ar_. Ändelsen _-ar_ är också den som brukar användas
+för ord hos vilka form och genus inte ger någon vägledning om lämplig pluraländelse.
+
+* * *
+
+**Fråga 26: **Hur ska man ställa sig till alla de initialförkortningar som florerar på nätet?
+
+**Svar: **Var sparsam med förkortningar. Om du ändå använder en förkortning
+som kanske alla inte direkt förstår, skriv gärna det fullständiga uttrycket i
+en parentes efter förkortningen första gången förkortningen används.
+
+**Kommentar:
+
+**Generellt bör man vara sparsam med förkortningar - i alla sammanhang. I
+datavärlden bör man vara särskilt vaksam på att inte i onödan importera den
+ovana man har i USA att omvandla stora mängder ord och uttryck till
+initialförkortningar. De må vara behändiga i sin korthet, men de är ofta
+svårtolkade och svåra att böja och uttala på svenska. De kan förstås användas
+i intern jargong (i chattkanaler etc.), där de ofta är en del av en innovativ
+språklek, en språkkod för de invigda, och samtidigt ett tidsbesparande
+skrivsätt. Men då gäller det förstås att alla som kommunicerar med varandra
+verkligen förstår. Och om svenska internetanvändare som kommunicerar med
+varandra tycker att förkortningarna är behändiga kunde man förstås tycka att
+svenska förkortningar vore att föredra. Varför använda _FAQ_ (frequently asked
+questions) eller _Q & A_ (questions and answers) om man lika gärna kan ha
+_FoS_ (_frågor och svar_; jämför _FoU_ för _forskning och utveckling_) eller
+_VF_ (_vanliga frågor_)?
+
+Men även i mer formella sammanhang som i svenska datorhandböcker är det
+vanligt att man tar över främmande förkortningar i stället för att försöka
+översätta dem. Skriv i regel hellre ut orden och uttrycken. Det är i de flesta
+fall mycket tydligare!
+
+Om du ändå använder en förkortning som kanske alla inte direkt förstår -
+vilket kan vara motiverat om ett längre, förkortningsbart uttryck förekommer
+många gånger i en text - skriv gärna det fullständiga uttrycket i en parentes
+efter förkortningen första gången förkortningen används. Tänk också på att man
+inte alltid behöver använda en förkortning för att skriva kortare. I stället
+för att använda (den engelska) förkortningen _RDBMS_ för vad som brukar kallas
+_relationsdatabassystem_ kanske det räcker med "systemet", "detta system",
+"ett sådant system" etc.
+
+* * *
+
+**Fråga 27: **Heter det att söka_ på _eller_ i _internet och _på _eller_ i _webben?
+
+**Svar: **Man kan söka både _på_ och _i_ internet/webben.
+
+**Kommentar:
+
+**Allmänt kan man säga att man före _internet_ väljer samma preposition som
+man har till ordet _nät_: _söka på internet_, _publicera sig på internet_,
+_göra något tillgängligt via/på internet_. För _webb_ eller _www_ väljer man
+samma preposition som man har till _väv_ eller _nät_: _söka på webben_,
+_publicera sig på www_.
+
+I prepositionsfrågor måste man dock ofta se till semantiken snarare än den
+språkliga ytan, dvs. det är inte orden i sig som bestämmer prepositionsvalet
+utan vilken bakomliggande handling som faktiskt utförs och vilket perspektiv
+som är naturligt att anta i det aktuella fallet. Ofta blir det då
+underförstådda ord som får styra prepositionsvalet. Man är ute_ på _nätet, men
+söker rimligen _i_ en databas eller _i_ en söktjänst. Man kan alltså både söka
+_på_ internet, dvs. på det underförstådda abstrakta, allomfattande nätet, och
+_i_ internet, dvs. i en underförstådd mer konkret sökmöjlighet.
+
+* * *
+
+**Fråga 28: **Surfar man _på_ eller _i_ nätet?
+
+**Svar: **Man surfar _på_ nätet, liksom man surfar _på_ vattnet eller _på_ en
+våg.
+
+* * *
+
+**Fråga 29: **Väljer man _i_, _från_ eller _på_ en meny? Finns något _i_ eller
+_på_ en meny?
+
+**Svar: **Det naturligaste är att välja _på _eller _från_ en meny (jämför
+restaurangmeny; i Applevärlden väljer man dock _i_ eller _från_ en meny).
+Något kan finnas både _i_ och _på_ en meny.
+
+* * *
+
+**Fråga 30: **Heter det koppla upp sig _mot_ eller _till_ webben?
+
+**Svar: **Koppla upp sig _till_ eller _på_ webben.
+
+* * *
+
+**Fråga 31: **Installerar man ett program _i_ eller _på_ en dator?
+
+**Svar: **Installera _på_ en dator (underförstått installera _på_ hårddisken)
+är kanske vanligast, men _i_ går också bra. Man installerar hårdvara, t.ex.
+mer minne, _i_ en dator.
+
+* * *
+
+**Fråga 32: **Heter det skriva ut _till_ eller _på_ en skrivare?
+
+**Svar: **Skriva ut _på_ en skrivare.
+
+* * *
+
+**Fråga 33: **Heter det _gör dina bankaffärer i/på/med/via X-bankens
+internettjänst_?
+
+**Svar: **Det beror på vad man vill betona. Man kan göra något _med_ eller
+_via_ tjänsten, dvs. med hjälp av den, men också vara _på_ bankens webbplats
+och inne _i_ själva tjänsten. I regel är _på_ det naturliga prepositionsvalet
+i fall av den här typen.
+
+* * *
+
+**Fråga 34: **Gör man förfrågningar _mot_, _i_ eller _till_ en databas?
+
+**Svar: **Inte _mot_. Man gör förfrågningar _till_ en databas om man t.ex.
+skickar förfrågningarna till en extern databas och vill betona just att
+databasen ligger utanför den egna institutionen (eller det egna landet), men
+_i_ en databas om man vill betona att man är uppkopplad till en databas och
+kan söka i den själv.
+
+* * *
+
+**Fråga 35: **Loggar man _in_ eller _på_ när man kontaktar nätet?
+
+**Svar: **_Logga in_ är det normala uttrycket (i IBM-världen används dock
+ofta_ logga på_). _Inloggning_ heter substantivet enligt svensk standard, och
+verbuttrycket _logga in_ har därmed haft officiellt stöd sedan länge.
+
+* * *
+
+**Fråga 36: **Ni säger i era rekommendationer att man kan uttala egennamnet
+_internet_ på svenskt vis, dvs. med betoning på _-net_ (som i _intervall_).
+Kanske kan man försvenska uttalet av främmande substantiv och andra vanliga
+importerade ord, men att försvenska uttalet av främmande namn är väl fel?
+
+**Svar: **Nej, det är mycket vanligt och helt naturligt att vi försvenskar
+uttalet av främmande namn, i synnerhet när de liknar redan befintliga ord i
+svenskan (som _intervall_ i exemplet; jämför även _interpol_). När namnet blir
+väletablerat i svenskan är det rentav önskvärt att det i uttalet - men också i
+böjning, stavning etc. - anpassas till och inlemmas i det svenska
+språksystemet. Jämför med hur vi uttalar _IBM_ /i be em/ och inte /aj bi em/
+som på engelska och _Paris_ som /paris/ och inte /pari/ som i franskan.
+
+* * *
+
+**Fråga 37: **Hur gör man källhänvisningar och källförteckningar till
+elektroniska medier i allmänhet och till internet i synnerhet?
+
+**Svar: **Man gör på samma vis som för tryckta källor, men elektroniska källor
+kräver ofta utförligare uppgifter samt instruktioner för hur källan kan
+hittas. Ta hellre med för mycket än för lite information. Eftersom
+elektroniska dokument ofta är flyktiga, är hämtningsdatum särskilt viktigt att
+ange.
+
+**Kommentar:
+
+**
+
+**1. Hur görs källhänvisningar?**
+
+Hänvisningar till källor som man hämtat uppgifter eller citat från, görs så
+utförliga som bedöms nödvändigt för att läsarna ska kunna identifiera källan.
+Hänvisningar till elektroniska källor görs i princip på samma sätt som för
+tryckta källor. Om man kan utgå från att läsarna redan känner till en
+internetadress behöver man inte vara så utförlig utan kan utelämna de mer
+precisa källuppgifterna.
+
+    I "Top ten mistakes in web design" skriver Jakob Nielsen om vanliga fel
+som oerfarna webbsidesutformare gör sig skyldiga till.
+
+Det går nu att bota sin pollenallergi, enligt en artikel i Aftonbladets
+webbutgåva den 29 maj 1998.
+
+I Norstedts engelsk-svenska ordbok på cd-rom är det lätt att göra sökningar.
+
+Medan man mer sällan behöver upprätta en särskild källförteckning för enstaka
+kända tryckta källor som omnämns i en löptext, är detta oftast tillrådligt för
+elektroniska källor. Skälet är att de i regel är mindre kända och dessutom
+kräver mer utförlig sökinformation. Om bara någon enstaka källhänvisning
+förekommer, kan dock hela källinformationen placeras direkt efter hänvisningen
+i en parentes, i en fotnot eller som slutkommentar efter en artikel, dvs. utan
+att någon särskild källförteckning upprättas.
+
+    "Provide a site map and let users know where they are and where they can
+go." (Nielsen, Jakob, Top ten mistakes in web design - Jakob Nielsen's
+alertbox for May 1996 [www]. Tillgängligt på
+<http://www.useit.com/alertbox/9605.html>. Hämtat 2 juni 1998.)
+
+Kan man inte undvika att avstava en internetadress bör man avstava mellan
+adressens huvuddelar, inte mitt i en sammanhållen bokstavsföljd, vilket
+Svenska datatermgruppen också påpekar i sina rekommendationer för
+avstavningar.1
+
+-------------------------
+
+1 "Kan man avstava internetadresser?" (fråga 3) (1998). Svenska
+datatermgruppen [www]. Tillgängligt på
+<http://www.datatermgruppen.se/visning.html?obj=f3>. Hämtat 2 juni 1998.
+
+I mer formella sammanhang, som i uppsatser och rapporter, ska en
+källförteckning alltid tillfogas. Då kan man till exempel följa det så kallade
+Harvardsystemet (även kallat författare-årtal-systemet). I en parentes direkt
+i löptexten anges bara författarens efternamn, publicerings- eller
+utgivningsår samt eventuell uppgift om kapitel, avsnitt, del etc., så att
+läsaren kan hitta det aktuella citatet, textavsnittet eller dylikt i källan.
+När uppgift om författare eller redaktör saknas används källans titel.
+Observera att hänvisningarna i princip ser likadana ut oavsett tryckt eller
+elektroniskt medium och oavsett typ av elektroniskt medium.
+
+     Det är viktigt att grafiskt vägleda den som läser dina webbsidor. "Start
+your design with a good understanding of the structure of the information
+space and communicate this structure explicitly to the user" (Nielsen 1996).
+
+Enligt Nielsen (1996) bör man för läsaren tydliggöra var denne befinner sig på
+en webbplats.
+
+I Nielsen 1996 framhålls vikten av att skapa en tydlig grafisk struktur för
+läsaren.
+
+I ett brev till Utrikesdepartementet påpekar Svenska språknämnden ("Re: Kosovo
+eller Kosova" 1997) att vi i Sverige tills vidare bör hålla fast vid den
+etablerade formen Kosovo framför den albanska formen Kosova.
+
+Undvik om möjligt att avstava internetadresser ("Kan man avstava
+internetadresser?" 1998).
+
+Om en författare givit ut flera publikationer eller liknande under ett år och
+man vill referera till flera av dem, använder man ett ordningssystem med a, b,
+c etc. (se nedan för anvisningar om uppställning av källförteckningen).
+Hänvisningarna skrivs då enligt mönstret
+
+     "Provide a site map and let users know where they are and where they can
+go" (Nielsen 1996a).
+
+**2. Hur görs källförteckningar?**
+
+Några helt entydiga och för alla elektroniska medier (cd-rom, diskett, World
+Wide Web, e-post etc.) tillämpbara regler är svårt att ge. Varje medium och
+typ av dokument ställer särskilda krav. Hur ingående uppgifterna ska vara
+beror självfallet på mängden tillgängliga uppgifter. Men dessa kan sedan också
+behöva sovras utifrån läsarens informationsbehov. Observera att det då är
+bättre att ta med för mycket än för lite information. Tänk också på att syftet
+med uppgifterna är att källorna ska vara lätta att hitta för den som läser din
+källförteckning.
+
+Förteckningar över elektroniska källor börjar egentligen med samma uppgifter
+som för skriftliga källor, och avslutas sedan med information som är specifik
+för det aktuella elektroniska mediet. Särskilt viktigt är det att ange när
+informationen hämtats, eftersom dokument på i synnerhet internet ofta
+revideras, flyttas eller helt tas bort. För att säkerställa källans
+autenticitet kan det vara en god idé att göra en utskrift av det aktuella
+materialet. Då kan det i princip anses ha samma status som vanliga tryckta
+källor. Av praktiska skäl (om man t.ex. vill citera något) kan man också
+kopiera materialet och spara det på den egna hårddisken eller på diskett.
+Källuppgifterna bör, beroende på medium och precisionskrav, innehålla så
+mycket som möjligt av följande:
+
+    * textens författare
+
+    * utgivningsår
+
+    * titel: titel på HTML-dokument, huvudrubrik i textfil, innehåll i fältet
+Subject: i e-brev och elektroniskt diskussionsinlägg eller liknande
+
+    * utgivande organisation
+
+    * typ av medium (cd-rom, diskett, www, e-post, diskussionsgrupp/BBS etc.)
+
+    * adressuppgifter och liknande (identifiering av källan, t.ex. webbadress
+för resurs på internet, Message-ID:-fält för e-brev och elektroniska
+diskussionsinlägg, ISBN-nummer eller liknande för cd-rom); observera att
+adressen till källan ska skrivas på det sätt som anges i den aktuella läsaren
+med versaler/gemener.
+
+    * tid för färdigställande eller senaste uppdatering av materialet
+
+    * versionsnummer om senare version än första
+
+    * datum och tid för när informationen hämtades
+
+    * ev. uppgifter om tillgänglighet, krav på datorkapacitet etc.
+
+Om man använt både tryckta och elektroniska källor kan man separera dem för
+att tydliggöra för läsaren vad som är vad. Det är dock inget krav. I vissa
+fall kan man också tänka sig att dela upp källor från olika elektroniska
+medier i egna grupper, men i regel är det inte aktuellt. Fokusera generellt på
+författare eller titel snarare än på mediet.
+
+Om källan har två eller tre författare bör alla anges. Om författarna är fler
+än tre anges det första namnet följt av m.fl. (eller et al.). För författare
+som både har egna verk och sådana som tillkommit i samarbete med andra, ange
+först de egna verken och sedan de övriga, också de kronologiskt. När uppgift
+om författare eller redaktör saknas används källans titel, varvid källan
+placeras in alfabetiskt efter titelns första ord.
+
+När man använder flera titlar av en författare ordnas titlarna i kronologisk
+ordning. Om en författare givit ut flera publikationer eller liknande under
+ett år och man vill referera till flera av dem, används ett ordningssystem med
+a, b, c etc. Förteckningen får då uppställningen
+
+     Nielsen, Jakob (1996 a). Top ten mistakes in web design - Jakob Nielsen's
+alertbox for May 1996 [www]. Tillgängligt på
+<http://www.useit.com/alertbox/9605.html>. Hämtat 2 juni 1998.
+
+Nielsen, Jakob (1996 b). Marginalia of web design ̵#8211; Jakob Nielsen's
+alertbox for November 1996 [www]. Tillgängligt på
+<http://www.useit.com/alertbox/9611.html>. Hämtat 2 juni 1998.
+
+**Några exempel på hur källangivelser i en källförteckning kan se ut:**
+
+WORLD WIDE WEB
+
+Weibel, Stuart (1995). Metadata: the foundations of resource description.
+D-Lib Magazine, juli 1995 [www]. Tillgängligt på
+<http://www.dlib.org/dlib/july95/07weibel.html>. Hämtat 9 oktober 1996.
+
+"Hur ska man hantera å, ä och ö eller t.ex. é och ü i internetadresser?"
+[www]. Svenska datatermgruppen, 2 april 1998. Tillgängligt på
+<http://www.datatermgruppen.se/visning.html?obj=f1>. Hämtat 2 juni 1998.
+
+CD-ROM
+
+McConnell, W.H. Constitutional history. I: The Canadian Encyklopedia [cd-rom].
+Toronto: McClelland & Stewart, 1993. ISBN 0-7710-1932-7. Macintoshversion 1.1.
+
+Nationalencyklopedins ordbok [cd-rom]. Bokförlaget Bra böcker, Höganäs och
+Språkdata, Göteborg, 1997. Version 1. ISBN 91-7133-312-6.
+
+E-POST
+
+Karlsson, Ola < Den här e-postadressen är skyddad från spamrobotar, du måste
+ha Javascript aktiverat för att visa den >. "Re: Hur skriver man
+källförteckningar till internetkällor?" [e-post]. Personligt e-brev till Nils
+Nilsson, 13 mars 1997. Hämtat 1 april 1997.
+
+"Re: Kosovo eller Kosova?" [e-post]. Svenska språknämnden < Den här
+e-postadressen är skyddad från spamrobotar, du måste ha Javascript aktiverat
+för att visa den >. E-brev till Utrikesdepartementet, 2 april 1998. Hämtat 2
+juni 1998.
+
+SÄNDLISTA
+
+Smith, Gregory < Den här e-postadressen är skyddad från spamrobotar, du måste
+ha Javascript aktiverat för att visa den >. "Re: African Muslim Slaves in
+America". I: H-AFRICA < Den här e-postadressen är skyddad från spamrobotar, du
+måste ha Javascript aktiverat för att visa den > [sändlista]. Hämtat 4 augusti
+1995. Arkiv via <http://h-net.msu.edu/~africa/archives/august95>.
+
+Karlsson, Ola < Den här e-postadressen är skyddad från spamrobotar, du måste
+ha Javascript aktiverat för att visa den >. "E-post, mejl och mail"
+[sändlista]. E-brev till < Den här e-postadressen är skyddad från spamrobotar,
+du måste ha Javascript aktiverat för att visa den >. Hämtat 2 juni 1998.
+
+Se nedanstående källor för fler exempel.
+
+**Mer information om källhänvisningar**
+
+    * ISO/DIS 690-2. ISO/TC46/SC9 N 219 a draft [www]. ISO 1996. Tillgängligt
+på [ <http://www.nlc-bnc.ca/iso/tc46sc9/standard/690-2e.htm>][203]. Senaste
+uppdatering 16 november 1997. Hämtat 3 februari 1998.
+
+    * Filén, Paula, Bibliografiska referenser: Elektroniska dokument [www].
+Luleå tekniska universitet. Tillgängligt på [
+<http://www.luth.se/depts/lib/utbildning/g-bibref.html.sv>][204]. Senaste
+uppdatering 23 januari 1998. Hämtat 3 februari 1998.
+
+    * Edvardsson, Filén, Kihlén, Lantz (1996), Vägar till teknisk vetenskaplig
+information: 7.3 Referenslista [www]. Universitetsbiblioteket i Linköping 28
+mars 1996. Tillgängligt på [ <http://www.bibl.liu.se/teknologibiblioteken/tekn
+isk_vetenskaplig_information/6TGV.htm#anchor1320474>][205]. Hämtat 5 april
+1998.
+
+    * APA Style Sheet for On-line References: How to cite electronic sources.
+Ur: Publication Manual of the American Psychological Association [www].
+Washington, DC 1994. Tillgängligt på [
+<http://www.ux1.eiu.edu/~cfmgb/3750/apa.htm>][206]. Ingen datering. Hämtat 3
+februari 1998.
+
+    * Crane, Nancy B., Bibliographic formats for citing electronic
+information. Ur: Li, Xia och Crane, Nancy B. (1993), Electronic Style: A Guide
+to Citing Electronic Information [www]. Tillgängligt på [
+<http://www.uvm.edu/~ncrane/estyles/>][207]. Senaste uppdatering 29 oktober
+1997. Hämtat 5 april 1998.
+
+    * Walker, Janice R. (1995), Colombia Online Style: MLA-Style Citations of
+Electronic Sources [www]. Utgivet januari 1995. Tillgängligt på [
+<http://www.cas.usf.edu/english/walker/mla.html>][208]. Reviderat november
+1997. Version 1.2. Hämtat 3 februari 1998.
+
+* * *
+
+**Fråga 38: **Kan man stryka bindestrecket i _e-post_ och skriva _epost_?
+
+**Svar: **Nej, behåll bindestrecket.
+
+**Kommentar:
+
+**Grundregeln för sammansättningar med en förkortning som inte kan uppfattas
+som ett vanligt ord är att sätta ut ett bindestreck: _p-plats_, _t-bana_,
+_http-adress_ m.fl. Det finns några få undantag från det, främst _kpist_ och
+_ubåt_, båda hämtade från militärspråk.
+
+I sammansättningar med en förkortning som kan uppfattas och skrivs som ett
+vanligt ord kan bindestrecket slopas, t.ex. _Stimpengar_. Och naturligtvis
+sätts inte bindestreck ut om förkortningen övergått till att bli ett riktigt
+ord. Tidigare skrev man t.ex. _el-mätare_, medan man numer skriver _elmätare_.
+
+Svenska datatermgruppen, Birgitta Lindgren
+
+* * *
+
+**Fråga 39: **Hur ska man översätta eng. _mediate_, t.ex. i _computer mediated
+communication_? Ska man använda _mediera_ som man ibland kan se?
+
+**Svar: **Det kan översättas med _förmedla_, alltså här _datorförmedlad
+kommunikation_, precis så som man i andra sammanhang brukar översätta eng.
+_mediate_.
+
+**Kommentar:
+
+**Ordet _mediera_ finns belagt sedan tidigare i svenskan, men det är mycket
+ovanligt. Det förekommer precis som det eng. _mediate_ i två betydelser: 1.
+medla, 2. förmedla. Det är svårt att se någon vinst med att i stället för
+dessa enkla ord använda _mediera_.
+
+Svenska datatermgruppen, Birgitta Lindgren
+
+* * *
+
+**Fråga 40: **Jag skulle behöva en svensk samlingsbeteckning för ett antal
+begrepp inom virtuell verklighet: _joystick, hjälm, handske, kroppsdräkt_. Det
+enda jag kan komma på är _styrdon._
+
+**Svar: **_Styrdon_ eller _styrutrustning_ är nog de bästa
+samlingsbeteckningarna för detta.
+
+**Kommentar:
+
+**_Manöverdon_ kan vi också tänka oss, men det har knappast något försteg
+framför ditt eget förslag. Det kan kanske förefalla långsökt att inordna hjälm
+och framför allt kroppsdräkt bland mer välbekanta styrdon som styrspakar, och
+därför kan styrutrustning ibland passa bättre.
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 41: **Ni verkar tro att ftp och gopher tillhör webben och att alla
+URL:er är webbadresser, men det är väl fel?
+
+**Svar: **Vi anser att ftp- och gopherresurser tillhör webben.
+
+**Kommentar:
+
+**Ibland påstås det att det endast är http-adresser och sidor som utformats
+med HTML-kodning som tillhör webben, men visionen med "the world wide web" var
+just att knyta ihop de olika kommunikationssätt (protokoll) som då fanns på
+internet. Ftp och gopher var två sådana protokoll. Det faktum att ftp- och
+gopheradresser normalt fungerar lika bra som http-adresser i webbläsare talar
+också för att det inte finns anledning att särbehandla dem.
+
+* * *
+
+**Fråga 42: **Vad heter på svenska _banner ads_ som ofta finns på webbsidor?
+
+**Svar: **Vi rekommenderar _webbannons_ för själva annonsen och _annonsruta_
+eller _annonsutrymme_ för det utrymme där annonsen ska placeras. Om man ändå
+vill använda _banner_ i svenskan, bör pluralformen vara antingen _bannrar_ (i
+analogi med _reporter_-_reportrar_, _revolver_-_revolvrar_ etc.) eller
+_banner_, _bannerna_ (i analogi med _designer_-flera _designer_).
+
+Svenska datatermgruppen, Åsa Holmér
+
+* * *
+
+**Fråga 43: **[Borttagen fråga om _override_.]
+
+**Svar: **Se ordlistartikeln om [_åsidosätta_][209].
+
+* * *
+
+**Fråga 44: **Hur ska man översätta det engelska verbet _align_?
+
+**Svar: **Översättningen måste bli beroende av sammanhanget. Grundbetydelsen
+är _ensa, ställa in, bringa i överensstämmelse, justera (in), inrikta_. För
+den vanlige datoranvändaren är det kanske vanligaste fallet att man vill
+_justera in_ ett antal grafiska objekt (t.ex. rutor) så att de ligger i linje.
+_Align_ översätts i ordbehandlingssammanhang med _marginaljustera_ och betyder
+då göra rak höger- och vänstermarginal.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 45: **Vad menas med _nod_ inom datatekniken?
+
+**Svar: **Inom datakommunikation är en _nod_ en knutpunkt i ett datornät. För
+att en utrustning ska betraktas som en _nod_ måste den ha ett visst mått av
+intelligens och självständighet,t.ex.
+
+    * ha en egen adress
+
+    * kunna ta emot och kvittera meddelanden (datablock)
+
+    * i regel kunna lagra och vidarebefordra meddelanden.
+
+En dator kan vara en nod, men en s.k. dum terminal är t.ex. ingen nod.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 46: **Vad är det för skillnad på _kommandofil, skript, manus_ och
+_makro_?
+
+**Svar: **En kommandofil är en textfil (ASCII-fil) som innehåller kommandon
+till operativsystemet eller till ett program.
+
+**Kommentar:
+
+**Efter hand som tekniken utvecklats och man har övergått från textbaserade
+till grafiska användargränssnitt, har gränserna mellan dessa besläktade
+begrepp blivit otydligare.
+
+Om man i ett textbaserat användargränssnitt återkommande behöver ge samma
+följd av kommandon, kan man i regel göra det bekvämare för sig genom att samla
+kommandona i en textfil och sedan låta operativsystemet (eller korrektare,
+dess kommandotolk) läsa kommandona från filen i stället för från
+tangentbordet. En sådan textfil med kommandon kallas på svenska _kommandofil_
+(eng. _command file_), men framför allt bland Unix-användare är benämningen
+_skript_ (eng. _script_) vanlig. Även andra benämningar förekommer, t.ex.
+_kommandoprocedur_ (eng. _command procedure_). (Se även [_skript_][210].)
+
+Begreppet _makro_ (eng. _macro_) användes ursprungligen inom maskinnära
+programmering (assemblyprogrammering), där det ofta är praktiskt att samla
+ihop ett antal instruktioner och ge samlingen ett namn som kan användas som
+kortform för instruktionerna på flera ställen i programkoden. Vid
+kompileringen ersätter kompilatorn makronamnet med motsvarande programkod
+(makrot _expanderas_), som därefter översätts till maskinkod. (En
+_makroinstruktion_ är alltså en "stor instruktion", därav namnet.)
+
+Sedermera har _makro_ kommit att användas även i andra sammanhang. I Word i
+Microsofts grafiska Windows-miljö används t.ex. _makro_ om kommando- eller
+åtgärdssekvenser som användaren själv kan definiera och ge ett namn och ofta
+även knyta till en knapp, en tangent eller tangentkombination. När man
+använder makrot, knappen eller tangentkombinationen utförs kommandosekvensen.
+Ett makro som är knutet till en tangent kallas _tangentbordsmakro_ (eng.
+_keyboard macro_).
+
+_Styrfil_ (eng. _control file_) är ett ord som används om kommandofiler som
+styr jobb som körs i batch (dvs. som behandlas som en enhet och inte kan
+påverkas av användaren under körningen).
+
+Det finns även system som begreppsmässigt inte skiljer på batchkörning och
+körning av kommandofiler. Där kan begreppet _batchfil_ (eng. _batch file_)
+förekomma i betydelsen _kommandofil_. Så är det t.ex. i PC-DOS.
+
+Böjning av makro: _ett makro, det makrot, flera makron, de där makrona_.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 47: **Vad innebär det att ett program är minnesresident?
+
+**Svar: **Det betyder att det ligger i (primär)minnet hela tiden. Då kan man
+få igång det mycket snabbt. Minnesresidenta program kan vara helt passiva,
+arbeta mer eller mindre osynligt i bakgrunden eller sättas igång automatiskt i
+speciella situationer (t.ex. ett viruskontrollprogram).
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 48: **Vad kan man kalla det "gamla" sättet att hantera å, ä och ö på,
+dvs. då det i stället för dessa bokstäver blir klamrar, hakar och måsvingar?
+
+**Svar: **Man kan säga "sjubitstecken för svenska" eller "svensk
+sjubitsteckenkod".
+
+**Kommentar:
+
+**Bokstäver hanteras internt som numeriska tal vid lagring i och överföring
+mellan datorer. Tidigare användes bara sju bitar för varje bokstav (dvs.
+talvärden mellan 0 och 127) medan man i dag oftast använder åtta bitar
+(0-255). Då datorsystem som fortfarande använder sjubitssättet att lagra å, ä
+och ö överför text till modernare system (utan konvertering) kommer dessa
+bokstäver att visas som }, { respektive |, medan Å Ä Ö blir ], [ respektive \.
+
+Om man behöver tala om detta äldre sätt att hantera å, ä och ö kan man säga
+"sjubitstecken för svenska", eller mer tekniskt "svensk sjubitsteckenkod".
+
+Svenska datatermgruppen, Peter Svanberg
+
+* * *
+
+**Fråga 49: **[Borttagen fråga.]
+
+**Svar: **Se ordlistartikeln om [_internet_][211].
+
+* * *
+
+**Fråga 50: **Vad ska man på svenska säga för _outsourcing_ och vilket verb
+ska man använda på svenska?
+
+**Svar: **_Outsourcing_ är ett modeuttryck i svenskan i dag. En mer
+allmängiltig översättning är _utläggning (på entreprenad)_.
+
+**Kommentar:
+
+**_Outsourcing_ står ungefär för 'utläggning av en verksamhet på entreprenad'.
+Först, dvs. i början av 90-talet då ordet började förekomma i svenskan,
+användes det snävt för datordriftsutläggning, varvid _driftsentreprenad_ som
+ersättning för outsourcing föreslogs. I dag är begreppet vidare. Därför bör
+man klargöra vad som "läggs ut", och många gånger kan man skriva om det på
+svenska, t.ex. "Vi har lagt ut/lejt ut/lejt bort tillverkningen av x (på
+entreprenad)."
+
+Svenska datatermgruppen, Åsa Holmér
+
+* * *
+
+**Fråga 51: **Hur kan man översätta _device_ som används mycket i
+datorsammanhang till svenska?
+
+**Svar: **En vanlig översättning av _device_ använt i generell betydelse i
+datorsammanhang är _utrustning, station_. Som efterled i sammansättningar
+förekommer både _device_ och _drive_ i engelskan. Här fungerar översättningen
+_-enhet_ bättre, t.ex. _bandenhet, diskettenhet_. _Enhet_ definieras som
+enklast självständigt fungerande delen i en helhet.
+
+Den programkod som krävs för att styra en enhet kallas _drivrutin_ (eng.
+_driver; device driver_).
+
+Svenska datatermgruppen, Åsa Holmér
+
+* * *
+
+**Fråga 52: **Vad innebär parallellbearbetning?
+
+**Svar: **Parallellbearbetning innebär att flera program körs samtidigt eller
+åtminstone skenbart samtidigt i samma dator. Genom parallellbearbetning kan
+flera användare betjänas av samma dator samtidigt och (skenbart)
+kontinuerligt. Se även ordlistartikeln om [_multikörning_][212].
+
+**Kommentar:
+
+**I datorer som har en enda processor (CPU), förverkligar man
+parallellbearbetningen genom att man låter flera program ligga körbara i
+arbetsminnet (primärminnet) samtidigt. Operativsystemet ser till att _ett i
+taget_ av programmen körs en kort stund (några millisekunder), varefter det
+avbryts, och ett annat program körs, osv. Detta kallas _pseudoparallell
+exekvering_ och har länge varit det vanligaste sättet att förverkliga
+parallellbearbetning.
+
+Ett känt exempel på en datortyp med en annan form av parallellbearbetning är
+vektormaskiner: Samma CPU bearbetar flera uppsättningar data samtidigt.
+Maskininstruktionerna arbetar med flera parallella operanduppsättningar, dvs
+man adderar (etc.) hela vektorer, inte bara tal.
+
+Det finns många tekniska varianter av parallellbearbetning, och i sammanhanget
+förekommer olika datorkonstruktioner, ofta avancerade, t.ex.
+
+    * skilda processorer som kör program och bearbetar data i samma minne
+
+    * processorer med separata arbetsminnen och med inbördes
+datakommunikation.
+
+Det kan påpekas att de avancerade lösningarna för parallellbearbetning ställer
+krav på speciella programmeringsmetoder och att de olika konstruktionerna är
+lämpade för olika typer av problem.
+
+Den intresserade hänvisas till speciallitteratur i ämnet.
+
+De flesta datorer är konstruerade så att så mycket som möjligt utförs
+parallellt redan på hårdvarunivån. Som exempel kan nämnas att det är vanligt
+att nästa maskininstruktion hämtas och påbörjas innan den pågående är
+avslutad.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 53: **Vad säger Svenska datatermgruppen om uttrycket _Y2K_ (_Y2k,
+y2k_)?
+
+**Svar: **_Y2K_ är en amerikansk teknikerförkortning för "year 2 kilo" som bör
+undvikas. Den används ofta i sammansättningar, och vi avråder från _Y2K-säker,
+Y2K-klar_ etc. Skriv i stället _2000-anpassad, 2000-klar, 2000-säker_ eller om
+utrymmet tillåter t.ex. _säkrad inför millennieskiftet_, _anpassad för
+tusenårsskiftet_.
+
+Svenska datatermgruppen, Gunnel Johansson
+
+* * *
+
+**Fråga 54: **Kan man skriva _access_ på svenska?
+
+**Svar: **Det engelska ordet _access_ används dels som substantiv, dels som
+verb, och det förekommer i många ordkombinationer. Någon enhetlig svensk
+översättning är svår att hitta, så man måste från fall till fall välja lämplig
+svensk motsvarighet.
+
+**Kommentar:
+
+**Grundbetydelsen hos **substantivet** _access_ är _tillgång, tillträde,
+åtkomst_ etc. t.ex. system, filer eller uppgifter. Informationen kan vara
+fritt tillgänglig eller begränsad. Det engelska **verbet** _access_ betyder på
+motsvarande sätt _få tillgång till_, _komma åt_.
+
+Det är vanligt att _access_ och _accessa_ används även på svenska, men med
+lite ansträngning kan man hitta svenska ord som fungerar bra.
+
+Ordet _access_ hör hemma i det begreppskomplex som har med åtkomstskydd och
+behörighet att göra. Där är det engelska språkbruket inte entydigt och ibland
+t.o.m. missvisande.
+
+De engelska orden _permission_, _privilege_ och _authority_ används ofta
+synonymt. Motsvarande svenska synonymer är _rätt[ighet]_, _privilegium_ och
+_behörighet_.
+
+Engelska _protection_ motsvaras av svenska _skydd_: _file protection_ =
+_filskydd_, _write protection_ = _skrivskydd_.
+
+Vad det handlar om är att någon resurs, t.ex. en fil, har skydd som begränsar
+möjligheterna att använda den. Användaren kan behöva ha en speciell behörighet
+för att komma åt resursen. När det gäller filer kan det bl.a. finnas
+restriktioner för
+
+    * vilka som får läsa filen
+
+    * vilka som får skriva i filen
+
+    * vilka som får köra filen om den är ett program eller en kommandofil
+
+    * vilka som får ta bort filen.
+
+Beroende på vilket system det rör sig om kan skyddet vara obefintligt eller
+vara definierat på grupp- eller individbasis. Behörighetssystem kan vara
+mycket avancerade och omfatta mycket mer än bara dataåtkomst.
+
+En handfast bild är att betrakta skyddet som ett lås och behörigheten som en
+nyckel till låset. Det är resursen som har låset och användaren som har
+nyckeln.
+
+Det är inte alltid fokus hos _access_ ligger på åtkomstskyddet. Ibland vill
+man veta om en fil _använts_ på länge, dvs. om någon läst, skrivit eller kört
+den, dvs. över huvud taget gjort något med filen.
+
+_Access_ är ett ord som ofta förekommer i olika uttryck. Man ska inte vara
+rädd för att bilda nya kombinationer på svenska, t.ex. (som substantiv)
+_skrivrätt, åtkomstskydd, läsbehörighet_; (som verb) _komma åt, få tillgång
+till, kunna skriva, använda._
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 55: **Finns det någon bra svensk term för _flame_?
+
+**Svar: **Vi föreslår _skällbrev_ eller _åthutning_; vilket som passar bäst
+får sammanhanget avgöra.
+
+**Kommentar:
+
+**Med _flame_ menas ett aggressivt eller nedlåtande hållet brev, med avsikt
+att mer eller mindre bryskt tillrättavisa eller förolämpa mottagaren. Det
+skrivs i allmänhet men inte alltid som respons på något mottagaren har
+skrivit. Vi skulle vilja föreslå _skällbrev_ eller _åthutning_, vilka har
+fördelen att vara självförklarande. I vissa sammanhang kan kanske något av
+uttrycken _tillsägelse, utbrott, utskällning_ eller _örfil_ passa bättre. Som
+verbform föreslår vi _skälla ut, skälla_.
+
+Typiskt är att en nybörjare inom en diskussionsgrupp eller på en sändlista
+råkar ut för skällbrev om han eller hon ställer (onödiga) frågor om sådant som
+redan är besvarat i frågesvarsdokumentet. Det händer ibland att enstaka
+skällbrev utlöser s.k. _flamewars_, massiva korsvisa utskällningar, som skulle
+kunna kallas _e-gräl_. Enstaka skällbrev ses av många som ett nödvändigt sätt
+att få deltagare som bryter mot gott nätvett att rätta sig efter de oskrivna
+regler som gäller. Ett näraliggande fenomen är _trolling_, att skriva
+provokativa brandfacklor endast i syfte att skapa bråk och dispyter. Vi
+föreslår att de som ägnar sig åt detta helt enkelt kallas _provokatörer_.
+
+Svenska datatermgruppen, Johan Anglemark och Urban Hurtig
+
+* * *
+
+**Fråga 56: **_Spam_ säger man ju om de oönskade meddelanden, främst i form av
+reklam, som skickas till många mottagare via sändlistor, diskussions- eller
+chattgrupper på internet. Vad ska vi säga på svenska?
+
+**Svar: **Vi förordar _skräppost_ men accepterar även _spam_ som lånord. I
+svenskan bör spam anpassas till uttal (/spamm/), stavning och böjning.
+
+Hur det ska böjas beror på betydelsen. Spam i betydelsen post räknas som
+mängdord och är då icke-räknebart: "Jag får jättemycket spam (= skräppost)."
+"Spammen (= skräpposten) ökar."
+
+Men spam i betydelsen skräpbrev är räknebart: "Det där spammet verkar
+konstigt." "De senaste fyra spammen kom från Sverige." Jämför det räknebara
+spik (en spik, flera spikar) med mängdordet spik (spik, spiken).
+
+**Kommentar:
+
+**Både termen _skräppost_ och termen _spam_ får sägas vara väl etablerade i
+svenskan. _Spam_ är visserligen inte så associationsrikt för oss svenskar men
+har vunnit insteg som en kort och slagkraftig term, inte minst i
+konstruktioner som "spammare", "att spamma".
+
+Som verbform går det bra med _skicka skräppost_, _spamma_. För eng. _spamming_
+förordar vi på samma sätt _skräppostutskick_, _skräppostande_ (ägna sig åt
+skräppostande), _spamning_. För den som sänder skräppost förordar vi
+_skräppostare, spammare_. För eng. _(anti) spam filter_ förordar vi
+_skräppostfilter, spamfilter_.
+
+I den anglosaxiska världen är _Spam_ ett känt varumärke för en mycket prosaisk
+burkskinka. Att spam i e-postvärlden står för skräppost lär ha sin upprinnelse
+i en Monty Python-sketch där man drev med denna burkskinka. Sketchen handlade
+om herr och fru Bun som på en matservering fick beskedet att spam ingick i
+alla rätter på menyn och alltså inte gick att slippa ifrån. Till råga på allt
+skanderade då och då ett gäng vikingar vid ett annat bord "spam, spam, spam,
+spam, lovely spam, lovely spam" och omintetgjorde all vettig konversation på
+stället. Det väsentliga dränktes alltså i något mycket trist! Se vidare
+www.ironworks.com/comedy/python/spam.htm (2003-11-04).
+
+Spam har funnits som varumärke sedan 1937 och var av tillverkaren avsett som
+ett kort och lättuttalat namn på produkten "spiced ham". Se vidare
+www.spam.com/ci/ci_in.htm,
+http://media.hormel.com/anm/templates/spam_museum.asp?articleid=147&zoneid=24
+och www.cusd.claremont.edu/~mrosenbl/spamfaq.html (2003-11-04).
+
+Svenska datatermgruppen, Johan Anglemark och Urban Hurtig
+
+* * *
+
+**Fråga 57: **"Så kallad _set-top box_" är en fras som hörts i flera år nu. Är
+det inte dags att komma fram till en hygglig svensk benämning, så att man
+äntligen kan slippa säga så kallad tillsammans med en ovanligt obekväm engelsk
+term?
+
+**Svar: **Vi föreslår _tillsatslåda_ eller _digitalbox_. Den fristående
+tillsats som uppdaterar en analog tv-mottagare kan mer precist benämnas
+_digital-tv-box_ eller _digital-tv-tillsats_.
+
+**Kommentar:
+
+**Man måste vara medveten om att _set-top box_ i engelskan är en mycket allmän
+benämning och att det är flera fenomen som haft denna etikett under senare
+tid. Ursprungligen åsyftades de anpassningsenheter, "lådor", som sätts mellan
+en multimedieterminal (pc, tv, stereo m.m.) och en publik anslutningspunkt
+(telenät eller kabel-tv-nät). Numera avser termen närmast de tillsatser som
+möjliggör mottagning av digital-tv-sändningar på en analog tv.
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 58: **Hur böjs _modem_?
+
+**Svar: **Modem böjs _ett modem, modemet, flera modem, de där modemen_.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 59: **Kan man använda _bugg_ på svenska för engelskans _bug_ i
+betydelsen 'programfel'? Går i så fall _buggfix_ också bra?
+
+**Svar: **Ja, både _bugg_ och _buggfix_ (se ordlistartikeln om
+[_programfix_][213]) går utmärkt att använda på svenska. I mer formella
+sammanhang kan _programfel_ respektive _programkorrigering_ passa bättre.
+
+För det engelska verbet _debug_, 'söka och rätta fel i program' är _avlusa_
+etablerat som svensk motsvarighet, och utförandet - som kan ske mer eller
+mindre automatiskt - kallas _avlusning_ (eng. _debugging_).
+
+Engelskans _bug_ kan även (mer sällan) syfta på fel i hårdvara och översätts
+då med _hårdvarufel_.
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 60: **Finns det en svensk term för _trackball_?
+
+**Svar: **Det kan översättas med _styrkula_, i synnerhet om kulan är ganska
+liten. Om den är större kan man använda _rullboll_, en term som använts i
+flera decennier inom radartekniken, där man t.ex. kan positionera en symbol på
+radarskärmen med hjälp av en rullboll.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 61: **[Borttagen fråga.]
+
+**Svar: **Se [_uppdatering/uppgradering av program_][214].
+
+* * *
+
+**Fråga 62: **Vad står den engelska förkortningen _n/a_ för, och hur skriver
+man på svenska?
+
+**Svar: **Förkortningen _n/a_ kan utläsas antingen som &##8221;not applicable"
+eller som "not available". Det kan översättas med _ej tillämpligt_, men det är
+oftast bättre att i stället skriva _fungerar inte med_, _gäller inte_ eller
+liknande. I tabeller skriver man ofta ett streck (tankstreck) i stället.
+
+Svenska datatermgruppen, Johan Anglemark
+
+* * *
+
+**Fråga 63: **Vad heter _packet switching_ på svenska?
+
+**Svar: **Man brukar säga _paketförmedling_.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 64: **Vad kallas en projektor som man kopplar till en dator? Ofta hörs
+benämningar som _OH-kanon_, _PC-kanon_ etc.
+
+**Svar: **_Dataprojektor_ är den vedertagna termen i branschen för dessa
+flyttbara projektorer. Ibland kallas de _data- och videoprojektor_ eftersom de
+även brukar kunna projicera storbild från video. Uttrycket _kanon_, som oftast
+syftar på takmonterade projektorer som projicerar data i stora samlingssalar,
+är i dag mindre vanligt. _Dataprojektor_ rekommenderas även för sådana
+apparater.
+
+För den platta man lägger på en stordiaprojektor, eng. _overhead projection
+panel_, rekommenderar vi termen _projektorplatta_ (till nöds kan _OH-platta_
+accepteras).
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 65: **Vad betyder ordet _implementera_, som förekommer rätt ofta -
+både inom datorvärlden och i samhällsdebatten?
+
+**Svar: **Ordet _implementera_ betyder i allmänspråket förverkliga, genomföra,
+införa. I samband med datorer har det betydelsen göra körbart, och syftar på
+processen då en programbeskrivning (eller på lägre nivå, algoritm) genom
+programmering förverkligas i form av ett program. Ofta avses att programmet
+skrivs för en viss datortyp.
+
+Svenska datatermgruppen, Peter Svanberg
+
+* * *
+
+**Fråga 66: **Hur översätter man _acknowledge_ och _acknowledgement_?
+
+**Svar: **De svenska termerna är _kvittera_ och _kvittering_. En vanlig typ av
+kvittering består i att en apparat eller ett program som har tagit emot t.ex.
+ett datablock skickar en bekräftelse i form av en signal eller ett meddelande
+till avsändaren när datablocket kommit fram oskadat.
+
+**Kommentar:
+
+**Även uttrycken _negativ kvittering_ (eng. _negative acknowledgement_)
+förekommer när man vill meddela att en överföring uteblivit eller misslyckats.
+I okomplicerade sammanhang används ofta särskilda styrtecken (ASCII-tecknen
+_acknowledge_, _ACK_ och _negative acknowledge_, _NAK_) för kvittering
+respektive negativ kvittering.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 67: **Är det rätt att skriva bps på svenska?
+
+**Svar: **Bättre är att skriva bit/s. Det är tydligare och stämmer överens med
+det normala sättet att ange hastigheter i SI-systemet.
+
+**Kommentar:
+
+**På samma sätt skriver man:
+
+engelska svenska
+
+cps
+
+tecken/s
+
+Mbps
+
+Mbit/s
+
+cpi
+
+tecken/tum
+
+dpi
+
+punkter/tum
+
+lpi
+
+rader/tum
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 68: **Vad betyder _Boolean_, och vad heter det på svenska?
+
+**Svar: **På svenska heter det _boolesk_ och uttalas /bo:lsk/.
+
+**Kommentar:
+
+**Booleska variabler är variabler som bara kan anta värdena "sant" eller
+"falskt"#8221;. (Sådana variabler kan enkelt representeras i en dator av de
+numeriska värdena 1 och 0, eller av hög och låg spänning.) De används bl.a.
+inom programmering. Det förekommer även att _booleska variabler_ kallas
+_logiska variabler_, eng. _logical variables_.
+
+Ytterst går benämningen tillbaka på den brittiske matematikern George Boole,
+som vid mitten av 1800-talet införde matematiska metoder vid studiet av logik.
+Grundoperatorerna i boolesk algebra är:
+
+    * icke (_NOT_)
+
+    * och (_AND_)
+
+    * eller (_OR_)
+
+Dessa operatorer kan även användas i söktjänster, t.ex. på webben.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 69: **Att skriva "när det görs skillnad på gemena och versala
+bokstäver" känns lite långt... finns det någon bättre översättning av
+uttrycket _case sensitive_?
+
+**Svar: **_Skiftlägeskänslig_ eller det lite kortare _versalkänslig_ går bra
+att använda på svenska.
+
+**Kommentar:
+
+**Ibland spelar det roll om man matar in en textsträng med små eller stora
+bokstäver, dvs. det mottagande datasystemet är _skiftlägeskänsligt_ (_case
+sensitive_). Spelar det _inte_ någon roll, ja då är systemet
+_skiftlägesokänsligt_ (_case insensitive_). Översättningen
+skiftläges(o)känslig är etablerad i Windowsmiljön. Ett kortare, också
+acceptabelt alternativ som vunnit viss spridning är _versalkänslig_.
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 70: **Hur kan _cluster_ översättas till svenska?
+
+**Svar: **Det engelska ordet _cluster_ kan på svenska översättas mer allmänt
+med _klunga, klase, knippa, skock, hop, anhopning, samling, grupp, svärm_. I
+olika fackspråkliga sammanhang förekommer dock även _kluster_ som svensk term,
+bland annat i uttryck som _konsonantkluster_, t.ex. konsonantklustret "skr" i
+_skriva_. I datasammanhang används _kluster_ t.ex. i betydelsen grupp av nära
+samverkande datorer.
+
+Svenska datatermgruppen, Åsa Holmér
+
+* * *
+
+**Fråga 71: **Vad är en databuss?
+
+**Svar: **Det är en kommunikationsväg, t.ex. i en dator.
+
+**Kommentar:
+
+**Principen är att databussen passerar flera hårdvaruenheter och att samtliga
+kommunicerar via bussen. Tekniskt är bussen oftast ett antal parallella
+ledningar mellan kortkontakter på ett moderkort. De olika anslutna enheterna
+skickar data till varandra via bussen genom att ange mottagarens adress
+tillsammans med värdet som ska överföras. Alla enheter har nämligen en egen
+adress. Bara den enhet som känner igen sin adress på bussen tar emot
+datavärdet. En särskild styrenhet (eng. _bus controller_, _bus arbiter_) ser
+till att endast en enhet i taget kan sända information på bussen.
+
+Ytterst går benämningen _buss_ tillbaka på latinets _omnibus_ som är dativ
+pluralis av _omnis_ och betyder _för alla_. Det gäller både databussar och
+bussar i trafiken: en buss är en kommunikationsmöjlighet som det är meningen
+att alla ska kunna använda.
+
+Ibland kallas även en parallelldataväg som bara går mellan en sändande och en
+mottagande enhet _buss_. Detta är dock olämpligt, eftersom det inte handlar om
+en gemensam väg för många enheter.
+
+I vissa datorer kan det finnas flera bussar. Det finns även s.k. seriebussar,
+som har få ledningar och där datavärdena (bitarna) överförs i serieform.
+
+En enhet som kan ta initiativ till en överföring på bussen kallas på engelska
+_master_. En enhet som inte kan ta initiativ till en överföring på bussen
+kallas på engelska _slave_. I tekniska sammanhang brukar de engelska termerna
+användas även på svenska, även om _herre_ och _slav_ är fullt tänkbara svenska
+alternativ.
+
+Se även den separata [ tekniska artikeln om moderkort][215].
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 72: **Universitetet planerar kurser i den typ av "gruvbrytning" som på
+engelska kallas _data mining_. Har ni kommit på någon översättning?
+
+**Svar: **_Datautvinning_ borde passa bra.
+
+**Kommentar:
+
+**Termen _datautvinning_ är bra eftersom den ger associationer till förädling.
+Datautvinning står nämligen för en samling metoder för att automatisera
+sökandet efter komplexa samband i stora datamängder och förädla slutresultatet
+till en graf, tabell eller liknande.
+
+_Datautvinning_ är därför en bättre term än t.ex. _databrytning_
+(förädlingsaspekten saknas) eller _dataanalys_ (för diffust). _Datautvinning_
+har ett naturligt samband med _datalager_ som är databassystem uppbyggda för
+att underlätta just datautvinning.
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 73: **I svenskan använder vi ju komma som decimaltecken. Borde då inte
+t.ex. _Firefox 14.0.0_ (fourteen point zero point one) skrivas _Firefox
+14,0,0_ (fyra komma fem) i svensk text, och också uttalas så?
+
+**Svar: **Versionsbeteckningarna bör ses som ordningstal snarare än som
+decimaltal från 0 till 9. Skrivning med punkt är därför helt acceptabelt.
+
+**Kommentar:
+
+**Punkt och komma används i engelska och svenska sifferuttryck ofta på motsatt
+sätt: i svenskan är komma decimaltecken medan punkt kan användas för att
+gruppera stora tal (i tresiffriga grupper från slutet räknat), i engelskan är
+i regel punkt decimaltecken medan komma används för att gruppera stora tal.
+Det är förstås viktigt att hålla på svenskt bruk av komma som decimaltecken.
+Skriv t.ex. _FM 106,4_, inte _106.4_; _pH 5,5_, inte _pH 5.5_; _7,7 %_, inte
+_7.7 %_. Detta gäller dock inte nödvändigtvis beteckningar för
+programversioner:
+
+    * Man bör i första hand inte se dessa versionsnummer som decimaltal utan i
+stället bör t.ex. 1 i "4.1" och 11 i "4.11" ses som delversionerna 1
+respektive 11 till 4, på samma sätt som man ofta gör vid kapitelindelning med
+sifferbeteckningar _4.1, 4.2, 4.2.1_ etc.
+
+    * När de engelskspråkiga programversionerna kommer ut på marknaden
+betraktas versionsnumret som en del av namnet på programmet, och det gör att
+skrivningen och utläsningen _7.0_ etc. blir naturlig att använda också på den
+svenska marknaden.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 74: **Jag stöter allt oftare på uttrycken _deploy_, t.ex. av nya
+versioner av program eller programkomponenter, och på _deployment license_.
+Har ni några tankar kring vad detta ska heta på svenska?
+
+**Svar: **Vi föreslår _distribuera_, _sätta i drift_ eller _sprida_, beroende
+på sammanhanget. Licensen kan på motsvarande sätt kallas _distributions-,
+idriftsättnings-_ eller _spridningslicens_.
+
+**Kommentar:
+
+**Grundbetydelsen hos det allmänspråkliga ordet _deploy_ är _sprida_. Mer
+komplicerat än så behöver det inte heller vara i många engelska texter, i
+sammanhang som "IPsec is expected to be deployed widely" är det uppenbart att
+ordet används allmänspråkligt. Men ibland används termen också i en mer
+specifik betydelse, att uppdaterade programkomponenter, ofta i klient-
+serversystem, ska fördelas bland användarna. I sammanhanget kan det fordras
+"deployment licenses". Här förordar vi _distribuera_ eller _sätta i drift_,
+alltefter den specifika situationen. Detsamma gäller licensernas benämning.
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 75: **Vad innebär eng. _dimmed_?
+
+**Svar: **I grafiska användargränssnitt förekommer det att knappar eller
+alternativ i vissa lägen inte är tilllämpliga. Då visas de ofta _skuggade_
+eller _nedtonade_.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 76: **Hur översätter man _display_ till svenska?
+
+**Svar: **Det engelska ordet _display_ motsvarar på svenska t.ex. _skärm,
+teckenruta, sifferruta, teckenfönster_ beroende på sammanhang. Om display
+avser en bildskärm på en dator ska givetvis den svenska termen _bildskärm_
+användas. Om man vill ha en översättning av verbet _display_ kan man pröva med
+de svenska verben _visa(s), presentera(s)_.
+
+Svenska datatermgruppen, Åsa Holmér
+
+* * *
+
+**Fråga 77: **Hur översätts _domain name server query_ (_DNS query_)?
+
+**Svar: **_Anrop (förfrågan) till domännamnsserver_ eller kortare _DNS-anrop_.
+Om man vill ange vilken typ av anrop det gäller (och sammanhanget är klart)
+kan man använda _namnuppslagning_ respektive _baklänges(namn)uppslagning_.
+
+Svenska datatermgruppen, Peter Svanberg
+
+* * *
+
+**Fråga 78: **Vad heter _downtime_ och _uptime_ på svenska?
+
+**Svar: **Man måste välja ord efter sammanhanget. Här är några förslag:
+
+_downtime_: _stilleståndstid_, _tid ur funktion_, _tid ur drift_
+
+_uptime_: _drifttid_, _tid sedan start_, _tid i (oavbruten) drift_.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 79: **Vad innebär _drag-and-drop_ och vad heter det på svenska?
+
+**Svar: **På svenska säger man _dra-och-släpp_. Dra-och-släpp-teknik används i
+grafiska användargränssnitt och innebär att man placerar muspekaren på en
+symbol på skärmen och med musknappen nedtryckt drar symbolen till en annan
+plats på skärmen och där släpper musknappen. På så vis kan man t.ex. flytta
+filer mellan kataloger.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 80: **Vad betyder det engelska ordet _entity_, och kan man säga
+_entitet_ på svenska?
+
+**Svar: **Det engelska ordet _entity_ har en mycket vid betydelse. Det betyder
+ungefär någonting som är avgränsat och har en egen identitet och kan
+översättas med vaga svenska ord som _objekt, enhet, företeelse_ o.d.
+
+**Kommentar:
+
+**Det svenska ordet _entitet_. förekommer bl.a. i databassammanhang; även där
+i samma vida betydelse som i engelskan. I Nationalencyklopedin står det om
+_entitet_ att det är en term använd inom filosofin "för någonting över huvud
+taget".
+
+Ofta skapar ordet _entitet_ mer förvirring än klarhet och bör därför användas
+med stor återhållsamhet. Det är bättre att sätta sig in i vad texten handlar
+om, vaska fram budskapet och skriva om med egna ord.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 81: **Vad kallas _header, subject, message body, cc, bcc, attachments_
+och andra e-posttermer på svenska?
+
+**Svar: **Observera att terminologi och utformning skiljer sig mycket åt
+mellan olika e-postprogram. De svenska termerna nedan ska därför betraktas som
+förslag till översättningar för några av de vanligaste engelska termerna i
+e-postprogram.
+
+engelska precisering svenska
+
+_address book_
+
+
+_adressbok_
+
+_attachment_
+
+
+_bilaga, bifogad fil, bifogat dokument_
+
+_cc_ (_carbon copy_)
+
+
+_kopia, kopiemottagare_
+
+_bcc_ (_blind carbon copy_)
+
+
+_dold kopia, dold mottagare_
+
+_forward_
+
+för kommando som bakar in ett inkommet brev i ett nytt brev, med möjlighet att
+kommentera
+
+_vidarebefordra_
+
+_from_
+
+
+_från, avsändare_
+
+_header_
+
+dvs. alla uppgifter ovanför brevrutan
+
+_huvud_
+
+_inbox_
+
+
+_inkorg, inlåda_
+
+_mailbox, mailbox folder_
+
+
+_brevlåda_
+
+_message body_
+
+
+_meddelandetext, brevtext_ eller bara _text_ (utrymmet där texten skrivs kan
+kallas _brevruta_)
+
+_outbox_
+
+
+_utkorg, utlåda_
+
+_priority_
+
+
+_prioritet_
+
+_quote the original message_
+
+
+_citera, infoga, kopiera in ursprungsmeddelande_
+
+_re_
+
+ablativ av lat. _res_, 'sak, ärende'
+
+_angående, svar_
+
+_recipient_
+
+
+_mottagare_
+
+_redirect, bounce, forward_
+
+för kommando som direkt skickar vidare ett brev till en ny adress, utan att
+skapa ett nytt brev och utan möjlighet att kommentera
+
+_eftersända, omdirigera_
+
+_reply (to)_
+
+
+_svara, svarsmottagare_
+
+_send_
+
+
+_skicka_
+
+_sender_
+
+
+_avsändare_
+
+_settings_
+
+
+_inställningar_
+
+_signature_
+
+
+_brevfot_ (eller _adressuppgifter, namnuppgifter_ e.d. beroende på innehållet)
+
+_subject_
+
+
+_ärende, rubrik_
+
+_to_
+
+
+_till, mottagare_
+
+_trash_
+
+
+_papperskorg_
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 82: **Bör man skriva _animering_ eller _animation_?
+
+**Svar: **_Animering_ syftar på görandet: "Vi sysslar med animering" (vi
+animerar) medan _animation_ syftar på resultatet: "Filmen är en animation."
+
+**Kommentar:
+
+**Ordpar som slutar på _-tion_ (_-sion_) och _-ering_ är svåra att
+generalisera om. I regel finns en betydelseskillnad (_motivering -
+motivation_) och ofta - som i det aktuella fallet - fokuserar _-ering_ på
+aktiviteten eller verksamheten, medan _-tion_ refererar till resultatet eller
+till ett konkret ting (_publicering - publikation_). _Animering_ och
+_animation_ används många gånger synonymt, t.ex. i prepositionsfraser som
+"animering/animation av något", men om man ska göra någon åtskillnad så består
+den just i fokuseringen på görande eller resultat: "Vi sysslar med animering
+(= vi animerar)." "Filmen är en animation."
+
+Att _-tion_-former är så vanliga i datarelaterade ord som _animation_ och
+_konfiguration_ (kontra _konfigurering_) har sin förklaring i påverkan från
+engelskan, som för dessa ord bara har _-tion_-former.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 83: **Vad betyder _FAQ_ och _Q&A_ och vad säger man på svenska?
+
+**Svar: **FAQ (frequently asked questions) kan översättas med _vanliga frågor_
+och Q&A (questions and answers) med _frågor och svar_ (_FoS_).
+
+**Kommentar:
+
+**Skillnaden mellan de båda begreppen är väldigt liten. _FAQ_ har sitt
+ursprung i nätnyttsgruppers samlingar av ställda frågor och givna svar, medan
+_Q&A_ mer syftar på i pedagogiskt syfte konstruerade frågor (och svar), som
+används i informations- och marknadsföringssammanhang. Dessa nyansskillnader i
+ursprunget upprätthålls långtifrån alltid.
+
+Svenska datatermgruppen, Peter Svanberg
+
+* * *
+
+**Fråga 84: **Jag sitter med en text om datakommunikation i nät och har stött
+på termen _frames_. Kan man översätta med "paket" eller "framepaket"?
+
+**Svar: **Nej, vi rekommenderar att man skriver _ramar_. Tekniken _frame
+relay_ benämns på svenska _ramöverföring_ eller _ramförmedling_.
+
+**Kommentar:
+
+**I praktiken används ofta den engelska termen även bland svenska datatekniker
+"frame relay-teknik̶#8221;, "frame relay-paket" etc. Därför kan det vara
+tydligast att åtminstone första gången i texten nämna _frame relay_ i en
+parentes efter den svenska termen, ungefär så här: "Ramöverföring (frame
+relay) är en standard för datakommunikation som bygger på datapaketförmedling
+och det s.k. X.25-protokollet".
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 85: **Hur ska man översätta _gateway_ och _bridge_ i
+datornätssammanhang?
+
+**Svar: **Man kan använda _förmedlingsnod_ eller _(nät)sluss_ för eng.
+_gateway_ och _brygga_ för eng. _bridge_.
+
+**Kommentar:
+
+**De termer som figurerar i datornätssammanhang har ursprung i begrepp som i
+näthanteringens barndom var entydigt definierade. Idag blandas ofta flera
+funktioner i samma utrustning. Den engelska termen _gateway_ betecknar något
+som förbinder olika nät- eller datormiljöer, så att dessa kan kommunicera med
+varandra, trots att de kommunicerar efter olika regler (s.k. _protokoll_).
+Detta görs med specialiserad utrustning, med program eller med kombinationer
+av dessa. Exempel:
+
+    * en förbindelse mellan ett Novell- och ett TCP/IP-nät;
+
+    * en förbindelse mellan två e-postsystem av olika typ.
+
+Tänkbara svenska termer är _förmedlingsnod_ och _(nät)sluss_.
+
+En _brygga_ (eng. _bridge_) sätter man mellan två nät av samma typ. Den
+förmedlar vanligen all trafik. Exempel: En förbindelse mellan ett Ethernet-nät
+där en partvinnad kabel används som överföringsmedium och ett Ethernet-nät där
+koaxialkabel används.
+
+Svenska datatermgruppen, Peter Svanberg & Roger Hansson
+
+* * *
+
+**Fråga 86: **Vad innebär det att ett program eller en webbplats är
+_interaktiv_?
+
+**Svar: **Att ett program är _interaktivt_ innebär att man har möjlighet att
+"föra en dialog" med programmet och på så sätt påverka vad programmet gör.
+Även en webbplats kan vara interaktiv, vilket innebär att besökaren kan
+påverka vilken information som lagras och visas där.
+
+**Kommentar:
+
+**Numera är de flesta program interaktiva. Motsatsen till _interaktiv
+databehandling_ är _satsvis bearbetning_ eller _batch_, där programmet
+behandlar förpreparerade data och körs från början till slut utan att någon
+människa ingriper under tiden.
+
+Det finns ytterligare en form av databehandling, nämligen sådan som görs i
+s.k. _realtidsbearbetning_, där det som utförs av programmet styrs av
+händelser i omgivningen men där inte nödvändigtvis någon människa ingriper.
+Sådana system används i olika former av processreglering, där tekniska
+händelser eller tillstånd avkänns av givare som ger signaler till datorn.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 87: **Vad innebär _inkrementell_, t.ex. i _inkrementell backup_?
+
+**Svar: **Att något görs _inkrementellt_ innebär att det görs i steg, s.k.
+_inkrement_. De engelska termerna är _incremental_ och _increment_.
+
+**Kommentar:
+
+**_Inkrementell programutveckling_ innebär att man efter hand framställer nya
+versioner av programmet med fler eller förbättrade funktioner.
+
+_Inkrementell säkerhetskopiering_ (eng. incremental backup) innebär
+säkerhetskopiering, vanligen varje arbetsdag, av endast de filer som ändrats
+eller tillkommit sedan den senaste säkerhetskopieringen (fullständiga eller
+inkrementella). Då nollställs arkivflaggan/filattributet A.
+
+Den inkrementella säkerhetskopieringen är ett komplement till _fullständig
+säkerhetskopiering_ (eng. _full backup_). Fullständig säkerhetskopia på
+samtliga filer tas vanligen en gång i veckan. Även här nollställs
+arkivflaggan/filattributet A.
+
+Ett alternativ till inkrementell säkerhetskopiering är daglig _differentiell
+säkerhetskopiering_ (eng. _differential backup_). Den avser de filer som
+ändrats eller tillkommit sedan den senaste fullständiga säkerhetskopieringen.
+Arkivflaggan/filattributet A lämnas här oförändrad. Mängden data att kopiera
+växer därför för varje dag. Fördelen är att man spar tid vid återläsningen
+efter ett diskhaveri; endast den senaste differentiella kopian behöver läsas
+in (utöver den fullständiga kopian).
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 88: **Är det någon skillnad på _internminne, arbetsminne_ och
+_primärminne_?
+
+**Svar: **Nej, det är normalt samma sak som avses, nämligen det minne i datorn
+där program och data ligger medan bearbetning pågår.
+
+**Kommentar:
+
+**Internminnet kallas så i motsats till externminnet, som numera oftast är en
+hårddisk. I moderna persondatorer är hårddisken vanligen inbyggd i datorlådan.
+Internminnet kan som regel inte behålla informationen när datorn är avstängd,
+men det är snabbt och därför lämpligt att använda under bearbetningen. På
+externminnet finns informationen kvar även när datorn är avstängd. Som
+användare behöver man sällan fundera över internminnet. Normalt innebär
+datoranvändningen att man gör förändringar i filer på hårddisken. Se vidare [
+artikeln om datorminnen][216].
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 89: **Vad är Java?
+
+**Svar: **Java är ett programmeringsspråk som är utvecklat av Sun, en
+kalifornisk datortillverkare.
+
+**Kommentar:
+
+**Java är speciellt väl ägnat att fungera i nättillämpningar och tillhör
+familjen objektorienterade språk tillsammans med flera andra: Simula,
+Smalltalk, och C++, till exempel. Java är inte besläktat med
+programmeringsspråket Javascript.
+
+Svenska datatermgruppen, Jussi Karlgren
+
+* * *
+
+**Fråga 90: **Man ser allt oftare ordet _legacy_ i uttryck som _legacy
+systems_, _legacy applications_ m.fl. Vad är lämplig svensk motsvarighet?
+
+**Svar: **Ordagrant blir det närmast _ärvda_ system, men eftersom den engelska
+termen är tämligen jargongartad vill vi förorda ett friare uttryckssätt på
+svenska - skriv helt enkelt _äldre_ eller _befintliga_ system, tillämpningar,
+program etc.
+
+**Kommentar:
+
+**Att _legacy_ blivit så populärt i engelskan beror på att det handlar om en
+arvsproblematik som på senare år blivit alltmer aktuell, inte minst pga.
+tusenårsskiftet: äldre system, oftast stor- eller minidatorbaserade, ska 1)
+efterträdas av helt nya system eller 2) finnas kvar men integreras med nyare
+lösningar. _Äldre_ anser vi passar i båda fallen medan t.ex. _gammalt_ system
+möjligen låter mer definitivt och vore i så fall enbart tillämpligt i fall 1.
+_Legacy_ i andra, ännu mer jargongartade kombinationer som _legacy
+compatibility_, _legacy devices_ och liknande åtgärdas lämpligen med
+omskrivningar: _kompatibilitet med befintliga program_, _bakåtkompatibilitet_,
+_äldre maskinvaruenheter_ (t.ex. ISA-kortplatser).
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 91: **Vad betyder ML i HTML, SGML och XML och vad blir det på svenska?
+
+**Svar: **ML i förkortningarna ovan står för _Markup Language_. Som svensk
+motsvarighet föreslår vi _märkspråk_, alternativt _taggspråk_.
+
+**Kommentar:
+
+**De ingår i en familj av standarder för att notera i texter och dokument
+vilka logiska kategorier olika textavsnitt tillhör, t.ex. rubrik, ingress,
+hypertextlänk. Märkningen i dokumenten sker med hjälp av speciella märkord
+eller taggar (eng. tags) och det är därför vi föreslår termerna märkspråk
+eller taggspråk. Trots "Language" är SGML och XML inga egentliga språk - noga
+räknat är de standarder för hur man **skapar** märkspråk. Koda kan man bara
+göra i **tillämpningar** av SGML/XML. Ett sådant specialfall av det generella
+SGML är HTML, som i likhet med XML är speciellt anpassat för att fungera i
+webbmiljö.
+
+Svenska datatermgruppen, Jussi Karlgren
+
+* * *
+
+**Fråga 92: **Vad betyder _peer-to-peer_ i datasammanhang och vad heter det på
+svenska?
+
+**Svar: **_Peer-to-peer_ är ett begrepp inom datakommunikationstekniken som
+anger hur ett nät är organiserat. Termen peer-to-peer har hittills ofta
+använts även på svenska, men vi skulle vilja föreslå _icke-hierarkiskt_ (nät).
+
+**Kommentar:
+
+**I icke-hierarkiska nät är de kommunicerande enheterna (noderna, datorerna)
+jämbördiga i umgänget med varandra. I ett sådant nät måste alla datorerna veta
+hur nätet ser ut, åtminstone i den närmaste omgivningen, och tåla förändringar
+i nätet. Det finns ingen centralt bestämd konfiguration. Ett känt icke-
+hierarkiskt nät är internet. Hos motsatsen, de _hierarkiska_ näten, styrs
+kommunikationen av en central nod.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 93: **Vad är _plug-and-play_?
+
+**Svar: **_Plug-and-play_ är en standard för konstruktion av datorkomponenter.
+I korthet innebär det att man ska kunna installera nya enheter (t.ex. kort) i
+datorn men slippa besvärligt konfigureringsarbete. Datorn ska själv kunna
+känna av vad det är för en enhet som tillkommit och göra de ändringar i
+systemet som behövs.
+
+**Kommentar:
+
+**_Plug-and-play_ skrivs även _PnP_, _Plug&Play_ eller _P&P_. Man använder den
+engelska termen även på svenska.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 94: **Sparar man _i_ eller _på_ en volym?
+
+**Svar: **Både _i_ och _på_ är tänkbara. Prepositionen _på_ ger mer fysiska
+associationer (jfr _spara på en hårddisk_) medan _i_ mer fokuserar på det
+abstrakta, logiska skeendet.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 95: **Vad menas inom datatekniken med _protokoll_?
+
+**Svar: **Ett _protokoll_ är en samling regler för hur kommunikationen mellan
+två enheter ska gå till.
+
+**Kommentar:
+
+**Det finns protokoll på olika nivåer. På lägsta nivå finns ett
+hårdvaruprotokoll som beskriver hur de fysiska signalerna ska användas. Ovanpå
+detta finns ett eller flera protokoll som programvaran använder.
+Informationsutbytet enligt ett protokoll följer ett strikt schema som
+föreskriver hur informationen ska grupperas i block, hur adressering ska
+göras, hur kontrollsummering och kvittering ska gå till etc. Det finns även
+protokoll med vilka noderna håller reda på datornätets utseende, framkomlighet
+m.m. Ett välkänt protokoll är TCP/IP som bl.a. används av datorer som
+kommunicerar via internet. Egentligen rör det sig om två protokoll,
+Transmission Control Protocol som i sin tur utnyttjar Internet Protocol. På
+högre nivå förekommer t.ex. POP, IMAP och SMTP för e-post, HTTP för
+webbkommunikation.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 96: **Alla dessa _providers_ i uttryck som _access provider, service
+provider, content provider_ - är de _leverantörer_ på svenska?
+
+**Svar: **Ja, _leverantör_ passar i regel:
+
+    * _access provider_: _nätleverantör_
+
+    * _service provider_: _tjänsteleverantör_
+
+    * _internet service provider (ISP)_: _internetleverantör_
+
+    * _content provider_: _innehållsleverantör_.
+
+**Kommentar:
+
+**Det finns dock undantag: _application service provider (ASP)_ brukar
+benämnas _programuthyrare_ eller _programuthyrningsföretag_.
+
+Svenska datatermgruppen, Urban Hurtig
+
+* * *
+
+**Fråga 97: **Hur översätter man engelskans _scalable_? Med skalerbar?
+
+**Svar: **Nej, det översätts med _skalbar_. Till **substantivet** skala
+('storleksförhållande') hör nämligen **verbet** _skala_ med substantivet
+_skalning_. _Skalbar_ blir därmed det naturliga adjektivet. Jämför dela,
+delning, delbar.
+
+**Kommentar:
+
+**Det finns också ett annat verb _skala_ ('avlägsna skal') bildat till _skal_.
+Även detta verb har avledningarna _skalning_, _skalbar_. Någon risk för
+sammanblandning finns dock knappast mellan detta verb och verbet bildat till
+substantivet skala ('storleksförhållande'). Därför finns det ingen anledning
+att välja skalerbar i stället för skalbar för eng. scalable. Detsamma gäller
+skalera i stället för skala.
+
+Svenska datatermgruppen, Birgitta Lindgren
+
+* * *
+
+**Fråga 98: **Finns det ett svenskt ord för engelskans _screenshot, screen
+dump_?
+
+**Svar: **På svenska säger man _bildskärmsdump, skärmdump_.
+
+**Kommentar:
+
+**Med bildskärmsdump menas att data som visas på bildskärmen kopieras till
+t.ex. en fil eller direkt skrivs ut på en skrivare.
+
+Svenska datatermgruppen, Gunnel Johansson
+
+* * *
+
+**Fråga 99: **Vad är en _sökrobot_ och en _sökmotor_?
+
+**Svar: **En _sökrobot_ eller _spindel_ (eng. web crawler, indexing robot
+eller spider) är ett program som med olika grad av finurlighet söker sig runt
+mellan webbplatser och katalogiserar information den hittar och bygger upp ett
+index. _Sökmotor_ (eng. search engine) är det program som sedan tar emot en
+sökfråga från användaren, letar i indexet efter förmodat relevanta sidor och
+sammanställer resultaten.
+
+Svenska datatermgruppen, Jussi Karlgren
+
+* * *
+
+**Fråga 100: **Alla talar ju om _webbdesign_ och _webbdesigners_ nu för tiden.
+Men hur passar det in i svenska språket? Jag tänker då särskilt på
+pluralformen av _webbdesigner_: hur bör det böjas?
+
+**Svar: **Sammansättningen _webbdesigner_ bör böjas som det enkla ordet
+_designer_, dvs. _en webbdesigner_, _webbdesignern_, flera _webbdesigner_, _de
+där webbdesignerna_. Den böjningen kommer också att vara den rekommenderade i
+nästa utgåva av Svenska Akademiens ordlista (SAOL).
+
+**Kommentar:
+
+**Det finns inga hinder för att designer skulle kunna böjas ännu "svenskare":
+_designrar_ (med uttalet [desajnrar]. Men om man googlar på den formen finns
+det inte många belägg, så vi väljer att vänta med en rekommendation av den
+formen. Vidare vill en del språkbrukare hellre använda ordet _formgivning_ och
+_formgivare_ i stället för _design_ och _designer_. Men här bör man sätta sig
+in i vad det är man ska benämna; frågan har inte enbart att göra med onödig
+engelska utan är mer komplex än så. Det engelska _web designer_ bör på svenska
+dessutom snarare motsvaras av t.ex. _webbkonstruktör_ eller
+_webbprogrammerare_.
+
+* * *
+
+**Fråga 101: **Vad kan _community_ kallas på svenska?
+
+**Svar: **_Community_ är inte en engelsk fackterm utan ett ord i
+vardagsspråket som kan översättas på många olika sätt. I internetsammanhang
+kan svenska motsvarigheter vara t.ex. _intressegrupp_, _webbforum_ eller
+_nätförening_.
+
+**Kommentar:
+
+**Ordet används både för gemenskapskänsla (_the sense of community in our
+church_), och för någon samling människor som har någonting gemensamt, i
+synnerhet för att kontrastera dem mot andra människor i deras omgivning som
+_inte_ är del av gemenskapen (_the Polish community in London_).
+
+Förutom att ordet används i sin vanliga mening även i datorsammanhang
+(_programming community_, _Java user community_ etc.) har det också mer
+speciellt dykt upp i sammansättningen _virtual community_, som använts för de
+nätverksbaserade sociala grupperingar som bildas eller uppstår spontant när
+människor umgås elektroniskt. Ibland refererar _community_ i stället till den
+plats eller det forum där en grupp möts; då används t.ex. termer som
+_webbforum_ och _nätförening_.
+
+_Community_ betyder många olika saker, och kan och bör inte översättas med en
+enda term på svenska. I de flesta sammanhang är _gemenskap_ en lämpligt vag
+term, men i vissa fall kan _samfund_, _sammanhang_, _socialt sammanhang_,
+_samhälle_, _nämnd_, _kommun_, _(användar)grupp_, _klick_ eller liknande vara
+mer på sin plats; ibland kan det passa bättre med en omskrivning med _vi_
+eller _lokal_ (Community board: stadsdelsnämnd; Community spirit: vi-känsla;
+community college: lokal eller regional högskola; community service:
+samhällstjänst; retirement community: pensionärssamhälle).
+
+_Community_ är något av ett modeord och starkt värdeladdat. De flesta som
+använder _community_ vill betona den värdegemenskap som de innefattas av, men
+det finns personer som tar anstöt: de känner sig uteslutna från sammanhanget i
+fråga när termen används.
+
+Svenska datatermgruppen, Jussi Karlgren
+
+* * *
+
+**Fråga 102: **Vad betyder _desktop_ i datasammanhang?
+
+**Svar: **Ordet _desktop_ används i amerikanskt datorspråk i flera olika
+betydelser, så det beror på sammanhanget vilken term som är rätt:
+_skrivbord(syta), stationär dator, dator av bordsmodell_. En viktig skillnad
+mot svenskt språkbruk är att det enskilda ordet _desktop_ i engelskan nästan
+aldrig syftar på _desktop publishing_.
+
+**Kommentar:
+
+**
+
+    1. _Desktop_ i betydelsen 'skrivbordsyta' eller helt enkelt 'skrivbord'
+används som metafor för det grafiska användargränssnittets bakgrundsyta i
+operativsystem som Windows och Macintosh. Skrivbordet (som _desktop_ i den här
+betydelsen kan översättas till) är alltså det man ser när man har stängt alla
+fönster. Det översätts med _skrivbordet_.
+
+    2. En _desktop computer_ är en persondator som kan ställas på ett
+skrivbord. Alternativet är en bärbar dator. På svenska säger vi _stationär
+dator_ om _desktop computer_. Det kan dessutom vara så att datorlådan är av
+typen _bordsmodell_ (_desktop model_) där bildskärmen är tänkt att kunna
+ställas ovanpå. Detta i kontrast till utförandet _tornmodell_ (eng. _tower
+model, minitower chassis_ med flera uttryck).
+
+    3. Uttrycket _desktop publishing_ som var vanligt förekommande på
+1980-talet, står för framställning av original till tryckta sidor på dator.
+Detta har på svenska kortats till bara _desktopp_. Därtill bildades
+_desktoppa_ och _desktoppning_. _Desktop publishing_ förkortas ibland till
+_DTP_, som på svenska kan uttolkas som _datorstödd trycksaksproduktion_.
+
+Svenska datatermgruppen, Anders Lotsson
+
+* * *
+
+**Fråga 103: **_DOS_ verkar idag ha fått fler uttydningar än _disk operating
+system_. Vad betyder det mer?
+
+**Svar: **Skrivet _DoS_ uttyds det _denial-of-service_, vilket är resultatet
+av en form av datasabotage som på svenska kallas för _överbelastningsattack_
+(eng. _denial-of-service attack_).
+
+**Kommentar:
+
+**Under en överbelastningsattack bombarderar angriparen offret med så mycket
+e-post eller annan datatrafik att offrets datasystem inte hinner med.
+Sabotören brukar förvärra överbelastningen genom att förse meddelandena med
+avsiktliga fel som orsakar krångel eller driftstopp. Det finns ett antal kända
+sådana sabotagemetoder. Med _denial of service_ (nekande eller tillbakavisande
+av tjänst) menas att sabotaget medför att offret, oftast en internetoperatör
+eller ett storföretag med webbsidor, inte kan sköta sina åtaganden mot kunder
+eller besökare. Till skillnad från andra former av datavandalism leder
+överbelastningsattacker vanligen inte till att data förstörs eller kommer på
+avvägar.
+
+Man talar också om _distributed DoS attacks_ (_DDoS_), på svenska _samordnade
+överbelastningsattacker_. Med detta menas helt enkelt att många datorer
+samtidigt deltar i sabotaget. Ägarna till dessa datorer är i regel inte
+medvetna om att deras datorer utnyttjas på detta sätt av en angripare.
+Angriparen har i förväg planterat ut agenter (trojaner) på kanske hundratals
+eller tusentals internetanslutna pc. Det är dem han aktiverar när det är dags
+för den samordnade attacken. Det är inte fråga om en massa personer som på en
+given signal agerar, som man kanske kan tro annars.
+
+Svenska datatermgruppen, Anders Lotsson
+
+* * *
+
+**Fråga 104: **Vad heter _host_ på svenska?
+
+**Svar: **För verbet _host_ kan man använda ordet _hysa_ (man hyser webbsidor)
+eller göra omskrivningar som "vara värd för" (se även [_webbhotell_][217]).
+Det engelska substantivet _host_ är kortform för _host computer_ och kan på
+svenska översättas med _värd_ eller _värddator_.
+
+Svenska datatermgruppen, Anders Lotsson
+
+* * *
+
+**Fråga 105: **Hur översätts _hard disk_ till svenska?
+
+**Svar: **Det översätts med: _hårddisk, disk_ eller _skivminne_.
+
+**Kommentar:
+
+**Benämningen gäller en minnesenhet som består av en skiva där informationen
+lagras magnetiskt. I persondatorer är hårddisken vanligen fast inbyggd.
+
+På finlandssvenska säger många _hårdskiva_.
+
+På engelska används _disk_ både om disketter och hårddiskar.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 106: **Kan man använda termen _metadata_ på svenska?
+
+**Svar: **Ja, termen _metadata_ (eng. _metadata_) är etablerad i svenskan och
+betyder 'data om data'.
+
+**Kommentar:
+
+**Exempel på metadata är kvalitetsuppgifter för en datamängd, t.ex.
+noggrannhet hos mätdata, källuppgifter för data eller senaste
+uppdateringsdatum.
+
+När det talas om metadata i webbsammanhang avses oftast data om webbsidor och
+andra webbresurser, t.ex. uppgifter om titel, författare, publiceringsdatum,
+ämne, typ av material (ordlista, roman, instruktion etc.), distributionsformat
+(html, pdf etc.) eller språk. Ett syfte med att publicera sådana data är att
+möjliggöra för söktjänster att ge mer relevanta svar.
+
+Svenska datatermgruppen, Gunnel Johansson och Peter Svanberg
+
+* * *
+
+**Fråga 107: **Betyder _nät_ och _nätverk_ samma sak?
+
+**Svar: **Ja, men vissa konventioner har vuxit fram, och därför är orden inte
+alltid utbytbara. Men många gånger är det kortare _nät_ att föredra.
+
+**Kommentar:
+
+**Att infrastrukturer beskrivs som _nät_ blev vanligt under industrialismens
+framväxt på 1800-talet och 1900-talet. Man talade om _järnvägsnät, telefonnät,
+avloppsnät, vägnät_. Datoriseringen gav oss ordet _nätverk_ som tidigare hade
+varit sällsynt. Det var troligen genom påverkan från engelskan, där det heter
+_railway network, telephone network_ och därför naturligtvis även _computer
+network_.
+
+I valet mellan _nät_ och _nätverk_ finns det mycket som talar för _nät_.
+_Nätet_ är också en vanlig kortform för _internet_, som även på engelska
+kallas för _the Net_.
+
+En annan viktigare aspekt är att _nät_ kan vara för oprecist, så när man
+egentligen menar _datornät, telenät, elnät_ eller _internet_ bör man hellre
+skriva det.
+
+Svenska datatermgruppen, Anders Lotsson
+
+* * *
+
+**Fråga 108: **I den politiska debatten om bredband talas det både om
+_stamnät_ och om _stomnät_, är det samma sak?
+
+**Svar: **Ja, men vi rekommenderar termen _stamnät_.
+
+**Kommentar:
+
+**Både _stamnät_ och _stomnät_ används som termer för de centrala delarna av
+distributionsnätet för internet. Vi rekommenderar _stamnät_, dels därför att
+_stam_ är en bättre metafor för tekniken (något som förgrenar sig i allt
+mindre delar) än _stomme_ ('bärande ställning'), dels därför att _stamnät_
+redan används i andra sammanhang, t.ex. för elkraftnät (se även
+ordlistartikeln om [_stamnät_][218].
+
+Svenska datatermgruppen, Peter Svanberg
+
+* * *
+
+**Fråga 109: **Ska man skriva _WAP_, _wap_ eller _wapp_
+
+**Svar: **Initialförkortningen _wap_ (med uttydningen _wireless application
+protocol_, se förkortningen [_WAP_][219]) bör skrivas med små bokstäver, i
+likhet med andra förkortningar som läses ut som ord och inte bokstav för
+bokstav (jfr _aids, damp_ m.fl.). Sådana förkortningar bör i sammansättningar
+skrivas utan bindestreck: _waptelefon, wapteknik_ (jfr _aidskampanj,
+Natoövning_). _Wap_ uttalas [vapp].
+
+Att grundformen _wap_ har ett p, medan den ibland förekommande vardagliga
+verbformen _wappa_ skrivs med två följer mönstret från ett flertal andra
+lånord som slutar på p, till exempel _pop-poppa_ och _rap-rappa_.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 110: **Kan man skriva _zippad fil_ i stället för _komprimerad fil_?
+
+**Svar: **Man bör inte använda _zippa_ som en allmän benämning för
+_komprimera_ eftersom _zip_ är ett av många komprimeringsformat.
+
+**Kommentar:
+
+**Att komprimera en fil med hjälp av ett zipprogram kan kallas att _zippa_,
+och att expandera en zippad fil kan vardagligt kallas att _zippa upp_.
+
+Att grundformen _zip_ har ett p, medan verbet _zippa_ har två följer mönstret
+från ett flertal andra lånord som slutar på p, till exempel _pop-poppa_ och
+_rap-rappa_.
+
+Svenska datatermgruppen, Anders Lotsson
+
+* * *
+
+**Fråga 111: **Finns det något svenskt uttryck för eng. _content_, _e-
+content_?
+
+**Svar: **Beroende på sammanhang, skriv förslagsvis _innehåll_ eller
+_webbmaterial_ för eng. _content_, _e-content_.
+
+**Kommentar:
+
+**De engelska modeuttrycken _content_ och _e-content_ används båda för att
+beteckna det innehåll elektroniska medier (inte minst webben) fylls med, i
+kontrast till den rent tekniska utformningen. _Content management_ kan då
+t.ex. handla om _webbpublicering_, och en _content manager_ kan t.ex. vara
+_webbredaktör_ eller _informatör_.
+
+Svenska datatermgruppen
+
+* * *
+
+**Fråga 112: **Vad menas med att något är _redundant_? Betyder det att det är
+onödigt då?
+
+**Svar: **Grundbetydelsen hos _redundant_ är _överflödig_ eller _övertydlig_,
+men för den skull behöver redundant information inte vara onödig, tvärtom kan
+den vara helt nödvändig.
+
+**Kommentar:
+
+**Vid överföring av information tar man ofta med mer än det absolut nödvändiga
+för att öka sannolikheten för att informationen ska komma fram oförvanskad
+eller inte bli missförstådd. Datum anges ofta som _torsdagen den 22 november
+2001_. Här är _torsdag_ redundant information eftersom veckodagen kan härledas
+ur datumet. Ett annat exempel på redundans är slutsiffran i de tiosiffriga
+svenska personnumren, vilken endast är en kontrollsiffra. Inom datatekniken
+använder man sig ofta av olika typer av kontrollsummor, så att mottagaren av
+informationen ska kunna verifiera att den är riktig (så långt redundansen
+medger). Redundant information är i praktiken ofta betydelsefull eller till
+och med nödvändig.
+
+Tekniska utrustningar och system är ibland dubblerade eller t.o.m.
+flerfaldigade för att så långt som möjligt eliminera risken för fel. I
+teknikerjargong har det på senare år blivit allt vanligare att kalla systemen
+"redundanta", när man egentligen menar att systemen har hög tillförlitlighet.
+Denna användning av ordet _redundant_ vållar ibland missförstånd.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 113: **Vad innebär det att ett system är _feltolerant_?
+
+**Svar: **Det innebär att systemet fungerar korrekt även om delar av systemet
+skulle drabbas av vissa förutsedda typer av fel eller störningar. I vissa
+rymdfarkoster utförs till exempel alla beräkningar av tre olika datorer
+oberoende av varandra och som rätt resultat accepteras det värde som minst två
+av datorerna är eniga om.
+
+Svenska datatermgruppen, Roger Hansson
+
+* * *
+
+**Fråga 114: **Ska det heta _mobilt internet_ eller _trådlöst internet_?
+
+**Svar: **Båda uttrycken går att använda. _Trådlöst internet_ är en
+övergripande term som alltid kan användas. _Mobilt internet_ betecknar
+anslutningssätt som bygger på mobiltelefoni.
+
+**Kommentar:
+
+**Den övergripande termen _trådlös_ (eng. _wireless_) betecknar dels _mobil_
+(eng. _mobile_ eller _cellular_) kommunikation, dels _sladdlös_ (eng.
+_cordless_) anslutning till tele- eller datornät.
+
+Mobilt internet är baserat på mobiltelefoninätet i någon form. Användaren ska
+ha möjlighet att ansluta sig till internet överallt där man kan ringa ett
+mobiltelefonsamtal. Ett system för mobilt internet har alltså täckning i
+större delen av landet och i många andra länder, och det kan användas även när
+man åker bil eller tåg. Det planerade 3G-nätet är avsett för mobilt internet,
+men det är också waptekniken i det nuvarande GSM-nätet och den
+vidareutveckling av GSM som heter GPRS.
+
+Sladdlös internetanslutning innebär att man byter ut sladden mellan dator och
+anslutningspunkt, till exempel telefonjack, mot radiokommunikation eller
+infraröd kommunikation. Räckvidden brukar vara begränsad till ett eller flera
+rum. Jämför med sladdlösa telefoner (eng. _cordless_ phones). Exempel på
+metoder för sladdlös datakommunikation är Bluetooth och det trådlösa lokala
+datornätet 802.11.
+
+Lokala trådlösa nät baserade på specifikationen IEEE 802.11 byggs även i
+större skala. De kan täcka stora områden, till exempel ett universitetsområde
+eller ett köpcenter och kan ge internetanslutning till alla datorer i
+täckningsområdet. En sådan internetanslutning har en mellanställning mellan
+_sladdlös_ anslutning och _mobil_ anslutning och bör därför hellre kallas för
+en _trådlös_ anslutning.
+
+_Trådlöst internet_ är också den övergripande termen som används när man inte
+kan eller inte vill ta ställning till vilken anslutningsteknik som används.
+
+Svenska datatermgruppen, Anders Lotsson
+
+* * *
+
+**Fråga 115: **Vad betyder uttrycket _in silico_?
+
+**Svar: **Uttrycket _in silico_ är en (från början skämtsam) benämning som
+framför allt används inom bioinformatiken om experiment som genomförs genom
+datorsimulering. Benämningen är skapad enligt samma mönster som _in vitro_ och
+_in vivo_ (det borde dock egentligen skrivas _in silice_) och kommer av det
+latinska ordet för kisel, vilket syftar på att experimentet görs med hjälp av
+datorchips (gjorda av kisel).
+
+Uttrycket bör inte användas i onödan i stället för _datorsimulerad_, i
+synnerhet inte utanför de molekylära livsvetenskaperna.
+
+Svenska datatermgruppen, Helena Palm
+
+* * *
+
+**Fråga 116: **Finns det något svenskt uttryck för _sub-site_?
+
+**Svar: **Använd _underwebbplats_, _underavdelning_, _undersidor_, _delsidor_
+eller liknande.
+
+**Kommentar:
+
+**Uttrycket _sub-site_ har ingen entydig definition, men i regel avses en
+sammanhållen delmängd av en större webbplats, ofta med ett eget utseende och
+med en egen ingångssida utöver den överordnade webbplatsens. Ett exempel kan
+vara en avdelning på ett företag som vill profilera sig med hjälp av webbsidor
+som har en annan profil än det övriga företagets.
+
+Ett lämpligt svenskt uttryck kan vara _underwebbplats_, men mer beskrivande
+uttryck som _underavdelning_, _undersidor_, _delsidor_ eller liknande är
+förstås också tänkbara. I många fall behöver kanske hierarkin inte uttryckas
+alls.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 117: **Skriver man _Bluetooth_ eller _Blåtand_, och ska det vara liten
+eller stor bokstav?
+
+**Svar: **Bluetooth är ett varumärke, varför det oftast skrivs just
+_Bluetooth_. Bluetooth är ett protokoll för synkroniserad dataöverföring
+mellan datorer via en radiosignal, och har som sådant blivit en teknisk
+standard, vilket i sig försvagat egennamnskaraktären. Därför ser man det nu
+allt oftare skrivet med små bokstäver, och dessutom allt oftare översatt till
+svenska: _blåtand_. I mindre viktiga sammanhang och där man avser själva
+tekniken, går det bra att skriva _blåtand_. I andra sammanhang, särskilt där
+man avser varumärket, skriver man _Bluetooth_.
+
+Svenska datatermgruppen, Ola Karlsson
+
+* * *
+
+**Fråga 118: **I Windowsmiljön finns något som tidigare kallades _radio
+button_ men som Microsoft numera benämner _option button_. Finns det någon
+passande svensk term för denna knapp?
+
+**Svar: **Ja, Microsoft översätter det med _alternativknapp_, och vi har inget
+att invända mot det. I Macintosh-miljön brukar detta dock kallas _radioknapp_.
+
+**Kommentar:
+
+**Benämningen radio button, radioknapp, ter sig långsökt, få lär förknippa
+detta med radio. Redan av din fråga framgår att Microsoft insett det. Knappen
+ser ut som en liten cirkel som fylls i med en svart prick när man klickar i
+den eller på intilliggande textrubrik. Ett kriterium på alternativknapp är att
+man bara kan ange **ett** alternativ, dvs. om det finns fyra alternativknappar
+rörande inställningen av en viss funktion kan bara en av dem markeras. Kan man
+klicka för fler än ett val så är det ingen alternativknapp.
+
+En närliggande Windowsterm är _kryssruta_, på engelska _check box_. Det är en
+kvadratisk liten ruta där resultatet av klickningen blir en bock (ej kryss!).
+Kryssrutor avser olika funktioner och kan därför fyllas i oberoende av
+varandra. Att de inte kallas "bockrutor" har historiska orsaker: i
+Windowsversionerna före Windows 95 innehöll rutorna verkligen ett kryss. I
+Windows 95 ersattes kryssen av bockar, "check marks". För att undvika
+begreppsförvirring valde Microsofts svenska översättare att hålla fast vid
+benämningen kryssrutor. Ett sätt att kringgå problemet i svenska texter är att
+skriva "alternativet", t.ex. i frasen "markera alternativet _Aktivera
+virusskydd i makron_".
+
+* * *
+
+**Fråga 119: **_Bläckstråleskrivare_ känns otympligt - räcker det inte med
+_bläckskrivare_?
+
+**Svar: **Jo, det räcker. Branschen har redan börjat anamma formen
+_bläckskrivare_.
+
+* * *
+
+**Fråga 120: **[Borttagen fråga.]
+
+**Svar: **Se ordlisteartiklar [_stafett_][220], [_igenkänningstecken_][221]
+och [_informationsbärare_][222].
+
+* * *
+
+**Fråga 121: **Vad kallas den som har _data mining_ som yrke?
+
+**Svar: **Beroende på sammanhang föreslår vi _analytiker_ eller, om man vill
+vara extra tydlig, _dataanalytiker_.
+
+**Kommentar:
+
+**Att benämna yrket _datautvinnare_ i analogi med vår rekommendation om
+_datautvinning_ för eng. _data mining_ låter väl mekaniskt. Då är _analytiker_
+bättre, och det är också den term som brukar användas.
+
+* * *
+
+**Fråga 122: **Hur förhåller sig _e-commerce_, _e-business_, _elektronisk
+handel_, _e-handel_ och _näthandel_ till varandra och vad bör man använda på
+svenska?
+
+**Svar: **De svenska termerna _e-handel_ (_elektronisk handel_) och
+_näthandel_ bör betraktas som synonyma motsvarigheter till de engelska
+termerna _e-business_, _e-commerce_. Eventuellt kan _näthandel_ ses som mer
+underordnat; då avses elektronisk handel som enbart bedrivs via internet.
+
+**Kommentar:
+
+**Det går inte att motivera en ibland föreslagen betydelseskillnad mellan
+näthandel som 'privat handel av konsumtionsvaror' och
+e-commerce/e-business/e-handel som 'professionell finansiell handel'.
+
+Bara för att man gör samma gamla saker med ett nytt hjälpmedel som internet
+innebär det inte att man alltid måste uppfinna nya ord för det. Valutahandel
+är valutahandel, vare sig den sker på internet eller över bankdisken.
+
+* * *
+
+**Fråga 123: **_Progress bar_, _progress indicator_, _progress meter_ är några
+engelska benämningar på en list som visar hur långt en process framskridit
+genom att listen fylls med en färg. Ibland anges samtidigt en procentsats.
+Finns någon bra svensk term för detta?
+
+**Svar: **_Förloppsindikator_ är utan tvekan den mest etablerade svenska
+termen.
+
+**Kommentar:
+
+**Man kan situationsanpassa översättningen genom att sätta samman något av
+förleden _förlopps-_ eller _status-_ med något av efterleden _-visare_,
+_-stapel_, _-indikator_ eller _-rad_. I Windows används den engelska termen
+_progress indicator_ med den svenska motsvarigheten _förloppsindikator_.
+Typiska användningsområden är filhämtningar och programinstallationer.
+
+* * *
+
+**Fråga 124: **När vi ska skriva svenska rapporter är det alltid svårt att
+översätta _Quality of Service_, _QoS_. Har ni någon rekommendation?
+
+**Svar: **Det bör översättas med _garanterad tjänstekvalitet_ eller
+_kvalitetsgaranti_.
+
+**Kommentar:
+
+**Ett exempel: ett avtal om fast internetförbindelse med _kvalitetsgaranti_ på
+tillgänglig bandbredd innebär att kunden blir garanterad den bandbredd hon
+betalar för, oberoende av belastningen i övrigt.
+
+QoS används ofta på ett oegentligt sätt som modeuttryck för 'servicenivå' och
+'servicekvalitet' i största allmänhet. Detta bruk avråder vi från, i synnerhet
+om det gäller avtalsjuridik.
+
+* * *
+
+**Fråga 125: **_Information retrieval_, blir det något i stil med
+_informationsåtervinning_ eller _informationsinhämtning_?
+
+**Svar: **Nej, det översätts lämpligen med _informationssökning_. Man kan
+också tänka sig _informationshämtning_. Den tidigare vanliga översättningen
+_informationsåtervinning_ för i dag tankarna lite för lätt åt återvinning av
+avfall, tidningar o.d.
+
+**Kommentar:
+
+**En överordnad term som täcker lite mer än _informationssökning_ är
+_informationsåtkomst_, av engelskans _information access_, vilket t.ex.
+inkluderar informationsfiltrering och dataåtervinning.
+
+* * *
+
+**Fråga 126: **Vilket svenskt ord ska man använda för _iterative_?
+
+**Svar: **Termen _iterativ_ har använts länge i svenskt fackspråk, t.ex. inom
+språkvetenskapen där iterativa verb betecknar en upprepad handling som
+_droppa_, _hosta_ (ur Nationalencyklopedins ordbok). I andra sammanhang och
+när man bedömer att ordet är obekant för läsarna är det lämpligare att
+förklara det eller använda ett svenskt ord, t.ex. _upprepad_.
+
+* * *
+
+**Fråga 127: **Är _proprietär_ en accepterad svensk term för engelskans
+_proprietary_ i sammanhanget datasystem?
+
+**Svar: **Nej, vi förordar _leverantörsspecifik_ som vi anser vara betydligt
+mer klargörande. Ibland kan dock _egenutvecklad_ passa bättre.
+
+**Kommentar:
+
+**Proprietär är en gammal försvenskning av proprietary, som betyder 'i enskild
+ägo', 'privatägd'. När det handlar om teknik kan det betyda att tekniken i
+fråga är skyddad av patent eller är varumärkesskyddad. I databranschen innebär
+det att produkterna eller systemen är leverantörsspecifika, och därmed är så
+kallade slutna system. _Egenutvecklad_ är ett alternativ som passar in vid
+översättning av uttryck som _proprietary technology_, _egenutvecklad teknik_.
+Utanför databranschen skulle översättningen snarare bli 'privatägd teknik'.
+
+I Nationalencyklopedins ordbok kan man för övrigt läsa att _proprietär_ finns
+som franskt lånord i svenskan sedan 1700-talet och har då betydelsen ägare,
+särskilt godsägare.
+
+* * *
+
+**Fråga 128: **_Read me_ eller _Läs mig_ är vanliga benämningar på den fil med
+mestadels teknisk information man hittar på t.ex. cd-romskivor. Vad
+rekommenderar ni att den får för namn?
+
+**Svar: **_Läs mig_ är en vanlig men kanske något slentrianmässig
+direktöversättning. Vi föreslår att man namnger filen efter graden av vikt
+samt efter typen av information det innehåller. Exempel:
+
+    * _Om_ (programmet)
+
+    * _Viktigt om_ (programmet)
+
+    * _Läs det här_
+
+    * _Läs detta innan du installerar_
+
+    * _Viktig information_
+
+    * _Information om installationen_
+
+    * _Om du får problem_
+
+* * *
+
+**Fråga 129: **Vad motsvaras _input_ av på svenska?
+
+**Svar: **Substantivet _input_ motsvaras av förledet _in-_ i sammansättningar
+som _indata_, _ inenhet_ etc. Verbet _input_ motsvaras av _mata in_.
+
+**Kommentar:
+
+**Några typiska sammansättningar med _input_ som förled är: _input data_ (sv.
+_indata_), _input device_ (sv. _inenhet_, dvs. 'anordning för inmatning av
+data'), _input-output device_, _input-output unit_ (sv. _in-utenhet_, dvs.
+'anordning för såväl inmatning som utmatning av data').
+
+* * *
+
+**Fråga 130: **Hur översätter jag engelskans _runtime_ på ett vettigt sätt?
+Översätter man ordagrant blir det väl _körtid_, men det stämmer ju inte med
+"jag har ingen Java-runtime installerad"?
+
+**Svar: **Java-runtime är en avkortning av "Java Runtime Environment". Runtime
+environment blir _exekveringsmiljö_ på svenska. För hela uttrycket föreslår vi
+_exekveringsmiljö för Java_.
+
+Java Runtime Environment innehåller de program, rutiner och databaser som man
+måste ha installerade för att kunna köra ett program som är skrivet i
+programspråket Java. Därav följer att man kan använda uttrycket
+_exekveringsmiljö för X_, även om andra system.
+
+I datatekniska sammanhang är _exekverings-_ etablerat som svensk motsvarighet
+till _runtime_, men även _kör-_ är acceptabelt såsom ett kortare och för
+lekmän mer begripligt alternativ.
+
+_Runtime_ förekommer oftast som första led i flerordsuttryck, t.ex. i _runtime
+error_, på svenska _exekveringsfel_ eller _körfel_.
+
+Ett annat uttryck är _runtime version_, på svenska _exekveringsversion_. Det
+är en begränsad version av ett program. Många program för uppspelning av ljud
+och bild sprids gratis i exekveringsversion, men den som själv vill framställa
+filer till programmet måste köpa en fullständig version.
+
+* * *
+
+**Fråga 131: **Jag undrar över _monitor_ - är det _bildskärm_ helt enkelt? Och
+hur är det med _screen_ i detta sammanhang?
+
+**Svar: **Ja, _(computer) monitor_ översätts normalt med _bildskärm_ på
+svenska. _Screen_ motsvaras i regel av _skärmbild_, dvs. den bild som visas på
+bildskärmen.
+
+**Kommentar:
+
+**I engelskan förekommer även termerna _display_ och _screen_ (ibland) för
+_bildskärm_. Termen _monitor_ förekommer också på svenska, men då mer
+specifikt, om bildskärmar och teveapparater för övervakningsändamål.
+
+* * *
+
+**Fråga 132: **Är det korrekt att skriva "ett 56Kbps modem"?
+
+**Svar: **Nej, man bör skriva "ett 56 kbit/s-modem" (vi avråder från den
+amerikanska förkortningen "bps", se vidare frågesvaret om [_bps_][223]. På
+svenska skriver man mellanrum mellan mätetal och storhetsbeteckning. När man
+har möjlighet bör man använda s.k. hårt mellanslag som förhindrar radbrytning
+där.
+
+* * *
+
+**Fråga 133: **_Presence service_ talas det om i samband med chatt- och
+snabbmeddelandeprogram. Vilken svensk benämning rekommenderar ni?
+
+**Svar: **Begreppet är relativt nytt, men vi föreslår tills vidare
+_närvarobevakning_.
+
+**Kommentar:
+
+**Denna bevakningstjänst möjliggör för användaren att se vilka av dennes
+kontakter som är uppkopplade och därmed nåbara med chatt och snabbmeddelanden.
+
+* * *
+
+**Fråga 134: **Finns det ett svenskt ord för _parsing_?
+
+**Svar: **Ja, använd det försvenskade _parsning_ i stället för eng. _parsing_.
+I vissa fall kan _syntaxanalys_ passa bättre.
+
+**Kommentar:
+
+**Språklig analys av meningar eller texter i dess beståndsdelar (eng.
+_parsing_, av lat. _pars_ 'del') kan göras automatiskt av en parser, ett
+speciellt program konstruerat för ändamålet. Parsern använder oftast
+syntaktisk kunskap i form av grammatikregler eller ibland i enklare fall
+statistisk kunskap om satsens eller ordens typiska utseende. Analysen leder
+till att orden i meningen tilldelas ordklasser (substantiv, verb etc.) och kan
+sorteras tillsammans till satsdelar (subjekt, objekt etc.).
+
+Ibland är dock termen _syntaxanalys_ bättre än parsning, särskilt i
+datalogiska sammanhang. Annan liknande analys kallas också parsning, t.ex. det
+som en kommandotolk i ett operativsystem gör, nämligen att tolka texten i
+användarens inskrivna textsträng i syfte att identifiera kommandot och
+eventuella tillhörande väljare.
+
+* * *
+
+**Fråga 135: **Hur översätts _portability_?
+
+**Svar: **_Portabilitet_ eller _flyttbarhet_ är de etablerade svenska
+facktermerna för detta begrepp som innebär att program är maskinoberoende, går
+att flytta mellan olika system etc. Det har sedan länge använts flitigt i
+Unixsammanhang.
+
+* * *
+
+**Fråga 136: **Ska det heta _intelligenta hus_ eller _intelligenta hem_? Eller
+borde det rent av kallas _smarta_ hus eller hem?
+
+**Svar: **Vi föredrar benämningen _smarta hus_. Gäller det enstaka lägenheter
+kan _smarta hem_ vara lämpligare.
+
+**Kommentar:
+
+**Vår rekommendation går därmed emot det rådande bruket, där _intelligenta
+hus_ dominerar som svensk motsvarighet till engelskans _intelligent building_
+och _smart home_. Vi anser nämligen att "intelligent" är missvisande i
+sammanhanget, eftersom det ännu så länge inte är frågan om att husen eller
+hemmen är (artificiellt) intelligenta i egentlig mening.
+
+Om vi tittar närmare på gränsdragningen mellan intelligent och smart, så är en
+allmän definition på _intellligent_ '(något) vars tankeförmåga kan jämföras
+med människans' (Norstedts stora svenska ordbok), medan _smart_ har synonymer
+som 'skicklig, slipad, slug'. Där det i datorsammanhang är fråga om mer
+avancerade system som kan dra slutsatser och lära av erfarenheten används
+intelligent, medan saker som kan betraktas som intelligenta bara i en
+avgränsad bemärkelse brukar anses smarta. Jämför _artificiell intelligens_ men
+_smartkort_. I fallet smarta hus handlar det framför allt om sensorer och
+larmanordningar som automatiserar vissa funktioner och varskor den boende,
+vaktbolaget etc. om att åtgärder behövs. "Intelligensen" är alltså klart
+begränsad.
+
+En svårighet med smart är att det har vissa negativa associationer ('slipad',
+'slug'), vilka kan ha bidragit till att smart inte känts rätt i mer formellt
+språk. Det har förmodligen lett till att intelligent med sitt högre stilvärde
+kommit att få en något onyanserad användning.
+
+Ytterligare en faktor som bidragit till sammanblandningen är att det länge
+funnits en motvilja mot att alls tillskriva datasystem intelligens, beroende
+på att artificiell intelligens (AI) som forskningsområde och teknik småningom
+blev misskrediterat efter att överdrivna förväntningar kommit på skam. För att
+avdramatisera maskinintelligensen föredrog man under en period det lite
+slängigare smart.
+
+Men på senare tid har alltså intelligent kommit till heders igen. Ett exempel
+har vi i _intelligenta agenter_, datorprogram som med hjälp av AI-teknik
+verkställer sina uppgifter med hög grad av självständighet, som att samla in
+information på webben, boka möten, schemalägga processer, handha bibliotek
+eller utföra affärer. Allt detta kan de göra utan att exakt färdplan och
+uppgift behöver vara bestämda på förhand. De kan mycket väl tänkas kunna
+bestämma det under gång, och det är det som intelligens handlar om.
+
+* * *
+
+**Fråga 137: **Förkortningen _SMS_ (_Short Message Service_), ska den skrivas
+med versaler och hur blir verbet? _Sms:a_?
+
+**Svar: **Skriv _sms_ och _skicka sms-meddelande_, i informella sammanhang
+_sms:a_. Samma rekommendation gäller _mms_ (_multimedia messaging service_).
+
+**Kommentar:
+
+**Vi rekommenderar små bokstäver för initialförkortningar som används som
+självständiga uttryck (t.ex. används _cd_, mycket sällan det fullständiga
+uttrycket _compact disk_) och som också är mycket etablerade i allmänspråket:
+_cp_, _gd_, _mc_, _pc_, _tv_, _dvd_ etc. Det gäller även _sms_ (och _mms_).
+För verbhandlingen skriver man i regel _skicka sms(-meddelande)_, men i
+framför allt talspråk är det också vanligt med det kortare, informella
+_sms:a_. Verbformen _messa_ börjar också bli rätt vanlig, men är kanske mindre
+lämplig eftersom den bara knyter an till ledet _message_ (och därmed skulle
+kunna användas även om andra meddelandetyper som e-post eller chatt.). _Sms:a_
+visar tydligt att det handlar om just sms-meddelanden.
+
+* * *
+
+**Fråga 138: **Finns det någon etablerad svensk motsvarighet till _instant
+message_, _IM_? Och hur översätter vi _instant message popup_?
+
+**Svar: **Vid det här laget får _snabbmeddelande_ sägas vara etablerat som
+svensk översättning. Annars kan vi också tänka oss _direktmeddelande_.
+Poppuppfönstret med texten kan lämpligen kallas _snabbmeddelanderuta_.
+
+**Kommentar:
+
+**_Instant messaging_ är ett system med vilket personer som samtidigt är
+aktiva på internet kan utväxla meddelanden mellan sig. Till skillnad mot
+vanlig e-post kan alltså avsändaren vara säker på att mottagaren är på plats
+och har möjlighet att läsa meddelandet omedelbart. ICQ och MSN Messenger är
+några exempel på produkter i sammanhanget.
+
+* * *
+
+**Fråga 139: **_Boota_ låter så svengelskt - vad finns det för alternativ?
+
+**Svar: **Säg helt enkelt _starta_ (och _starta om_ för _reboot_).
+
+**Kommentar:
+
+**_Boota_ härrör från _bootstrap loader_, engelsk term för ett litet program
+som är det första som går igång när man startar datorn. Det laddar in
+operativsystemet i arbetsminnet. En sådan laddare finns inbyggd i alla moderna
+datorer. I datorernas barndom var det ett krux att lägga in det allra första
+programmet i datorn - inladdningen skulle ju göras av ett program som redan
+måste vara inladdat i datorn! Det liknar problemet att lyfta sig själv i
+håret, som på engelska motsvaras av "to pull oneself up by one's bootstraps"
+(kängstropparna). Man började använda verbet _to boot_ i betydelsen 'starta'.
+På svenska sade datateknikerna "boota". Ett bättre svenskt ord är _starta_.
+Eng. _reboot_ blir på svenska _starta om_.
+
+* * *
+
+**Fråga 140: **Ett vanligt sätt att underlätta navigeringen inom en webbplats
+är en s.k. _bread crumb trail_, t.ex. "ingång >> sidax >> siday >> sidaz". Är
+_brödsmulespår_ en lämplig svensk benämning?
+
+**Svar: **Vi anser _synlig sökväg_ vara en mindre kryptisk term för det här
+begreppet, en term som dessutom är kort och koncis.
+
+* * *
+
+**Fråga 141: **_Speech control_, blir det _röststyrning_ eller _talstyrning_
+på svenska?
+
+**Svar: **Vi förordar _talstyrning_, eftersom det handlar om att datorn ska
+känna igen **ord** och inte röstklang. _Röststyrning_, som är den vanligaste
+översättningen för närvarande, leder tanken fel.
+
+**Kommentar:
+
+**Talstyrning innebär att man ger muntliga instruktioner till datorn, "öppna",
+"stäng" "radera" osv. Några närliggande begrepp är:
+
+    * _taligenkänning_ (_speech recognition_), en teknik som kan känna igen
+ord i (mer eller mindre löpande) tal och överföra dem till skrift
+
+    * _röstigenkänning_, _talarigenkänning_ (_voice recognition_), en
+biometrisk identifieringsmetod som inte bygger på ord utan på röstklang
+
+    * _talsyntes_ (_speech synthesis_), metod att framställa syntetiskt tal,
+t.ex. att en dator läser upp text eller genererar tal för att ge information
+till användare.
+
+* * *
+
+**Fråga 142: **Har ni har någon rekommendation för hur man ska skriva
+beteckningar för toppdomäner: punkt se, .se eller bara se?
+
+**Svar: **Nej, det finns ännu ingen vedertagen praxis för hur man ska omnämna
+toppdomäner i löpande text. Men man kan man snabbt konstatera tre saker:
+
+    1. Domänen är _se_, inte ._se_ (punkten är överflödig när man talar om
+domänen som sådan; det är i webbadresser punkten behövs som en nödvändig
+avgränsare mot föregående led). Skriv alltså _domänen se_, _domänen nu_ etc.
+
+    2. Alla toppdomänerna utgörs av en förkortning och ska i sammansättningar
+skrivas med bindestreck. Skriv alltså _se-domänen_, _com-domänen_ etc.
+
+    3. Citattecken behövs inte runt de vanligaste toppdomänbeteckningarna som
+_com_, _nu_, _se_, (se exemplen ovan). Dessa får idag betraktas som så kända
+att de inte behöver någon sådan markering (citattecken används ju runt sådant
+som är obekant eller av annat skäl svårtytt och därför behöver tydliggöras).
+Men friheten från citattecken förutsätter förstås att man inte skriver t.ex.
+_nu_ och _se_ fristående utan _nu-domänen_ eller _domänen nu_, _se-domänen_
+eller _domänen se_.
+
+* * *
+
+**Fråga 143: **(Ersatt fråga, se $lång(a251).)
+
+* * *
+
+**Fråga 144: **Jag funderar över uttrycket _data recovery_ som används i
+samband med datorkrascher. Blir det _återhämtning_ på svenska?
+
+**Svar: **>Nej, vi rekommenderar _återskapande av data_ (som förlorats eller
+raderats).
+
+**Kommentar:
+
+**En del etablerade ordlistor översätter med det du nämner, återhämtning.
+Anledningen till att vi inte förordar den termen är att den i allmänspråket
+oftast står för 'vila efter ansträngning'. Här är det snarare fråga om en
+aktiv åtgärd, vilket avspeglas bättre med termen återskapande.
+
+_Återställning_ är inte heller lämpligt, eftersom det brukar betyda att
+systemets inställningar återgår till förinställda värden (eller inga värden).
+
+* * *
+
+**Fråga 145: **_Källkod_ som är fritt publicerad av utvecklaren kallas ju
+_open source_ på engelska. _Source code_ är ju _källkod_, men vad blir då
+_open source_? _Öppen källa_? _Fri källkod_?
+
+**Svar: **Vi anser att direktöversättningen _öppen källkod_ är lämpligast.
+
+**Kommentar:
+
+**_Öppen_ är absolut att föredra framför _fri_ eftersom man inom Free Software
+Foundation och Gnu är noga med att skilja på _open source_ och _free
+software_. Det senare blir på svenska _fri programvara_, _fria program_.
+_Källkod_ blir bra eftersom det är mer entydigt än bara _källa_.
+
+* * *
+
+**Fråga 146: **Vad är en _avatar_ och heter det så även på svenska?
+
+**Svar: **Ja, det heter _avatar_ både på engelska och på svenska. Termen avser
+rörliga grafiska mer eller mindre människolika representationer
+(visualiseringar) av personer i fleranvändargränssnitt.
+
+**Kommentar:
+
+**Avatarer är vanligt förekommande i chattsammanhang och i internetbaserade
+rollspel. Avatar (av sanskrit _avatara_ 'inkarnation, förkroppsligande') har
+sitt ursprung i hinduismen där det betecknar en guds uppenbarelseform på
+jorden i mänsklig eller djurisk gestalt.
+
+* * *
+
+**Fråga 147: **"On demand" i uttryck som video-on-demand, print-on-demand
+verkar svårgripbart på svenska. Har ni något förslag?
+
+**Svar: **"On demand" förekommer i många sammanhang och kan inte översättas
+generellt. Grundbetydelsen är 'på begäran', alltså ett uttryck för individuell
+och styckevis efterfrågan, beställning och leverans utan nämnvärd väntetid.
+För _video-on-demand_ föreslår vi _beställvideo_ eller _nätbeställd video_,
+för _print-on-demand_ blir vårt förslag _beställtryck_ eller _exemplartryck_.
+
+**Kommentar:
+
+**Med _print-on-demand_ avses 'tryck av ett enstaka exemplar till låg kostnad
+på beställning. Termen är relativt etablerad även i svenskan. Vill man använda
+den rekommenderar vi skrivsättet _print-on-demand_, likadant i
+sammansättningar, _print-on-demand-utgivningen_.
+
+En benämning som förekommit för detta begrepp är _digitaltryck_. Vi avråder
+dock från detta uttryck eftersom nästan all bok- och tidningsframställning i
+dag sker med digital teknik, vare sig upplagorna är stora eller små. Likaså
+avråder vi från benämningen _personligt tryck_ (efter eng. _personalized
+print_) som riskerar att tolkas som mönstertryck på tröjor och liknande.
+
+Företeelsen _video-on-demand_ syftar på nätbaserad beställning och leverans av
+videofilmer. Detta kan lämpligen benämnas _beställvideo_ i analogi med
+_beställtryck_. Önskar man ett mer klargörande uttryck kan man använda
+_nätbeställd video_.
+
+* * *
+
+**Fråga 148: **Ersatt fråga, se $lång(a243).
+
+* * *
+
+**Fråga 149: **I dag hittade jag orden _domännamnspiratering_,
+_domännamnspirateri_, _cybersquatting_ och _namnnappning_ i samma EU-dokument.
+Alla är olika ord för samma företeelse! Har ni något bättre förslag?
+
+**Svar: **Vi rekommenderar _domänockupation_ och _domänrofferi_ respektive
+_domänockupant_ och _domänroffare_ som svenska motsvarigheter till eng.
+_cybersquatting_ och _cybersquatter_, alltså när någon försöker tjäna pengar
+på att registrera ett känt företags namn som domän på internet innan företaget
+självt hunnit göra det.
+
+**Kommentar:
+
+**Vi anser att _ockupation_, i analogi med ockupation av tomma bostäder, är en
+lämplig översättning. Ockupation i den här bemärkelsen antyder att objektet
+eventuellt kan lämnas tillbaka och att handlingen inte utan vidare kan räknas
+som lagbrott. _Domänrofferi_ och _domänroffare_ fungerar också bra. Andra
+förekommande översättningsförsök är inte lika smidiga: _domänpirateri_ och
+_domännappning_ är lite otympliga medan _domänröveri_ låter som om det avser
+stöld av en redan registrerad domän.
+
+Domänockupation är när någon enligt principen "först till kvarn" registrerar
+ett känt företags namn som domän på internet innan företaget självt hunnit
+göra det. Domänockupantens förhoppning är då att företaget kommer att köpa
+loss domänen för en "lösesumma".
+
+* * *
+
+**Fråga 150: **Dvd-brännare börjar bli standard på nya pc:ar, och där är det
+ingen tvekan om svensk benämning. Men vad gör vi med s.k. DVD Recorders,
+fristående brännare som kan spela in program **direkt** från tv? Jag har sett
+att handeln har börjat använda _DVD Recorders_ oöversatt, och det är ju inte
+precis god svenska.
+
+**Svar: **Så länge det finns behov av att markera att en dvd-enhet kan spela
+in direkt kan _dvd-inspelare_ passa som svensk term för eng. _DVD Recorder_.
+Vi förmodar dock att behovet av specifik term avtar med tiden, i takt med att
+denna typ av spelare blir standard. Då räcker det säkert med den övergripande
+termen _dvd-spelare_, i analogi med _videobandspelare_, där det tas för givet
+att enheten både kan spela in (direkt) och spela upp.
+
+**Kommentar:
+
+**Den äldre, långsammare varianten kan behålla benämningen _dvd-brännare_. Att
+en sådan enhet är långsammare än en dvd-inspelare beror på att den arbetar i
+två steg. Inspelningen sker primärt till datorns hårddisk varefter resultatet
+bränns in på dvd-skivan.
+
+* * *
+
+**Fråga 151: **Jag har förgäves letat efter termen _tweak_ i alla de vanliga
+dataordböckerna. Vet ni vad det står för och om det finns någon vedertagen
+svensk benämning?
+
+**Svar: **_Tweak_ är ett slanguttryck från bl.a. motorsportens värld, där det
+betyder ungefär 'skruva (på måfå), fintrimma'. Någon vedertagen svensk
+översättning finns inte men vi föreslår _finjustera_ eller _fininställa_.
+
+**Kommentar:
+
+**_Tweaking_ handlar alltså om att göra små ändringar av inställda värden, mer
+eller mindre på måfå, för att få utrustningen att fungera bättre, som när man
+förr vred långsamt fram och tillbaka på stationsratten på radion för att få
+bästa möjliga mottagning. Ett belysande exempel från nutiden är
+tilläggsprogrammet "Tweak UI" för Microsoft Windows. Med det kan användaren
+enklare finjustera inställningar som har med användargränssnittet (UI = User
+Interface) att göra.
+
+* * *
+
+**Fråga 152: **Data- och mobiltillbehören _headset_ och _handsfree_ - finns
+det verkligen inga uttrycksfulla svenska uttryck för de här begreppen?
+
+**Svar: **Jo, vi föreslår följande uttryck på svenska:
+
+    * För mobiltillbehöret _handsfree_ rekommenderar vi förledet _handfri_-
+eller _frihands_- tillsammans med efterled som _tillsats_, _tillbehör_,
+_utrustning_. Den svenska termen _öronsnäcka_ är också fullt tänkbar för de
+flesta av de tillsatser det är frågan om.
+
+    * För det närliggande _headset_, där "riktiga" hörlurar är kompletterade
+med en mikrofon, blir vår rekommendation _mikrofonlur(ar)_.
+
+Många använder ju även i svenskan de engelska termerna för dessa hjälpmedel,
+som gör det möjligt att lyssna och tala med händerna fria. Men vi avråder
+alltså från det eftersom de engelska termerna är svåra både att stava och att
+böja.
+
+**Kommentar:
+
+**_Handfri_- rekommenderar vi som första term med _frihands-_ som alternativ,
+och det av praktiska skäl. Om en svensk term ska ha någon chans att tränga ut
+det engelska _handsfree_, som använts så lång tid även i svenskan, måste
+tröskeln göras så låg som möjligt. Med _handfri-_, som ligger nära det svenska
+uttalet av _handsfree_, bör tröskeln bli den lägsta möjliga.
+
+En del menar att _frihands-_ låter bättre och passar bättre in i svenska
+språket. Visserligen används _frihands-_ sedan tidigare i betydelsen 'på fri
+hand' (i ord som _frihandsteckning_), men betydelsen 'utan/med fria händer'
+kan mycket väl också täckas in av begreppet. Därför anser vi att den termen
+också är godtagbar.
+
+_Headset_ passar på grund av böjningssvårigheterna (t.ex. i bestämd form
+plural) dåligt som lånord. Det är en viktig anledning till att vi lanserar
+_mikrofonlurar_, trots att _headset_ redan är så etablerat på svenska.
+Dessutom anser vi att _mikrofonlurar_ är en tydligare term än tidigare försök
+till svenska uttryck som "huvudmikrotelefon", "hörtelefon med mikrofon" och
+"talgarnityr". "Hörtelefon med..." är möjligen lite begripligare än de övriga
+men definitivt för långt.
+
+Från början var det telefonister, radiooperatörer och andra
+kommunikationsintensiva yrkesgrupper som använde mikrofonlurar, men numera
+används de (en enda lur bör förstås heta _mikrofonlur_) även av
+mobiltelefonanvändare och vanliga datoranvändare, för chatt, internettelefoni
+m.m.
+
+* * *
+
+**Fråga 153: **Inom elektronikbranschen i stort, särskilt inom data och
+hemelektronik, talas det rätt ofta om "high-end-kunder", "high-end-servrar"
+och liknande. Hur ska _high-end_ respektive _low-end_ om produkter översättas
+till ren svenska?
+
+**Svar: **Man får ta till olika översättningar beroende på sammanhang och
+innebörd. "High-end modellerna" blir då _prestigemodellerna_, _de mest
+påkostade (avancerade) modellerna_, medan "low-end-" försvenskas till
+_standardmodellerna_, _de enklaste modellerna_, _budgetmodellerna_,
+_lågprismodellerna_.
+
+**Kommentar:
+
+**Det verkar som om _high-end_ är det mest använda av de två uttrycken, ofta i
+en mycket allmän betydelse där man främst vill signalera någon form av
+kvalitet. I de fallen aktualiseras sällan den lägre delen av skalan. I
+elektronikbranschen talas det ibland om "high-end hi-fi" då man uppenbarligen
+inte längre anser att bara "hi-fi" ger tillräcklig kvalitetssignal. Här
+föredrar vi sammansättningar med _prestige-_ eller _kvalitets-_, alternativt
+omskrivningar som _de mest påkostade_, _de mest avancerade modellerna_ etc.
+
+Den andra delen av skalan signalerar någonting annat. Här förekommer det i
+vissa sammanhang att _low-end_ byts mot _budget-_ som inom bilbranschen.
+Tanken är då att kunden av ekonomiska skäl förutsätts börja med den enklaste
+modellen, lågprismodellen, för att senare gradvis byta upp sig till en
+prestigemodell. Man kan också tala om _standardmodellerna_ eller _de enklaste
+modellerna_ (kontra _de mest påkostade/avancerade modellerna_).
+
+* * *
+
+**Fråga 154: **Finns det inget svenskt ord för malware, alltså den engelska
+förkortningen för malicious software?
+
+**Svar: **Vi rekommenderar _sabotageprogram_ som svensk term för detta
+begrepp. Vi betraktar termen som en överordnad term för de flesta typer av
+oönskade datorprogram, framför allt virus, maskar, trojaner och hybrider
+därav.
+
+**Kommentar:
+
+**Det förekommer ett antal mindre lyckade benämningar som _elak(artad)_,
+_illasinnad_, _illvillig_ respektive _skadlig kod_. Vi ser emellertid ingen
+anledning att här frångå den gängse översättningen av _software_ med
+_program_.
+
+Det finns även program där upphovsmannen inte primärt avsett att sabotera, men
+programmen kan i varje fall anses skadliga ur datorägarens synvinkel. Det
+handlar om reklamprogram, skämtprogram, spionprogram och liknande. De
+förbrukar nämligen systemresurser och kan ge problem på grund av
+inkompatibilitet och direkta fel i programmet. Sådana program är definitivt
+oönskade, och det är därför de brukar räknas till gruppen sabotageprogram.
+
+* * *
+
+**Fråga 155: **Jag har en bärbar telefon som jag kan använda hemma i villan
+och på tomten, alltså inte en mobiltelefon. Men är den då en sladdlös eller en
+trådlös telefon? I reklamen står det ofta trådlös men är det korrekt?
+
+**Svar: **Nej, din bärbara telefon är och bör kallas en _sladdlös telefon_.
+
+**Kommentar:
+
+**Som _trådlös telefon_ (eng. _wireless phone_) räknas både mobiltelefon och
+sladdlös telefon:
+
+_mobiltelefon_ (eng. _cell(ular) phone_, _mobile phone_), som är trådlös i
+bemärkelsen att hela enheten står i radioförbindelse med ett mobilnät och
+därmed i princip har obegränsad räckvidd
+
+_sladdlös telefon_ (eng. _cordless phone_), som är trådlös bara i bemärkelsen
+att sladden mellan lur och basenhet ersatts med radioförbindelse eller
+infraröd kommunikation. Basenheten i sin tur är fortfarande kopplad till
+"jacket i väggen" och därmed till det fasta telefonnätet. Räckvidden mellan
+lur och basenhet är begränsad till den egna bostaden (eller motsvarande) och
+dess omedelbara närhet.
+
+Se även frågesvaret om [_mobilt eller trådlöst internet_][224].
+
+* * *
+
+**Fråga 156: **Jag hörde en dataknutte säga tåggla. Vad menade han?
+
+**Svar: **Det är svengelsk programmerarjargong som kommer av engelska verbet
+_toggle_. På svenska säger vi lämpligen _växla_ eller _skifta_ (mellan två
+lägen). En _toggle switch_ är en _vippomkopplare_, alltså en omkopplare med
+endast två lägen.
+
+**Kommentar:
+
+**Ett närliggande exempel på vippomkopplare är skiftlåstangenterna på datorns
+tangentbord, t.ex. Caps Lock och Num Lock. En tryckning på Caps Lock växlar
+till det andra av de båda lägena, dvs. till stora eller små bokstäver. Nästa
+tryckning växlar tillbaka.
+
+* * *
+
+**Fråga 157: **För det som på engelska kallas _WLAN_, _wireless local area
+network_, verkar _trådlöst lokalt nät_ eller bara _trådlöst nät_ redan vara
+etablerade svenska översättningar. Men vad kallas de fritt tillängliga nät som
+gör det möjligt att koppla upp sin bärbara dator eller handdator till internet
+ute "på stan"? Inte "hotspottar" efter det engelska _hotspot_ väl?
+
+**Svar: **Vi rekommenderar _öppet trådlöst nät_ för eng. _public WLAN_
+respektive _surfzon_ eller _uppkopplingszon_ för eng. _hotspot_.
+
+**Kommentar:
+
+**För täckningsområdet för ett öppet trådlöst nät har termen _surfzon_ (eng.
+_hotspot_) redan hunnit etableras. Vi anser _surfzon_ vara acceptabelt i
+vardagligt språk, medan _uppkopplingszon_ är att föredra i mer strikta
+sammanhang. _Surfzon_ har dock den fördelen att det tydligare associerar till
+internet.
+
+I dag, när varannan galleria och universitetsområde har ett öppet trådlöst
+nät, finns det ingen anledning att tala om hotspots längre. Då är _surfzon_ en
+mer neutral benämning. _Hotspot_ är för övrigt ett vanligt uttryck i det
+engelska allmänspråket. Det betyder helt enkelt 'plats där det händer något'.
+Det används exempelvis om de ställen på en klickbar bild som är kopplade till
+en hyperlänk, om populära ställen där folk går ut och roar sig, om områden som
+polisen bevakar och brottslingar undviker och så vidare.
+
+* * *
+
+**Fråga 158: **När man ska översätta _enable_ och _disable_, t.ex. "the button
+is enabled or disabled", blir det gärna någon konstig svengelska. Det bästa
+jag har kommit på är _brukbar_ och _obrukbar_. Har ni bättre förslag?
+
+**Svar: **Om man med den här meningen avser att knappen är åtkomlig för
+användaren att aktivera eller inaktivera rekommenderar vi översättningen
+_aktiverad_-_inaktiverad_. Men om valmöjligheten för användaren inte är
+tillgänglig (då visas ofta "knappen" i grått) bör disabled översättas med
+_bortkopplad_.
+
+**Kommentar:
+
+**Ditt förslag om _brukbar_-_obrukbar_ avråder vi från, eftersom "obrukbar"
+ger intrycket av att knappen (funktionen) är skadad på något sätt.
+
+I fall som "enable-disable cookies" kan _tillåt_-_tillåt inte_ vara
+lämpligare.
+
+* * *
+
+**Fråga 159: **Jag har gått vilse bland _styles_, _stylesheets_ och
+_templates_ - kan ni reda ut begreppen? Vad kallas de på svenska?
+
+**Svar: **Det här är fråga om s.k. mallar för att underlätta skrivandet. Det
+finns två huvudtyper:
+
+    * mallar som avser dokumentet i sin helhet - _dokumentmallar_, eng.
+_document templates_
+
+    * mallar som tillämpas på vissa avsnitt eller stycken i dokumentet -
+_formatmallar_, eng. _styles_.
+
+_Stylesheet_ syftar på en uppsättning av kombinerade formatmallar för
+webbsidor, t.ex. i språket _CSS_, _Cascading Style Sheets_ (förkortningen CSS
+är etablerad även som svensk term). Av tydlighetsskäl bör även sådana
+formatmallar för webben kallas _formatmallar_.
+
+**Kommentar:
+
+**_Dokumentmallar_ kan liknas vid ofullständiga dokument som man måste fylla
+på med ett innehåll för att det ska bli ett riktigt dokument, en sorts
+generaliserade formulär. Exempel är mallar för den egna organisationens
+skrivelser, rapporter, säljbrev, mötesprotokoll etc. Även
+standardinställningarna utgör en dokumentmall, t.ex. mallen "Normal" i
+Microsoft Word (normal.dot).
+
+_Formatmallar_ är grafiska mallar som talar om hur text i olika avsnitt av
+dokumentet ska formateras, t.ex. vilket teckensnitt som ska användas och hur
+stora tecknen ska vara, var tabbarna ska ligga, vilka indragningar som behövs.
+Man kan alltså en gång för alla i olika formatmallar definiera utseendet hos
+t.ex. rubriker, vanlig text, vanlig text med indrag, och applicera detta på
+olika stycken. Om man i efterhand vill ändra storleken på alla rubriker kan
+man enkelt göra det genom att ändra motsvarande formatmall.
+
+* * *
+
+**Fråga 160: **Jag undrar över tangenten med de många namnen, _Enter_,
+_Return_, _Retur_, _Vagnretur_. Vilket av dem är lämpligast?
+
+**Svar: **Vi rekommenderar _returtangent_ som svensk term för tangenten, som
+numera brukar vara märkt med en vinklad pil.
+
+**Kommentar:
+
+**En bidragande orsak till termförvirringen är att när den första pc:n kom
+från IBM så var returtangenten märkt Enter. När andra tillverkare senare kom
+efter med s.k. pc-kompatibla maskiner var samma tangent oftast märkt Return.
+Numera har alla tillverkare en vinklad pil som märkning.
+
+När det gäller annat än ordbehandling står Enter för "verkställ". Return, sv.
+retur, står för "radbyte" enbart. Äldre dataterminaler kunde ha både en Enter-
+tangent för verkställighet (överföring av alla data sedan förra Enter-
+tryckningen till centraldatorn) och en Return-tangent för radbyte lokalt i
+terminalen. Men eftersom det inte finns någon bra svensk term för Enter
+förordar vi ändå _returtangent_ som svensk term. Termen är dessutom relativt
+väl etablerad i denna betydelse; alternativet _inmatningstangent_ används
+också men i jämförelsevis begränsad omfattning.
+
+På Macintosh-tangentbord finns ibland fortfarande denna tudelning: enligt
+Apples terminologi är _returtangenten_ en tangent med vinklad pil som man
+byter stycke med, medan _inmatningstangenten_ är en tangent längst ner till
+höger på den numeriska tangentbordsdelen som avslutar någon hantering, t.ex.
+som om man klickat på ett förvalt alternativ i en dialogruta.
+
+* * *
+
+**Fråga 161: **_Image maps_ med _hot spots_, hur hanterar vi dem på svenska?
+
+**Svar: **Det beror på sammanhanget. Gäller det html-kodning är svaret
+_bildkarta_ respektive _aktiva områden_. _Image map_ kan även syfta på det
+färdiga resultatet i form av en bild på en webbsida, och i så fall blir vårt
+svar _multiklickbar bild_, en variant av _klickbar bild_.
+
+**Kommentar:
+
+**Vid html-kodning kan man dela in bilder i flera _aktiva områden_, _hot
+spots_, vart och ett med en inviduell länk till andra webbsidor. För att ange
+vilka områden som ska vara aktiva skapar man en _bildkarta_, eng. _image map_,
+som visar vart länkarna ska leda. Det finns för övrigt både "client side image
+map" (kartan finns direkt i html-dokumentet) och det numera mindre vanliga
+"server side image map" (kartan över de aktiva områdena är lagrad på
+webbservern) .
+
+Dock kan _image map_ även syfta på det färdiga resultatet, "bild med flera
+klickbara områden", vilket på svenska lämpligen kallas _multiklickbar bild_.
+Ett välkänt exempel på detta är en världskarta där man kan klicka på ett visst
+land och komma vidare till informationskällor om just detta land.
+
+Med _klickbar bild_, eng. _clickable image_, avses en bild som är länkad som
+en helhet, dvs. via en vanlig bildlänk.
+
+* * *
+
+**Fråga 162: **Jag tycker att det är svårt att hålla isär och översätta
+engelskans _customization_, _localization_ och _personalization_. Kan ni
+hjälpa mig?
+
+**Svar: **Använd _kundanpassning_ och _individanpassning_ för eng.
+_customization_ och _personalization_. För _localization_ går det bra med
+_lokalisering_, förutsatt att sammanhanget är klart. _Lokalanpassning_ är
+också en tänkbar översättning. Men ibland passar det bättre att i stället
+beskriva begreppet, t.ex. "anpassning till lokala förhållanden".
+
+**Kommentar:
+
+**It-system måste ofta anpassas till en användares eller organisations behov,
+inte minst språkligt. I det sammanhanget förekommer ett flertal engelska
+termer med olika betydelsenyanser:
+
+_localize_ (sv. _lokalisera_ eller _lokalanpassa_): Innebär att en produkt
+eller tjänst anpassas till en ny språklig och kulturell region. Begreppet
+innefattar förutom programanpassning även översättning av användarhandböcker
+och ledtexter och dessutom sådant som anpassning av marknadsföringsmaterial,
+utbildning av en lokal generalagent för kundstöd och systemunderhåll.
+
+_configure_ (sv. _anpassa_, _konfigurera_, _ställa in_): Används ofta för
+tillval och preferenser som görs vid installation. _Configure_ har en mer
+teknisk och neutral klang än _customize_ och _personalize_.
+
+_customize_ (sv. _anpassa_, _kundanpassa_, _verksamhetsanpassa_): Avser
+åtgärder som leverantören, eller ev. användaren, kan vidta alltefter behov och
+önskemål.
+
+_personalize_ (sv. _individanpassa_, _göra personlig_): Avser närmast sådan
+anpassning som användaren kan utföra själv, alltefter egen smak.
+
+* * *
+
+**Fråga 163: **Jag grubblar över termen _softkey_ (_soft key_). Vad syftar det
+på och vad ska man säga på svenska?
+
+**Svar: **På svenska föreslår vi _programstyrd tangent_ eller _programmerbar
+tangent_, alltefter sammanhanget. Det syftar på en tangent vars funktion kan
+växla beroende på programmet som används. Funktionen kan också bero på var i
+ett och samma program användaren befinner sig (vilket innebär att tangenten då
+är _sammanhangskänslig_).
+
+**Kommentar:
+
+**Funktionstangenterna F1-F12 överst på tangentbordet kan betraktas som
+_programstyrda tangenter_. I Windowsprogram brukar t.ex. F1 vara
+förprogrammerad att anropa hjälpfunktionen. _Programmerbar tangent_ kan vara
+en lämpligare term när det handlar om att tangentfunktionen kan (om)definieras
+av användaren.
+
+Den aktuella funktionen hos sammanhangskänsliga programstyrda tangenter kan
+visas med en ledtext eller i en grafisk representation nederst på bildskärmen
+eller nederst i teckenfönstret på en mobiltelefon o.d. Det är i denna
+betydelse den engelska termen _softkey_ har använts även i svensk fackjargong.
+En närliggande term är _softbutton_, sv. _skärmknapp_. Med skärmknapp avses
+oftast tangentliknande symboler på beröringskänsliga skärmar. Här trycker man
+med fingret direkt på knappen på skärmen, inte på någon fysisk tangent.
+
+* * *
+
+**Fråga 164: **_Roaming_ är en vanligt förekommande term inom mobiltelefoni.
+Vad blir det på svenska?
+
+**Svar: **Den engelska termen _roaming_ är etablerad även på svenska.
+
+**Kommentar:
+
+**Med roaming avses främst att man kan använda sitt abonnemang utanför
+operatörens täckningsområde genom att operatörerna samarbetar (som när man är
+utomlands), vilket skulle kunna preciseras i dag som _roaming mellan
+operatörer_, _mellanoperatörsroaming_. När mobiltelefonin var ny talade man
+också om roaming (ev. nu för tiden preciserat som _inomoperatörsroaming_) för
+företeelsen att förbindelsen inte avbryts när man rör sig från en stations
+täckningsområde till ett angränsande, dvs. rätt och slätt att teletjänsten är
+mobil.
+
+* * *
+
+**Fråga 165: **Det här med tv på dator, med och utan kombination med webben
+känns som ett gungfly! Ta bara uttrycket _webb-tv_, menas tv via webben eller
+webben via en tv-apparat? Vilka är begreppen egentligen och vilka ord ska man
+använda?
+
+**Svar: **Svenskans _webb-tv_ har kommit att betyda något helt annat än
+engelskans _web TV_. Vi anser därför att man måste använda **omskrivningar**
+för att undvika förväxling av alla de begrepp som hör till detta onekligen
+svåröverskådliga område. Vi gör här ett försök att reda ut begreppen genom att
+låta **tv-apparaten** respektive **datorn** utgöra utgångspunkter:
+
+    1. **Tv-apparaten** kan användas i stället för datorn när man vill
+navigera på webben och sköta e-post om apparaten är kopplad till internet med
+någon form av tillsatslåda.
+
+Rekommendation: _webbsurfning på tv_, _internetåtkomst via tv_.
+
+På engelska kallas detta _web TV_.
+
+    2. Datorn kan i sammanhanget användas på två sätt:
+
+      * för att visa konventionella tv-program distribuerade av en tv-
+distributör via tv-mast, kabel-tv-nät eller satellit.
+
+Rekommendation: _vanlig tv på dator_.
+
+På engelska finns inte heller någon specifik term, även här gäller allmänna
+omskrivningar som _(watch) TV on a pc_.
+
+      * för att visa tv-program respektive videofilm distribuerade via
+internet.
+
+Rekommendation: _internet-tv på dator_ respektive _webbvideo_.
+
+På engelska kallas detta _webcast(ing)_.
+
+
+Även radioprogram kan tas emot på detta sätt. För begreppet finns redan viss
+spridning av termerna _webbutsändning_ (handlingen att sända t.ex. en
+konferens via webben) _webbutsänt tv-program_ (_radioprogram_). Vi avråder
+från benämningen "webb-tv" för detta begrepp, eftersom den är så tvetydig.
+
+**Kommentar:
+
+**I fallet 2, första punkten, är förutsättningen att datorn är försedd med ett
+instickskort som motsvarar en vanlig tv-mottagare. Till detta kort ansluts
+antennkabeln. Det konventionella tv-programmet kan då ses på bildskärmen,
+antingen i ett fönster eller i fullskärmsläge.
+
+I fallet 2, andra punkten, är förutsättningen att datorn förutom webbläsare
+har insticksprogram av typen mediespelare för att spela upp webbvideon eller
+det webbutsända tv- eller radioprogrammet, som Realplayer, Quicktime e.d.
+
+* * *
+
+**Fråga 166: **Hur ser ni på ord som har med uppdatering och uppgradering av
+program att göra, t.ex. _version_, _update_, _upgrade_, _release_ och _patch_?
+Vad står termerna för egentligen, och vad säger vi på svenska?
+
+**Svar: **Först bör det sägas att dessa engelska termer knappast används på
+ett konsekvent sätt av programleverantörerna. Därför är det inte möjligt att
+ge kategoriska svar. Vad vi kan göra är att reda ut begreppen och redovisa de
+konventioner som trots allt finns. Begreppen tas upp i en tänkt
+"livscykelordning" för ett program.
+
+    * _version_, eng. _version_
+
+variant av program (med visst nummer) Termen _version_ står för det
+grundläggande begreppet i sammanhanget. Alla program förekommer i någon form
+av version.
+
+    * _utvecklingsversion_, eng. _development version_
+
+Under konstruktions- och testfaserna brukar _utvecklingsversioner_, eng.
+_development versions_, avlösa varandra. En _alfaversion_ är en tidig, ofta
+instabil utvecklingsversion, enbart avsedd för testning internt. En
+_betaversion_ är en senare, något stabilare utvecklingsversion som med vissa
+brister ändå brukar kunna användas "på riktigt" och inte bara testas.
+Betaversioner är avsedda att testas externt av utvalda samarbetspartner. Vill
+utvecklaren få synpunkter även från allmänheten brukar man erbjuda gratis
+nedladdning av betaversionen via internet för att få in rapporter om fel och
+brister som bör åtgärdas innan den slutliga versionen släpps.
+
+    * _bygge_, eng. _build_
+
+version av program som tas fram upprepade gånger som ett led i konstruktions-
+och testfasen
+
+Ett bygge kan också beskrivas som den minsta förändringsgrad som förekommer
+mellan versioner. Det består av färdigkodade komponenter som kompilerats. Det
+identifieras med ett eget nummer skilt från den definitiva leveransversionens
+(se nedan) numrering. För administration av byggen finns särskilda verktyg.
+Ett bygge finns alltså bakom varje typ av programversion.
+
+    * _leveransversion_, eng. _release (version)_
+
+version av program som är klar att släppa ut på marknaden
+
+När programmet slutligen är klart för försäljning brukar den aktuella
+versionen på engelska kallas _release (version)_, på svenska rekommenderar vi
+_leveransversion_. Vissa dataföretag gör åtskillnad här: innehåller en ny
+version stora förändringar kallas det ny version, är förändringarna små blir
+det ny release. Andra företag använder termerna urskillningslöst. Vi avråder
+från att använda svengelska uttryck som release och releaseversion.
+Beträffande lämpliga svenska termer vid stora respektive små förändringar, se
+resonemanget kring uppgradering och uppdatering nedan.
+
+    * programfix, eng. patch
+
+snabbkorrigering av fel i program
+
+Efter att leveransversionen släppts kan det ganska snart komma en programfix
+som korrigerar senare upptäckta fel och brister. (I stället för programfix
+vill en del leverantörer dock gärna hellre benämna denna korrigering
+_uppdatering_ e.d.) Det förekommer att leverantörerna då och då ger ut
+_samlingspaket_ med en större mängd programfixar för att underlätta den
+systemansvariges arbete. På engelska brukar dessa paket kallas t.ex. _service
+pack_ (Microsoft), _support pack_ (Novell).
+
+    * _uppdatering_, eng. _update_ respektive _uppgradering_, eng. _upgrade_
+
+Efter litet längre tid kan det också komma det som somliga företag kallar
+_uppgradering_, andra _uppdatering_. En uppgradering innebär **i regel** en
+större ändring av programmet, med nya funktioner etc., än en uppdatering.
+Därför är det vanligare att en uppgradering kostar pengar medan en uppdatering
+kan vara gratis. Som nämnts ovan gäller uppdateringar **oftast** felrättning
+utan kostnad.
+
+
+Bör man då säga att man _uppdaterat_ eller _uppgraderat_ till version x.x? En
+viktig aspekt är att man med _uppdaterad_ helt enkelt kan avse den mest
+aktuella versionen, medan man med _uppgraderad_ kan fokusera på att versionen
+är bättre på något sätt. Men svaret är också beroende av terminologin hos den
+aktuella leverantören. Avser denne med uppgradering en större ändring med nya
+funktioner e.d., då passar _uppgraderat_ bra. Avser denne bara en smärre
+ändring av typen korrigering, t.ex. tätning av ett säkerhetshål, då är det
+naturligare med _uppdaterat_. Vi kan jämföra med antivirusprogram: där brukar
+det ges ut dagliga eller veckovisa _uppdateringar_ av virusdefinitioner. medan
+programmet som sådant _uppgraderas_ med nya funktioner någon gång per år,
+"produktuppgradering". I detta fall brukar man dock få betala (prenumerera) på
+såväl uppdateringar som uppgraderingar.
+
+Versionerna brukar **numreras**, men sättet att göra det varierar mellan
+programföretagen. För åtskilliga företag innebär skiftet från t.ex. 3.2 till
+4.0 en ny version, medan det blir uppgradering om numreringen skiftar från
+t.ex. 4.0 till 4.1. För somliga företag innebär dock även det sistnämnda
+skiftet en ny version. Därför är det riskabelt att lita till numreringen för
+att avgöra vad som är ny version, uppgradering eller bara uppdatering.
+
+* * *
+
+**Fråga 167: **_Back office systems_ och _front office systems_, vad är
+motsvarigheterna på svenska?
+
+**Svar: **De båda termerna har vunnit visst insteg även i svensk fackjargong,
+men då hopskrivna, _backofficesystem_ och _frontofficesystem_. Vill vi
+uttrycka oss på ren svenska får vi ta till omskrivningar som är anpassade
+efter sammanhanget, och där kan man tänka sig följande:
+
+    * _inre (administrativa) system_ kontra _yttre system_
+
+    * _administrativa program_ kontra _affärsprogram_
+
+    * _internadministrativa system_ kontra _kundadministrativa system_.
+
+**Kommentar:
+
+**"Back office" är detsamma som _inre avdelningar_, dvs. avdelningar och
+personal som inte har direkt kontakt med kunder och besökare, men det står
+också för datortillämpningar som används av dessa avdelningar och deras
+personal. Termen brukar förekomma i sammanhang där man behöver kontrastera mot
+ett kundsynligt "front office".
+
+Att genomgående kalla "back office systems" för _administrativa system_ är
+dock att göra det för enkelt för sig, eftersom många administrativa system
+innefattar både en backoffice-del och en frontoffice-del. Lika lite kan man
+översätta "office" rakt av med "kontor".
+
+Inom företagsekonomisk terminologi förekommer de båda termerna och har där en
+mer precis innebörd: _backoffice_ står här för 'funktion i ett
+värdepappersinstitut som tar hand om gjorda affärsavslut och ser till att
+avslutet verkställs genom avräkning, betalning respektive leverans mellan
+parterna'. På backoffice registrerar och kontrollerar man affärerna som gjorts
+på _frontoffice_, där man alltså i dialog med kunden handlägger affärsorder
+och avslut.
+
+* * *
+
+**Fråga 168: **_Hash_ och _hashing_, vad står det för och finns det några bra
+svenska motsvarigheter?
+
+**Svar: **_Hashing_ syftar på ett sätt att generera och ordna söknycklar, och
+_hash_ är etablerat även i det svenska datafackspråket i sammansättningar som
+_hashfunktion_, _hashsumma_ (_hashvärde_), _hashsökning_ och _hashtabell_. Men
+man bör ta hänsyn till att ljudlikheten med narkotikan hasch kan förvirra en
+bredare allmänhet. Utanför fackkretsar kan det därför vara lämpligt med
+omskrivningar på svenska. För vissa av begreppen finns dessutom alternativa,
+svenska termer, se vidare kommentaren nedan. Där förklaras också närmare vad
+termerna står för.
+
+**Kommentar:
+
+**Den engelska grundbetydelsen hos det allmänspråkliga _hash_ är 'pyttipanna,
+hackmat, röra, hopkok'. Hash används i samband med följande begrepp:
+
+    * _Hashsumma_, _hashvärde_, _kondensat_, eng. _hash total_: [inom
+programmering:] sätt att effektivisera lagring och sökning genom att ersätta
+en söknyckel i form av en längre teckensträng med ett kortare obegripligt
+("hopkokat") tal, en _hashsumma_ eller ett _hashvärde_, eng. _hash total_. På
+svenska ser man ibland termen _kondensat_ för detta begrepp.
+
+    * _Hashfunktion_, eng. _hash function_: en funktion i programmet som
+transformerar söknyckeln till en adress med vilken data snabbt kan återfinnas.
+
+    * _Hashtabell_, _söknyckeltabell_, eng. _hash table_: tabell där elementen
+står i skenbar oordning, nämligen ordnade efter hashvärden. _Söknyckeltabell_
+är en alternativ term i mer populära framställningar.
+
+    * _Hashning_, _hashsökning_, _hasha_ (verb), eng. _hashing_, _hash
+coding_: syftar på sökning i hashtabell.
+
+Eftersom hashfunktionen gör "hackmat" av en teckensträng kan den också
+användas för att göra datakommunikation säkrare genom att dölja användarnamn,
+lösenord och liknande.
+
+* * *
+
+**Fråga 169: **Jag undrar över uttrycket _nomadic VoIP_. Att _VoIP_ är ip-
+telefoni inser jag, men _nomadic_? Kan jag skriva _nomadisk_ på svenska eller
+har ni något bättre?
+
+**Svar: **Vi har inget bättre, så _nomadisk_ duger alldeles utmärkt, ett
+etablerat svenskt ord i ett nytt sammanhang men ändå med samma grundbetydelse.
+Som svensk översättning av hela uttrycket föreslår vi _nomadisk IP-telefoni_
+eller _nomadisk internettelefoni_. Vill man vara extra tydlig kan man tala om
+_nomadisk telefoni med internetteknik_.
+
+**Kommentar:
+
+**_VoIP_ står för _Voice over IP_, överföring av tal via IP-protokollet,
+alltså det som vanligen kallas _IP-telefoni_ eller _internettelefoni_.
+"Nomadic" syftar på att användaren av en tjänst för nomadisk IP-telefoni kan
+vara kringflyttande, dvs. nomadisk. (Noga räknat är det alltså användaren som
+är nomadisk, inte telefonin!) Användaren kan inte som i mobiltelefoni flytta
+sig under samtalets gång, däremot under uppehållet mellan två samtal.
+Förutsättningen är förstås att användaren kommer åt sin internetleverantör
+även på det nya stället.
+
+* * *
+
+**Fråga 170: **Finns det någon gemensam benämning på Android- och
+Iphonemobiler och andra avancerade mobiltelefoner?
+
+**Svar: **Vi rekommenderar _smarttelefon_ eller _smartmobil_ som benämning på
+denna typ av mobiltelefoner.
+
+**Kommentar:
+
+**Det finns i dag (2012) en kategori mer avancerade mobiltelefoner, som har
+funktioner som tidigare bara fanns på "riktiga" datorer - e-posthantering,
+webbläsare, kalender etc. Så länge en sådan uppdelning mellan enklare och mer
+avancerade mobiltelefoner finns, kan benämningar på dessa kategorier behövas
+ibland, t.ex. i marknadsföring. Eftersom termer som innehåller _smart_ redan
+är vanliga rekommenderar vi sådana termer. Vi förordar dock enordstermer
+(_smarttelefon_) framför flerordstermer (_smart telefon_) eftersom sammansatta
+enordstermer är lättare att hantera i svenskan.
+
+* * *
+
+**Fråga 171: **Kan man utelämna "www" när man anger en webbadress på t.ex.
+visitkort?
+
+**Svar: **Nej, det är säkrast att **inte** utelämna www, eftersom det vanligen
+ingår i webbadressen och därmed måste skrivas in vid webbsurfning. Dessutom
+tjänar www fortfarande som en tydlig signal om att det är fråga om en
+webbadress.
+
+**Kommentar:
+
+**Numera har domäninnehavaren ofta gjort en inställning så att det fungerar
+att skriva både med och utan www i adressfältet (se t.ex. www.tnc.se och bara
+tnc.se), men det tydligaste är ändå att sätta ut www vid adressangivelser. Det
+finns nämligen webbplatser som man **inte** kommer fram till om man skriver
+www, så adressangivelser utan www bör förbehållas dem.
+
+Det är annorlunda med http:// som inte är en del av webbadressen utan en
+specifikation av protokoll. Den uppgiften behöver man inte tynga
+adressangivelsen med eftersom webbläsarna numera fyller i den automatiskt.
+Detta gäller dock inte https://, som måste sättas ut.
+
+* * *
+
+**Fråga 172: **Jag skriver på en användarhandbok och undrar över hur jag ska
+uttrycka de olika steg användaren måste gå i en meny för att komma rätt. Ska
+jag kanske undvika snedstreck eftersom de brukar användas i sökvägar?
+
+**Svar: **Ja, just det. Vi föreslår att du i stället använder tecknet >
+(större än-tecknet), alltså t.ex. "Arkiv > Skicka till > E-postmottagare". Om
+tekniken tillåter kan du använda grafiska pilar.
+
+**Kommentar:
+
+**Snedstreck, både vanliga och omvända, används ju för att ange sökväg till
+filer. För att förebygga tveksamheter rekommenderar vi därför större än-
+tecknet i det här sammanhanget. Tecknet påminner om en högerpil, vilket
+anknyter till den lilla högerpil som redan förekommer i t.ex. Microsoft
+Windows menysystem för att markera att det finns flera alternativ på nivån
+under.
+
+* * *
+
+**Fråga 173: **Vad bör man säga på svenska för _the semantic web_?
+
+**Svar: **Det blir helt enkelt _den semantiska webben_ på svenska.
+
+**Kommentar:
+
+**Mer information om den semantiska webben finns hos svenska W3C-kontoret, <[
+www.sics.se/w3c/][225]> och på W3C:s särskilda webbplats för den semantiska
+webben, <[ www.w3.org/2001/sw/][226]>.
+
+* * *
+
+**Fråga 174: **_Deep web_ och _invisible web_ tror jag är två uttryck för
+samma sak, men vilket av dem är lämpligt att utgå från vid svensk
+översättning?
+
+**Svar: **Begreppet är omstritt, men vi förordar _djupwebben_ som svensk term.
+
+**Kommentar:
+
+**Med djupwebben avses vanligen webbmaterial som inte täcks in av
+söktjänsterna. Det handlar om:
+
+    * färskt material som ännu inte hunnit indexeras av söktjänsterna
+
+    * publicerat material som kan nås via en webbadress men som är svårt för
+söktjänsterna att indexera, t.ex. ofta ljudfiler och programfiler
+
+    * de webbsidor som genereras vid en sökning.
+
+Att vi avråder från det tidigare vanliga uttrycket _osynliga webben_ beror på
+att det ger fel associationer - materialet är ju inte osynligt på webben men
+svårtillgängligt. _Djupwebben_ är inte heller någon idealisk term - den är vag
+och kan associera till "tankedjup", vilket det inte är fråga om. _Djupwebben_
+passar i alla fall bättre som motpol till _ytwebben_ (eller _synliga webben_),
+i bemärkelsen 'det som lätt kan nås via söktjänsterna'.
+
+* * *
+
+**Fråga 175: **Vad är skillnaden mellan emulering och simulering?
+
+**Svar: **Vid _emulering_ (eng. _emulation_) imiteras en dator(krets), ett
+program eller ett gränssnitt på en annan typ av datorsystem, medan
+_simulering_ (eng. _simulation_; använd ej "simulation" som svensk
+substantivform) handlar om att studera en process och se vad som händer om man
+ändrar olika parametrar.
+
+**Kommentar:
+
+**_Emuleringsprogram_, _emulatorer_ (eng. _emulators_) används vanligen för
+att kunna köra program avsedda för visst operativsystem under ett annat
+operativsystem. Till exempel kan man på en Macintosh behöva en Windowsemulator
+för att kunna köra ett Windowsprogram som inte finns i Mac OS-version.
+Emulering förekommer även inom hårdvaruutveckling där konstruktörerna nyttjar
+detta för att efterlikna en viss krets.
+
+* * *
+
+**Fråga 176: **Hur översätts det engelska uttrycket _ubiquitous_ och vad
+betyder det?
+
+**Svar: **Det översätts med _ubikvitär_, eller kortare _ubik_, t.ex. _ubik
+datateknik_/_ubika datortjänster_ (eng. ubiquitous computing). Som substantiv
+används _ubikvitet_ (eng. ubiquity).
+
+**Kommentar:
+
+**Eng. _ubiquitous_ (från lat. _ubique_, 'överallt') står för egenskapen att
+(förefalla) finnas överallt, samtidigt, att vara allestädes närvarande.
+
+I internetsammanhang är det ett modeuttryck som syftar på
+
+    1. system som ger tillgång till internet överallt i ett stort geografiskt
+område
+
+    2. datorsystem som är integrerade i omgivningen och lätt tillgängliga; som
+fungerar utan traditionella gränssnitt som bildskärm och tangentbord, t.ex.
+det så kallade intelligenta hemmet/kontoret
+
+* * *
+
+**Fråga 177: **Hur ser ni på olika termer i Twitter? Ska man t.ex. verkligen
+använda _tweet_ och ur ska det i så fall böjas?
+
+**Svar: **Vi rekommenderar följande:
+
+Ett inlägg eller meddelande på Twitter kallas _Twittermeddelande_. Om man ändå
+vill använda _tweet_, bör det böjas _en tweet_, _flera tweetar_.
+
+När det gäller aktiviteten att skriva och publicera ett meddelande på Twitter
+används _twittra_ eller _skriva på Twitter_.
+
+Att låta någon annans meddelande visas för ens egna följare kallar vi att
+_vidaretwittra_, eller _twittra vidare_ (eng. _retweet_). Den som följer ditt
+twittrande är förstås en _följare_ (eng. _follower_), och att skriva ett
+Twitteranvändarnamn med @ (snabel-a) framför är att göra ett _omnämnade_ (eng.
+_mention_).
+
+Slutligen tar vi upp det som ”#datatermer” är ett exempel på, dvs. den typ av
+märkning eller kategorisering av meddelanden som används i Twitter och andra
+sociala medier. Märkningen består av en följd av bokstäver eller siffror som
+föregås av tecknet #, som kallas för _nummertecken_ eller i telefonisammanhang
+_fyrkant_ (eng. _number sign_, _hash_, _pound sign_). För märkningen
+förekommer i Twittersammanhang ibland försvenskningen _hashtagg_ (eng.
+_hashtag_), men vi utgår från det senare svenska teckennamnet och
+rekommenderar _fyrkantstagg_.
+
+* * *
+
+**Fråga 178: **Vad kallar man webbplatser vars design **inte** är anpassad för
+mobila enheter? På engelska kallas det bl.a. _desktop web site_.
+
+**Svar: **Det får bli en omskrivning – _webbdesign för stationära datorer_,
+_webbdesign för persondatorer_ eller _webbdesign för stora skärmar_.
+
+**Kommentar:
+
+**Webbplatsdesign kan – utifrån anpassning till olika enheter – i dag vara av
+åtminstone tre typer:
+
+    1. webbdesign för mobila enheter (smartmobiler och datorplattor med
+pekskärm),
+
+    2. webbdesign för stationära datorer (med större skärm och mus), och
+
+    3. [_följsam webbdesign_][227], dvs. design som automatiskt växlar mellan
+1 och 2 ovan.
+
+Webbplatser vars design gjordes innan mobila enheter blev populära hör till
+typ 2. Webbplatser med typ 1 kallas ofta _mobilwebb_, men någon lika tydlig
+enordsterm för webbplatser med typ 2 saknas – både _fullskärmswebb_,
+_helskärmswebb_ och _storskärmswebb_ har andra betydelser eller associationer.
+
+* * *
+
+## Revideringslista
+
+Version 2013-nov, 15 november 2013
+
+    Lite nytt har tillkommit och många små moderniseringar har gjorts -
+borttagning av inaktuella avsnitt, uppdatering av länkar etc..
+
+    [Fråga 177][198], Twitter: ny
+
+    [Fråga 178][199], desktop web site: ny
+
+
+
+Svenska datatermgruppen, c/o TNC, Västra vägen 7B, 169 61 Solna, e-post:
+dataterm-kontakt@nada.kth.se
+
+   [1]: /Kontakt/Svenska-datatermgruppen.html
+
+   [2]: /component/option,com_xmap/Itemid,64/sitemap,1/
+
+   [3]: http://www.datatermgruppen.se/
+
+   [4]: /soekning.html
+
+   [5]: /rekommendationer.html
+
+   [6]: /ordlista.html
+
+   [7]: /fragor-och-svar.html
+
+   [8]: /foerkortningslistan.html
+
+   [9]: /principer-foer-datatermgruppens-termarbete.html
+
+   [10]: /kommentarer-och-oenskemal.html
+
+   [11]: /component/option,com_chronocontact/Itemid,107/
+
+   [12]: /laenkar-spegling-eftertryck-och-upphovsraett.html
+
+   [13]: /om-datatermgruppen.html
+
+   [14]: /L%C3%A4nkar/
+
+   [15]: /Lost-password.html
+
+   [16]: /Lost-user-name.html
+
+   [17]: /images/stories/tnc-logga_webb_174.gif
+
+   [18]: http://www.tnc.se (Sveriges nationella centrum för terminologi och
+fackspråk )
+
+   [19]: http://biotermgruppen.se/images/stories/SOFI_logotyp.gif
+
+   [20]: http://www.sofi.se/
+
+   [21]: #revlist
+
+   [22]: #f1
+
+   [23]: #f2
+
+   [24]: #f3
+
+   [25]: #f4
+
+   [26]: #f5
+
+   [27]: #f6
+
+   [28]: #f7
+
+   [29]: #f8
+
+   [30]: #f9
+
+   [31]: #f10
+
+   [32]: #f11
+
+   [33]: #f12
+
+   [34]: #f13
+
+   [35]: #f14
+
+   [36]: #f15
+
+   [37]: #f16
+
+   [38]: #f17
+
+   [39]: #f18
+
+   [40]: #f19
+
+   [41]: #f20
+
+   [42]: #f21
+
+   [43]: #f22
+
+   [44]: #f23
+
+   [45]: #f24
+
+   [46]: #f25
+
+   [47]: #f26
+
+   [48]: #f27
+
+   [49]: #f28
+
+   [50]: #f29
+
+   [51]: #f30
+
+   [52]: #f31
+
+   [53]: #f32
+
+   [54]: #f33
+
+   [55]: #f34
+
+   [56]: #f35
+
+   [57]: #f36
+
+   [58]: #f37
+
+   [59]: #f38
+
+   [60]: #f39
+
+   [61]: #f40
+
+   [62]: #f41
+
+   [63]: #f42
+
+   [64]: #f43
+
+   [65]: #f44
+
+   [66]: #f45
+
+   [67]: #f46
+
+   [68]: #f47
+
+   [69]: #f48
+
+   [70]: #f49
+
+   [71]: #f50
+
+   [72]: #f51
+
+   [73]: #f52
+
+   [74]: #f53
+
+   [75]: #f54
+
+   [76]: #f55
+
+   [77]: #f56
+
+   [78]: #f57
+
+   [79]: #f58
+
+   [80]: #f59
+
+   [81]: #f60
+
+   [82]: #f61
+
+   [83]: #f62
+
+   [84]: #f63
+
+   [85]: #f64
+
+   [86]: #f65
+
+   [87]: #f66
+
+   [88]: #f67
+
+   [89]: #f68
+
+   [90]: #f69
+
+   [91]: #f70
+
+   [92]: #f71
+
+   [93]: #f72
+
+   [94]: #f73
+
+   [95]: #f74
+
+   [96]: #f75
+
+   [97]: #f76
+
+   [98]: #f77
+
+   [99]: #f78
+
+   [100]: #f79
+
+   [101]: #f80
+
+   [102]: #f81
+
+   [103]: #f82
+
+   [104]: #f83
+
+   [105]: #f84
+
+   [106]: #f85
+
+   [107]: #f86
+
+   [108]: #f87
+
+   [109]: #f88
+
+   [110]: #f89
+
+   [111]: #f90
+
+   [112]: #f91
+
+   [113]: #f92
+
+   [114]: #f93
+
+   [115]: #f94
+
+   [116]: #f95
+
+   [117]: #f96
+
+   [118]: #f97
+
+   [119]: #f98
+
+   [120]: #f99
+
+   [121]: #f100
+
+   [122]: #f101
+
+   [123]: #f102
+
+   [124]: #f103
+
+   [125]: #f104
+
+   [126]: #f105
+
+   [127]: #f106
+
+   [128]: #f107
+
+   [129]: #f108
+
+   [130]: #f109
+
+   [131]: #f110
+
+   [132]: #f111
+
+   [133]: #f112
+
+   [134]: #f113
+
+   [135]: #f114
+
+   [136]: #f115
+
+   [137]: #f116
+
+   [138]: #f117
+
+   [139]: #f118
+
+   [140]: #f119
+
+   [141]: #f120
+
+   [142]: #f121
+
+   [143]: #f122
+
+   [144]: #f123
+
+   [145]: #f124
+
+   [146]: #f125
+
+   [147]: #f126
+
+   [148]: #f127
+
+   [149]: #f128
+
+   [150]: #f129
+
+   [151]: #f130
+
+   [152]: #f131
+
+   [153]: #f132
+
+   [154]: #f133
+
+   [155]: #f134
+
+   [156]: #f135
+
+   [157]: #f136
+
+   [158]: #f137
+
+   [159]: #f138
+
+   [160]: #f139
+
+   [161]: #f140
+
+   [162]: #f141
+
+   [163]: #f142
+
+   [164]: #f143
+
+   [165]: #f144
+
+   [166]: #f145
+
+   [167]: #f146
+
+   [168]: #f147
+
+   [169]: #f148
+
+   [170]: #f149
+
+   [171]: #f150
+
+   [172]: #f151
+
+   [173]: #f152
+
+   [174]: #f153
+
+   [175]: #f154
+
+   [176]: #f155
+
+   [177]: #f156
+
+   [178]: #f157
+
+   [179]: #f158
+
+   [180]: #f159
+
+   [181]: #f160
+
+   [182]: #f161
+
+   [183]: #f162
+
+   [184]: #f163
+
+   [185]: #f164
+
+   [186]: #f165
+
+   [187]: #f166
+
+   [188]: #f167
+
+   [189]: #f168
+
+   [190]: #f169
+
+   [191]: #f170
+
+   [192]: #f171
+
+   [193]: #f172
+
+   [194]: #f173
+
+   [195]: #f174
+
+   [196]: #f175
+
+   [197]: #f176
+
+   [198]: #f177
+
+   [199]: #f178
+
+   [200]: /visning.html?obj=A8
+
+   [201]: /visning.html?obj=A9
+
+   [202]: /visning.html?obj=a151
+
+   [203]: http://www.nlc-bnc.ca/iso/tc46sc9/standard/690-2e.htm
+
+   [204]: http://www.luth.se/depts/lib/utbildning/g-bibref.html.sv
+
+   [205]: http://www.bibl.liu.se/teknologibiblioteken/teknisk_vetenskaplig_inf
+ormation/6TGV.htm#anchor1320474
+
+   [206]: http://www.ux1.eiu.edu/~cfmgb/3750/apa.htm
+
+   [207]: http://www.uvm.edu/~ncrane/estyles/
+
+   [208]: http://www.cas.usf.edu/english/walker/mla.html
+
+   [209]: /visning.html?obj=a186
+
+   [210]: /visning.html?obj=a104
+
+   [211]: /visning.html?obj=b29
+
+   [212]: /visning.html?obj=b186
+
+   [213]: /visning.html?obj=a141
+
+   [214]: /visning.html?obj=f166
+
+   [215]: /visning.html?obj=A6
+
+   [216]: /visning.html?obj=A3
+
+   [217]: /visning.html?obj=a54
+
+   [218]: /visning.html?obj=a131
+
+   [219]: /visning.html?obj=d29
+
+   [220]: /visning.html?obj=a164
+
+   [221]: /visning.html?obj=a165
+
+   [222]: /visning.html?obj=a166
+
+   [223]: /visning.html?obj=f67
+
+   [224]: /visning.html?obj=f114
+
+   [225]: http://www.sics.se/w3c/
+
+   [226]: http://www.w3.org/2001/sw/
+
+   [227]: /visning.html?obj=a242
+
