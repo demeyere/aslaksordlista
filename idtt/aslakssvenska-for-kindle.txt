@@ -19,7 +19,7 @@
 — allt // all; the universe, the world; everything; Allt kändes rätt när de träffades första gången. Everything felt right with they met the first time. Allt på plats. Everything in its place. (Mise en place.) 
 — alltför // (adverb) too (more than enough; as too much); dra benen efter sig ("gå alltför långsamt"); dawdle; 
 — alltid // (adverb) always; Idiom: jämt och ständigt ("hela tiden, alltid"); forever ("all the time, always"); Jag kommer älska dig för alltid. I will love you forever. Men alltid fick jag till svar: "Det där är en hatt." But I always got the answer "That is a hat". 
-— ett allting // everything; Man måste förklara allting för de stora. 
+— allting // everything; Man måste förklara allting för de stora. 
 — alltså // (adverb) accordingly, therefore, ergo, consequently, thus; in other words, that is to say; Jag fick alltså lov att välja ett annat yrke, och så lärde jag mig flyga. 
 — allvarlig // (adjektiv: ~t; ~a; ~are; ~ast;) serious; needing great attention; without humor; På så sätt har jag många gånger i livet kommit i kontakt med allvarliga människor. Tjugo personer blev allvarligt skadade. Twenty people were seriously injured. 
 — ana // (v1) 1. ha en känsla (av något); förnimma, skönja; föreställa sig 2. tro, misstänka, gissa; 1. suspect, think, believe, imagine, have a feeling (idea); 2. guess, believe that something will happen, or has happened. Being fairly certain, but acknowledges that after all, one could be wrong.;  
@@ -510,10 +510,10 @@
 — fyra // four; Fyradagarspatrull i West of MeS. fyrtiofemtimmarspatrull? 
 — fyrkantig // (adjektiv: ~t; ~a;) 1. rectangular, square-shaped, quadratic; 2. square (not hip);  
 — fyrtio // forty;  
-— få // (v4o ~r; fick; ~tt; ~; ~ende|~endes; ~ngen|~dd;) to get; to receive; to be allowed to; Jag fick inte hjälpa honom, utan bara titta på när han försökte. I wasn't allowed to help him, only watch him try. Jag skulle hellre vilja få prispengarna kontant. I'd rather receive the prize in cash. Kan jag få en öl, tack. 
+— få // (v4o ~r; fick; ~tt; ~; ~ende|~endes; ~ngen|~dd;) to get; to receive; to be allowed to; Farfar, får får får? Nej, får får inte får, får får lamm. Jag fick inte hjälpa honom, utan bara titta på när han försökte. I wasn't allowed to help him, only watch him try. Jag skulle hellre vilja få prispengarna kontant. I'd rather receive the prize in cash. Kan jag få en öl, tack. 
 — få reda på // find out;  
 — en fågel // (~n; fåglar; fåglarna;) ryggradsdjur med vingar och fjädrar; a bird; Fågeln har bara lagt ett ägg. The bird has only laid one egg. fågelvägen; as the crow flies; Hon fotograferade en ovanlig fågel. She photographed a rare bird. 
-— ett får // (~et; ~; ~en;) ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull; 1. (countable and uncountable) a sheep (animal); 2. a sheep, a follower (member of a congregation, follower of a leader, the latter being described as a shepherd); 3. an idiot (a slow-thinking, stupid person); Som en ulv i fårakläder. 
+— ett får // (~et; ~; ~en;) ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull; 1. (countable and uncountable) a sheep (animal); 2. a sheep, a follower (member of a congregation, follower of a leader, the latter being described as a shepherd); 3. an idiot (a slow-thinking, stupid person); Farfar, får får får? Nej, får får inte får, får får lamm. Som en ulv i fårakläder. 
 — en fåtölj // easy chair;  
 — en fällkniv // folding knife, pocket knife;  
 — ett fält // (~et; ~; ~en;) field;  
@@ -777,7 +777,7 @@
 — ett hål // (~et; ~; ~en;) 1. urgröpning i ett material; Synonymer: grop (i marken), håla (i marken); 2. öppning som går igenom ett föremål eller ett material; Synonymer: öga (i en nål); 3. (golf) del av banan man spelar på  vilken del? 1. a hole (in the ground); 2. a hole, an opening in something solid; 3. a hole, a weakness, a flaw; 3. a hole (in a tooth); 4. (golf) a hole, a part of a golf course or game leading up to a hole; Det är ett hål i hinken. Han borrade ett hål i skivan. Hon slog hål på hans teori. 
 — hålla // (v håller; höll; hållit; håll; ~nde; hållen;) 1. hold; grip; 2. hold; to cause to wait; 3. hold; arrange a social event, e.g. a party, a (larger) meeting or a conference; 4. keep; a. restrain, restrict; b. to fulfill (a promise); c. to remain in a good condition, not to get spoiled; d. preserve; e. (reflexive) stay; f. to maintain, to keep from changing; to stop moving; g. to raise animals (chiefly for food); 5. to neither tear nor break; to remain in a functional condition; Chefen håller ett möte. The boss is holding a meeting. Dom anställda håller ett möte i styrelserummet. The employees are having a meeting in the boardroom. Ett äpple om dagen håller doktorn borta. An apple a day keeps the doctor away. 
 — hålla i // (verb) to hold something for; to hold on to something; För att klara av sin tjänst i Afghanistan måste man även hålla kroppen i trim. Håll i det här fiskespöet en stund. Hold this fishing pole a moment. Träning är viktigt för att hålla kroppen i trim. Training is important to keep the body in shape. 
-— hålla på // (verb) to be busy with; De har hållit på och grälat hela kvällen. They have been quarreling all evening. Den föreställde en boaorm, som höll på att smälta en elefant. Vi håller just nu på och målar väggarna i mitt rum. We're currently painting the walls of my room. Är du medveten om din kollega har hållit på och försnillat pengar? Are you aware that your colleague has been embezzling money? 
+— hålla på // (verb) to be busy with; De har hållit på och grälat hela kvällen. They have been quarreling all evening. Den föreställde en boaorm, som höll på att smälta en elefant. Vi håller just nu på och målar väggarna i mitt rum. We're currently painting the walls of my room. Vi är snart tillbaka. Vi håller just nu på att uppdatera Apple Store och är snart tillbaka. Är du medveten om din kollega har hållit på och försnillat pengar? Are you aware that your colleague has been embezzling money? 
 — hålla reda på // (verb) to keep track of; to monitor, to track;  
 — Hålogaland // (substantiv) (historia) historiskt ortnamn för den nordliga delen av Norge; detta ortnamn ingår även i namnet på de två nordligaste biskopsstiften i norska statskyrkan;  
 — ett hår // (~et; ~; ~en;) hair; borsta håret; brush one's hair; Hennes hår ser jättebra ut i flätor. Her hair looks really good in braids. Jag vill klippa mitt hår. Kamma ditt hår i duschen för spara tid. Comb your hair in the shower to save time. 
@@ -932,7 +932,7 @@
 — en karta // (~n; kartor; kartorna;) en visuell (och förminskad) representation/återgivning av ett verkligt eller fiktivt geografiskt eller annat rumsligt område; a map;  
 — ett kartfodral // map case;  
 — en kassör // (~en; ~er; ~erna;) kassaförvaltare, den i en styrelse som ansvarar för pengarna. a cashier; a treasurer;  
-— kasta // (v1) 1. to throw; make an object fly through the air; 2. to throw away, discard, dispose of; 3. (card games) to discard; Det är din tur kasta tärningarna. It's your turn to roll the dice. Han kastade en snöboll på mig. 
+— kasta // (v1) 1. to throw; make an object fly through the air; 2. to throw away, discard, dispose of; 3. (card games) to discard; Det är din tur kasta tärningarna. It's your turn to roll the dice. Han kastade en snöboll åt mig. 
 — en katt // (~en; ~er; ~erna;) a cat; Svarta katter betyder otur. Black cats are a sign of bad luck. 
 — en kavaj // a blazer;  
 — khaki // khaki;  
@@ -1762,7 +1762,7 @@
 — snabb // (adjektiv: ~t; ~a; ~are; ~ast;) fast, prompt, quick, swift; Mitt hjärta slår två gånger snabbare när Freya går förbi. 
 — snabbt // (adverb) quickly;  
 — snacka // (verb) talk;  
-— snar // (adverb) soon; near-term, immediate, ready; Jag kommer dit så snart jag kan. I will be there as soon as I can. Jag måste gå nu, men vi ses snart! I've got to go now, see you soon! Ska du sova snart? Will you go to sleep soon? 
+— snar // (adjektiv: ~t; ~a; ~are; ~ast;) som kommer att inträffa inom en kort tid; soon; near-term, immediate, ready; Jag kommer dit så snart jag kan. I will be there as soon as I can. Jag måste gå nu, men vi ses snart! I've got to go now, see you soon! Ska du sova snart? Will you go to sleep soon? Vi är snart tillbaka. Vi håller just nu på att uppdatera Apple Store och är snart tillbaka. 
 — ett snedstreck // (~et; ~; ~en;) (forward) slash;  
 — en snickare // a carpenter, woodworker;  
 — snida // (v1) to carve;  
@@ -1774,7 +1774,7 @@
 — snäll // kind;  
 — en snö // snow; Man använder en skyffel för att skotta snö. 
 — snöa // (v1) to snow;  
-— en snöboll // snowball; Han kastade en snöboll på mig. 
+— en snöboll // snowball; Han kastade en snöboll åt mig. 
 — snöfattig // (adjektiv: ~t; ~a;) the quality of having little snow;  
 — snöig // (adjektiv: ~t; ~a;) snowy;  
 — snörök // blizzardous snow; SMHI varnar för halka och snörök på måndagskvällen. Vid snöfall kan flera svåra situationer uppstå. Ett av dessa är fenomenet som kallas snörök. Det kan uppstå då nysnö efter framförvarande fordon virvlar upp i ditt synfält, och därmed försvåra körningen avsevärt. Snödrev kallas det när det i samband med snöfall blåser kraftigt. Det ger svår framkomlighet och försvårar för förare att se vägens sträckning. Snödrev är vanligast i de södra delarna av Sverige. demyr.us/1GPmsD2 
@@ -2142,6 +2142,7 @@
 — ungefär // (adverb) inte exakt, men inte långt ifrån (särskilt om tal och innebörden i påståenden); about, approximately;  
 — ett universitet // (~et; ~; ~en;) university;  
 — upp // 1. mot ett högre plan eller en högre nivå; 2. från liggande till stående läge; 3. från slutet till öppet läge; 4. allmänt perfektiverande verbpartikel - i denna användning ibland utbytbart mot ned; up (away from earth’s centre); Den fula ankungen växte upp till bli en vacker svan. The ugly duckling grew up to be a beautiful swan. torka upp efter sig; clean up after oneself; 
+— uppdatera // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) förändra något (till det bättre), speciellt om behovet av förändringen kommit med tiden, t.ex. genom att en händelse i omvärlden gjort produkten inaktuell; Vi är snart tillbaka. Vi håller just nu på att uppdatera Apple Store och är snart tillbaka. 
 — ett uppdrag // (~et; ~; ~en;) assignment, mission, duty, order, errand, sortie; till varje pris, utföra uppdraget; at all costs, accomplish the mission; Uppdraget är slutfört. 
 — uppe // (adverb) 1. i en högre position relativt till den talande; 2. motsatsen till nere; up; I en låda högst uppe på vinden, kanske? In a box high up in the attic, maybe? Jag har varit uppe hela natten och pluggat inför det här provet. I've been up all night studying for this test. Jag satt uppe, i stället för att gå och lägga mig (ned). Katten är uppe i trädet. 
 — uppför // (adverb) suggests movement up an incline; Jag går uppför kyrkgången med dig. 
