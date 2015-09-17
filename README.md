@@ -1,5 +1,7 @@
 
-aslaksordlista
+aslakssvenska
 ==============
 
-This .git supports the aslaksordlista projekt.
+Hej. Jag lär mig svenska i MN.
+
+Det här är nån som jag arbetar med.
