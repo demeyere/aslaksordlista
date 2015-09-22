@@ -12,7 +12,7 @@ Svenskarna älskar knäckebröd. Det hör till sill och potatis på sommaren, de
 // matsal = dining room
 // nyttig = useful, good, wholesome
 // rätt = dish
-// banta = slim, reduce
+// banta = slim, reduce   // diet
 // vistas = stay be (bo)
 // allra = of all, very ??
 // kännas = be felt
