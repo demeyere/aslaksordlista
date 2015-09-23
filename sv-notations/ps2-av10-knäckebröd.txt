@@ -36,9 +36,8 @@ Vi äter i genomsnitt fem kilo knäckebröd per person och år, mindre i södra 
 Det sägs också att knäckebrödet kommer från Norrland från början.
 
 <!--
-
-
-
+We eat, on average, 5 kg of knäckebröd per person each year, less in southern Sweden and more in the north.
+It is also said that knäckebröd originally comes from Norrland.
 // i genomsnitt = on average
 // snitt = cut, section
 // genomsnitt = cross section
@@ -50,8 +49,10 @@ Brödet blev så hårt, när det hade torkats, att man måste doppa det i till e
 På 1500-talet kallades bröden "spisbröd" och var tjocka kakor som bakades av rågmjöl och med surdeg.
 
 <!--
-
-
+Before industrialization, one only baked a couple of times a year, and so that the bread would keep, one dried the bread loaves.
+The round bread had a hole in the middle so it could be hung on a pole in the ceiling where it dried.
+The bread became so hard when it had dried that one had to dip/immerse it in, for example, milk in order to eat it.
+In the 1500s the breads where called `stove bread` and were thick loaves that were baked using rye flour and included sourdough.
 
 // industrialisering = industrialization
 // x gånger om y = x times in y
@@ -67,19 +68,19 @@ Under 1700-talet bakades brödet tunnare och mönstrades med ett verktyg som kal
 Det tunnare brödet gick förstås lättare att bryta och tugga.
 
 <!--
-
-
+During the 1700s the bread was baked thinner and was patterned with a tool called "krusknäck", from which the knäckebröd got its name.
+The thinner bread was, of course, easier to bite and chew.
 
 // tunn = thin
 // mønstra = pattern, scrutinized
+// ordet `krusknäck` är ogooglebart.
 // tugga = chew
 -->
 
 Så småningom startades speciella bagerier dit man lämnade mjölet och då kunde man även baka bröd till försäljning.
 
 <!--
-
-
+So, after some time, special bakeries were started where one went and left the flour and then one could even bake bread to sell.
 
 // småningom = after some time, eventually, sooner or later
 -->
@@ -90,9 +91,14 @@ Det runda traditionella knäckebrödet, som helst ska se handgräddat ut som fö
 Ju mer medvetna vi blir om att äta fiberrikt, desto mer knäckebröd äter vi och knäckebrödet är idag vårt mest exporterade svenska bröd.
 
 <!--
+Today, a large part of the knäckebröd that we eat in Sweden comes from Wasabröd in Filipstad, a company that was founded in 1919.
+There is baked hard bread of different types, but one of the most appreciated is the classic dark course bread.
+The traditional round knäckebröd that preferably looks hand baked like old times, has also become popular again.
+The more conscious we become about eating fiber rich, the more knäckebröd we eat and the knäckebröd is today our most exported Swedish bread.
 
-
-
+// ju = of course
+// desto = nevertheless
+// Ju ... desto ... = the ... the ...
 // större = larger
 // uppskatta = appreciate
 // grov = coarse (not fine)
@@ -100,23 +106,17 @@ Ju mer medvetna vi blir om att äta fiberrikt, desto mer knäckebröd äter vi o
 // nytt = newly
 // på nytt = again, anew
 // medveten = conscious, deliberate
-// desto = nevertheless
 -->
 
 UPPGIFT: Formulera 5 meningar om brödet som börjar: "Visste du att ... " Tänk på ordföljden i bisats!
 
-1. 
-
-2. 
-
-3. 
-
+1. Visst du att jag inte kunde hitta ordet `krusknäck` på nettet? Jag ville se mönstret.
+2. Visst du att knäckebrödet redan bakades på 500-talet e. Kr.
+3. Visst du att Släkten Lundström blev mångmiljonärer när Wasabröd såldes 1982.
 4. 
-
 5. 
 
-
-
-
-
-
+<!-- 
+https://sv.wikipedia.org/wiki/Knäckebröd
+https://sv.wikipedia.org/wiki/Wasabröd
+-->
