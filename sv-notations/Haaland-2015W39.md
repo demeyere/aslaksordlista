@@ -34,6 +34,9 @@ De flesta äter inte ofta kb
 Jag ser dig innefrån.  
 ösa ner (regn); ösregn;  
 
+inledande ord till bistats // <http://www.satsdelar.se/bisats.php>
+
+
 Example sentences
 -----------------
 
