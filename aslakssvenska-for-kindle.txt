@@ -37,6 +37,7 @@
 — anse // (v4o ~r; ansåg; ~tt; ~; ~ende; ~dd;) ha som åsikt; synonymer: tycka; to be of an opinion, feel, think, believe;  
 — ett ansikte // (~t; ~n; ~na;) a face (front side of a head);  
 — en anslagstavla // bulletin board;  
+— ansluta // (v ansluter; anslöt; anslutit; anslut; ~nde; ansluten;) sluta till, bringa i förbindelse, förbinda, anknyta, kombinera; to connect, to join; Teknikern ska ansluta kablarna till cd-spelaren. The technician will connect the cables to the CD player. 
 — anstränga // (v2a anstränger; ansträngde; ansträngt; ansträng;) 1. to strain, to exert; 2. (reflexive) to apply oneself; to focus;  
 — anställa // (v2a anställer; anställde; anställt; anställ; ~nde; anställd;) to hire, to employ;  
 — anställd // (~a;) employee; (from the adjective for hired or employed); Dom anställda håller ett möte i styrelserummet. The employees are having a meeting in the boardroom. 
@@ -207,7 +208,7 @@
 — brygga // (v brygger; bryggde; bryggt; brygg; ~nde; bryggd;) to brew (to prepare liquor or coffee); Jag antar att det är dags att köpa en ny kaffebryggare. I presume it's time to buy a new coffee machine. Sätt dig ner, så brygger jag lite kaffe. Sit down and I'll brew some coffee. 
 — bryta // (v4s bryter; bröt; brutit; bryt; ~nde; bruten;) 1. to break; to end abruptly. 2. (film) cut; to cease recording. 3. to break; to crack or fracture under physical strain. 4. to break off; to remove a piece from something by breaking it. 5. to disrespect a law or a rule  
 — bråka // (v1) break, torture, brawl, make trouble;  
-— bråttom // (adverb) 1. hurry, lack of time (you have bråttom, rather than being in a hurry); Jag har bråttom. I'm in a hurry. Nu är det bråttom med lanseringen. Now it's a hurry (we/they are in a hurry) with the launch. 
+— bråttom // (adverb) knappt om tid; 1. hurry, lack of time (you have bråttom, rather than being in a hurry); Jag har bråttom. I'm in a hurry. Nu är det bråttom med lanseringen. Now it's a hurry (we/they are in a hurry) with the launch. 
 — en bräda // (~n;) board (a piece of wood);  
 — bränna // (v2a bränner; brände; bränt; bränn; ~nde; bränd;) 1. (transitive) fire (heat (pottery, etc.)); 2. (transitive) to overheat food; to heat the food until it is blackened. 3. (transitive) burn; to set fire to; to injure by heat or caustic chemicals; to record on a read-only medium; 4. (reflexive) to hurt oneself by touching a hot object; 5. (reflexive) to get badly sunburned; 6. (reflexive) to get stung by nettles or similar; 7. to hurt; as of a sunburn; 8. to produce liquor (especially illegally); 9. to produce calcium oxide (burnt lime) from calcium carbonate through heating; Vi brände maten av misstag. We accidentally burned the food. 
 — ett bröd // bread; Det finns lite bröd kvar. There is a little bread left. 
@@ -964,7 +965,7 @@
 — en klämdag // a single workday squeezed between a holiday and a weekend (when many people go on a longer vacation); squeeze day, or "hug" day in Norwegian;  
 — en klänning // a dress;  
 — klättra upp // (verb) climb; klätterskor 
-— knappt // (adverb) hardly, scarcely, almost not, not quite yet, slightly less than; see also knappast; Jag har ätit så mycket jag knappt kan knäppa byxorna! I ate so much I can barely button my pants! 
+— knappt // (adverb) bara till viss del; bara i viss mån; hardly, scarcely, almost not, not quite yet, slightly less than; see also knappast; Jag har ätit så mycket jag knappt kan knäppa byxorna! I ate so much I can barely button my pants! 
 — en kniv // (~en; ~ar; ~arna;) redskap att skära med; a knife; Är din kniv vass? 
 — knivsudd // point of a knife;  
 — knulla // (v1) (vulgar) to have sex; to fuck;  
@@ -1382,7 +1383,7 @@
 — och så vidare (o.s.v.) // and so on;  
 — också // (adverb) too, as well, also; Jag bor i Minneapolis också. I live in Minneapolis too. 
 — odla // (v1) cultivate, grow; Jag odlar grönsak. Grönsak växer i trädgård. Linus odlar ett skägg i väntan på att barnet ska födas. Linus grows a beard waiting for his baby to be born. 
-— ofta // (adverb) often;  
+— ofta // (adverb) often; Nej, jag handlar ofta begagnat. No, I often buy used. Textfiler har ofta filändelsen `.txt`. Markdown har filändelsen `.md` eller `.markdown`. 
 — ogift // (adjektiv: ~; ~a;) unmarried;  
 — ogooglebar // (adjektiv: ~t; ~a;) unsearchable on google; not able to find using a google search; Företaget Google har uppvaktat Språkrådet om att ändra definitionen av ordet ogooglebar i nyordslistan. I dag tar vi i stället bort ordet och markerar samtidigt vårt missnöje med Googles försök att styra språket. demyr.us/1MAdCt6 
 — ett ogräs // (~et; ~; ~en;) weeds (not-grass) unwanted plant; (Norsk: ugress);  
@@ -1996,7 +1997,7 @@
 — en teve // (~n; ~ar; ~arna;) a television; Jag tittar på teve. I watch TV. 
 — en text // (~en; ~er; ~erna;) text; Använd så många ord och uttryck som möjligt från texten! Use as many words and expressions as possible from the text! 
 — en textbit // snippet; snippet file; textChunk; En textbit är en låt har spelat på repeat i min hjärna sedan i tisdags, lite irriterande då det är från Kents Ingenting. 
-— en textfil // (~en; ~er; ~erna;) En textfil är en fil som enbart innehåller text; (data) datorfil som innehåller /oformaterad/ text i något format (t.ex. ASCII eller UTF-8); a text file; Textfiler har ofta filändelsen `.txt`. 
+— en textfil // (~en; ~er; ~erna;) En textfil är en fil som enbart innehåller text; (data) datorfil som innehåller /oformaterad/ text i något format (t.ex. ASCII eller UTF-8); a text file; Textfiler har ofta filändelsen `.txt`. Markdown har filändelsen `.md` eller `.markdown`. 
 — textilier // (substantiv) det som har tråd såsom material (tyger, mattor m m); Synonymer: tyg;  
 — en tid // a time; De kom i tid trots att de försov sig. They arrived on time despite the fact that they overslept. Idiom: jämt och ständigt ("hela tiden, alltid"); forever ("all the time, always"); Modernt eller tidlöst. Tid, avstånd, och skärmning. 
 — tidig // (adjektiv: ~t; ~a; ~are; ~ast;) 1. early; at a time in advance of the usual or expected event.; 2. early; arriving a time before expected; sooner than on-time.; 3. early; near the start or beginning; Ikeas formgivare har ofta inspirerats av svensk tradition och tidigare formgivare som Carl och Karin Larsson och Carl Malmsten. Ikea's designers have often been inspired by swedish tradition and earlier designers like Carl and Karin Larsson and Carl Malmsten. 
