@@ -31,6 +31,7 @@ de flesta =
 De flesta äter inte ofta kb  
 ... som ofta äta kb  
 Jag ser dig innefrån.  
+ösa ner (regn); ösregn;  
 
 Example sentences
 -----------------
