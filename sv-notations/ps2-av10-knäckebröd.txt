@@ -1,13 +1,15 @@
 ---
 Title: Knäckebröd
-keywords: ps2 84
+keywords: ps2 84 redo
 läxa: översätt och uppgift
-revised: 2015-09-22 19:20 
+revised: 2015-09-22 20:10 
 ...
 
 
-Knäckebröd - traditionell hälsokost
+Knäckebröd – traditionell hälsokost
 ===================================
+
+<!-- Knäckebröd — a traditional healthfood -->
 
 Svenskarna älskar knäckebröd. 
 Det hör till sill och potatis på sommaren, det kan brytas i småbitar över filmjölken, ett par knäckemackor med smör får ibland ersätta en mindre populär rätt i skolmatsalen och det kan kännas som ett nyttigt alternativ för dem som bantar. 
@@ -110,11 +112,11 @@ The more conscious we become about eating fiber rich, the more knäckebröd we e
 
 UPPGIFT: Formulera 5 meningar om brödet som börjar: "Visste du att ... " Tänk på ordföljden i bisats!
 
-1. Visst du att jag inte kunde hitta ordet `krusknäck` på nettet? Jag ville se mönstret.
-2. Visst du att knäckebrödet redan bakades på 500-talet e. Kr.
-3. Visst du att Släkten Lundström blev mångmiljonärer när Wasabröd såldes 1982.
-4. 
-5. 
+1. Visste du att jag inte kunde hitta ordet `krusknäck` på nettet? Jag ville se mönstret.
+2. Visste du att knäckebrödet redan bakades på 500-talet e. Kr.
+3. Visste du att Wasabröd grundades 1919 under namnet AB Skellefteå Spisbrödsfabrik.
+4. Visste du att Släkten Lundström blev mångmiljonärer när Wasabröd såldes 1982.
+5. Visste du att jag aldrig har åt knäckebröd.
 
 <!-- 
 https://sv.wikipedia.org/wiki/Knäckebröd
