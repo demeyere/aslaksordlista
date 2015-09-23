@@ -6,13 +6,15 @@ torsdag v.46 /////
 
 Det är vinter och kallt och snöar igen. På väg till klassen såg jag en liten hund klädd i en röd tröja.
 
-tjena=hejsan; kalkon=turkey; patron=bullet|cartridge;
+tjena=hejsan;
+kalkon=turkey;
+patron=bullet|cartridge;
 
 fredag v.46 /////
 
-Knut1 stannade hemma i fredags och sov eftersom han var sjuk. Nu har han mycket mycket läxor.
+Knut d.e. stannade hemma i fredags och sov eftersom han var sjuk. Nu har han mycket mycket läxor.
 
-Kl 6 steg jag upp och kokade kaffe. Jag har lite kaffe kvar så i kväll bör jag handla mer hela kaffebönor för att mala.
+Kl.6 steg jag upp och kokade kaffe. Jag har lite kaffe kvar så i kväll bör jag handla mer hela kaffebönor för att mala.
 
 // stress on the `lite` in above sentence;
 
@@ -66,6 +68,8 @@ Varje dag i gryningen stiger jag upp och väcker mina söner ur deras drömmar f
 
 // skymningen
 
-Det är så snöfattigt i Minneapolis att jag inte kan gå (vandra|springa) med snöskor än. Jag brukar vandra med snöskor på närliggande golfbanor. Jag tänker köpa nya snöskor till Knut1 och Knut2 i jul.
+Det är så snöfattigt i Minneapolis att jag inte kan gå (vandra|springa) med snöskor än.
+Jag brukar vandra med snöskor på närliggande golfbanor.
+Jag tänker köpa nya snöskor till Knut d.e. och Knut d.y. i jul.
 
-// in a dependent clause the inte goes before the first verb
+// in a dependent clause the adverbs (inte) goes before the first verb

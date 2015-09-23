@@ -1,9 +1,10 @@
+---
 källa: http://sv.wikipedia.org/wiki/Sveriges_flagga
 avsikt: artikel i den aslakssvenska magasin
 revised: 2015-01-29 12:59
 translated-by: Aslak Arþursson
 keywords: shared-in-class 
-
+---
 
 Sveriges flagga
 =================
