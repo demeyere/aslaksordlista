@@ -1,7 +1,6 @@
 ---
 Title: Knäckebröd
 keywords: ps2 84 redo
-läxa: översätt och uppgift
 revised: 2015-09-22 20:10 
 ---
 
