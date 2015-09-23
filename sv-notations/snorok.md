@@ -1,28 +1,25 @@
+---
+Title: Snørøk
+revised: 2015-09-23 09:03
+källa: http://www.korkortsverige.se/a/snorok
+foto: David Morris, http://www.flickr.com/photos/revdave/392445853/
+english-by: Aslak
+---
+
+
+<img src="https://c1.staticflickr.com/1/141/392445853_f2c1feef2d_o.jpg" alt="" width="" height="" />
 
 Snørøk
 =================
-
-http://www.korkortsverige.se/a/snorok> och Aslaks øversättning
 
 Vid snöfall kan flera svåra situationer uppstå.
 Ett av dessa är fenomenet som kallas snörök.
 Det kan uppstå då nysnö efter framförvarande fordon virvlar upp i ditt synfält, och därmed försvåra körningen avsevärt.
 
+<!--
 When it's snowing, several difficult situations can arise.
 One of these is the phenomena of `snörök` (blizzard-like conditions?).
 It can arise during new now after the vehicle in front of you stirs up the snow in your field of vision thereby making the driving considerably more difficult.
-
-Snödrev kallas det när det i samband med snöfall blåser kraftigt.
-Det ger svår framkomlighet och försvårar för förare att se vägens sträckning.
-Snödrev är vanligast i de södra delarna av Sverige.
-
-Drifting snow is called this when it is combined with powerful winds.
-These conditions make driving (going forward) difficult and (makes it) difficult for the driver to see the road.
-Drifting snow is most common in the southern parts of Sweden.
-
-foto: David Morris, http://www.flickr.com/photos/revdave/392445853/
-
-- - -
 
 snöfall : snowfall
 flera : several
@@ -44,6 +41,18 @@ försvåra : to make more difficult, make worse
 körningen : kørning : the driving
 avsevärt. : considerably, appreciably
 Snödrev : snow drift ? drifting snow ? 
+
+  -->
+
+Snödrev kallas det när det i samband med snöfall blåser kraftigt.
+Det ger svår framkomlighet och försvårar för förare att se vägens sträckning.
+Snödrev är vanligast i de södra delarna av Sverige.
+
+<!--
+Drifting snow is called this when it is combined with powerful winds.
+These conditions make driving (going forward) difficult and (makes it) difficult for the driver to see the road.
+Drifting snow is most common in the southern parts of Sweden.
+
 samband : connection, liason
 snöfall : snowfall
 blåser : blows
@@ -57,3 +66,5 @@ sträckning. direction, lie
 Snödrev : drifting snow
 södra : southern
 delarna : del : the ... parts
+
+  -->
