@@ -1,12 +1,13 @@
 ---
 Title: Abbreviations
-revised: 2015-09-22 22:17 
+revised: 2015-09-23 08:38 
 ---
 
 Abbreviations
 =================
 
 bl.a.    bland andra
+e.Kr.    efter Kristus
 f.Kr.    före Kristus
 m.m.     med mera
 o.h.h.   och hans hustru

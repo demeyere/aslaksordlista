@@ -1,7 +1,7 @@
-revised: 2015-02-11 13:58 
+---
+revised: 2015-09-23 08:34 
 keywords: dagbok
-
-- - -
+---
 
 armhävning = push up : http://sv.wikipedia.org/wiki/Armhävning
   http://aktivtraning.se/traening/styrketraening/en-perfekt-armhaevning
@@ -37,10 +37,8 @@ Se videor i min favoritkanal på youtube.com
 
 - - -
 
-o.h.h. (och hans hustru) // abbreviation on ship manifests and such
 tal = number
 avställning?
-
 
 - - -
 
@@ -93,7 +91,7 @@ What it means: “It refers to somebody who didn’t have to work to get where t
 
 The idiom: Det föll mellan stolarna
 Literal translation: “It fell between chairs.”
-What it means: “It’s an excuse you use when two people were supposed to do it, but nobody did. It has evolved into the slightly ironic phrase, ‘It fell between the chair,’ which you use when you want to say,‘Yeah, I know I was supposed to do it but I forgot.’”
+What it means: “It’s an excuse you use when two people were supposed to do it, but nobody did. It has evolved into the slightly ironic phrase, ‘It fell between the chairs,’ which you use when you want to say,‘Yeah, I know I was supposed to do it but I forgot.’”
 
 comments
 
