@@ -31,8 +31,14 @@ några =
 de flesta =   
 De flesta äter inte ofta kb  
 ... som ofta äta kb  
-Jag ser dig innefrån.  
+Jag ser dig innifrån.  
 ösa ner (regn); ösregn;  
+
+Man går in i bussen framifrån i USA, men i japan går man i bakifrån.
+Hon tittar på paraden uppifrån lägenheten.
+Nerifrån gatan hordes bråk.
+Innifrån lägenheten kom en doft av bröd.
+Jag ser stan uppifrån berget.
 
 inledande ord till bistats // <http://www.satsdelar.se/bisats.php>
 
