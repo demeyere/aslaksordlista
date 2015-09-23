@@ -1,7 +1,7 @@
 ---
 Title: Notes from Håland class vecka 39
 keywords: notes
-revised: 2015-09-22 22:03 
+revised: 2015-09-23 07:38  
 ---
 
 pre-class journal
@@ -34,11 +34,11 @@ De flesta äter inte ofta kb
 Jag ser dig innifrån.  
 ösa ner (regn); ösregn;  
 
-Man går in i bussen framifrån i USA, men i japan går man i bakifrån.
-Hon tittar på paraden uppifrån lägenheten.
-Nerifrån gatan hordes bråk.
-Innifrån lägenheten kom en doft av bröd.
-Jag ser stan uppifrån berget.
+Man går in i bussen framifrån i USA, men i japan går man i bakifrån.  
+Hon tittar på paraden uppifrån lägenheten.  
+Nerifrån gatan hordes bråk.  
+Innifrån lägenheten kom en doft av bröd.  
+Jag ser stan uppifrån berget.  
 
 inledande ord till bistats // <http://www.satsdelar.se/bisats.php>
 
