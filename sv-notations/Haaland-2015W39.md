@@ -4,12 +4,13 @@ keywords: notes
 revised: 2015-09-23 07:38  
 ---
 
-pre-class journal
+Notes from Class
+=================
+
+föreklass dagbok
 -----------------
 kl.10: jag är här men slottet är stängd.  
 kl.10.07: (om mejl) Jag kan inte tänka om det nu.  
-Coke kostar $2.15... Kontors utgift? wifi?  
-[ ] $2.15  
 brandgul = orange. Använd inte ordet `orange` mer! också, gulröd.  
 Namnet orange kommer av det franska ordet. Det äldre svenska namnet på färgen är brandgul.  
 `ø` är snabbare att skriva än `ö` (och ser inte ut som en överraskad man) ;)  
@@ -20,8 +21,8 @@ bekväm = comfortable, as in shoes
 
 class
 -----------------
+Thomas bodde på bondegård i Sverige.  
 Bonnie har dotter som bor i Stockholm.  
-Thomas bodde på bondegård i sverige.  
 ätbröd =   
 gräda = make, as in knäckebröd, bröd, pankaka,   
 bisats =   
@@ -34,17 +35,18 @@ De flesta äter inte ofta kb
 Jag ser dig innifrån.  
 ösa ner (regn); ösregn;  
 
+inledande ord till bistats // <http://www.satsdelar.se/bisats.php>
+
+
+Example sentences
+-----------------
 Man går in i bussen framifrån i USA, men i japan går man i bakifrån.  
 Hon tittar på paraden uppifrån lägenheten.  
 Nerifrån gatan hordes bråk.  
 Innifrån lägenheten kom en doft av bröd.  
 Jag ser stan uppifrån berget.  
 
-inledande ord till bistats // <http://www.satsdelar.se/bisats.php>
-
-
-Example sentences
------------------
+- - -
 
 1. Jag duschar alltid på morgonen.
 2. På morgonen duschar jag alltid.
