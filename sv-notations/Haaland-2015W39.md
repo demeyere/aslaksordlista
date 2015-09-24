@@ -1,10 +1,10 @@
 ---
 Title: Notes from Håland class vecka 39
 keywords: notes
-revised: 2015-09-23 07:38  
+revised: 2015-09-24 11:33    
 ---
 
-Notes from Class
+Notes from Swedish Class
 =================
 
 föreklass dagbok
