@@ -1,6 +1,6 @@
 ---
 Title: Knäckebröd
-keywords: ps2 84 redo
+keywords: ps2 84
 revised: 2015-09-22 20:50 
 ---
 
