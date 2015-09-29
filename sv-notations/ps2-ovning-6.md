@@ -1,5 +1,6 @@
 ---
-Title: På svenska! 2 Övningsbok Avsnitt 1
+title: På svenska! 2 Övningsbok Avsnitt 1
+contributors: Aslak Arþursson, Ross DeMeyere
 keywords: fråga ps2 6 7
 ---
 

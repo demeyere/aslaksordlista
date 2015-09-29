@@ -1,6 +1,7 @@
 ---
-Title: Blood Moon Sunday night
+title: Blood Moon Sunday night
 revised: 2015-09-27 19:55  
+contributors: Aslak Arþursson, Ross DeMeyere
 URL: http://8sidor.se/vardags/2015/09/rod-mane-natten-till-mandag/
 translated-by: Aslak
 ---

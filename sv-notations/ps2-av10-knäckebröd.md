@@ -1,7 +1,8 @@
 ---
 Title: Knäckebröd
+contributors: Aslak Arþursson, Ross DeMeyere
 keywords: ps2 84
-revised: 2015-09-22 20:50 
+revised: 2015-09-29 15:02 
 ---
 
 Knäckebröd – traditionell hälsokost
@@ -69,7 +70,7 @@ Det tunnare brödet gick förstås lättare att bryta och tugga.
 
 <!--
 During the 1700s the bread was baked thinner and was patterned with a tool called "krusknäck", from which the knäckebröd got its name.
-The thinner bread was, of course, easier to bite and chew.
+The thinner bread was, of course, easier to break off and chew.
 
 // tunn = thin
 // mønstra = pattern, scrutinized
@@ -80,7 +81,7 @@ The thinner bread was, of course, easier to bite and chew.
 Så småningom startades speciella bagerier dit man lämnade mjölet och då kunde man även baka bröd till försäljning.
 
 <!--
-So, after some time, special bakeries were started where one went and left the flour and then one could even bake bread to sell.
+So, after some time, special bakeries were opened where one could leave flour and could even bake bread to sell.
 
 // småningom = after some time, eventually, sooner or later
 -->

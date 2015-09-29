@@ -21,9 +21,8 @@ bekväm = comfortable, as in shoes
 
 class
 -----------------
-Thomas bodde på bondegård i Sverige.  
+Tomas bodde på bondegård i Sverige.  
 Bonnie har dotter som bor i Stockholm.  
-ätbröd =   
 gräda = make, as in knäckebröd, bröd, pankaka,   
 bisats =   
 vissa =   

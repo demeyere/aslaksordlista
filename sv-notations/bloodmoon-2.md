@@ -1,5 +1,6 @@
 ---
 URL: http://www.tv4.se/nyheterna/artiklar/special-här-kommer-blodmånen-att-synas-bäst-56080365b9a9f65c450007d6
+contributors: Aslak Arþursson, Ross DeMeyere
 ---
 
 Special: Här kommer blodmånen att synas bäst
