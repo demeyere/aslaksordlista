@@ -1,0 +1,3755 @@
+---
+url: http://cornelius.tacitus.nu/beowulf/00.htm
+keywords: 1914 version
+tags: sv
+---
+
+
+Beowulf
+
+En fornengelsk hjältedikt
+
+Översatt till svenska av Rudolf Wickberg.
+
+En av de mest omdiskuterade källorna till Sveriges historia är den anglosaxisk dikt om troll- och drakdödaren Grendel som omfattar 3182 versrader. Trots att den skrevs ned i England (troligen i början av 700-talet) så utspelas handlingen uteslutande i södra Skandinavien. Hjälten är den unge geatiske ädlingen Beowulf som omkring år 500 ska ha begivit sig till Danmark för att hjälpa kungen att döda det farliga odjuret Grendel (och därefter dess moder). Efter detta hoppar dikten till en åldrad Beowulf som hade blivit geaternas kung och som tvingas skydda sitt folk från en eldsprutande drake. Han lyckas döda draken men det sker till priset av sitt eget liv. Vid sidan av dessa övernaturliga inslag innehåller dikten många korta episoder som skildrar skandinavisk historia. Det är dessa som har sysselsatt många historiker sedan dikten blev allmänt känd 1815. Flera av dem kan bekräftas från andra källor såsom den geatiske kung  Hygelacs vikingatåg mot Frisland ca 520. Ur ett svenskt perspektiv är striderna mellan geaterna och svearnas kungar särskilt intressanta. Allra störst intresse har dock ägnats åt identifieringen av det geatiska folket. Var de västgötar, östgötar. gutar, ölänningar, jutar eller daner?
+
+Den första svenska översättningen av Beowulf gjordes av Rudolf Wickberg 1889. Den kom ut i en ny reviderad utgåva 1914. De ändringar som gjordes då var mycket mer omfattande än bara en språklig modernisering. Man skulle kunna kalla dem för två olika översättningar och därför har jag valt att publicera båda på Internet, sida vid sida så att läsaren kan jämföra de skilda tolkningar av texten som Wickberg har gjort. Den senare varianten är vanligtvis bättre. Förutom Wickbergs två versioner finns det bara en till svensk översättning av Beowulf. Det är Björn Collinders som utkom för första gången 1955. Collinders översättning följer originalet mycket bättre och han har avhållit sig från att kasta om versraderna, men hans språk kan kritiseras för att vara överdrivet arkaiskt (geatas har till exempel översatts med gautar istället för götar). Wickberg å andra sidan hade ansträngt sig för att ge sin översättning en modern språkdräkt med motiveringen att den ursprungligen var skriven på ett språk som då var modernt. Därför har hans version från 1914 faktiskt en mindre ålderdomlig svenska än Collinders från 1955.
+
+Vid Internet-publiceringen har jag tagit med inledningarna från båda utgåvorna av Wickbergs översättning. Slutsatserna i dessa inledningar skiljer sig en hel del eftersom forskningen inte låg still mellan 1889 och 1914. Än mer forskning har bedrivits under det sekel som har gått sedan dess och en komplettering av inledningarna är därför nödvändig. Det är framförallt två aspekter som har varit och är väldigt omdebatterat bland forskarna. Det är Beowulfkvädets ålder (allt ifrån 500-talets mitt till början av 1000-talet har föreslagits) samt det ovannämnda problemet med identifieringen av Beowulfs folk. Jag har därför skrivit två fördjupningsartiklar om dessa frågor. Som en bonus har jag även bifogat ett utdrag ur Rolf Krakes saga som skildrar islänningarnas version av Beowulf (Bodvar Bjarke).
+
+
+Beowulf
+
+En fornengelsk hjältedikt
+
+Översatt av R. Wickberg
+
+F. C. Askerbergs bokförlagsaktiebolag, Uppsala 1914
+
+Inledning
+
+Beowulfdiktens huvudinnehåll utgöres av hjältens, Beowulfs, strider först med ett sjötroll, omedelbart därefter med dettas moder samt slutligen efter en längre tids förlopp med en eldsprutande drake, som visserligen liksom de föregående besegras och dödas, men först efter att ha givit Beowulf banesår.
+
+Inledningen skildrar i korthet den danska fursteätten Scyldingarnes stamfader och dennes närmaste efterkommande. En av dessa, Hroðgar, bygger en stor mjödsal, Hjort, så kallad därför att dess gavlar voro prydda med hjorthorn. Denna sal hemsökes nattetid av ett sjötroll, Grendel, som mördar och uppslukar alla som våga vila i densamma. I tolv års tid varar denna olycka. Den spörjes av den götiske kämpen Beowulf, som beslutar upptaga striden med vidundret, seglar till danariket och vänligt mottages av undersåtar och konung. Han slår sig ned i Hjort; Grendel kommer som vanligt om natten, men övermannas av Beowulf. Stor glädje råder bland danerna följande dag, och rika skänker föräras åt segraren. Men glädjen bytes snart i sorg, ty redan nästa natt kommer Grendels moder att hämnas sin sons död och mördar Hroðgars förtrogne rådgivare. Då beslutar Beowulf att uppsöka detta nya odjur i dess tillhåll, en av fasor omgiven och uppfylld sjö, dyker till bottnen och överväldigar även modern efter en förtvivlad strid. Ny glädje och nya skänker. Efter väl förrättat värv återvänder hjälten till sin konung Hygelac.
+
+Efter ett långt avbrott finna vi Beowulf sittande på götarnes tron. Då han nått ålderdomen, händer att en tjänare, som flytt för sin herres vrede, finner en drakes håla och däri förvarade skatt. Av denna tager han ett dyrbart kärl för att därmed försona sin herre. Men draken märker snart sin förlust och, upptänd av vild vrede, giver han sig ut om nätterna att utspy eld över landet. Gårdar, även Beowulfs, förbrinna. Då vill denne ännu en, gång pröva sin stridskraft, beger sig med ett följe till drakens håla, men utmanar ensam denne till strid. I denna sviker honom hans goda svärd, och han ansättes hårt av draken. Endast en av hans följeslagare, Wiglaf, vågar komma honom till hjälp. Striden fortsättes, Beowulf såras av drakens bett, men dödar dock denne med sin dolk. Drakens bett giver döden; före denna får dock Beowulf skåda de härliga skatter han vunnit. De sörjande kämparne resa en väldig hög till hans åminnelse.
+
+Strider med havstroll och draker äro, som bekant, en omtyckt folkdiktning och folkläsning i skilda länder och från skilda tider. Det mytologiska underlaget för dessa äventyr är givetvis naturmänniskans kamp mot härjande, ofta övermäktiga naturkrafter, vilka av henne uppfattas som levande väsen, i denna strid söker och vinner hon bistånd av blida gudar och kraftiga hjältar, vilka sedan gärna av folkfantasien anknytas till och namngivas efter berömda historiska personligheter. I vad förhållande den mytiske Beowulf står till en historisk hjälte med detta namn, är ej utrett.
+
+Historiska och sagohistoriska episoder
+
+I nämnda huvudhandling har skalden infogat ett antal delvis rätt utförliga episoder, som skildra tilldragelser bland och särskilt strider mellan olika folkstammar. Av stort intresse för oss svenskar och en viktig källa för vår dunkla historia under 500-talet äro de tämligen omfattande delar, som handla om svear och götar1, deras furstefamiljer och strider. Med götar menas här västgötar2, som vid den ifrågavarande tiden innehade, såsom dialekter och fornborgar intyga, utom Västergötland även norra delen av Halland och åtminstone södra Bohuslän, möjligen flera bygder. De kallas också havsgötar och vädergötar. Sammanställa vi nu vad som meddelas i Ynglingatal, Snorre Sturlassons Ynglingasaga, Beowulf och frankiska krönikor, blir 'Svea och Göta konungars historia' under förra hälften av 500-talet i sammandrag som följer:
+
+Omkring århundradets början rådde över svearne enligt Ynglingatal Egil, kallad Tys ättling, enligt Beowulf Anganty (Ongentheow), över götarne åter en furste, vars engelska namn är Hæðcyn. Till straff för strövtåg, som Angantys söner företagit på götarnes område, inföll Hæðcyn plötsligt i hjärtat av sveaväldet och bortrövade bl. a. dess drottning. Men den åldrige sveafursten samlade snart en mäktig här, överföll och dödade Hæðcyn och inneslöt götarne om natten i en skog, hotande att följande morgon nedgöra dem. Men åter vänder sig stridslyckan. Den fallne götafurstens broder Huglek (Hygelac) kommer med en här till de sinas undsättning, svearne tillbakadrivas, och deras konung nedhugges av Eofor (= vildsvin; enligt Ynglingatal dödas Egil av en vildgalt).
+
+Omkr. år 515 företager Huglek en olycklig härfärd till sjös mot friserna vid Rhens mynningar.3 Huglek efterträddes av sin unge son Hårdråde (Heardred). Över svearne härskade efter Angantys fall hans äldste son Ottar (Ohtere)4. Då denne avlidit någon tid efter Hugleks ovannämnda härfärd, uppstodo tronstridigheter mellan hans broder Åle (Onela) och Ottars söner Adils (Eadgils) och Emund (Eanmund). De senare måste giva vika och sökte tillflykt hos götakonungen Hårdråde. För att straffa den gästvänlighet, som denne visade dem, gjorde Åle ett krigståg mot götarne, varvid Hårdråde dödades. Då övertalades Beowulf, som på mödernet var besläktad med konungaätten, att bestiga götarnes tron. Efter någon tid understödde denne Adils — Emund hade dessförinnan blivit med Åles goda minne dödad av en göt — med krigare och vapen, och i en strid på Vänerns is lyckades denne besegra och döda farbrodern och blev så konung över svearne. Samtidig med honom (låt oss säga omkr. mitten av 500-talet) var, som bekant, den berömde Rolf Krake (Hroðulf), brorson till den av Grendel hemsökte Roar (Hroðgar).
+
+Det bör emellertid tilläggas, att medan sveakonungarnas namn ha god hemul och otvetydiga motsvarigheter i nordisk språkform, så ha — med undantag av Hygelac — de götiska furstenamnen svagt stöd (blott Beowulf-dikten) och synas sakna säkra motsvarigheter bland fornskandinaviska personnamn. Man känner sig frestad att misstänka, att skalden diktat de götiska eller ur det fornengelska förrådet valt de med Hygelac allittererande namnen Hreðel, Herebeald, Hæðcyn och Heardred (Hårdråde är, som bekant, endast tillnamn).
+
+Götarnes grannar i söder, danerna, innehade Skåne, södra Halland, de danska öarna och åtminstone en del (Vendel) av Jutland. De stå i gott förhållande till götarne; för tillfället fredligt, men osäkert till (longo) barderna, som då bodde väster om nedre Elbe, samt i fientligt till jutarne, en frisisk stam, som deltagit i Englands erövring och då var bosatt vid s. ö. hörnet av Nordsjön. S. v. om dem, kring Rhens mynningar, bodde andra friser, de som anföllos av Huglek, samt slutligen längre bort frankerna, även kallade huger, vilka besegrade honom.
+
+De sagohistoriska episoderna äro få, ja, med undantag av den om Sigmund, som här säges vara ormen Fafnes bane, egentligen blott anspelningar på av allmänheten kända sägner.5
+
+Namnet 'götar' motsvarar ljudenligt och säkerligen även faktiskt diktens 'geatas'. Visserligen sökte för några årtionden sedan P. Fahlbeck och S. Bugge att med skenbart tungt vägande skäl visa, att med 'geatas' menas 'jutar'. Men dessa skäl hava sedermera på ett övertygande sätt vederlagts av H. Schück i 'Folknamnet geatas i den fornengelska dikten Beowulf 1907'. — Det vore också egendomligt, om den engelske skalden, som eljest återgiver de nordiska folknamnen i korrekt fornengelsk språkform, skulle ha misstagit sig just i fråga om den stam, som hans hjälte tillhör.
+Notera att Wickberg var i inledningen till den första utgåvan lika övertygad om att Beowulfs geatas var jutar som han i denna utgåva är att de var västgötar. Ännu fler teorier har tillkommit under det sekel som har gått sedan dess. Curt Weibull ansåg till exempel att geatas var identiska med danerna. Även Öland har nämnts och  på senare tid har uppfattningen att geatas avser gutarna vunnit terräng.
+Då vi för denna tilldragelse ha det första säkra, om ej årtal, dock årtionde i Sveriges historia, meddelar jag i översättning Gregorius' av Tours berättelse därom i Frankernas historia: »Danerna segla med sin konung, som hette Chochilaichus, och en flotta till Gallien. Sedan de landstigit, plundra de ett härad i Theodoriks rike och taga fångar. När de lastat fartygen såväl med fångar som med annat byte, vilja de återvända till fäderneslandet. Men deras konung slog sig ned på stranden, tills fartygen skulle nå det djupa havet, för att sedan själv följa. Men då det berättats för Theodorik, att hans område blivit härjat av främlingar, sände han sin son Theudebert till dessa trakter med en stark och välrustad här. Sedan konungen blivit dödad, besegrar och nedgör han fienderna i en sjöstrid och återför hela bytet i land.» — Daner är ofta ett allmänt namn på nordgermaner. Chochilaicus är ljudenligt = Huglek.
+I den första utgåvan skrev Wickberg att Hygelacs vikingatåg ägde rum omkring 512. Här har han ändrat det till ca 515. Theodorik I var kung 511-533 och det är dessa årtal som sätter gränserna för dateringen av Hygelacs vikingatåg. Utöver Wickbergs två årtal har jag även stött på dateringarna 516, 520 och 521.
+Denne Ottar har blivit illa behandlad av Snorre Sturlasson, som förväxlat Vendel i Uppland med Vendel i Jutland och i sammanhang därmed götar med jutar samt säkerligen också Ottar själv med hans fader Egil-Anganty, som hos en annan historieskrivare, troligen med rätta, har tillnamnet Vendelkråka.
+De episoder, som ej röra vårt folk, skola, såvitt nödigt och möjligt, belysas i korta noter under texten.
+Diktens förhistoria, ålder, handskrift
+
+Som bekant torde vara, har man särskilt i Tyskland, med en viss förkärlek sökt göra gällande den s. k. Liedertheorien för äldre, mera omfattande episka dikter, såsom Iliaden, Odysseen och Nibelungenlied; med andra ord, man har sökt uppvisa, att var och en av dessa dikter i sin nuvarande form härstammar från flere olika författare. Även på Beowulfdikten har man velat tillämpa denna teori; i synnerhet har den berömde tyske språk- och fornforskaren Müllenhoff genom en detaljerad granskning sökt bevisa, att dikten förskriver sig från sex olika personer. Denna åsikt vann på grund av Müllenhoffs stora auktoritet i andra forntidsfrågor till en början rätt stor tillslutning inom Tyskland, men torde numera få anses övergiven. Lika ohållbar är bl. a. av kronologiska skäl den åsikten, att angler och friser skulle hava medfört stoffet till dikten vid sina erövringståg till England. Osökt åter och högst sannolikt är Schücks antagande, att detta stoff utgjorts av danska och götiska sagor eller dikter, som av köpmän eller klerker överförts till England och därstädes, med tillägg av annat sagomaterial, av en kristen skald om- och hopdiktats till ett tämligen enhetligt epos, i vilket dock de olika tonarterna och den hedniska grunden tydligt framskimra genom den kristna omklädnaden. Den förra och större delen av dikten (I—III), som i allmänhet utmärker sig för en ledig och lättflytande diktion samt trots det där skildrade tolvåriga lidandet genomandas av segervisshet och segerjubel, är antingen av danskt ursprung (att döma av skådeplatsen) eller har till underlag en götisk saga, som på sin väg över Danmark därstädes blivit retuscherad samt tillökt med inledning och episoder, vartill slutligen den engelske skalden lagt åtskilligt ur sin egen fatabur. För det senare alternativet talar den omständigheten, att danskarne framställas som ett rätt håglöst släkte och deras konung som en gråtmild hjälpsökare, allt i bjärt motsats till såväl de glänsande epitet de bära (spjutdaner, glänsande daner; ärorika, segerrika Scyldingar) som ock till episoderna, där danerna uppträda som väldiga kämpar. Hjälten är varken dansk eller kommer från fjärran land, utan från ett grannfolk, just götarne. Helt olika är emellertid den andra delen (IV), som handlar om drakstriden och otvivelaktigt är av götiskt ursprung. Diktionen är mera hård och tung; språket böjer sig stundom blott motsträvigt under skaldens grepp, och här och där frambryter en stark underström av dystra aningar om fäderneslandets stundande fall. — Schücks förmodan, att sagornas överflyttning till England förmedlats av friserna, som vid den ifrågavarande tiden stodo i livlig förbindelse såväl med detta land som med Skandinavien, är i och för sig rätt sannolik; däremot talar dock det starka framhävandet i dikten av frisernas trolöshet. Dock få dylika kriterier ej anses för avgörande.
+
+Diktens hemort är sannolikt mellersta delen av det egentliga England (Mercien) men den föreligger oss omklädd i sydengelsk språkdräkt, i vilken dock kvarstå spår av skaldens dialekt.
+
+I fråga om diktens ålder giver oss det historiska innehållet i densamma tvänne hållpunkter, l) På ett par ställen skildras Hygelacs död i en strid mot franker och friser. Enligt frankiska krönikor skall denna ha ägt rum någon gång mellan åren 512 och 520. Då måste naturligtvis dikten vara skriven efter denna tid. 2) Å andra sidan omnämnas Merovingerna såsom fruktansvärda fiender (v. 2921), och sannolikt är då, att skalden levat antingen före eller ej långt efter denna herskareätts utslocknande eller rättare detronisering år 752. Vanligen antages dikten vara författad i början av 700-talet.
+
+Den är bevarad blott i en enda handskrift, som finnes i den Cottonska boksamlingen i British Museum, signerad Vitellius A XV, och innehåller diverse saker. Den dyrbara urkunden skadades vid en eldsvåda år 1731, dock, så vitt jag själv kunnat märka, ej så svårt som vanligen uppgives; men tidens tand och oskicklig inbindning (bladens kanter ha överklistrats med grovt papper) ha samverkat att utplåna eller göra oläsligt åtskilligt, som ännu i slutet av 18:de århundradet kunde läsas. Då tog nämligen den lärde dansk-isländaren Grim Thorkelsson, vanligen kallad Thorkelin, två avskrifter av handskriften, vilka ännu finnas i behåll och på grund av nyssnämnda omständighet äro av stor betydelse för textkritiken. På grundvalen av dessa avskrifter utgav Thorkelin, sedan frukten av hans mödor en gång blivit förstörd genom bombarderingen av Köpenhamn 1807, äntligen år 1815 den första upplagan av 'Beowulf' under titeln 'De Danorum rebus gestis secul. III et IV poema Danicum dialecto Anglosaxonica'. I de äldre upplagor, som utgåvos av engelsmännen Kemble och Thorpe, av Grundtvig (med ett i hans egendomliga, själfulla stil avfattat företal om diktens mytiska och historiska underlag), av Grein såväl separat som i den monumentala samlingen 'Bibliothek der angelsächsischen Poesie' (ny upplaga utg. av Wülcker), hade utgivarne naturligtvis gott tillfälle att i första hand rätta uppenbara skrivfel i handskriften och framlägga sannolika emendationer. Under de senaste årtiondena har Beowulf-litteraturen — textupplagor, avhandlingar, översättningar — varit stadd i en väldig tillväxt. Tyvärr förhåller det sig dock så, att det faktiska underlaget för forskningen i ämnet fortfarande är mycket begränsat, de slående och övertygande gissningarna helt få, men antalet av mer eller mindre osäkra antaganden översvallande stort. På den sista tiden har emellertid framträtt en lovvärd tendens att i möjligaste mån söka bevara och försvara handskriftens läsarter. För dem som vilja studera dikten på originalspråket, rekommenderas: Beowulf, herausgegeben von Heyne—Schticking (Bibliothek der ältesten deutschen Literatur-Denkmäler. III), som i huvudsak lagts till grund för denna översättning, och som jämte en konservativt hållen text innehåller ett fullständigt och utförligt glossar, redogörelse för egennamn och viktigare upplagor samt, visserligen i mycket sammanträngd form, handskriftens läsarter, avsevärda emen­dationer och några försök att förklara dunklare ställen och utreda historiska spörsmål.
+
+I Sverige har den sista (IV) delen av dikten, översatt av Prof. Björkman, med en inledning av Schück, utgivits i samlingsverket 'Världslitteraturen i urval och översättning' 1903. För övrigt ha här — helt naturligt — forskare företrädesvis bemödat sig om att belysa och utreda diktens innehåll. Uppslaget härtill gavs av P. Fahlbeck i avhandlingen »Beowulfqvädet såsom källa för Nordisk fornhistoria» (1884). Mot huvudsyftet i denna (att visa att 'geatas' är = jutar) riktade sig H. Schück i sin ovan anförda skrift om folknamnet geatas. I sina »Studier i Beowulfsagan» har den senare även framlagt ett försök till rekonstruktion av diktens förhistoria, varjämte han i populär form framställt resultaten av sina forskningar i »Illustrerad Svensk Litteraturhistoria» och »Svenska folkets historia» (i Gleerupska Biblioteket). Den tidigt bortgångne, fyndige och skarpsinnige fornforskaren K. Stjerna har i ämnet författat värdefulla avhandlingar, som blivit samlade och utgivna i en vackert utstyrd engelsk översättning under titeln »Studies on Beowulf».
+
+Språk och stil
+
+Det torde ej vara lämpligt att låta en uppskattning av diktens konstvärde inleda ett översättningsförsök. Här skall jag blott uppvisa några stilistiska egendomligheter, som äro av betydelse även för diktens tolkning. Man behöver ej läsa långt i densamma för att finna huru mycket skalden älskar att upprepa samma sak eller tanke i växlande former. Därigenom uppstår ett slags parallellism, som i viss mån erinrar om den hebreiska poesien. Den förefaller dock ej, åtminstone ej i originalet, enformig och tröttande bland annat på grund av det rika ordförråd, som författaren använder, särskilt i fråga om strider, vapen och hjältar, vilka ju också spela huvudrollen i framställningen. Så har han för 'strid' åtminstone 12 olika ord och för 'hjälte' ej mindre än 37. På ett par ställen åstadkommer skalden en god kontrastverkan genom att, sedan han höljt en person med lov, alldeles oförberett föreställa för oss en annan med motsatta egenskaper. Så uppställes (v. 901 ff.) den tyranniske Heremod som en motsats till den folkvänlige Beowulf; den övermodiga drottning Thryð (v. 1931 ff.) till den blida Hygd. Här och där märker man en viss löslighet i satsbyggnaden, bruk av singular för plural eller tvärtom, ej fullt korrekta uttryck, såsom då Grendel och hans moder kallas 'Grendels fränder', Hygelac kallas Ongentheows bane, ehuru det i verkligheten var en av hans krigare, som dödade denne. Dessa 'brister' ha vållat mycket bryderi och många mer eller mindre fyndiga försök att förbättra texten, men de torde numera allmänt betraktas som poetiska, ej alldeles verkningslösa friheter.
+
+Diktens meter är den forngermanska långversen, genom taktvila avdelad i två halvverser, vardera med två tonhöjningar samt svagtoniga stavelser på växlande plats och av växlande antal. Allitteration finnes å båda de starktoniga stavelserna eller blott den ena i första halvversen, å en i den andra. Stundom förlängas verserna oproportionerligt, så att de närma sig rytmisk prosa. En fast grund för Beowulf-metriken har lagts genom Sievers' undersökningar (i Paul und Braunes Beiträge, Band X), vilka naturligtvis blivit av stor betydelse även för textkritiken. De tre första verserna i den följande översättningen motsvara någorlunda originalets versform; för övrigt har denna återgivits endast då den låtit sig osökt förenas med en trogen och ledig tolkning. Det må också framhållas, att denna versform med sitt växlande antal stavelser och fortlöpande allitteration gjorde ett helt annat intryck på det forngermanska örat än på vårt, som är vant vid ett regelbundet återkommande antal versfötter samt hör allitteration endast i vissa nedärvda, stående uttryck.
+
+Där handskriften är oläslig, har påtagliga skrivfel och uttryck, som i sin föreliggande form trotsa varje försök till en tillfredsställande tolkning, ha i och för den följande översättningen godtagits emendationer, som förefalla självklara eller mycket sannolika. På det att emellertid ej läsaren må få en skev föreställning om vad urskriften verkligen innehåller, ha viktigare ställen, vilkas läsart eller tolkning ej kan anses säker, utmärkts med kursivt tryck. I några fall ha alternativa tolkningar meddelats i noter under texten.
+
+Den följande uppdelningen av dikten är ej handskriftens. — För tydlighetens skull hava halvverser ofta blivit omkastade, men nästan varje fullt avslutad mening och även översättningen i sin helhet innehåller precist samma antal verser som originalet.
+Då några av de i texten förekommande egennamnen svårligen låta omsätta sig i svensk språkform, har jag för följdriktighetens skull låtit dem samtliga i översättningen behålla sin fornengelska form. Till ledning för uttalet av dem märkes, att ea uttalas som äa, eo som éå, c och g (åtminstone ursprungligen) hårt även framför mjuka vokaler; cg urspr. som gg; h efter vokal, l och r som tyskt ch; th, ð och w som begynnelseljuden i de engelska orden think, this och win resp.
+
+
+- - -
+
+Kapitel 0
+Scylds likfärd
+
+Ja, vi ha sport spjut-danernas
+Folkkonungars bragder i flydda dagar,
+Huru de ädle övade mandom.
+Ofta ryckte Scefingen Scyld*) mjödbänkarna
+5 Från fiendeskaror, från många stammar,
+Skräckslog jarlar1. Efter att först ha blivit
+Funnen hjälplös, fick han tröst därför,
+Växte under molnen, vann allt större ära,
+Till dess att alla kringboende
+10 Över valarnas väg2 måste lyda honom,
+Gälda gärder: det var en god konung!
+Åt honom föddes sedan en son,
+Ung i gården, vilken Gud sände
+Folket till tröst; han såg den stora nöd,
+15 Som de herrelöse länge lidit.
+Honom gav därför livets herre,
+Härlighetens konung, världsära.
+Konung Scylds son Beowulf3 blev frejdad,
+Hans rykte for vida i Scedelanden**).
+20 Så skall den unge öva frikostighet
+Med rika gåvor åt sin faders vänner,
+Att på ålderdomen honom sedan omgiva
+Villiga följeslagare, och folket följer,
+Då striden kommer: i lovvärda dåd
+25 Skall mannen gå fram bland alla stammar!
+Sedan gick Scyld efter många strider.
+I dödsstunden i herrens vård.
+Hans kära följeslagare — den dyre landsfursten
+Hade länge ägt dem — buro honom då
+30 Till havets svall, som han själv bett,
+Medan Scyldingarnas vän ännu kunde tala
+Där stod i hamnen med ringad stäv4
+Den ädles isblanka skepp och längtade ut.
+De lade sedan på skeppets barm
+35 Den dyre kungen, ringarnas utdelare,
+Den fräjdade vid masten. Där var en massa smycken,
+Klenoder bragta från fjärran vägar.
+Ej jag har hört, att man präktigare utrustat
+En köl med stridsvapen och med härkläder,
+40 Men svärd och brynjor; på hans barm låg 
+En mängd smycken, som skulle med honom
+Fara fjärran i havets våld.
+Ej utstyrde de honom med ringare gåvor
+Eller mindre folkskatter, än de hade gjort, 
+45 Som i livets vår, då han ännu var barn,
+Sänt honom åstad ensam över vågorna.
+Vidare satte de ett gyllene fälttecken
+Högt över hans huvud, läto vågorna bära honom,
+Övergåvo honom åt havet. Deras håg var dyster,
+50 Sorgset sinnet. Ej kunna män,
+Hjältar under himlen, boende i salar, 
+Säga för sant vem som fick denna last.
+
+
+Kapitel 1
+Hroðgar låter bygga salen Hjort.
+
+Sedan var i städerna Beowulf, Scyldingarnes 
+Dyre folkkonung, under lång tid
+55 Frejdad bland folken — hans fader hade bortgått,
+Fursten från sin gård —, tills honom sedan föddes
+Den höge Healfdene, som styrde, medan han levde,
+Gammal och stridsdjärv, huldrikt Scyldingarne.
+Åt honom fyra barn efter varandra 
+60 Föddes till världen: härskarornas hövding
+Heorogar och Hroðgar och Halga den gode;
+Hört har jag, att hans dotter som maka delade
+Strids-scylfingen Onelas*) bädd.
+Sedan vart stridslycka given Hroðgar,
+65 Ära i striden, så att hans stamfränder 
+Gärna lydde honom, tills ungdomen uppväxt,
+En stor ynglingaskara. I hans sinne rann upp
+Viljan att bjuda männen uppföra.
+En salsbyggnad, ett större mjödhus,
+70 Än människors barn någonsin sport,
+Samt därinne åt unga och gamla
+Utdela allt, som Gud honom givit
+Utom folklandet och männens liv.
+Jag har sport, att han vida bjöd mången stam
+75 På denna jord att sira verket,
+Krigarnes bostad. Han lyckades snabbt
+Inom utsatt tid få fullständigt färdig
+Den största av salar. Han som vida hade
+Bud och välde, gav den namnet Hjort1.
+80 Han svek ej sitt löfte, utdelade ringar,
+Smycken vid gästabudet. Salen reste sig,
+Hög och vid mellan hornen2, bidade den leda
+Lågans vågor. Ej dröjde det länge,
+Innan svärdshatet mellan måg och svärfader
+85 Väcktes till liv av dödlig fiendskap.3
+En tid fördrog då den starke gasten,
+Som bidade i mörker, med stor förargelse
+Att varje dygn höra högljutt
+Jubel i salen: där var harpans klang,
+90 Skaldens ljuva sång4. Den som kunde tälja
+Människornas ursprung i forna tider,
+Kvad, att den allsmäktige skapade jorden,
+Den skimrande marken, som vattnet famnar;
+Satte segerstolt solens och månens
+95 Ljus att lysa dem som bo på jorden,
+Samt smyckade markens sköte
+Med grenar och löv och skapade liv
+I alla de släkter, som levande vandra.
+Så levde då hirdmännen
+100 I jubel och överflöd, tills en började,
+En fiende i helvetet, öva illdåd.
+Den vilde gasten5 hette Grendel,
+En beryktad gränsbo, som hade sitt fäste
+I kärr och träsk; den osalige mannen
+105 Bebodde en tid trollsläktets hem,
+Sedan skaparen hade fördömt det.
+På Kains ätt6 hämnades den evige
+Herren det mordet, att han dräpte Abel:
+Ej hade han glädje av denna strid, ty skaparen
+110 Fördrev honom för detta brott fjärran från människorna.
+Av honom hava kommit alla onda släkten,
+Jättar och alver och havsvidunder
+Samt giganterna, som kämpade med Gud7
+En lång tid; han gav dem lön därför.
+
+
+• Eller Sävelas; ty enligt Rolf Krakes saga var konung Halfdans dotter Signy gift med Sævil. — Svearnes fursteätt kallas Scylfingar; dit hörde Onela. Dessa är i den isländska sagotraditionen mer kända som ynglingaätten även om de benämns som skilfingar på ett ställe i dikten Ynglingatal. Scylfingar är inte ett riktigt namn i modern bemärkelse utan det betyder bara "Scylfs ättlingar". Någon Scylf är dock inte känd från någon källa.
+1. Hallen Hjort kallas för Heort i handskriften. Den anses ha legat i Lejre utanför dagens Roskilde.
+2. Gavlarna voro prydda med hjorthorn.
+3. Se längre fram vv. 2020 ff.
+Hroðgar gifte bort sin dotter Freawaru med Ingeld i ett försök att försona daner och strids-barder.
+4. Möjligen avses här Cædmons hymn till skapelsen som Beda berättar om. I båda fallen handlar det om skapelseberättelsen i Bibeln.
+5. Wickberg har översatt handskriftens "grimma gæst" till den "vilde gästen" 1889 och "vilde gasten" 1914. Björn Collinder har översatt det till "grymma trollet". Michael Alexander har översatt det till "cruel spirit".
+6. Kain är förstås den bibliske gestalt som mördade sin bror Abel. Enligt medeltidens kristna teologi härstammade alla ondskefulla varelser från honom.
+7. Medeltida teologi gav jättarna skulden för att gud lät syndafloden komma. Jämför även Första Mosebok, kapitel 6:4: "Vid den tiden [...] levde jättarna på jorden".
+
+
+
+
+Kapitel 2
+Grendel hemsöker salen Hjort.
+
+115 Då det blev natt, gick Grendel att söka
+Det höga huset, se till huru ring-danerna
+Hade inrett sig där efter dryckeslaget
+Han fann då därinne en skara ädlingar
+Sovande efter gästabudet; de kände ej sorg,
+120 Människors elände, något slags olycka
+Vild och lysten, var han snart redo,
+Hätsk och rasande, tog han från bädden
+Trettio män; begav sig sedan därifrån
+Att stolt över bytet återvända hem,
+125 Söka sin bostad med denna likhög.
+Sedan blev arla, vid dagens gryning,
+Grendels stridskraft uppenbar för männen.
+Då blev klagan höjd efter festen,
+Stort morgonlarm. Den frejdade fursten,
+130 Ädel och vördad, satt nu oblid;
+Den starke led stor sorg över kämparne,
+När de fått skåda den onde, eländige
+Gastens spår; olyckan var för svår,
+Led och långvarig. Ej dröjde det längre,
+135 Utan efter en natt begick han åter
+Flere mord och bävade icke
+För strid och brott: han var för hårdnackad därmed.
+Då var lättfunnen den som annanstädes
+Sökte en mera avlägsen viloplats,
+140 Bädd i rummen, då honom yppat blivit,
+Sagt sanningsenligt med tydligt tecken
+Salskämpens hat; han höll sig sedan
+På säkrare avstånd och undkom fienden.
+Sålunda rådde och stred orättfärdigt
+145 En mot alla, till dess tomt stod
+Det yppersta av hus. I tolv vintrars tid
+Fick Scyldingarnes vän tåla nesa,
+Allt slags ont och svåra sorger
+— Det var en lång tid. — Sålunda vart det
+150 För människors barn uppenbart känt
+Sorgligt i sånger, att Grendel en tid
+Stred emot Hroðgar, bar hätsk fiendskap,
+Brott och fejd många halvår,
+Oavlåtlig kamp; ville ej ha frid 
+155 Eller fjärma döden från någon man
+Av danernas styrka, taga gods i stället.1
+Ej kunde därvidlag ens någon av stormännen
+Hoppas lysande bot från mördarens händer;
+Utan skräckbringaren förföljde ständigt
+160 Gamla och unga; det hemska dödstrollet2
+Fångade dem försåtligt; höll sig natt efter natt
+I töckniga träsk; människor ej veta
+Var trollkarlarne vandra omkring.
+Så övade ofta människosläktets fiende,
+165 Den hemske enstöringen en mängd illdåd 
+Ett hårt förtryck, bebodde Hjort,
+Den guldskimrande salen, om svarta nätter.
+Ej fick han för skaparen3 nalkas skatten,
+Konungastolen, och trådde ej därefter.*)
+170 Detta var stort trångmål för Scyldingarnes vän
+Och stort själskval. Ofta sutto många
+Mäktige till råds, överlade om bot,
+Vad som väl vore bäst för de djärve
+Att vidtaga emot de hemska överfallen.
+175 Stundom lovade de på heliga orter
+Offer åt gudarne, bådo ivrigt,
+Att gastdödaren4 skulle lämna hjälp
+För folkets lidanden. Sådan var deras sed,
+Hedningarnes hopp: på helvetet tänkte de
+180 I sinneshugen, de kände ej skaparen,
+Gärningarnas domare, ej herren Gud.
+Ja, de kunde ej prisa himlarnas värn,
+Härlighetens konung. Ve den som skall
+Genom olycksdiger strävan driva sin själ
+185 I eldens famn, ej hoppas hugsvalelse,
+Ej någon återvändo! Väl den som får
+Efter dödsdagen söka herren
+Och bedja om frid i faderns famn.
+
+1. Björn Collinder har nog en bättre översättning av raden som lyder så här:
+"ej sluta att härja,    ej heller förlikas;"
+Enligt germansk sed kunde man lösa även de blodigaste konflikter genom att betala böter. Men den omänsklige Grendel var inte intresserad av någon sådan förlikning,. Han fortsatte obevekligt att härja tills någon dödade honom.
+2. "det hemska dödstrollet" motsvaras i handskriften av "deorc deaþ-scua", vilket Michael Alexander översätter med "dark death-shadow". Björn Collinders översättning har: "det avgrundsälet".
+3. Gud.
+4. Djävulen (själ-dödaren). Texten talar om hur danerna bad om hjälp från hednagudarna för att slippa grendel. Skalden identifierar dessa med djävulen.
+• Eller: och kände ej hans avsikt (dvs. kände inte till Gud).
+
+
+
+Kapitel 3
+Beowulf far att hjälpa danerna.
+
+Så ruvade oavlåtligt Healfdenes son1
+190 Över denna sorg; ej kunde den vise
+Avvända det onda: olyckan var för svår,
+Led och långvarig, som drabbade folket,
+Den hätska förföljelsen, det största av nattdåd. —
+Dessa Grendels dåd sporde i hemmet
+195 Hygelacs hirdman2, god bland göter.
+Han var bland människor den kraftfullaste
+I de dagarne av detta livet,
+Ädel och stor. Han lät utrusta åt sig
+En god vågvandrare, sade sig vilja
+200 Över svanens väg söka stridskonungen,
+Den frejdade fursten, då denne behövde män.
+Föga avrådde honom vise män
+Från denna färd, fastän han var dem kär;
+De uppmuntrade den djärve, sökte goda förebud.
+205 Den gode hade ur götarnes folk
+Utvalt kämpar, de käckaste, som
+Han kunde finna. Själv femtonde
+Gick han till havsträdet. Den sjökunnige mannen
+Ledde kämparne till landets gräns.
+210 Tiden förrann, farkosten låg på vågorna
+Vid bergets fot. Rustade stego
+Kämparne uppå stäven; havets strömmar
+Böljade mot sanden. Männen buro
+I skeppets sköte glänsande smycken,
+215 Ståtliga rustningar, sköto sedan ut
+På önskad färd det timrade skeppet
+Över havsvågor gick då, drivet av vinden,
+Skeppet med skummig bog, snarlikt en fågel,
+Tills vid samma tid på nästa dygn3
+220 Det buktade skeppet hade gått så långt,
+Att de sjöfarande sågo land,
+Blänkande havsklippor, branta berg
+Och breda uddar.4 Då var havet lagt tillrygga,
+Sjöresan slut. Därifrån stego
+225 Väder-götarne5 snabbt uppå landet,
+Bundo havsträdet. Pansarskjortorna,
+Krigskläderna rasslade. De tackade Gud,
+Att färden över vågorna gått lätt för dem.
+Då såg från strandhöjden Scyldingarnes utpost,
+230 Som skulle hålla vakt över havsklipporna,
+Glänsande sköldar och redda rustningar
+Bäras över plankan. Han vart nyfiken
+I hugen att veta vad det var för män.
+Sittande till häst, begav sig då till stranden
+235 Hroðgars tjänare, svängde med kraft
+Den starka lansen, talade och sporde:
+»Vad ären I för rustningbärande,
+»Brynjeklädde män, som så kommit styrande
+»Den stupande kölen över havets stråt
+240 »Hit över vågorna? Jag har varit en tid
+»Utpost vid gränsen, hållit vakt vid havet,
+»Att ej någon fiende måtte med skeppshär
+»Göra danernas land någon skada.
+»Ej ha sköldbärande män tagit sig för att komma
+245 »Hit mera öppet: I han ej alls vetat av
+»Ord och löfte av stridens främjare,
+»Fränders bifall6. Aldrig såg jag större
+»Jarl på jorden än en av eder är,
+»En man i rustning; ej är det en huskarl,
+250 »Smyckad med vapen, om ej hans yttre ljuger
+»Hans makalösa gestalt. Nu vill jag veta
+»Eder härkomst, innan I fån gå
+»Som löse spejare härifrån vidare
+»I danernas land. I, fjärran boende
+255 »Havsbefarare, hören nu min
+»Rättframma tanke: att ju förr dess bättre
+»Giva tillkänna varifrån I kommen.»
+
+1. Hroðgar.
+2. Här gör Beowulf sin entré i dikten. Fast det är först i rad 343 som han avslöjar sitt namn.
+3. Restiden på ett dygn har använts som ett argument mot att Beowulf skulle ha kommit från Östergötland eller Gotland. Men tolkar man texten som en två-dagarsresa öppnar sig möjligheter. Arkeologen Gad Rausing har visat i ett experiment från 1985 att det var fullt möjligt att under två dygn resa från Gotland till  Själland med dåtida skepp.
+    Handskriften har "oðþæt ymb an-tid oþres dogores" vilket enligt Michael Alexander ordagrant betyder "until about the-right-time second day".
+4. Beskrivningen av danernas kust påminner mer om "the white cliffs of Dover" vid engelska kanalen än ett danskt landskap. Stevns Klint i sydöstra Själland är dock ett kustområde som överensstämmer med diktens beskrivning.
+5. I den reviderade utgåvan från 1914 har Wickberg ändrat vind-göter till väder-götar. Detta ord motsvaras av handskriftens "Weder-Geatas". I just detta ställe kallar dock handskriften dem för "Wederas", vilket är ett namn som förekommer 17 gånger i handskriften. Wickberg har översatt samtliga till vind- eller väder-göter. Namnet Weder-Geatas gör entré först på rad 1492 och förekommer bara 4 gånger. Ytterligare varianter på deras namn är  "Sæ-Geatas" (sjö-götar) på två ställen och "Guð-Geatas" (stridsgötar) som bara  förekommer en gång. Den i särklass vanligaste benämningen är ett enkelt "götar", vilket förekommer 51 gånger i handskriften.
+    De flesta av dessa namn tyder på att Beowulfs götar levde i ett vindpinat land i närheten av havet.  Deras hemland kallas rent av för "Weder-mearc" (Vädermark) på rad 298. Detta passar dåligt in på västgötarna som var ett inlandsfolk, men betydligt bättre på både jutar och gutar. Henrik Schück förklarade detta med att Västergötland i forntiden även omfattade norra Halland och södra Bohuslän. Han baserade sitt påstående med att dessa områden hade liknande dialekter. Men andra forskare vill med stöd från Jordanes placera in en mängd andra stammar i detta område. Och i vilket fall som helst utgjordes Västergötlands kärnbygd av Västgötaslätten som låg i inlandet och inte vid kusten.
+6. Fränderna är Hroðgar och hans brorson Hroðulf (Rolf Krake) som också hade ett visst inflytande i Danmark.
+
+
+Kapitel 4
+Strandvakten kommer götarne till mötes.
+
+Honom den ypperste svarade då;
+Skarans hövding upplät sin ordskatt:
+260 »Vi äro män av götarnes folk
+»Och vår konung Hygelacs hirdmän.
+»Min fader var berömd bland krigare,
+»Den ädle fursten hette Ecgtheow.
+»Många vintrar bidade den gamle, innan han
+265 »Lämnade sin gård; honom minnas fullväl
+»Alla stormän vida över jorden.
+»Med välvillig hug hava vi kommit
+»Att söka din herre, Healfdenes son,
+»Folkets värn. Giv du oss goda upplysningar!
+270 »Viktigt ärende hava vi till danernas
+»Frejdade herre; ej skall något därav
+»Döljas, som jag hoppas. Du vet om det är
+»Så som vi hört sägas sanningsenligt,
+»Att bland Scyldingarne en okänd skademan,
+275 »En dold förföljare om mörka nätter
+»Visar fasaväckande, oerhörd fiendskap
+»Med skam och manspillan. För detta kan jag
+»Storsinnat giva råd åt Hroðgar,
+»Huru den vise och gode skall överväldiga fienden,
+280 »Om annars någonsin olyckornas anfäktelse
+»Skall få en återvändo, hjälp ännu komma,
+»Och sorgens bränningar varda svalare;
+»Eller allt framgent han skall lida stor nöd,
+»En bekymmersam tid, så länge där reser sig
+285 »På härskarens mark det yppersta av hus.»
+Sittande på hästen, talade utposten,
+Den orädde tjänaren — om båda delarna,
+Ord och verk, skall en skarp sköldkämpe,
+Som tänker väl, veta noga besked —
+290 »Jag hör, att detta är en skara huld 
+»Emot Scyldingarnes herre. Gån åstad bärande
+»Vapen och rustningar; jag skall visa vägen.
+»Även skall jag bjuda mina hirdmän
+»Att väl skydda mot varje fiende
+295 »Eder farkost, det nytjärade
+»Skeppet vid stranden, tills den svängda plankan
+»Skall bära tillbaka över havets strömmar
+»Till väder-götarnes kust1 den dyre man,
+»Den stridsfrämjare, som det förunnas
+300 »Att oskadd genomgå denna stridsstorm.»
+De gåvo sig åstad. Stilla bidade farkosten,
+Fast vid ankaret; det rymliga skeppet 
+Var bundet med linan. Över kindskyddarne
+Skeno vildsvinsbilder, glänsande, guldbeslagna,
+305 Härdade i eld, vakade över2
+De stridslystnes liv.*) I sluten trupp skyndade 
+Kämparna mot dalen, tills de kunde se
+Den vältimrade salen, ståtlig och guldglänsande.
+Bland jordbebyggarne var detta det mest frejdade
+310 Hus under himlen, och där bodde den mäktige; 
+Dess glans lyste över många land.
+Då visade dem den stridsdjärve de modiges
+Glänsande gård, på det att de måtte
+Kunna gå ditåt; sedan vände
+315 Krigaren sin häst och talade så: 
+»Tid är att jag far. Den allsmäktige fadern
+»Uti sin nåd hålle eder oskadde
+»I edra företag! Jag vill till sjön
+»Att hålla vakt mot fienders skara.»
+
+1. Det ord som  Wickberg har översatt till "vind-göternas kust" respektive "väder-götarnas kust" lyder i handskriften: "Weder-mearc". Björn Collinder har översatt det till "Vädermark". Se not 4 i kapitel 3 angående dess betydelse för identifieringen av Beowulfs hemland..
+2. Eller efter en annan tolkning af vv. 304—5:
+Höllo vildsvin, glänsande, guldbeslagna,
+Härdade i eld, lifsvakt åt den sköne.
+Björn Collinders översättning från 1955 har följande tolkning av raderna 302-306:
+
+  "förtöjt låg på redden    det rymliga skeppet
+  för ankar. Gullstöpta    glänste på hjälmarna
+  ovan anletets värn,    som vaktade livet,
+  glimmande galtar,    som gått genom eld;"   
+
+Han förklarar textstället med följande not:
+"Överst på hjälmen fanns en förgylld järnskulptur, som föreställde en vildgalt. Ansiktsvärnet var en föregångare till det medeltida visiret, men var inte rörligt liksom visiret."
+
+• Se vignetten i bokens början.
+(Jag vet inte vad den här noten syftar på.)
+
+
+
+Kapitel 5
+Götarne mottagas av Vendelhövdingen Wulfgar.
+
+320 Över skimrande stenar förde vägen1 kämparne 
+Fram i sluten trupp. Stridsbrynjan sken,
+Hård och flätad; de blanka järnringarna
+Sjöngo i rustningarna, då männen kommo gående
+I sina skräckinjagande dräkter fram till salen.
+325 De sjötrötte satte sina sida sköldar,
+De mycket hårda, mot husets vägg
+Och gingo till bänken; männens stridskläder,
+Brynjorna rasslade; sjömännens vapen,
+De ovantill grå lansarna av ask 
+330 Ställdes tillsammans. Den järnklädda skaran
+Var prydd med vapen. Då sporde där
+En stolt hjälte efter kämparnes börd: 
+»Varifrån fören I pansrade sköldar,
+»Gråa brynjor och visirhjälmar,
+335 »En hop av spjut? Jag är Hroðgars
+»Bud och tjänare. Ej har jag sett så många
+»Utländske män mera modiga
+»Jag tror, att I av mandom och ej i landsflykt,
+»Utan av hugstorhet uppsökt Hroðgar.»
+340 Honom svarade då den kraftberömde;
+Hård under hjälmen, talade väder-götarnes
+Stolte hövding: »Vi äro Hygelacs
+»Bordskamrater; Beowulf är mitt namn.
+»Jag vill nämna mitt ärende
+345 »För Healfdenes son, den frejdade fursten,
+»Din konung, om han ville unna oss,
+»Att vi få hälsa honom, den gode.»
+Wulfgar talade — det var en Vendelhövding;2
+Hans sinneshug var känd av många,
+350 Hans tapperhet och visdom —: »Jag vill spörja,
+»Såsom du beder, danernas vän,
+»Scyldingarnes herre, ringarnas utdelare,
+»Den frejdade fursten, om ditt företag 
+»Och strax förkunna för dig det svar,
+355 »Som den gode tänker giva mig.»
+Han gick sedan skyndsamt dit där Hroðgar satt,
+Gammal och grånad, bland sina ädlingars skara.
+Den kraftberömde gick och ställde sig framför
+Danaherrens axlar: han kände kämparnes sed.
+360 Wulfgar talade till sin vän och herre:
+»Hit ha färdats män av götafolket,
+»Komna från fjärran över havets vidd.
+»Den ypperste av dem giva krigarne
+»Namnet Beowulf. De bedja nu,
+365 »Att de måtte få växla ord
+»Med dig, min konung. Neka icke,
+»Hulde Hroðgar! att ge dem svar
+»I sina rustningar synas de värda
+»Jarlars aktning; särskilt utmärkt
+370 »Är hövdingen, som hitfört dessa kämpar.»
+
+1. Raden har ofta tolkats som att den syftar på en stenlagd väg av den sort som romarna anlade i England och som fanns kvar i anglosaxisk tid. Det fanns dock även stenlagda vägar i Danmark vid denna tid som bör ha imponerat andra skandinaver. Adjektivet som beskriver vägen varierar i olika utgåvor. Wickberg kallar den för brokig, vilket i den reviderade utgåvan har bytts ut mot skimrande. Björn Collinder har skrivit fager.  Jag har inte lyckats hitta något sådant ord i den anglosaxiska originaltexten där det bara står "Stræt wæs stan-fah" (street was stone-paved)
+2. Det finns ett Vendel i norra Uppland men med största sannolikhet är det Vendsyssel i norra Jylland som åsyftas här.
+
+Kapitel 6
+Beowulf och Hroðgar hälsa varandra.
+
+Scyldingarnes värn Hroðgar talade:
+»Jag kände honom, då han var ett barn.
+»Hans gamla fader hette Ecgtheow;
+»Honom gav göten Hreðel till äkta1
+375 »Sin enda dotter; hans starke son
+»Är nu hitkommen, har uppsökt en huld vän.
+»Det sade då sjöfarande,
+»Som förde över götarnes gåvor2
+»Dit efter önskan, att den stridsberömde
+380 »Hade trettio männers styrka
+»I sitt nävtag. Den helige Gud
+»Har i sin nåd sänt honom till väst-danerna,3
+»Så jag hoppas, att hjälpa oss
+»Mot Grendels fasa. Jag vill bjuda
+385 »Den gode smycken för hans djärva mod.
+»Skynda du dig, bed dem gå in,
+»Att jag må se den samlade kretsen av fränder,
+»Säg dem också, att de äro välkomna
+»Till danamännen.» Då gick Wulfgar
+390 Till salsdörren och hälsade inifrån:
+»Eder lät säga min segerherre,
+»Öst-danernas3 furste, att han känner eder börd, 
+»Och att I tappre ären välkomna
+»Över havets vågor till honom.
+395 »Nu mån I gå i edra rustningar
+»Under hjälmarna att se Hroðgar.
+»Låten sköldarne och de dödsbringande spjuten
+»Bida här på samtalets utgång!»
+Upp steg då den mäktige, kring honom mången man,
+400 En ståtlig kämpaskara; några stannade där
+Att vakta rustningarna, som den starke bjöd dem.
+De skyndade samlade efter mannens anvisning
+Under Hjorts tak; den hugstarke gick,
+Hård under hjälmen, och ställde sig inom hörhåll.4
+405 Beowulf talade — på honom sken brynjan,
+Ett stridsnät flätat av smedens konstflit —:
+»Hell dig, Hroðgar! Jag är Hygelacs
+»Frände och hirdman; jag har i min ungdom
+»Utfört många bragder. På min odalgård
+410 »Fick jag noga reda på Grendels sak.
+»Sjöfarande säga, att denna sal,
+»Det yppersta av hus, står tom och gagnlös
+»För alla män, sedan aftonljuset
+»Varder dolt under himlens valv.
+415 »Då rådde mig mina stamfränder,
+»De yppersta män, kloka karlar,
+»Att jag skulle söka dig, konung Hroðgar;
+»Förty de kände min stora styrka,
+»Hade själve sett, då jag kom ur striden,
+420 »Blodbestänkt av fiender; fem5 band jag där,
+»Ödde jättarnes släkt och slog om natten 
+»Havstrollen6 på vågorna, led stort trångmål,
+»Hämnades fiendskapen mot vädergötarne, som råkat illa ut,
+»Krossade deras fiender. Och nu skall jag ensam
+425 »Avgöra saken med jätten Grendel,
+»Skräckbringaren. Nu vill jag då
+»Bedja dig, furste över lysande daner,
+»Scyldingarnes skydd, en enda bön:
+»Att du, krigarnes värn, männens herre och vän,
+430 »Ej vägrar mig nu, då jag kommit så fjärran från,
+»Att få ensam med mina jarlars skara,
+»Denna hårda hop, rensa salen Hjort.
+»Jag har också sport, att skräckbringaren
+»I sin sorglöshet ej bryr sig om vapen.7
+435 »Jag försmår då, så sant mig Hygelac,
+»Min folkkonung, vare blid i hågen,
+»Att bära svärdet eller den sida, gula
+»Skölden i striden, utan med näven skall jag
+»Fatta tag i fienden och kämpa om livet,
+440 »Bröst emot bröst; där får den lita
+»Till herrens dom, som döden rycker bort.
+»Jag tror nog, att han vill, om han får råda,
+»Uppäta götamännen i denna stridssal 
+»Oförfärat, som han ofta gjort
+445 »Med kraftstolte män. Ej behöver du hålla
+»Vakt över mitt huvud;8 han vill nog ha mig,
+»Bestänkt med blod, om döden bortrycker mig:
+»Enslingen bär bort det blodiga liket,
+»Tänker kalasa, äter det sorglöst,
+450 »Nedblodar9 kärrets skrymslen. Ej behöver du då längre 
+»Sörja för vården utav min kropp.
+»Sänd till Hygelac, om striden bortrycker mig,
+»Den bästa av stridsskrudar, som varnar mitt bröst,
+»Den yppersta brynja, ett arv efter Hreðla,
+455 »Welands10 verk. Alltid går ödet som det skall.»
+
+1. Hreðel gifte bort sin enda dotter till Ecgtheow. Deras son Beowulf var därmed systerson till den götiske kungen Hygelac.
+2. Texten talar här om skatteindrivning, handskriftens "gif-sceat" betyder "skatt-gåvor". Den är dock otydlig om huruvida götarna var mottagare eller avsändare till gärderna/gåvorna. Men danerna tycks ha varit den ena parten i transaktionen och med hänsyn till både formuleringen och de historiska förhållandena verkar det som mest sannolikt att Beowulfs folk betalade skatt till danerna.
+3. Benämningar som östdaner och västdaner är poetiska variationer på folknamnet daner. Det har föreslagits att dessa benämningar är en vittnesbörd om forntida politisk splittring inom i det danska folket. I Beowulfskvädet används de dock alltid som synonymer för hela det danska folket. Liknande benämningar är syddaner (464), nord-daner (784), spjut-daner (1), ring-daner (116), "lysande daner" (427),  och halv-daner (1069). Två gångar kallas daner dessutom för Ingviner (1072, 1319). På samma sätt som folknamnen används namnen på Skandinavien eller Skåne som  poetiska namn på hela danernas rike (19 och 1686). På rad 28 i den anglosaxiska dikten Widsith förekommer även benämningen sjödaner.
+4. Översättningens härden från 1889 grundar sig på en textändring av handskriftens heoðe till heorðe. I utgåvan från 1914 har Wickberg valt översätta det med hörhåll i enlighet med handskriften. Både Björn Collinder och Michael Alexander har dock i sina utgåvor accepterat textändringen.
+5. I utgåvan från 1889 står det "troll" istället för "fem" i utgåvan från 1914. Björn Collinder och Michael Alexander har den sistnämnda tolkningen. Handskriften har "fife".
+6. Wickbergs "havstroll" motsvaras av "näckfolk" i Björn Collinders översättning. Handskriften har "niceras" vilket Michael Alexander förklarar med "nicor = sea-monster".
+7. Eftersom Grendel inte använder sig av vapen förklarar den tappre Beowulf på raderna 435-441 att han ska göra likadant och förlita sig på muskelkraft.
+8. En hedersgärd åt den döde. Att täcka över huvudet ingår i begravningsritualen och Beowulf ger här uttryck för självförtroende när han säger att detta inte kommer att bli nödvändigt.
+9. Även här har Wickberg gjort två helt olika tolkningar av samma ord i de två utgåvorna. Björn Collinder har en tredje variant "utan att sörja,    Ej skall du ävlas". Michael Alexanders tolkning av handskriftens ord överensstämmer med Wickbergs från 1914.
+10. I nordisk mytologi är han känd som Völund eller Volund. Han var en mästerlig smed som förekommer i flera germanska berättelser. I engelsk litteratur kallas han för Wayland Smith, vilket är ett namn som bär en omisskännlig likhet med en annan välbekant figur från den tecknade TV-serien Simpsons.
+
+
+Kapitel 7
+Unfreð yttrar sig nedsättande om Beowulf.
+
+Scyldingarnes värn Hroðgar talade:
+»I och för strider, min vän Beowulf, 
+»Och till vår hjälp har du uppsökt oss.
+»Din fader kämpade den största fejd:
+460 »Hans hand vart Heaðolafs bane
+»Bland Wylfingarne;1 då vågade ej
+»Väder-götarne2 behålla honom av fruktan för krig.
+»Då uppsökte han de ärorika Scyldingarnes, 
+»Syddanernas folk3 över vågornas svall.
+465 »Just då rådde jag över danernas folk 
+»Och innehade ung det vida riket,
+»Hjältarnes borg; då var Heregar död,
+»Min äldre broder, Healfdenes son,
+»Ej mer i livet; han var bättre än jag.
+470 »Sedan bilade jag denna fejd med skatter;
+»Jag sände till Wylfingarne över vattnets rygg
+»Gamla smycken; han4 svor mig eder.
+»Sorg i mitt sinne är mig att säga
+»Till vem det vara må, vilken våldsam fiendskap
+475 »Och nesa Grendel berett mig i Hjort
+»Med sina hätska anslag. Min krigarehop,
+»Min salsskara har smält samman; ödet har bortsopat dem
+»I Grendels fasansfulla våld; men Gud kan lätt
+»Hejda den djärve fienden i hans dåd.
+480 »Rätt ofta hava, druckna av öl, 
+»Kämparne lovat vid dryckeskannan
+»Att i ölsalen vilja bida
+»Striden mot Grendel med svärdseggarnas fasor.
+»Då var denna hirdens mjödsal blodfärgad
+485 »Vid morgontiden, då dager lyste,
+»Varje bänktilja övergjuten med blod.
+»Så mycket färre trogna ägde jag,
+»Dyra kämpar, som dem döden bortryckt.
+»Sitt nu ned till gästabudet och tänk i tid5
+490 »På segerära åt männen, som din håg bjuder!»
+Sedan gavs de samlade götamännen
+Plats på en bänk uti ölsalen;
+Dit gingo de tappre, de mycket stolte
+Att sätta sig ned. En sven passade upp,
+495 Bar i handen en sirad ölkanna,
+Iskänkte den klara drycken. Skalden sjöng stundom
+Klart uti Hjort. Där var kämpajubel,
+En talrik skara daner och väder-götar.
+
+1. Wylfingarna, eller Ylvingarna som de kallas i norröna källor, var en forntida kungaätt som förknippas med Östergötland. Att dessa i dikten verkar tillhöra ett annat folk än Beowulfs götar har använts som ett argument mot att Beowulf skulle ha varit östgöte.
+2. I handskriften står det inte Wedera-Geats utan Wedera cyn (väderfolket). Björn Collinder har översatt detta ord med "vädermarksborna". Jämför not 4 i kapitel 3.
+3. Syddaner är en poetisk variation på det danska folket. Jämför not 3 i kapitel 6.
+4. Det är sannolikt Egctheow (Beowulfs far) som avses här.
+5. Tolkningen av denna  rad är osäker, men den kan vara en uppmaning till Beowulf att lyssna hellre än att prata.
+
+Kapitel 8
+Beowulf berättar om sin kappsimning med Breca.
+
+Ecglafs son Unferð talade;
+500 Vid Scyldingafurstens fötter satt han,1
+Löste stridsrunan — den modige sjöfaranden
+Beowulfs företag förtröt honom mycket,
+Förty han unnade ej, att någon annan man
+Under himlen skulle någonsin vinna
+505 Större ära på jorden än han själv —:
+»Är du den Beowulf, som mätte sig med Breca2
+»I kappsimning över det vida havet,
+»Där I övermodigt prövaden vågorna
+»Och för djärft skryt vågaden livet
+510 »I det djupa vattnet? Ej kunde någon man,
+»Ljuv eller led, förmå eder att avstå
+»Från den sorgfulla färden. Sedan summen I i havet,
+»Där I med armarna famnaden havsströmmen,
+»Mätten havsvågorna, svängden händerna,
+515 »Gleden över havsytan; vintersvallet
+»Sjöd i vågorna. I strävaden sju nätter
+»I havets våld; han övervann dig i simning,
+»Hade större styrka. Sedan vid morgontiden
+»Bar havet upp honom till strids-rämerna.*)
+520 »Därifrån uppsökte han, dyr för de sina,
+»Sitt kära arvgods i brondingarnes land,3
+»Den fagra skyddsborgen, där han hade folk,
+»Borg och ringar. Hela sitt vad med dig 
+»Fullgjorde noga Beanstans son.
+525 »Nu väntar jag för dig, så dugande du än varit
+»I alla stridsstormar, en sämre utgång
+»Av den vilda kampen, om du vågar bida
+»Grendel på nära håll natten i ända.»
+Ecgtheows son Beowulf talade:
+530 »Sådan lång rad, min vän Unferð, 
+»Du, drucken av öl, har talat om Breca,
+»Sagt om hans färd! Sant jag säger,
+»Att jag hade större styrka på havet,
+»Strävan på vågorna än någon annan man.
+535 »Vi två sade det såsom ynglingar,
+»Och vi lovade — bådas vårt liv
+»Var då ännu ungt — att våga livet
+»Ute på havet och gjorde det också.
+»Då vi summo ut, hade vi det hårda svärdet
+540 »Naket i handen: vi ärnade värja oss
+»Mot valfiskarna. Han kunde ej alls
+»Flyta ifrån mig längre bort på vågorna,
+»Snabbare i havet, och ej ville jag ifrån honom.
+»Sedan voro vi tillsammans på havet
+545 »Fem nätters tid, tills strömmen drev oss åtskils,
+»De svallande vågorna, det kallaste väder,
+»Den mörka natten och den vilda nordan
+»Kastade sig mot oss; vågorna voro upprörda.
+»Havsfiskarnas mod vart uppeggat;
+550 »Då lämnade mig min hårda, flätade
+»Pansarskjorta skydd mot de lede;
+»Den virkade stridsdräkten, smyckad med guld,
+»Låg på mitt bröst. Mot botten drog mig
+»En hätsk fiende; den vilde höll mig
+555 »Fast i sitt tag. Dock vart mig unnat
+»Att träffa skräckbringaren med svärdets spets.
+»Den stormande striden bortryckte då 
+»Det väldiga havsdjuret genom min hand.
+
+1. Unferð sitter vid Hroðgars fötter som en rådgivare och hirdman. Han tvivlar på Beowulfs möjligheter att besegra Grendel eftersom denne förlorade en simtävling. Denna kritik utmynnar i Beowulfs berättelse om hans kamp mot sjömonster (havstroll).
+2. Breca var son till Beanstan och härskade över brondingarna. Se not 3.
+3. Brondingarna nämns även i den anglosaxiska dikten Widsith (rad 25) där Breca uppges härska över dem. Var brondingarnas land låg är osäkert. Ön Brännö i Göteborgs skärgård har föreslagits som deras hemvist. Men den är alldeles för liten för att husera en folkstam vars härskare var tillräckligt betydelsefull för att  i dikten Widsith nämnas tillsammans med såväl germanska kungar som den romerske kejsaren.
+• Troligen raumarne i Norge. Det sagolika i framställningen gör dock lokaliseringen av här nämnda stammar högst osäker. Ifall det verkligen är dagens Romerike (som ligger nordöst om Oslo) som avses här så talar det emot teorierna om att Beowulf var från Gotland eller Östergötland.
+
+Kapitel 9
+Aftonen tillbringas i festglädje.
+
+»Sålunda ansatte mig ofta och hårt
+560 »De leda skadedjuren. Jag stod dem till tjänst
+»Med mitt dyrbara svärd, såsom vederbörligt var.
+»Ej fingo de illdådarne njuta glädjen
+»Utav den måltiden att få taga mig
+»Och sätta sig till gästabud nära havsbottnen;
+565  »Utan om morgonen lågo de uppe,
+»Sårade av klingan, bland vågornas skum,*)
+»Sövda av svärdet, så att de icke
+»Sedan hindrade sjöfarande
+»På den stupande vägen. Från östan kom ljuset,
+570 »Guds lysande vårdtecken — vågorna lade sig —,
+»Så att jag kunde se lantuddarna,
+»De blåsiga strandhöjderna. Ödet frälser ofta
+»Mannen från döden, då hans mandom duger.
+»Emellertid lyckades jag med svärdet slå ihjäl
+575 »Nio havstroll. Aldrig har jag sport hårdare
+»Nattlig strid under himlens valv
+»Eller armare människa i havets strömmar.
+»Dock undkom jag med livet fiendernas tag, 
+»Trött av färden. Sedan bar mig 
+580 »Havet på sin ström, de svallande vågorna 
+»Till finnarnes land1. Om dig har jag icke
+»Hört förtäljas sådana strider,
+»Svärdens fasor. Ingen av er båda,
+»Breca och du, har ännu i stridsleken
+585 »Någonsin utfört så dyrköpt bragd
+»Med de blanka svärden — ej jag yves däröver —.
+»Du däremot har blivit dina närmaste fränders, 
+»Dina bröders bane; därför skall du i helvetet 
+»Lida fördömelse, fastän ditt vett duger.
+590 »Jag säger dig för sant, du Ecglafs son,
+»Att aldrig skulle Grendel, den hemske skräckbringaren,
+»Vållat din härskare så mycken fasa
+»Och nesa i Hjort, om din hug vore
+»Så stridslysten som du själv säger.
+595 »Men han har funnit, att han ej behöver
+»Synnerligen frukta för fejden med eder,
+»Den hemska svärdsstormen med Seger-scyldingarne;2
+»Han tager tvångspanter, skonar ingen
+»Av danernas folk, utan kämpar med lust,
+600 »Dödar och fråssar, väntar ej strid
+»Av spjut-danerna. Men nu skall jag snart
+»Bjuda honom på götarnes kraft
+»Och mandom i striden. Tillbaka går den som kan,
+»Modig till mjödet, när morgonljuset,
+605 »Den strålande solen följande dygnet
+»Skiner från sunnan över människors barn.»
+Lycklig var då skatternas utdelare,
+De glänsande danernas tappre gråhårsfurste
+Hoppades på hjälp, sedan folkets herde
+610 Hade hört Beowulfs fasta beslut.
+Där var skratt bland hjältarne, sången ljöd,
+Orden voro glada. Fram gick Wealhtheow,
+Hroðgars gemål, med höviskt skick, 
+Hälsade guldsmyckad männen i salen;
+615 Och då gav den friborna makan en bägare
+Först åt öst-danernas odals skyddsherre,
+Bad honom vara blid vid detta ölgille, 
+Vänlig mot männen. Den segerrike konungen 
+Mottog med glädje den bjudna salsbägaren.
+620 Helmingarnes dam3 gick sedan omkring 
+Till hela skaran, gamla och unga,
+Utdelade skatter; tills så fogade sig,
+Att den ringprydda, högsinnade drottningen
+Bar en mjödbägare fram till Beowulf;
+625 Hälsade götarnes furste och tackade
+Gud med visa ord, att nu blivit uppfylld
+Hennes önskan och hopp att av någon jarl
+Få hjälp emot dåden. Den stridsdjärve kämpen
+Mottog bägaren utav Wealhtheow,
+630 Och sedan talade Beowulf högtidligt,
+Ecgtheows son, lysten efter strid:
+»Det var min föresats, då jag gick till sjöss,
+»Satte mig i farkosten med min skara,
+»Att jag fullständigt skulle uppfylla
+635 »Edert folks önskan eller falla på valplatsen,
+»Sluten i fiendens tag. Jag skall utföra
+»En manlig bragd eller också bida
+»Min sista dag i denna mjödsal.»
+Dessa stolta ord av göten
+640 Likade väl kvinnan; guldsmyckad gick
+Den friborna drottningen och satte sig hos sin gemål.
+Därefter, liksom förut, talades käcka ord
+Inne i salen; det segerrika folket
+Var glatt och bullersamt, till dess med ens
+645 Healfdenes son ville söka
+Sin aftonro. Han visste, att strid
+Väntade skräckbringaren i den höga salen,
+När de ej kunde se solens ljus,
+Och den mörka nattens skugglika skepnader
+650 Kommo skridande dystra under molnen
+Hän över alla. Hela skaran reste sig.
+Då hälsade den ene mannen den andre,
+Hroðgar Beowulf, och önskade honom lycka,
+Gav i hans våld salen och sade:
+655 »Aldrig har jag förut, sedan jag kunnat
+»Höja hand och sköld, överlåtit åt någon
+»Danernas ståtliga hus förrän nu åt dig.
+»Tag nu i din vård det yppersta av hus,
+»Minns din hjälteära, visa din mannakraft,
+660 »Håll vakt mot fienden! Intet du önskar ska du sakna,
+»Om du med livet genomgår detta hjältedåd.»
+
+• Eller på kustens sand. 
+1. Det går inte att avgöra om det Finland eller Finnmarken i norra Norge som handskriftens "Finna land" syftar på, dvs. finnar eller samer. Men om utgångspunkten var Kattegatt och slutpunkten låg vid Finnmarken så gör dikten sig skyldig till en rejäl överdrift när den säger att Beowulf  drev bort dit. Ifall färden började utanför Gotland och slutade vid södra Finland blir den mer trovärdig. Detta textställe stöder med andra ord teorin att Beowulf kom från Gotland (eller Östergötland)..
+1. Ärenamnet Seger-scyldingar kan i det här sammanhanget uppfattas som sarkasm eftersom han talar om hur lite Grendel har haft att frukta från danerna.
+3. Wealhtheow. Att hon beskrivs som "Helmingarnas dam" tyder på att hon var ättling till en man vid namn Helm. I Skjöldungasagan och Rolf Krakes saga uppges hon vara dotter till en engelsk kung. Det finns en teori som går ut på att det engelska småkungadömet East Anglia styrdes av den skandinaviska Ylvingaätten. Detta beroende på de båtgravar som finns i Sutton Hoo och som är gjorda i exakta samma stil som dem i uppländska Vendel och Valsgärde. Dikten Widsith (rad 29) nämner dessutom att en Helm styrde över Wulfingarna (Ylvingaätten). Om det är denne Helm som Wealhtheow härstammar ifrån så tillhörde hon Ylvingaätten. Och tillsammans med de isländska sagornas uppgifter om hennes engelska bakgrund har man därmed på ganska lösa grunder identifierat East Anglias kungar som Ylvingar.
+
+Kapitel 10
+Götarne vilar i salen Hjort.
+
+Sedan gick Hroðgar, Scyldingarnes furste,
+Men sin kämpaskara ut ur salen. 
+Stridsfursten ville söka vilan
+665 Hos drottning Wealhtheow. Härlighetens konung1
+Hade mot Grendel, som männen sport,
+Utställt en salsvakt, höll särskild vård
+Om danernas furste, vakt emot jätten.
+Ja, fast förtröstade götarnes hövding
+670 På sitt mod och sin kraft, på skaparens huldhet
+Han tog då av sig sin järnbrynja,
+Sin hjälm av huvudet, räckte sitt sirade svärd,
+Det yppersta stål, åt en tjänare
+Och bad honom förvara stridsrustningen.
+675 Sedan talade den gode göten Beowulf
+Några stolta ord, innan han steg i bädden:
+»Ej räknar jag mig ringare i hjältekraft
+»Och stridsbedrifter än den där Grendel.
+»Därför vill jag icke med svärd döda honom,
+680 »Taga hans liv, även om jag kan det.
+»Han känner ej sådana fördelar som att ge slag tillbaka,
+»Sönderhugga skölden, så stark han än är
+»I nidingsdåd; utan vi skola i natt
+»Bägge sakna svärd, om han vågar söka
+685 »Strid utan vapen; och sedan tilldöme
+»Den vise Gud, den helige herren,
+»Äran åt den sidan, som honom gott synes!»
+Sedan lade sig den tappre, huvudkudden mottog
+Jarlens anlete, och kring honom lutade sig
+690 Mången rask sjöman till vila i salen.
+Ingen av dem trodde, att han någonsin skulle
+Återkomma därifrån till sitt kära hem,
+Sitt folk och skyddsborgen, där han blivit uppfödd;
+Ty de hade sport, att en blodig död
+695 Förut hade bortryckt alltför många danamän
+I denna vinsal. Men herren gav
+Väder-götamännen stridslyckans vävnad,2
+Tröst och stöd, så att de alla
+Genom ens kraft, hans egen styrka
+700 Övervunne sin fiende: sant visade sig, 
+Att den mäktige Gud alltid har rått
+Över människors släkte. — I den mörka natten kom 
+Skuggvandraren skridande. Skyttarne sovo,
+Som skulle vakta det hornprydda huset,3
+705 Alla utom en. Då blev känt för människor,
+Att den oförsonlige*) fienden ej fick sända dem
+Till skuggornas rike, då skaparen ej ville det; 
+Utan den vredgade bidade vaken 
+På stridsmötet fienden till harm.
+
+1. Gud.
+2. Detta ställe innehåller en blandning av kristen och hednisk livsåskådning. Det kristna inslaget framgår av att det är Gud som uppges bestämma över människors öden. Men "stridslyckans vävnad" syftar på den väv som ödesgudinnorna i nordisk mytologi (nornorna) spann för varje människa. Jämför Njalsagans vävsång.
+3. Troligen var vindskivorna på husets gavlar upprättade så att de påminde om horn.
+• Eller: spöklike.
+
+Kapitel 11
+Grendel anfaller Beowulf, men övermannas.
+
+710 Då kom Grendel gångande från träskets
+Töckniga stränder, bar på Guds vrede.
+Illdådaren trodde sig skola ombringa
+Någon av männen i den höga salen;
+Gick under molnen åt det håll, där han visste
+715 Sig säkert skola finna vinhuset och männens
+Guldskimrande sal. Ej var detta första gången
+Som han uppsökte Hroðgars hem.
+Men aldrig i sina livsdagar, varken förr eller senare, 
+Fann han hårdare hjälte bland männen i salen
+720 Glädjeberövad kom då mannen
+Vandrande till huset. Dörren, som var fastgjord 
+Med eldsmidda band, sprang genast upp, 
+Då han stötte till den med händerna. Illasinnad och vred,
+Bröt han upp husets ingång. Och snart därefter
+725 Trädde fienden in på det brokiga golvet,
+Gick vildsint fram. Ur Hans ögon stod
+En vidrig glans, snarlik en eldslåga.
+I huset såg han många kämpar,
+En skara av fränder sova tillsammans, 
+730 Manliga hjältar; då log hans sinne. 
+Den hemske skräckbringaren tänkte, att han skulle,
+Innan dagen komme, skilja vars och ens
+Liv från kroppen, nu då han fått hopp
+Om en riklig måltid. Men ej längre ville ödet,
+735 Att han skulle få taga flera människor
+Efter denna natt. Hygelacs starke
+Frände såg då huru illdådaren
+Ärnade anbringa sina våldsamma tag.
+Skräckbringaren ville ej dröja,
+740 Utan tog raskt första gången 
+En sovande man, slet sönder honom ostörd,
+Bet i benhöljena1, drack blodet ur ådrorna,
+Svalde bit efter bit; snart hade han
+Helt och hållet förtärt den döde mannen,
+745 Hans fötter och händer: Han gick närmare fram
+Och fattade sedan med handen den modige
+Kämpen i bädden, sträckte sin hand
+Fram emot fienden, som strax tog emot
+Det lömska anfallet och stödde sig mot armen.2
+750 Snart kunde illdådens herde märka,
+Att han ej träffat uti midgård,
+På jordens sköte, hos någon annan
+Starkare handtag. Han vart då rädd
+I hugen, men kunde ej mera fly därifrån.
+755 Han tänkte komma undan, ville fly till sitt gömsle,
+Söka djävlarnes sällskap; ej var hans göra här
+Sådant som han förut hävt i sina livsdagar.
+Då mindes Hygelacs modige frände
+Sitt aftontal och reste sig i hela sin längd,
+760 Tog fast i honom. Fingrarna knakade;
+Jätten strävade utåt, jarlen steg längre fram.
+Den beryktade varelsen ville fly vidare,
+Vart han än kunde och bort därifrån
+Till träskets gömslen: han kände fiendens fasta
+765 Grepp om sina fingrar. Det var en usel färd,
+Som illdådaren styrt till Hjort.
+Hirdsalen dånade; för alla de djärva
+Danajarlar, som bodde i borgen,
+Vart ölet bittert3; vreda kämpade
+770 De två om salen. Huset dånade,
+Och stort under var, att denna vinsal 
+Höll stånd mot kämparne, att den fagra byggnaden
+Ej föll till marken; utan så fast var den
+Innan- och utantill konstrikt hopsmidd 
+775 Med band av järn. Från underlaget bröts,
+Där fienderna kämpade, så har jag sport,
+Mången mjödbänk, smyckad med guld.
+Det trodde ej förr Scyldingarnes stormän, 
+Att det någonsin skulle stå i någon människas makt
+780 Att nedriva det härliga, hornprydda huset,
+Med svek förstöra det, om ej lågans famn
+Skulle svälja det i rök. Ett alldeles oerhört
+Dån uppstod; hemsk fasa
+Grep var och en av nord-danerna4,
+785 Som från muren hörde verop,
+Hörde Guds vedersakare sjunga sin fasansfulla
+Segerlösa sång, den vid helvetet fjättrade
+Klaga sin smärta. Honom höll, för fast
+Den som bland människor var den starkaste
+790 I de dagarna av detta livet.
+
+1. Musklerna.
+2. Vissa har tolkat detta ställe som att Beowulf använde ett slags jiujitsuknep (armlås).
+3. Antingen egentligt: 'det öl de druckit kändes beskt', eller figurligt: 'de fingo en bitter bägare att tömma'.
+4. Nord-daner är en poetisk variation på det danska folket. Jämför not 3 i kapitel 6.
+
+Kapitel 12
+Grendel flyr, stympad och döende.
+
+På intet villkor ville jarlarnes värn
+Låta den mordiske gästen få gå med livet
+Och ansåg icke hans levnadsdagar
+Nyttiga för någon. Där svängde mången
+795 Av Beowulfs män sitt gamla svärd,
+Ville värna den frejdade furstens,
+Hövdingens liv, om så de kunde.
+De visste det ej, de tappre krigarne,
+Då de kämpade denna strid 
+800 Och ville hugga den skuldbelastade fienden 
+På alla håll och nå hans själ, 
+Att intet det bästa stål på jorden,
+Ingen klinga ville bita på honom; 
+Ty han hade genom trolldom gjort sig hård emot alla
+805 Segervapens eggar. Ömkligt skulle
+Hans levnads slut bliva den dagen
+Av detta livet och den främmande gasten
+Fara fjärran i fiendernas våld.
+Då kunde märka han som förut
+810 Med fröjd i hågen övat många illdåd 
+Mot människosläktet — han var fiende till Gud —,
+Att hans kropp icke ville följa honom,
+Utan Hygelacs modige frände
+Höll honom med sin hand: den enes liv
+815 Var den andre okärt. Kroppssmärta led
+Den hemske skräckbringaren: på hans axel skönjdes
+Ett oläkligt sår; senorna sprungo,
+Benhöljena knakade. Stridsära vart
+Given Beowulf; dödssjuk måste
+820 Grendel fly därifrån till träskets stränder,
+Söka sitt glädjelösa hem. Han visste fullväl,
+Att hans levnads slut nu hade kommit,
+Hans dagars tal. Alla daners önskan
+Blev nu uppfylld genom denna stridsstorm.
+825 Den vise och tappre, som kommit från fjärran
+Hade då rensat Hroðgars sal, 
+Frälst den från fiendskap. Han gladde sig åt nattarbetet
+Och sin hjälteära. Götarnes hövding
+Hade hållit sitt ord till öst-danerna
+830 Och även avhjälpt allt det lidande,
+Den smygande sorg, som de förut lidit
+Och i sin stora nöd hade måst tåla,
+En stor nesa. Som uppenbart tecken
+Framlade kämpen Grendels arm,
+835 Hand och axel — allt vad som hörde
+Till Grendels grepp —under det vida taket.
+
+Kapitel 13
+Segern firas med saga och sång.
+
+Sedan samlades om morgonen, såsom jag sport
+Mången kämpe kring tronsalen.
+Hövdingarne kommo från fjärran och nära
+840 Vida vägar att skåda undret,
+Den ledes spår. Hans levnads slut
+Tycktes ej smärtsamt för någon man
+Bland dem som skådade den ärelöses steg,
+Huru, trött i sinnet, övervunnen i striden,
+845 Flyende och livdömd, han burit dödsspår
+Bort därifrån till sjötrollens1 hem.
+Där var vattenytan svallande av blod, 
+En hemsk virvel, helt upprörd, 
+Sjöd av svärdsblod, av heta blodvågor;
+850 Den dödsvigde dök ned och lade glädjelös
+Ned sitt liv, sin hedniska själ 
+I träskets fristad, där helvetet mottog honom.
+Därifrån återvände de gamle hirdmännen
+Och mången ung efter glädjerik färd.
+855 Från sjön redo de modige männen 
+På ljusa hästar. Där blev talat
+Om Beowulfs ära: ofta sade mången,
+Att i norr och söder vid de tvenne haven,
+På den vida jorden ingen annan 
+860 Sköldbärare under himlens vidd
+Vore bättre och mera värd att härska.
+Dock nedsatte de ingalunda sin vän och herre,
+Den blide Hroðgar, utan det var en god konung.
+Stundom läto de stridsberömde
+865 Sina ljusa hästar löpa i kapp,
+Där landsvägarna tycktes dem fagra
+Och välkända; stundom var det
+En konungens man, höljd utåt lov,
+Som mindes sånger och en hel mängd
+870 Av gamla sagor och nu fann nya
+Och sanna ord. Han började nämligen
+Vist ordna*) Beowulfs företag
+Och skickligt tälja konstrikt tal 
+Med växlande ord. Han kvad också
+875 Rätt mycket okänt, som han hört sägas 
+Om Sigemund och hans bragder,
+Välsingens2 kamp, hans vida färder,
+Hans fejd och brott, som människors barn
+Ej noga kände, utom Fitela**) jämte honom,
+880 Då morbrodern ville omtala något dylikt 
+För sin systerson, såsom de alltid voro
+Fasta vapenbröder i varje strid.
+Men svärd hade de fällt en hel mängd 
+Av jättesläktet. Ej liten ära
+885 Upprann för Sigemund efter hans dödsdag, 
+Sedan den stridshårde dödat ormen,
+Skattens vårdare: ensam vågade
+Ädlingens son det djärva dådet
+Under den grå klippan: ej var Fitela med honom.
+890 Dock lyckades det honom med svärdet genomborra
+Den underbara ormen, så att det dråpliga stålet
+Stod fast i väggen: draken fick banesår. 
+Skräckbringaren3 hade genom mandom vunnit,
+Att han fick nyttja efter eget behag
+895 Ormens ringskatt: sonen till Väls
+Lastade en farkost, bar i skeppets sköte
+De glänsande smyckena; ormen smälte i hettan.
+Bland vandrande hjältar var denne, kämparnes värn,
+Mest frejdad vida bland människosläktet
+900 För sina bragder: därför växte hans rykte. —
+Sedan Heremods4 kraft och mandom
+I striden sjunkit, vart han inom kort 
+Svekfullt utlämnad till jutarne,
+I fiendernas våld.5 Honom hade sorgens svall
+905 Alltför länge förlamat. Han blev för sina män,
+För alla ädlingar en källa till livssorg,
+Och ofta beklagades i forna tider 
+Den tappres färd av mången vis man,
+Som av honom hoppats hjälp i olyckorna, 
+910 Och att detta furstebarn skulle få växa och övertaga
+Sin faders värdighet, vård om folket,
+Skatt och skyddsborg, hjältarnes rike,
+Scyldingarnes arvland. Hygelacs släkting6
+Var då kärare för alla vänner,
+915 För människosläktet: över den förre kom sveket.***) —
+Stundom tillryggalade de i kapp på sina hästar
+De ljusa vägarna. Då hade morgonljuset 
+Hastigt skjutit fram. Mången tapper
+Tjänare gick till den höga salen
+920 Att se stridsundret; även Konungen själv,
+Ringskatternas vårdare, trädde, ärorik
+Och högt frejdad, med stort följe
+Ur frustugan, och med honom gick
+Hans gemål mjödstigen, ledsagad av tärnor.
+
+• D. v. s. I vers skildra.
+• Sinfjötle i den nordiska sagan (Völsungasagan). I denna är det, som bekant, Sigmunds son Sigurd (Fafnesbane) som dödar ormen.
+• Såsom motsats till Beowulf framställes Heremod, en dansk konung, som, i början lovande och framstående, sedermera blev övermodig och tyrannisk samt av sitt folk förråddes eller måste fly till landets fiender.
+1. I den reviderade utgåvan från 1914 har Wickberg ändrat "havstroll" till "sjötroll". Detta trots att han i rad 422 har behållit den ursprungliga översättningen "havstroll" av handskriftens "nicor". Björn Collinder är här konsekvent när han har översätt ordet till "näckfolk". Michael Alexander har däremot i likhet med Wickberg gått från "sea-monster" på rad 422 till "water-monster" på rad 846 trots att det är samma ord som översätts.
+2. Välsing = Väls son = Sigemund. Se rad 895.
+3. Sigemund.
+4. Denne danske kung kallas för Hermóðr i norröna källor och skildras även på raderna 1709b-1722. Jämför också punkt-noten ovan.
+5. Den reviderade upplagen har här skrivit "I fiendernas våld" istället för 1889:s "I deras våld" samt bytt ut "fienderna" i raden ovan med "jutarna". Björn Collinders översättning, som verkar överensstämma mycket bättre med handskriften, har följande tolkning av raderna 901-904a.
+      "Alltsedan Heremods    hug hade försvunnit
+      hans styrka och hjältemod:    bland jutarna vart han
+      förrådd och föll    i fienders våld
+      och vart driven ur landet."
+Collinder har i not angett att det alternativt ska vara jättar istället för jutar.
+6. Beowulf.
+
+Kapitel 14
+Hroðgar tackar Beowulf för bragden.
+
+925 Hroðgar talade — han gick till salen,
+Ställde sig vid en pelare, såg på det guldsmyckade,
+Höga taket och Grendels hand —:
+»Den allsmäktige vare genast tackad
+»För denna åsyn! Mycket ont och sorgligt
+930»Har jag lidit av Grendel: städse kan Gud verka,
+»Härlighetens herde, under efter under.
+»Det var ej länge sedan, som jag ej hoppades
+»I hela mitt liv få någon bot 
+»För mina olyckor, när det yppersta
+935 »Bland alla hus stod stänkt av stridsblod, —
+»En olycka, som vida bortskrämt alla stormän,
+»Som icke hoppades någonsin kunna
+»Värja männens härskareborg
+»Mot leda gastar. Nu har en hirdman
+940 »Genom herrens makt utfört en bragd,
+»Som vi alla förut ej kunde med vår klokhet
+»Sätta i verket. Ja, det kan verkligen
+»Den kvinna, som fött denne son i världen,
+»Säga, om ännu hon finnes i livet,
+945 »Att den evige skaparen varit henne huld
+»Vid barnsbörden. Nu vill jag i livet
+»Älska dig, Beowulf, såsom en son,
+»Du den bäste av män! Bevara hädanefter väl
+»Denna nya frändskap! Ej skall du i världen
+950 »Behöva sakna något, som ligger i min makt.
+»Rätt ofta har jag hedrat som lön för mindre bragd
+»Med dyrbara skatter en ringare kämpe,
+»Sämre i striden. Du har själv åstadkommit
+»Genom dina bragder, att din ära skall leva
+955 »Ständigt i livet. Den allsmäktige vedergälle
+»Dig med goda gåvor, såsom han hittills gjort!»
+Ecgtheows son Beowulf talade:
+»Vi ha utkämpat detta hjältedåd
+»Med stor glädje, djärvt prövat på
+960 »Den okändes styrka. Helst skulle jag velat,
+»Att du hade fått se honom själv,
+»Den rustade fienden, trött till döden.
+»Jag ville snabbt fjättra honom
+»Med hårda nävar på dödsbädden,
+965 »Så att han skulle ligga i dödskval 
+»Under mitt tag, om ej hans kropp glidit undan.
+»Jag kunde icke, då ej skaparen ville det,
+»Hindra hans gång: så fast höll jag icke
+»Dödsfienden; utan denne var alltför
+970 »Stark på foten. Dock lämnade han kvar,
+»För att rädda livet, såsom spår sin hand,
+»Arm och axel; likväl fick icke
+»Den eländige mannen någon hjälp därav.
+»Ej längre lever missdådaren,
+975 »Hemsökt för sina synder, utan honom har smärtan
+»Under tvingande grepp hårt omsnärt
+»I svåra band. Där skall han bida,
+»Den skuldbefläckade mannen, på den stora domen,
+»Som den härlige skaparen skall fälla över honom.»
+980 Då blev Ecglafs son1 tystare
+Med sitt skrytsamma tal om stridsbedrifter,
+När ädlingarne, tack vare jarlens kraft,
+Fingo skåda fiendens hand och fingrar
+Högt uppe i taket. Framtill var var och en
+985 Av de fasta naglarna snarlik stål;
+Den hedniske kämpens handsporre*) var
+Otäck och hemsk. Var och en sade, 
+Att intet beprövat kämpasvärd
+Ville bita på honom samt avhugga
+990 Skräckbringarens blodiga stridsnäve.
+
+1. Unferð, se vv. 499 ff.
+2. Eller också: . . . handspjut var En hemsk klo. Notera skillnaden mellan utgåvorna på rad 986. Björn Collinder har "handsporre" och "stingande broddar". Handskriften har "hand-sporu" och egl unheoru" vilket enligt Michael Alexander betyder "talon" (rovfågelsklo (!?)) respektive "hideous spike".
+• Klo. (se not 2)
+
+Kapitel 15
+Hroðgar förärar skänker åt Beowulf.
+
+Sedan lät man snabbt händerna smycka
+Hjort innantill: det fanns en mängd
+Män och kvinnor, som satte i stånd
+Den gästvänliga vinsalen. Guldskimrande skeno
+995 Bonader längs väggarna, många underbara syner
+För alla män, som skåda på dem.
+Det härliga huset, fullständigt innantill 
+Hopfäst med järnband, var illa skadat,
+Gångjärnen sprängda; taket ensamt
+1000 Blev alldeles oskadat, då skräckbringaren,
+Skuldbelastad, tog till flykten,
+Misströstande om sitt liv. Ej är det lätt
+Att fly undan döden — göre det den som vill! —;
+Utan drivet av tvång, skall varje människobarn,
+1005 Som hyser en själ och bor på jorden,
+Nödgas söka den redda bädden,
+Där hans kroppshydda, vilande på lägret,
+Skall sova efter gästabudet. — Då var rätta tiden
+För Healfdenes son att gå till salen:
+1010 Konungen själv ville intaga sitt mål.
+Ej har jag sport, att en större skara
+Uppfört sig bättre kring sin skatt-utdelare.
+De ärorika männen gingo till bänken,
+Gladde sig åt måltiden, mottogo höviskt 
+1015 Mången mjödbägare; de tappre fränderna
+Hroðgar och Hroðulf voro då där,
+I den höga salen. Hjorts inre
+Fylldes av vänner: då hade Scyldingarne1
+Ännu ej övat förrädiska anslag.
+1020 Healfdenes son gav sedan Beowulf 
+Till segerlön ett gyllene fälttecken,
+Ett smyckat banér, hjälm och brynja,
+Ett frejdat och sirat svärd: många sågo dessa
+Bäras fram för hjälten. Beowulf mottog
+1025 En bägare i salen; ej behövde han skämmas
+Inför skyttarne för dessa gåvor.
+Ej har jag sport, att många män
+Hjärtligare givit på ölbänken en annan
+Fyra smycken, sirade med guld.
+1030 Kring hjälmens krön höll en rundad valk,
+Omlindad av metallband, skyddsvakt över huvudet,
+Att ej filarnas alster2, hårda i stridsskuren,
+Måtte förmätet skada honom, då hjälten,
+Väpnad med sköld, skulle gå mot fienderna.
+1035 Jarlarnes värn lät vidare föra
+In uti huset åtta hästar
+Med guldsmidda betsel; på en av dem låg
+En guldsmyckad sadel, konstrikt arbetad.
+Det var den höge konungens säte i striden,
+1040 Då Healfdenes son ville öva svärdslek:
+Aldrig vilade i härens spets
+Den vittfrejdades tapperhet, då kämparne föllo.
+Och då lämnade Ingvinernas*) skyddsherre
+Båda delarna, hästar och vapen, 
+1045 I Beowulfs våld, med sin välönskan därtill.
+Så värdigt vedergällde den frejdade fursten,
+Hjältarnes skattvårdare, stridsstormarna
+Med hästar och skatter, att det aldrig kan klandras
+Av den man, som rätt vill säga sanning.
+
+1. Det ord som Wickberg har översatt till "Scyldingarne" (Þeod-Scyldingas) har Björn Collinder översatt till "folkskyldungerna".
+2. Det som filarna lemna = svärd.
+• = öst-danernas. Ingvinerna är i Beowulf en synonym för daner i största allmänhet. Namnet betyder "Ings vänner" och Ing är en variant på guden Frejs namn (Yngve-Frej). Notera att Tacitus indelar germanerna i tre grupper varav ingaevonerna är de som bor närmast Oceanien. (Germania, kapitel 2).
+
+Kapitel 16
+En skald skildrar striden med Finn.
+
+1050 Dessutom gav jarlarnes drott
+Åt var och en av dem på mjödbänken,
+Som med Beowulf tillryggalagt vägen över havet,
+Ett dyrbart arvsvärd och bjöd att gälda
+Med guld den man, som Grendel nyss
+1055 Ondskefullt dödat, som han velat göra med flere,
+Om ej den vise Gud och hjältens mod avvärjt
+Från dem detta öde: skaparen rådde
+Över alla människor, såsom han ännu gör.
+Därför är förstånd och sinnets förtänksamhet
+1060 Överallt det bästa; mycket ljuvt och lett
+Måste den röna, som lever länge
+Här uti världen strävsamma dagar. —
+Där var sång och musik på en gång därinne1
+Om Healfdenes häranförare;
+1065 Harpan anslogs, ofta klingade sången,
+Då Hroðgars skald väckte fröjd i salen
+Längs mjödbänken, då han talade 
+Om Finns söner, när olyckan drabbade dem.*)
+»Healfdenes2 hjälte, Scyldingen Hnäf
+1070 »Föll för ödet på frisernas valplats.
+»Ja, ingalunda kunde Hildeburg prisa
+»Jutarnes3 tro: oförskylt miste
+»Hon sina kära, barn och bröder**)
+»I denna sköldlek; de föllo för ödet, 
+1075 »Sårade av spjutet; sorgsen var kvinnan.
+»Och ej utan skäl klagade Hocs dotter
+»Över skickelsen, då morgonen kom,
+»Och hon kunde se under den ljusa himlen
+»De sinas olyckliga död, av vilka hon förr haft
+1080 »Den största glädje i världen. Striden hade bortryckt
+»Alla Finns kämpar utom några få,
+»Så att han ej kunde på valplatsen
+»På något sätt utkämpa striden med Hengest,4
+»Genom kamp skydda de olyckliga spillrorna
+1085 »Mot konungens man;5 utan de erbjödo dem fördrag: 
+»Att de helt skulle inrymma ett annat hus åt dem
+»Med sal och högsäte, så att de skulle äga
+»I sitt våld hälften mot jutarnes söner;6
+»Och vid skattutdelningar skulle varje dygn
+1090  »Folcvaldas son7 hedra danerna,
+»Skänka ringar och dyrbara skatter
+»Av drivet guld åt Hengests skara
+»Jämt lika mycket som han ville elda
+»Frisernas stam med gåvor i ölsalen.
+1095 »Så slöto de högtidligt å ömse sidor
+»Fast fredsfördrag. Finn bekräftade
+»För Hengest med eder, kraftigt och okränkbart,
+»Att han skulle hålla i ära efter stormännens råd
+»De olyckliga spillrorna, och ingen man där
+1100 »Med ord eller dåd bryta fördraget 
+»Eller någonsin bakslugt omnämna detta,
+»Att de dock följde sin ringutdelares8 baneman,
+»Herrelöse, då de så måste.
+»Om då någon friser med utmanande tal 
+1105 »Väckte minnet av dödshatet,
+»Skulle svärdets egg straffa detta.
+»Eden avlades, och glänsande guld
+»Lyftes ur skatten. Här-scyldingarnes 
+»Bäste kämpe9 var redo för bålet.
+1110 »Lätt skönjbara voro på detta bål
+»Den blodbestänkta brynjan, ett guldbeslaget vildsvin
+»Av hårt järn samt mången ädling,
+»Död av sina sår: ej få föllo på valplatsen.
+»Då lät Hildeburg åt lågan överlämna
+1115 »På Hnäfs bål sin egen son,
+»Bränna hans kropp, lägga den på bålet.
+»Den arma modern sörjde vid hans skuldra
+»Med klagande ord. Kämpen besteg bålet.
+»Mot molnen virvlade den största bland liklågor,
+1120»Susade framför högen; huvudena smälte,
+»Sårens portar brusto, då blodet sprang ut
+»Ur leda bett10 på kroppen. Den glupskaste av andar,
+»Lågan svalde alla, som striden där bortryckt
+»Av båda folken; deras kraft var förbi.
+
+• Innehållet i den följande episoden synes vara: Finn, hövding över jutarne, en frisisk stam (jämför not 2 nedan), är gift med Hildeburg, Hocs dotter. Dennas broder Hnäf har med en skara daner anlänt till Finns rike. Danerna överfallas förrädiskt i Finns borg, och Hnäf dödas. Hans efterträdare Hengest håller emellertid stånd mot jutarne, och ett fördrag ingås. Efter någon tid uppflammar dock fiendskapen ånyo, och nu dödas Finn av danerna, som fått förstärkningar hemifrån. — Sammanhanget är dock dunkelt, och flera uttryck svårtydda och omtvistade.
+• Plur. för sing. = son och broder.
+1. Här har skalden skjutit in en episod som skildrar en konflikt mellan daner och friser. Detta kan ursprungligen ha varit en separat dikt och den täcker här in raderna 1063-1159.
+2. Wickberg har tolkat handskriftens Healf-Dena som en upprepning av personnamnet Healfdene (Halvdan) på rad 1064. Troligen är det dock ännu en poetisk variant på danernas stamnamn. Björn Collinder och Michael Alexander har nämligen tolkat det som "halvdaner". Jämför not 3 i kapitel 6. En annan forskare har dessutom föreslagit att den underliga benämningen halv-daner skulle kunna syfta på jutar i dansk tjänst. Jämför not 6..
+3. I utgåvan från 1889 förklaras rad 1072 så här: Uttrycket 'fiender' fattas i denna episod ur den danske sångarens synpunkt, således = 'friser'. I den reviderade utgåvan från 1914 har Wickberg däremot bytt ut "fiender" mot "jutar". I handskriften står det "Eotena" och både Björn Collinder och Michael Alexander har tolkat detta ord som jutar. Den sistnämnde förklarar raden med att jutar som var allierade med Finn deltog i attacken mot Hnäf. Denna tolkning är mycket mer sannolik än Wickbergs påstående att jutarna skulle ha varit en frisisk stam.
+4. Efter Hnäfs fall blef denne dana-skarans anförare. Kan möjligen vara identisk med den Hengest som erövrade Kent.
+5. Danakonungens man = Hengest.
+6. Michael Alexander har tolkat fredsavtalet som att det fanns jutar även på den danska sidan, och att hallen som de fick skulle delas lika mellan daner och jutar. Jämför not 2.
+7. Finn.
+8. Danernas ringutdelare = Hnäf; dennes baneman = Finn.
+9. Hnäf . Detta är Beowulf-kvädets andra dramatiskt skildrade begravning. Den första var Scylds i inledningen (32-52) och den tredje blir Beowulfs egen som avslutar hela kvädet  (3137-3182).
+10. = sår.
+
+Kapitel 17
+Drottningen talar till Hroðgar.
+
+1125 »Sedan gingo kämparne, som mist sina vänner, 
+»Att uppsöka sina bostäder och se Frisland, 
+»Hemmen och härskareborgen. Hengest bodde 
+»Då ännu hos Finn över den blodiga vintern 
+»Utan någon söndring:1 tänkte på hembygden,
+1130 »Fastän han ej kunde skjuta ut i havet 
+»Den ringade stäven, — havet upprördes av stormen, 
+»Kämpade med vinden; vintern omslöt vattnet 
+»Med isfjättrar, — till dess ett nytt år
+»Kom till gårdarna, som det ännu gör, 
+1135 »Det klara väder, som ständigt kommer 
+»I sinom tid. Då var vintern förbi,
+»Jordens barm fager. Den främmande gästen
+»Längtade från gårdarna; han tänkte dock mera
+»På hämnd för sitt lidande än på sjöresan, 
+1140 »Om han skulle kunna åstadkomma en sammanstötning
+»Och i denna hågkomma jutarnes söner,
+»Om blott han ej bröte mot världens ordning*)
+»Då lade Hunlafs son2 i hans sköte
+»Stridens glans, det yppersta av svärd;**)
+1145 »Dess eggar voro kända bland jutarne.
+»Också drabbade sedan bitter svärdsdöd
+»Den djärve Finn i hans eget hem,
+»Då Guðlaf och Oslaf efter sjöresan3
+»Klagade sin sorg, det hätska angreppet,
+1150 »Tillvitade honom sina olyckor: ej kunde deras oro
+»Styra sig i bröstet. Då rödfärgades salen
+»Av fienders lik; Finn dödades,
+»Konungen bland sin hird, och drottningen rövades.
+»Scyldingarnes skyttar förde till skeppen
+1155 »Landskonungens hela bohag,
+»De smycken och juveler, som. de kunde finna
+»I Finns hem. På havets stråt
+»Förde de sedan den ädla kvinnan
+»Till danernas folk.» Så slutade kvädet,
+1160 Sjunget till harpan. Sedan höjde sig jublet
+Högljutt från bänkarna: svenner ihällde
+Vin ur konstrika kärl. Då kom Wealhtheow gående fram
+Under ett gyllene pannband dit där de båda gode,
+Farbror och brorson,4 suto. Då rådde ännu fred
+1165 Och tro emellan dem. Där satt ock talaren Unferð
+Vid Scyldingafurstens fötter: alla tilltrodde hans sinne
+Att äga stort mod, fastän han ej varit ärlig mot sina fränder5
+I svärdseggarnas lekar. Då sade Scyldingarnes drottning:
+»Tag denna bägare, min herre och konung,
+1170 »Du skatt-utdelare, hell vare dig,
+»Männens guldvän, och tala till götarne
+»Hulda ord: så skall mannen göra!
+»Var blid mot götarne och tänk på gåvor;
+»Nära och fjärran har du nu fred.
+1175 »Man har sagt mig, att du ville hålla
+»Hjälten som en son. Den strålande ringsalen
+»Hjort är rensad: giv, medan du kan,
+»Många belöningar och lämna dina söner
+»Folk och rike, då du skall bort att skåda
+1180 »Skaparens skickelse. Jag känner min
+»Blide Hroðulf, att han vill hålla
+»Dessa ynglingar i ära, om, Scyldingavän!
+»Du förr än han lämnar denna värld.
+»Jag hoppas, att han skall med godhet vedergälla
+1185 »Bådas våra barn, om han minnes all
+»Den huldhet vi förut visat honom som barn
+»Efter hans önskan och till hans ära.»
+Sedan vände hon sig till den bänk, där hennes söner,
+Hreðric och Hroðmund, och kämparnes unga
+1190 Söner suto samman; där satt den gode
+Göten Beowulf bredvid de två bröderna.
+
+1. Eller: 'med vilande tapperhet'.
+2. Hunlafs son (eller Lafs son Hun) är helt okänd. Inte heller vet vi var och när han gav Hengest svärdet.
+3. Till Danmark för att hemta nytt manskap.
+4. Konung Hroðgar och Hroðulf. Den reviderade utgåvan från 1914 avslutar meningen med följande parantes: (Rolf Krake)
+5. Vad för oärlighet som skalden syftar på är okänt.
+• Här har den reviderade utgåvan en avvikande tolkning än den från 1889. I den reviderade utgåvan står det: Om blott han ej bröte mot världens ordning istället för Dock kunde han icke undgå ödet,. Och i en not kommenteras den nya tolkningen med: D. v. s. mot givna eder. Björn Collinder förklarar detta ställe med att det syftar på den sed som krävde att man skulle hämnas dråp på fränder. Den engelska kyrkan accepterade länge denna sedvänja.
+• En uppfordran till hämnd.
+
+Kapitel 18
+En dyrbar gåva. Gillet avslutas.
+
+Till honom bars en bägare och framsades
+En vänlig inbjudning, huldrikt erbjöds
+Virat guld, tvänne armsmycken,
+1195 En ringbrynja och den största halsring, 
+Som jag någonsin sport på jorden.
+Ej har jag hört talas om någon bättre skatt 
+Bland hjältar under himlen, sedan Hama förde
+Till den glänsande borgen Brosinga-halsbandet,1
+1200 Det strålande smycket. Han flydde undan
+Eormenrics försåt, valde evigt liv.*)
+Denna ring hade göten Hygelac,
+Svertings sonson, för sista gången,2
+Då han under fälttecknet skyddade skatterna,
+1205 Värnade stridsbytet. Honom bortryckte ödet, 
+Sedan han av övermod utstått nöd
+Och strid med friserna. Den mäktige fursten 
+Bar smyckena, ädelstenarna
+Över vågornas bäcken, men stupade under skölden.
+1210 I frankernas våld kom då konungens lik,
+Hans bröstbeklädnad och även denna ring: 
+Sämre kämpar plundrade de döde 
+Efter slaktningen; götamännen
+Lågo på valplatsen. — Salen fylldes av sorl.
+1215 Wealhtheow talade och sade inför skaran:
+»Bär med lycka denna ring, käre Beowulf,
+»Du unge kämpe! och begagna denna brynja
+»(De äro stora skatter) och gå framåt!
+»Visa din kraft och var vänlig i råd 
+1220»Mot dessa ynglingar! Jag skall ej glömma din lön.
+»Du har bragt det därhän, att nära och fjärran 
+»I alla tider män skola ära dig 
+»Lika vida som havet omsluter 
+»Blåsiga strandhöjder. Var, så länge du lever,
+1225  »Lycklig, o ädling! Jag unnar dig väl
+»De rika skatterna. Bliv för min son 
+»En hjälp i dåd, du som lever i glädje!
+»Här äro alla jarlar trofasta mot varandra, 
+»Vänliga till sinnes, tillgivna sin furste;
+1230 »Männen äro villiga, krigsfolket helt redo,
+»Hirdmännen dryckesglada. Gören som jag beder!»
+Gick så till sin plats. Där var ett utsökt gille,
+Männen drucko vin; de kände icke
+Det grymma öde, som drabbat mången
+1235 Ibland jarlarne. Sedan kom aftonen,
+Och den mäktige Hroðgar gick till vila
+Uti sin boning. En mängd jarlar
+Vaktade huset, som de ofta gjort förut,
+Bortflyttade bänkarna, överallt breddes
+1240 Bäddar och bolstrar. En av öltjänarne
+Lutade sig mot bädden, hemfallen åt döden. 
+Vid sina huvuden satte krigarne
+De glänsande sköldarna. Där var på bänken
+Lätt skönjbar över ädlingen
+1245 Hans hjälm, hög i striden, hans ringbrynja
+Och väldiga spjut. Det var deras sed,
+Att de voro ständigt rustade till strid
+Hemma och i härfärd, båda delarna, 
+Så ofta som behovet fogade sig så
+1250 För deras furste: detta krigsfolk var gott.
+
+1. Brosingarna eller brisingarna var fyra dvärgar som smidde ett halsband åt Freja som gjorde henne oemotståndlig  för alla män. Det kom senare i den östgotiske kungen Eormenrics (Jörmunrekr) ägo innan den stals av Hama (Heimer). Hroðgars gåva jämförs här med en gammalt smycke som gav upphov till bekymmer.
+2. Hygelac bar alltså ringen under det vikingatåg mot Frisland ca 520 som slutade med hans död.
+• Blev omvänd eller gick i kloster. Heimer (Aslögs fosterfader), Brisinga-men (Frejas smycke) och Jörmunrekr (östgoternas konung) omtalas även i nordiska sagor.
+
+Kapitel 19
+Grendels död hämnas.
+
+De lade sig till vila. En fick bittert böta
+För sin aftonro, som rätt ofta hänt dem,
+Sedan Grendel rådde över guldsalen,
+Övade orätt, tills slutet kom,
+1255 Döden efter synderna. Det vart skönjbart,
+Vida känt bland män, att då ännu levde
+En hämnare av den lede en lång tid
+Efter stridssorgen. Grendels moder,
+Skräckbringerskan tänkte på sin olycka,
+1260 Hon som bebodde vattnets fasa,
+Kalla strömmar, sedan Kain blivit
+Svärdsbane åt sin ende broder,
+Son av samme fader; dödskorad gick han sedan 
+Med mordets märke att fly människors glädje,
+1265 Bodde i öknen. Från honom stamma många
+Olycksfödda gastar; en av dem var Grendel.
+Hemfallen åt svärdet och hatad, fann denne
+I Hjort en vakande man bida på strid.
+Där angrep skräckbringaren honom;
+1270 Han mindes emellertid sin kroppsstyrka, 
+Den mäktiga gåva, som Gud honom givit,
+Och av den allrådande hoppades han nåd,
+Tröst och stöd: därför övervann han fienden,
+Fällde helvetesgasten; sedan gick den eländige,
+1275 Glädjeberövad, människosläktets fiende,
+Att se sin dödsort. — Men glupsk och dyster, 
+Ville hans moder då ännu vandra
+En sorgfull stråt, hämnas sonens död.
+Hon kom så till Hjort, där ring-danerna 
+1280 Sovo längs salen. Då blev där snart
+En återgång för jarlarne, när Grendels moder
+Smugit sig dit in. Denna fasa var
+Jämnt så mycket mindre som kvinnors kraft
+Mot väpnade män i stridens fasa,
+1285 Då det sirade svärdet, smitt av hammaren,
+Färgat av blod, med duktiga eggar
+Klyver vildsvinet över fiendens hjälm.
+Då drogs i salen ovan sätena
+Hård svärdsegg; mången sid sköld lyftes,
+1290 Fäst i handen. På hjälm ej tänkte
+Eller sid brynja den som denna fasa drabbade.
+Hon hade bråttom, ville bärga livet 
+Ut därifrån, då hon blivit upptäckt.
+Snabbt hade hon fått ett fast tag 
+1295 I en av ädlingarna, när hon gick till träsket.
+Denne var för Hroðgar den käraste hjälte,
+Såsom följesman, vid de tvänne haven,
+En mäktig sköldkämpe, som hon dödade på bädden,
+En ärorik kämpe. ej var Beowulf där,
+1300 Utan annat härbärge hade förut anvisats
+Den frejdade göten efter skatt-utdelningen.
+Larm vart i Hjort. Hon tog den blodiga,
+Välkända handen. Sorgen hade blivit
+Förnyad i gården: ej var det ett gott utbyte
+1305 Att å tvänne händer nödgas betala 
+Med vänners liv. Den vise konungen,
+Den grå kämpen var sorgsen till mods, 
+När han fick veta, att hans käraste
+Rådgivare var död, skild ifrån livet.
+1310 Skyndsamt blev Beowulf, den segersälle mannen,
+Hämtad till rummet. Vid dagens gryning 
+Gick denne jarl själv, den högättade kämpen,
+Men sina följeslagare dit där den vise väntade
+Om den allsvåldige skulle någonsin vilja
+1315 Efter lidandet åvägabringa en omkastning.
+Då gick längs golvet den utmärkte krigaren
+Med sitt trogna följe — salstimret dånade —
+För att med ord hälsa konungen,
+Ingvinernas1 furste, sporde om väl natten
+1320 Varit honom lugn, som han innerligt önskat.
+
+1. Ingvinerna är en poetisk variation på folknamnet daner. Jämför punkt-noten i kapitel 15.
+
+Kapitel 20
+Beowulf går att kämpa mot sjötrollen.
+
+Scyldingarnes värn Hroðgar talade:
+»Spörj ej efter lycka! Sorgen är förnyad 
+»För danernas folk: död är Äschere*),
+»Yrmenlafs äldre broder,
+1325 »Min förtrogne rådgivare,
+»Min sidokamrat, då vi i striden
+»Värjde våra huvuden, när kämparne stötte samman,
+»Sönderhuggo vildsvinen.**) Sådan bör en jarl vara, 
+»En beprövad ädling, som Äschere var.
+1330 »Hans mördare vart uti Hjort
+»En spöklik mordgast. Jag vet icke vart,
+»Stolt över rovet, den hemska drog sig tillbaka,
+»Glad**) åt sin måltid. Hon hämnades den strid, 
+»I vilken du i går natt dödade Grendel
+1335 »På våldsamt sätt med hårda nävar, 
+»Därföre att han alltför länge dödat
+»Och minskat mina män. Han föll i striden,
+»Pliktade med livet; men nu har en annan 
+»Mäktig illdådare kommit, som ville hämnas sin son, 
+1340 »Och har vidare fullföljt fejden,
+»Så att för mången hirdman, som sörjer i sinnet 
+»Efter skatt-utdelaren, må det väl synas 
+»En hård olycka: nu vilar den hand,
+»Som var villig att främja alla edra önskningar.
+1345 »Jag har hört landets invånare,
+»Salsbeboarne, mina män säga,
+»Att de sett tvänne sådana
+»Väldiga gränsboar, främmande gastar
+»Hålla till i träsk: av dem var den ena,
+1350 »Så visst som de kunde veta det,
+»En kyinnogestalt; den andra uslingen
+»Trampade i mansskepnad landsflyktens spår,
+»Blott att han var större än någon annan man.
+»Honom kallade i forna dagar
+1355 »Invånarne Grendel: ej känna de hans fader,
+»Om förut någon av mörka gastar
+»Blivit född åt denne. De bebo dolda trakter,1
+»Vargens klippbranter, blåsiga uddar,
+»Farliga träskvägar, där bergets ström
+1360 »Under uddarnas töcken flyter
+»Ned under jorden. Ej är det härifrån
+»Många mils väg, som denna sjö ligger;
+»Över den hänga rimfrostklädda träd,
+»En rotfast skog, och överskugga vattnet.
+1365 »Där kan man varje natt se ett hemskt under,
+»Eld på vågorna. Ej lever någon så vis
+»Bland människors barn, att han känner bottnen.
+»Fastän hedens vandrare, den hornprydde hjorten,
+»Jagad av hundar, uppsöker skogen,
+1370 »Flyende från fjärran, giver han förr
+»Sitt liv på stranden, än han vill dit in
+»Att skydda sitt huvud. Ej är det en trygg plats.
+»Därifrån stiga mörka vågsvall
+»Upp till molnen, då vinden drager
+1375 »Oväder samman, tills luften mörknar
+»Och himlen gråter. Nu finnes råd
+»Åter ensamt hos dig. Du känner ej ännu
+»Den farliga platsen, där du kan finna
+»Den skuldbelastade varelsen: sök, om du vågar!
+1380 »Jag skall löna dig för denna strid,
+»Såsom jag förut gjort, med gamla skatter,
+»Med vridet guld, om du kommer därur.»
+
+• Uttal: Äsc-here.
+• I den reviderade utgåvan från 1914 har Wickberg skrivit "sönderhuggo vildsvinen" istället för "stormade mot hvarandra". Det förklaras i en not med denna text: På hjälmarna.
+• Eller: röjd av sin måltid.
+1. Den landskapsbeskrivning som inleds här överensstämmer med skildringen av helvetet i Blickling homilies från 900-talet. Det är möjligt att dess upphovsman har känt till Beowulf eftersom landskapsskildringen inte finns med i den apokryfiska Visio Pauli som är källan till Blicking Homilies.
+
+Kapitel 21
+Han rustar sig till striden.
+
+Ecgtheows son Beowulf talade:
+»Sörj ej, du vise! Bättre är för var och en
+1385 »Att hämnas sin vän än sörja mycket.
+»Var och en av oss skall bida slutet 
+»Av jordelivet: vinne den som kan 
+»Rykte före döden! det skall sedan 
+»Bliva det bästa för den döde kämpen. 
+1390 »Stig upp, du rikets vårdare! låtom oss genast fara
+»Att skåda Grendels frändes gång!
+»Jag lovar dig detta: ej skall han fly undan
+»I jordens famn eller bergets skog
+»Eller havets botten, han må gå vart han vill.
+1395 »Hav blott tålamod detta dygn
+»Med allt det onda; det hoppas jag av dig».
+Upp sprang då den gamle, tackade Gud,
+Den mäktige herren, för vad mannen sagt.
+Därpå sadlades åt Hroðgar en häst 
+1400 Med lockig man. Ståtlig red 
+Den vise fursten; efteråt kom 
+Sköldbärarnes skara. Spår voro där
+Längs skogsvägarna vida synliga
+Av gång över marken; hon hade vandrat 
+1405 Över ett mörkt träsk, bar då en livlös,
+Den ypperste av de hirdmän,
+Som med Hroðgar rådde i hemmet.
+Ädlingars son gick sedan över
+Branta bergsluttningar, smala vägar,
+1410 Trånga stigar, en okänd väg, 
+Stupande uddar, många sjötrolls boningar. 
+Jämte några få vise män 
+Gick han förut att skärskåda platsen, 
+Tills han plötsligt fann bergets träd 
+1415 Luta sig över den grå stenen,
+En glädjelös skog; under stod vattnet,
+Blodigt och upprört. Alla danerna,
+Scyldingarnes vänner blevo dystra till mods;
+Mången hirdmän, alla jarlar
+1420 Måste lida smärta, då de funno
+Äscheres huvud uppå strandklippan.
+Strömmen sjöd — krigarne åsågo det —
+Av hett blod. Stundom sjöng hornet
+En eggande stridssång. Hela skaran satte sig. 
+1425 De sågo på vattenytan en mängd ormar,
+Sällsamma havsdrakar pröva djupet
+Samt på uddarnas sluttningar sjötroll ligga,
+Vilka vid middagstiden ofta företaga 
+En sorgfull färd på segelstråten,
+1430 Ormar och vilddjur. De rusade i väg
+I bitter vrede, då de hörde den gälla
+Klangen av stridshornet. Götarnes furste
+Skilde med sin pilbåge en av dessa från livet, 
+Från kampen med vågorna, så att den hårda härpilen
+1435 Stod i hjärtat: han blev mycket långsammare
+I simning på vågen, då döden bortryckte honom
+Snabbt blev på böljorna den sällsamme simmaren 
+Hårt ansatt med vasshakade
+Vildsvinsspjut, och den i striden kuvade
+1440 Dragen upp på udden; männen beskådade
+Den hemske främlingen. Beowulf klädde sig
+I jarlarustning: han ängslades ej för sitt liv.
+Den handflätade stridsbrynjan skulle,
+Sid och konstrikt smyckad, pröva djupet,
+1445 Hon som kunde skydda hans kropp,
+På det att den vredgade fiendens lömska stridsgrepp
+Ej måtte skada hans bröst och liv.
+Huvudet åter värjdes av den vita hjälmen,
+Som skulle uppröra sjöbottnen,
+1450 Söka brusande vågor, smyckad med guld,
+Omsluten av pannband, såsom vapensmeden 
+Underbart arbetat den i forna dagar,
+Satt på den vildsvinsbilder, så att ej sedan
+Svärd eller klinga*) kunde bita därpå.
+1455 Ej var då ringast ibland kraftstöd
+Det som Hroðgars talare1 lånade honom för striden: 
+Detta häftprydda**) svärd hette Hrunting
+Och var ypperst bland gamla skatter.
+Eggen var av järn, skimrande av giftstrimmor,2
+1460 Härdad i stridsblod: aldrig hade det i striden
+Svikit någon man, som omslöt det med händerna
+Och vågade gå den fasansfulla färden
+Över fiendernas slagfält; ej var det första gången 
+Som det skulle utföra hjältedåd.
+1465 Ej tänkte då Ecglafs son, 
+Den kraftige mannen, när han lånade vapnet
+Åt en bättre svärdskämpe, på vad han förut sagt,
+Drucken av vin: själv tordes han ej
+Våga sitt liv under de brusande vågorna,
+1470 Öva mannamod. Då miste han
+Sitt hjälterykte. Ej gick det den andre så, 
+Sedan han hade rustat sig till striden.
+
+• Den reviderade utgåvan har "Svärd eller klinga" istället för "Brand eller svärdsklinga" och förklarar det med följande not: Eller: svängda svärdsklingor.
+• Eller: länkprydda.
+1. Unferð, Eoglafs son.
+2. Björn Collinder har översatt raden med "Färgat var det järnet med giftörters saft". En alternativ förklaring är att svärdseggen kan ha varit dekorerad med giftormar.
+
+
+Kapitel 22
+Han möter i djupet Grendels moder. Strid på djupet. Beowulf i livsfara.
+
+Ecgtheows son Beowulf talade:
+»Minns nu, du Healfdenes frejdade son,
+1475 »Vise furste, nu då jag är redo till färden,
+»Du männens guldvän, vad vi förut sagt
+»Att om i denna din sak jag skulle
+»Mista livet, du alltid skulle vara mig 
+»Efter min bortgång i faders ställe.
+1480 »Bliv en beskyddare för mina hirdmän,
+»Mina följesvenner, om striden bortrycker mig,
+»Och sänd även, käre Hroðgar,
+»Till Hygelac de skatter, som du givit mig!
+»Då kan Hredels son, götarnes furste,
+1485 »När han skådar på detta guld, 
+»Se, att jag funnit en synnerligt god
+»Utdelare av ringar och njutit därav, medan jag kunde.
+»Och låt du Unferð, den vittfrejdade mannen, 
+»Få det gamla, konstrika slagsvärdet,1*)
+1490 »Hårt i eggen; jag skall med Hrunting
+»Vinna ära, eller ock skall döden taga mig.»
+Efter dessa ord skyndade väder-götarnes 
+Furste käckt åstad, ville för ingen del
+Bida på svar. Den brusande bränningen
+1495 Mottog kämpen. Sedan dröjde det en stund, 
+Innan han kunde se sjöns botten.
+Nu märkte snart den som, vild och glupsk
+Och stridslysten, rått i hundra halvår
+Över strömmarnas rymd, att en människa från ovan
+1500 Hemsökte sällsamma väsens bostad.
+Hon grep då emot och fattade kämpen
+Med hemska klor, men skadade ej därmed 
+Hans kropp, som ringbrynjan skyddande omslöt, 
+Så att hon ej kunde med sina leda fingrar
+1505 Genomtränga stridsdräkten, den flätade brynjan.
+Då bar havsvarginnan, när hon kommit till bottnen,
+Ringarnas furste till sin egen gård, 
+Så att han ej kunde — fastän han strävade därefter —
+Sköta sina vapen; tv en mängd vidunder
+1510 Ansatte honom simmande. Månget sjöodjur sökte
+Med mordiska tänder sönderbryta hans brynja;
+Skräckbringarne förföljde honam. Sedan märkte jarlen,
+Att han var i någon sal på djupet,**)
+Där intet vatten skadade honom,
+1515 Och strömmens svekfulla grepp ej kunde nå honom
+För den täckta salen. Han såg ett eldsken,
+En skimrande låga lysa klart.
+Den käcke blev då varse djupets varginna,
+Det starka sjörået; lade hjältekraft
+1520 I slagsvärdet. Handen svek ej slaget,
+Så att det ringprydda svärdet sjöng på hennes huvud
+En lysten stridssång. Då märkte främlingen,
+Att stridens glans2 ej ville bita 
+Och skada livet; utan eggen svek
+1525 Fursten i nöden. Förut hade det tålt 
+Många handgemäng, ofta kluvit hjälmen,
+Den dödskorades stridsdräkt: då var det första gången,
+Som den dyrbara skattens ära sjönk.
+Hygelacs frände var åter fast beslutsam, 
+1530 Ej trög i kraft, betänkt på bragder.
+Den vredgade kämpen kastade svärdet,
+Det konstrikt smyckade, så att det låg på marken
+Med sin hårda stålegg; han litade på sin styrka,
+Sitt kraftiga handtag. Så skall mannen göra, 
+1535 När han tänker i striden vinna
+Långvarigt lov; han frågar ej efter sitt liv.
+Stridsgötarnes furste fattade i axeln***)
+— Ej räddes han för striden — Grendels moder
+Vredgad som han var, slängde den stridshårde
+1540 Sin dödsfiende, så att hon sjönk på golvet.
+Men strax gav hon honom åter lön i handom
+Med vilda nävar och grep tag i honom.
+Med tröttat mod föll då omkull
+Den starkaste av fotkämpar. Över salsgästen
+1545 Satte hon sig sedan, drog sin korta och breda,
+Bruneggade dolk, ville hämnas sin son, 
+Enda barnet. På hans skuldra låg
+Det flätade bröstnätet: detta skyddade livet,
+Hindrade udd och egg från att intränga.
+1550 Då skulle Ecgtheows son, götarnes kämpe,
+Ha farit under det gapande djupet,
+Om ej stridsbrynjan, det hårda hårnätet,
+Skänkt honom skydd, och den helige Gud,
+Den vise herren, rått över seger i striden.
+1555 Himlarnes herre avgjorde det rättvist;
+Med lätthet reste kämpen sig sedan åter.
+
+1. Eller 'böljesvärdet'; som Beowulf använt i kampen mot havsvidundren,
+se v. 561.
+2. Svärdet.
+• Eller: vattrade (damaskerade) svärdet.
+• Eller: i en stridssal.
+• Eller: i håret.
+
+Kapitel 23
+Sjötrollet dräpes. Beowulf simmar upp.
+
+Han fick då bland rustningar se jättars gamla
+Segerrika svärd med vassa eggar,1
+En prydnad för kämpar: det var det yppersta vapen,
+1560 Ett gott och präktigt verk av giganterna; —
+Blott att det var för stort för att någon annan man
+Skulle kunna bära det till stridsleken.
+Vild av striden, förtvivlande om sitt liv, 
+Fattade Scyldingarnes kämpe det länkprydda fästet, 
+1565 Svängde ringsvärdet och slog till vilt, 
+Så att det tog hårt i hennes hals, 
+Krossade kotorna; svärdet genomskar helt 
+Den dödskorade kroppen, och hon föll på golvet.
+Svärdet var blodigt: mannen gladdes åt sitt verk. 
+1570 En glans lyste, ett ljus stod därinne, 
+Just som från himlen klart skiner
+Fästets ljus. Hygelacs kämpe
+Blickade längs salen, vände sig till väggen,
+Lyfte vid fästet det hårda vapnet,
+1575 Vred och beslutsam. Ej var denna svärdsegg
+Gagnlös för kämpen, utan han ville nu snabbt 
+Vedergälla Grendel de många stridsstormar,
+Som denne anställt mycket oftare
+Än en enda gång mot väst-danerna,
+1580 Då han slog Hroðgars hirdmän
+Ihjäl i sömnen, uppåt femton
+I sömn sänkta män av danafolket 
+Samt bar ut lika många andra
+Lidande offer. Den vrede kämpen
+1585 Gav honom lön därför, då han såg den stridströtte
+Grendel ligga livlös på bädden, 
+Sådan som förut striden i Hjort
+Tilltygat honom. Liket flög vida,
+Då det efter döden måste lida
+1590 Ett hårt svärdshugg, när han avskar huvudet. —
+Snart sågo då de vise männen,
+Som med Hroðgar blickade på sjön,
+Att vågsvallet blev helt upprört,
+Bränningen blodfärgad. De gråhåriga gubbarne
+1595 Talade med varandra om den käcke, 
+Att de ej väntade ädlingen åter,
+Ej att han segerstolt skulle komma och uppsöka
+Den frejdade fursten; många anade,
+Att havsvarginnan hade dödat honom.
+1600 Så kom nionde timmen;2 de käcka Scyldingarne 
+Övergåvo udden; männens guldvän3
+Gav sig hem därifrån. Hugsjuka sutto
+Främlingarne där och stirrade på vattnet.
+De önskade, men hoppades ej, att de skulle få se
+1605 Sin vän och furste. — Då började det i striden
+Utgjutna blodet, som stelnat i tappar,
+Upplösa slagsvärdet: det var ett under,
+Att det helt och hållet smälte likt is,
+Då frostens band och vågens bojor
+1610 Lösas av fadern, som har makt över
+Tider och tillfällen: han är sann Gud.
+Ej tog i den bostaden väder-götarnes furste
+Flere skatter, fastän han såg där många,
+Än Grendels huvud och tillika fästet, 
+1615 Det guldskimrande: svärdet hade förut smält,
+Den sirade klingan förbrunnit; så hett var blodet,
+Så giftig den främmande gasten, som dött därinne.
+Snart kom simmande han som förut i striden
+Upplevat fiendernas fall, och dök upp genom vattnet.
+1620 Då hade vågsvallet, den vida boplatsen 
+Fullkomligt renats, när den främmande gasten
+Slöt sina livsdagar och denna förgängliga tillvaro.
+Sjömännens värn kom sedan i land,
+Simmande med stadigt mod, gladde sig åt sjöbytet,
+1625 Den väldiga börda, som han hade med sig.
+Då gick honom till mötes den präktiga kämpaskaran, 
+Tackade Gud och gladde sig åt fursten,
+Att de fått se honom åter oskadd.
+Strax löstes sedan hjälm och brynja 
+1630 Av den raske kämpen. Sjöns vatten flöt
+Trögt under molnen, färgat av livsblod. 
+Glada i sinnet, gingo de därifrån 
+I sina fotspår,4 lade tillrygga 
+Den kända landsvägen. De ädelt djärva männen*)
+1635 Buro från strandklippan Grendels huvud 
+Med stort besvär för var och en 
+Av de mycket modige. Fyra kunde
+Men nöd forsla fiendens huvud 
+På stridsspjutet till guldsalen; —
+1640 Tills plötsligen de fjorton käcka
+Och krigiska götarne kommo gående
+Fram till salen; bland skaran trädde
+Mannafursten modig in på mjödplatsen.
+Så kom ingående hirdmännens hövding,
+1645 Den dåddjärve mannen, höljd av ära,
+Den tappre hjälten, att hälsa Hroðgar.
+Sedan bars Grendels fasansfulla huvud
+Vid håret in i salen, där männen drucko,
+Inför jarlarne och för drottningen också.
+1650 Männen beskådade den sällsamma synen.
+
+1. Hålan var fylld med vapen.
+2. Kl. 3 e. m.
+3. Hroðgar.
+4. Samma väg tillbaka.
+5. Eller; de sin konung hulde.
+
+Kapitel 24
+Beowulf omtalar sin seger för Hroðgar. Hroðgar tackar Beowulf.
+
+Ecgtheows son Beowulf talade:
+»Ja, du Healfdenes son, Scyldingarnes furste,
+»Vi ha fört med fröjd till dig detta sjöbyte,
+»Som du här skådar, såsom ett äretecken.
+1655 »Men knapp nöd kom jag undan med livet
+»I striden under vattnet; med stor möda
+»Utförde jag värvet; hade så när blivit
+»Skild från kampen, om ej Gud skyddat mig.
+»Ej kunde jag i striden med svärdet Hrunting
+1660 »Uträtta något, fastän det vapnet är gott.
+»Men människornas herre unnade mig 
+»Att få se hängande på väggen ett glänsande,
+»Gammalt och väldigt svärd — oftast har han lett 
+»Den vänlöses blick —, och detta vapen svängde jag.
+1665 »I den striden dräpte jag, då tillfälle tedde sig,
+»Husets invånare. Sedan brann det sirade 
+»Slagsvärdet upp, just som det glödheta 
+»Stridsblodet framsprutade. Fästet har jag fört
+»Med mig från fienderna, hämnades illdåden,
+1670 »Morden på danerna, såsom vederbörligt var.
+»Jag lovar dig nu, att du kan sova
+»Sorglöst i Hjort med din kämpaskara 
+»Och varje hirdman bland ditt folk,
+»Gammal och ung, så att du ej behöver,
+1675 »Scyldinga-konung! från det hållet frukta 
+»Livsskada för jarlarne, såsom du förut gjort.»
+I den gamle kämpens, den grånade härförarens
+Hand gavs sedan det gyllene fästet,
+Jättars forna verk; i danakungens ägo
+1680 Kom detta smedernas underbara verk 
+Efter djävlarnes fall, då Guds fiende 
+Med hat i hjärtat, hemfallen åt döden,
+Lämnade denna världen, och hans moder också.
+Så kom detta fäste att tillfalla den bäste 
+1685 Av de världskonungar vid de tvänne haven, 
+Som i Scedenig1 utdelade skatter
+Hroðgar talade, betraktade fästet,
+Det gamla arvet. På det var ristad början
+Av den forna striden; sedan dödade floden,*)
+1690 Det strömmande havet, giganternas släkt.
+De hade levat vilt, det var ett folk fientligt 
+Mot den evige herren; dem gav därföre
+Härskaren slutlön genom vattnets svall.
+Även var på beslagen av rent guld 
+1695 Med runstavar riktigt ristat,
+Satt och sagt åt vem2 detta svärd,
+Det yppersta af stål, ormprytt och med vridet fäste,
+Först blivit arbetat. — Då sade Healfdenes
+Vise son — alla tego —:
+1700 »Det kan väl säga den som främjar rätt 
+»Och sanning bland folket — den gamle landsherren 3
+»Minnes allt förflutet —, att denne jarl blivit
+»Född i en lycklig stund. Din ära är utbredd
+»Över vida vägar, min vän Beowulf, 
+1705 »Bland alla folk: du bevarar stadigt 
+»Styrka och vishet. Jag skall visa dig min vänskap,
+»Såsom vi förut avtalat. Du skall i långa tider
+»Varda ditt folk till tröst och dina männer,
+»Hjältarne till hjälp. Ej vart Heremod**) sådan 
+1710 »Mot Ecgwelas barn, de ärorika Scyldingarne.
+»Ej uppväxte han dem till glädje, utan till manfall 
+»Och till dödskval för danamännen;
+»Dödade i vredesmod sina bordskamrater,
+»Sina umgängesvänner, tills den frejdade konungen
+1715 »Ensam försvann från männens glada jubel.
+»Fastän den mäktige Gud upphöjde honom,
+»Ställde honom vida över alla män 
+»Genom härlig hjältekraft, växte dock i hans sinne 
+»Blodtörstig bröstskatt:4 ej gav han danerna ringar 
+1720 »Efter övlig sed. Glädjelös fick han
+»För denna fientlighet röna ett svårt 
+»Och långvarigt lidande. Lär du dig därav
+»Mannadygder! Vis av vintrar,
+»Har jag sagt om dig dessa ord. Underbart är att säga
+1725 »Huru den mäktige Gud åt människors släkte 
+»Storsinnat utdelar visdom och gods
+»Och herravälde: han råder över allt.
+»Understundom låter han den högättade
+»Mannens tankar vända sig till njutning; 
+1730 »Ger honom på hans arvgods jordisk lycka: 
+»Att innehava männens skyddsborg;
+»Låter honom så råda över delar av världen,
+»Ett vidsträckt rike, så att han i sitt oförstånd
+»Ej kan tänka sig slutet på detta.
+1735 »Han lever i överflöd, intet trycker honom, 
+»Varken sjukdom eller ålderdom, ej smygande sorg
+»Fördystrar hans sinne: ej framkallar strid
+»Någon hatfull fiendskap, utan hela världen vänder sig
+»Honom till behag. Han känner ej det värsta 
+1740 »Till dess övermodet växer och skjuter 
+»Uti hans inre, då väktaren sover,
+»Själens herde. Denna sömn är för djup, 
+»Hemsökt av anfäktelser, banemannen mycket nära,
+»Han som från pilbågen skjuter bakslugt.
+
+1. Scedenig = Skåne. Här används det i poetiskt syfte som en benämning på danernas rike. Jämför "Scede-landen" på rad 19.
+2. Namnet på den som svärdet gjordes åt ristas med runor på svärdets kavel men avslöjas inte för oss.
+3. Hroðgar, den jarl han talar om är Beowulf.
+4. Bröstskatt = tankar.
+• Syndafloden. Den forna striden syftar på den mellan jättar och troll på ena sidan och Gud och människor på den andra. Jämför Första Mosebok 6:4-7.
+• Jf. vv. 901 ff.
+
+Kapitel 251
+Varnar för frestelser. Efter nattens vila vilja götarne fara hem.
+
+1745 »Då träffas han i bröstet under skyddande pansar
+»Av den bittra pilen, — han kan ej värja sig —
+»Av den fredlöse andens förvända, gåtfulla bud
+»Vad han så länge ägt, synes honom för litet
+»Illvillig snålar han och ger ej med stolta ord
+1750 »Sirade ringar, förgäter och föraktar 
+»Det kommande ödet, därför att härlighetens herre,
+»Gud förut givit honom hans andel av ära.
+»Sedan händer det så till slut, 
+»Att den bräckliga kroppen sjunker samman,
+1755 »Hemfaller åt döden. En annan tillägnar sig 
+»Och utdelar sorglöst smyckena,
+»Jarlens gamla skatter, utan att skrämmas.*)
+»Akta dig, käre Beowulf, bäst bland män,
+»För denna onda ävlan och välj dig det bättre,
+1760 »Evigt väl! Undvik övermod,
+»Du frejdade kämpe! Nu varar en tid
+»Din styrkas blomma: snart blir det så,
+»Att sjukdom eller svärdsegg skiljer dig från din kraft, 
+»Eller eldens grepp eller flodens svall 
+1765 »Eller svärdets bett eller spjutets flykt
+»Eller hemsk ålderdom; eller ögonens glans
+»Försvinner och mörknar; plötsligt händer,
+»Att döden överväldigar dig, o kämpe!
+»Så har jag härskat i hundra halvår
+1770 »Över ring-danerna under molnen och i strid skyddat dem
+»Mot många stammar på denna jord 
+»Med spjut och svärdseggar, så att jag ej räknade
+»Någon motståndare under himlens vidd.
+»Dock fick jag i mitt arvland en ändring däruti,
+1775 »Sorg efter gamman, då en gammal fiende
+»Grendel började uppsöka mitt hem.
+»För denna hemsökelse bar jag ständigt
+»Stort bekymmer. Tack vare skaparen,
+»Den evige herren, för att jag i livet fått 
+1780 »Efter långvarig nöd med mina ögon skåda
+»Detta av svärdet blodade huvud!
+»Gå nu till din plats, njut av gästabudsglädjen, 
+»Ärad genom striden! Många skatter
+»Skall jag dela med dig, då morgonen kommer.»
+1785 Göten blev glad till mods och gick strax fram
+Att söka sin plats, som den vise bjöd.
+Sedan blevo åter de kraftberömde,
+I salen sittande, höviskt undfägnade
+Likasom förut. Nattens hölje
+1790 Mörknade över kämparne; hela skaran reste sig.
+Den gamle grånade Scyldingen ville
+Söka bädden. Även lyste det göten,
+Den frejdade sköldkämpen, högligen att sova.
+Genast fördes den av färden trötte
+1795 Främlingen bort av en salstjänare,
+Vilken höviskt sörjde för alla
+Kämpens behov, som detta dygn
+De krigiska sjömännen skulle hava.
+Så vilade den hugstore; vitt och guldprytt,
+1800 Höjde sig taket: därinne sov gästen,
+Tills den svarta korpen, blid i hjärtat,
+Bådade himlens fröjd; då kom det strålande ljuset
+Glidande efter mörkret. Krigarne skyndade sig,
+Ädlingarne voro hågade att fara
+1805 Åter till sitt folk; den högsinnade gästen
+Ville pröva kölen fjärran därifrån.
+Då lät den starke bära fram Hrunting,
+Bjöd Ecglafs son taga sitt svärd,
+Det kära stålet; tackade honom för lånet,
+1810 Sade, att han skattade det som en god stridsvän, 
+Kraftig i krig, klandrade ej
+Svärdets egg: det var en ädel man.
+Och när kämparne voro rustade
+Och resfärdiga, gick den av danerna ärade
+1815 Äntligen till högsätet, där den andre satt,
+Den tappre hjälten, och hälsade Hroðgar.
+
+1. Indelningen af denna och de närmast följande sångerna är i handskriften oredig och har derföre här gjorts i någon mån oberoende af denna.
+• Den reviderade utgåvan har "utan att skrämmas" istället för "frågar ej efter egaren" och förklarar det med följande not: Av den förre ägarens öde.
+
+Kapitel 26
+Ömsesidiga löften vid avskedet.
+
+Ecgtheows son Beowulf talade:
+»Nu vilja vi sjöfarande,
+»Komna från fjärran, säga, att vi längta
+1820 Att söka Hygelac. Här ha vi undfägnats 
+»Väl efter önskan: du har varit god emot oss.
+»Om jag någonsin kan på jorden med något
+»Vinna av dig, mannafurste,
+»Genom stridsbragder större kärlek,
+1825 »Än jag hittills gjort, är jag strax färdig.
+»Om jag får spörja över vågornas ban, 
+»Att dina grannar hota dig med stridens fara, 
+»Som hätska fiender stundom gjort med dig,
+»Så skall jag bringa dig tusen kämpar,
+1830 »Hjältar till din hjälp. Jag vet, att Hygelac,
+»Götarnes furste, fastän folkets herde
+»Ännu är ung, vill hjälpa mig 
+»Med råd och dåd att ära dig väl 
+»Och dig till hjälp bära spjutet,
+1835 »Kraftens stöd, om du behöver män.
+»Om nu furstebarnet Hreðric ärnar sig
+»Till götarnes gårdar, kan han där finna
+»Många vänner: bäst är att söka 
+»Främmande länder för den som litar på sig själv.»
+1840 Hroðgar talade och svarade honom:
+»Dessa ord har den vise Gud 
+»Lagt i ditt sinne; ej har jag hört någon man 
+»Vid så unga år tala visare;
+»Du är stark till kroppen och klok till sinnes, 
+1845 »Vis i orden. Jag hyser förhoppning,
+»Om det går så, att sjukdom eller stål
+»Eller spjutet bortrycker i den vilda svärdskampen
+»Hreðels son1, din egen konung,
+»Folkets herde, och du är vid liv,
+1850 »Att sjö-götarne2 ej hava någon
+»Bättre att välja till sin konung, 
+»Hjältarnes skattvårdare, om du vill råda
+»Över frändernas rike. Ju längre dess bättre
+»Likar mig ditt sinne, käre Beowulf!
+1855 »Du har uträttat det, att för dessa folk,
+»Götamännen och spjut-danerna,
+»Skall fred vara gemensam, och vila skall den fejd,
+»Den lömska fiendskap de förut hyst,
+»Och så länge jag råder över mitt vida rike,
+1860 »Skatter vara gemensamma, mången man uppsöka
+»En annan med gåvor över dykandens bad.
+»Den ringade farkosten skall föra över haven
+»Skänker och kärlekstecken: jag vet, att männen 
+»Stå fast slutna mot fiende och vän
+1865 »I allo otadligt efter gammal sed.»
+Ytterligare gav honom Healfdenes son,
+Jarlarnes värn, därinne tolv smycken,
+Bad honom med dessa skänker välbehållen uppsöka
+Sina kära landsmän och snart komma åter.
+1870 Därpå kysste Scyldingarnes furste,
+Den högättade konungen, den bäste av hjältar
+Och föll honom om halsen. Den gråhåriges
+Tårar strömmade; den åldrige väntade
+Båda delarna, dock mera det ena,
+1875 Att de modige skulle åter få se
+Varandra i samtal. Så kär var honom den mannen,
+Att han ej kunde hämma sin själsrörelse,
+Utan fäst i hjärtat med hugens bojor, 
+Längtar hjälten hemligen efter den käre mannen
+1880 I strid mot blodet.*) — Därifrån skred då
+Den guldstolte kämpen Beowulf över ängen;
+Han yvdes över skatterna. Havsvandraren 
+Låg för ankar, bidade sin ägare.
+Då vart under gången Hroðgars gåva
+1885 Ofta prisad: det var en konung,
+I allo otadlig, tills ålderdomen berövade honom,
+Den som skadat många, hjältekraftens härlighet.
+
+1. Hygelac.
+2. Här benämns Beowulf folk som sjö-götar. Detta namn antyder att de var ett sjöfarande folk som levde nära havet. Det talar emot teorin att de skulle ha varit västgöter. Jämför not 4 i kapitel 3. Handskriften har Sægeatas, vilket Björn Collinder har översatt till "havsgautar"
+3. D. ä. 'ehuru han ej var hans blodsfrände'. (se även punkt-noten nedan)
+• D. v. s. 'ehuru han ej var hans blodsfrände'. Stället kan ock tolkas så: Brann hemligen i blodet längtan Efter den käre mannen.
+
+Kapitel 27
+Beowulf landstiger, vandrar till kungaborgen.
+
+Kom så till havet hirdmännens
+Modiga hop, bar de flätade
+1890 Ringnäten*). Kustvakten märkte
+Jarlarnes återfärd, såsom han förut gjort.
+Ej ohöviskt hälsade han gästerna 
+Från klippudden1, utan red dem till mötes, 
+Sade, att välkomna till väder-götarne foro 
+1895 I glänsande rustningar kämparne till skeppet.
+Sedan blev på sanden den ring-stävade, 
+Rymliga farkosten lastad med rustningar, 
+Hästar och smycken; masten reste sig 
+Över Hroðgars dyrbara skatter.
+1900 Åt skeppsvakten gav Beowulf ett svärd,
+Inlagt med guld, så att han sedan blev 
+Dess mera aktad på mjödbänken 
+För den ärvda skatten. Sedan gick han ombord 
+Att uppröra djupet, övergav Danalandet. 
+1905 Vid masten fästes havsduken,
+Seglet med en lina. Skeppet knakade; 
+Ej hindrade vinden seglarens färd 
+Hän över vågorna. Havs vandraren for 
+Bort över böljorna, den fast timrade stäven 
+1910 Flöt med skummig hals över havsströmmarna,
+Tills de kunde se götarnes klippor, 
+De kända uddarna. Driven av vinden, 
+Trängde kölen upp, så att han stod på land. 
+Snabbt var vid havet redo en hamnvakt, 
+1915 Som förut en lång tid, längtande på stranden
+Efter de kära männen, skådat ut i fjärran. 
+Han band vid stranden det vitt buktade skeppet 
+Fast med ankartåg, på det ej vågornas kraft 
+Skulle driva bort från dem den kära farkosten. 
+1920 Sedan lät han bära upp ädlingarnes skatter,
+Smycken och drivet guld: ej hade han långt 
+Därifrån att söka skatternas utdelare, 
+Hreðlingen2 Hygelac, där han bor i hemmet 
+Med sina följeslagare nära sjövallen. 
+1925 Huset var ståtligt, konungen kraftig 
+I den höga salen; Hygd3 var mycket ung, 
+Vis och värdig, fastän Häreðs dotter 
+Hade bidat blott få vintrar 
+Under borgens lås: hon var dock ej för småaktig 
+1930 Eller för karg med gåvor av kostbara smycken 
+Till götamännen. Den härliga folkdrottningen 
+Hade ej Thryðs4 fruktansvärda sinnelag. 
+Ingen hjälte bland dennas tillgivna följeslagare 
+Utom hennes gemål djärvdes med sina 
+1935 Ögon skåda henne rakt i ögat; 
+Ty då höll han handvridna dödsbojor 
+Beredda åt sig; snabbt blev sedan 
+Efter fängslandet svärdet påkallat,
+Så att den sirade klingan måste avgöra,5
+1940 Buda till döds. Ej höves det en hög kvinna, 
+Hur härlig hon ock är, att öva sådant, 
+Att en fridväverska för diktad kränkning 
+Straffar till livet en tillgiven tjänare. 
+Dock detta hämmade Hemmings frände.6
+1945 Vid ölbägaren sade männen vidare, 
+Att hon övat färre lömska fientligheter, 
+Illdåd mot folket, sedan väl en gång 
+Den högättade kvinnan guldsmyckad givits 
+Åt den unge kämpen, när hon hade uppsökt 
+1950 Enligt faderns bud Offas sal på sin färd 
+Över det askgrå havet. Där tillryggalade 
+Hon sedan väl sitt levnadslopp 
+På furstestolen, frejdad för frikostighet, 
+Hyste hög kärlek till hjältarnes furste, 
+1955 Den ypperste, efter vad jag sport, 
+Bland alla människors vitt utbredda ätt 
+Vid de tvänne haven. Förty Offa var, 
+Den spjutdjärve mannen, vida berömd 
+Genom gåvor och strider, styrde med vishet 
+1960 Sitt ärvda land. Av honom föddes Eomær, 
+Garmunds sonson och Hemmings frände, 
+Kraftig i striden, hjältarne till hjälp. —.
+
+• =  ringbrynjor.
+1. Detta är den enda information vi har om hur "vädermarks" landskap såg ut. I handskriften står det "hliðes nosan", vilka ord Michael Alexander översätter med "cliff" och "headland". Björn Collinder har översatt det till "höga klippan".
+2. Hreðlingen = Hreðels son.
+3. Hygd, Häreðs dotter, var Hygelacs maka.
+4. Denna motställas Hygd.
+5. Detta är den sista raden som den förste avskrivaren skrev ned. Hans ersättare föredrar bokstaven i framför e och skriver därför Biowulf istället för Beowulf.
+6. Offa, Thryðos gemål. Han var kung över de angler som levde på kontinenten. Han räknades även som en förfader till kung Offa av Mercia som var Englands främste kung under andra halvan av 700-talet. Vissa historiker har velat se omnämnandet av honom och andra personer som ett tecken på att Beowulf skrevs ned vid denna tid.
+
+Kapitel 28
+Han omtalar sin färd för Hygelac. Danahovet.
+
+Sedan gick den starke med sin skara
+Att längs efter sanden vandra över sjövången, 
+1965 Den vida stranden. Sunnan sken solen,
+Världens ljus. De lade tillrygga 
+Vägen med fart dit där de sporde, 
+Att jarlarnes värn, Ongentheows bane,1
+Den unge stridskonungen inne i borgen
+1970 Utdelade ringar. För Hygelac vart 
+Beowulfs färd snabbt förkunnad:
+Att vapenbrodern, kämparnes värn,
+Kommit med livet dit till godset, 
+Gående till borgen oskadd från stridsleken.
+1975 Snabbt reddes rum, som den mäktige bjöd, 
+Inne i salen åt de ankomna gästerna. 
+Sedan satte sig fränden, som överstått striden, 
+Mitt emot fränden, då mannafursten 
+Med högtidligt tal hälsat den hulde,
+1980 Med valda ord. Med mjödkannor gick
+Hän genom salen Häreðs dotter2, 
+Vänlig mot folket, satte dryckeskärlet 
+I hjältarnes hand. Hygelac började 
+Höviskt spörja sin bordskamrat
+1985 I den höga salen — han plågades av nyfikenhet — 
+Vilka äventyr sjö-götarne haft: 
+»Hur gick det er på vägen, käre Beowulf, 
+»Då du plötsligt beslöt att söka 
+»Strid i fjärran över det salta vattnet, 
+1990 »Kamp uti Hjort? Har du väl i någon mån 
+»Avhjälpt för Hroðgar, den frejdade konungen, 
+»Det vitt kända lidandet? Svallande sjöd 
+»Min sorg däröver, jag hade ej hopp 
+»Om den käres företag. Jag bad dig länge,
+1995 »Att du ej skulle uppsöka den mordiske gasten, 
+»Utan låta syd-danerna själva utkämpa 
+»Striden mot Grendel. Gud tackar jag 
+»För att jag fått se dig oskadd.» 
+Ecgtheows son Beowulf talade:
+2000 »Välkänt är, o konung Hygelac, 
+»För många män det frejdade mötet, 
+»Vilken kamp mellan mig och Grendel 
+»Vart på den plats, där han berett 
+»Seger-scyldingarne mycken sorg,
+2005 »Elände för livet: jag hämnades allt detta, 
+»Så att ingen av Grendels fränder på jorden, 
+»Som lever längst av det leda släktet 
+»I träskets famn*) kan skryta över 
+»Det gryningslarmet. — Jag kom då först
+2010  »Till ringsalen att hälsa Hroðgar.
+»Strax anvisade mig Healfdenes frejdade son, 
+»Då han hade lärt känna min hug, 
+»Plats vid sin sidan av sin egen son.
+
+1. Hygelac kallas här för sveakungen Ongentheovs baneman eftersom det var hans hirdman Eofor som fällde det dödande hugget. Händelsen skildras på raderna 2977-2981.
+2. Hygd, Hygelacs hustru.
+• Eller: Snärd i brott.
+
+Kapitel 29
+Daner och strids-barder.
+
+»Skaran var glad: ej har jag i mitt liv
+2015 »Under himlens valv sett större dryckesglädje
+»Bland salsgäster. Än skred folkens fridkulla, 
+»Den frejdade drottningen genom hela salen, 
+»Uppmuntrade de unge; ofta gav hon en kämpe 
+»En vriden ring, innan hon gick till sin plats;
+2020 »Än bar Hroðgars dotter ölkannan
+»Fram till krigarne med jarlarne i spetsen. 
+»Henne hörde jag salsgästerna
+»Kalla Freawaru, där hon gav hjältarne 
+»Sirade smycken. Hon är trolovad, 
+2025 »Den unga guldsmyckade, med Frodas blide son
+»Så har det synts Scyldingarnes vän, 
+»Rikets herde, och han anser det gagneligt 
+»Att med denna kvinna i någon mån bilägga 
+»Dödlig fiendskap. Mycket sällan vilar
+2030 »Någonstädes dödsspjutet en liten tid
+»Efter furstens fall, så utmärkt än bruden är. 
+»Sedan kan det såra strids-bardernas konung1
+»Och var och en av kämparne i folket, 
+»När danernas hirdsven går med gemålen 
+2035 »In uti salen och undfägnar kämparne.
+»På honom glänser arv från förfäder, 
+»Hårt och ringsmyckat, strids-bardernas skatter2
+»Så länge de fingo råda över dessa vapen, 
+»Tills i en olycklig stund de förde till sköldleken 
+2040 »Sina kära vapenbröder och sitt eget liv.
+»Då säger vid ölet en gammal spjutkämpe, 
+»Som ser ringsmycket och fullständigt minnes 
+»Männens spjutdöd — vilt blir hans sinne —, 
+»Börjar med dyster håg och hjärtats traktan
+2045 »Fresta den unge kämpens sinne,
+»Väcka stridsve och talar så: 
+»'Kan du, min vän, igenkänna det svärd, 
+»'Det dyrbara stål, som din fader 
+»'Bar till drabbningen under stridsmasken3
+2050 »'För sista gången, då danerna fällde honom, 
+»'Och de käcka Scyldingarne fingo råda över valplatsen 
+»'Efter hjältarnes fall? Sedan har vedergällningen vilat*). 
+»'Nu går här i salen en son till någon 
+»'Av dessa banemän, stolt över sina prydnader, 
+2055 »'Skryter över mordet och bär den skatt,
+»'Som du med rätta skulle råda över'. 
+»Så manar och erinrar han oavlåtligt 
+»Med bittra ord, tills den tid kommer, 
+»Då gemålens hovsven4 för sin faders gärningar
+2060 »Sover blodbestänkt av svärdets bett,
+»Hemfallen åt döden, den andre svennen 
+»Flyr levande därifrån, känner väl till landet. 
+»Då varda brutna å båda sidor 
+»Jarlarnes eder; sedan sjuder i Ingeld1
+2065 »Dödlig fiendskap, och hans kärlek till makan
+»Varder svalare av sorgens vågor. 
+»Därför anser jag ej strids-bardernas tillgivenhet 
+»Och freden mellan folken ofarlig för danerna, 
+»Ej vänskapen fast. — Men nu skall jag tala
+2070 »Vidare om Grendel, att du, skatt-utdelare, 
+»Må noga lära känna huru sedan hjältarnes 
+»Handgemäng utföll. Sedan himlens smycke 
+»Glidit hän över jorden, kom den vrede gasten, 
+»Hemsk och aftonvild, att uppsöka oss,
+2075 »Där vi vaktade salen, friska och sunda.
+
+1. Ingeld, vars fader stupat i strid mot danerna, och som sedan äktade Hroðgars dotter Freawaru. Ingelds folk Strids-barderna eller Hadubarderna omnämns bara i Beowulf och Widsith, och då som fiender till danerna. Det har föreslagits att de skulle ha varit en gren av det langobardiska folket som stannade kvar i norra Tyskland. Ortnamnet Bardengau i Mecklenburg förknippas med dem.
+2. Den danske brudsvennen/hirdsvennen retar upp strids-barderna genom att bära krigsbyte som han tagit från dem.
+3. = Hjelmen.
+4. Samme brud- eller hirdsven som nämns i rad 2034 och i not 2.
+• Eller: Efter hjältarnes fall, sedan Wiðergyld stupat?
+
+Kapitel 30
+Grendels död. Moderns hämnd och död.
+
+»Där blev striden ödesdiger för Hondscio1,
+»Den dödskorade. Den bältprydde kämpen 
+»Föll allra först: Grendel vart 
+»Munsbane för den frejdade hirdmannen, 
+2080 »Svalde den käre mannens hela kropp.
+»Med blodad tand, betänkt på illdåd, 
+»Ville dock banemannen ännu ej gå tillbaka 
+»Med tomma händer ut ur guldsalen, 
+»Utan frestade på mig sin vilda styrka,
+2085 »Grep mig med lysten hand. En vante hängde,
+»Sid och sällsam, fäst med konstrika band;
+»Den var till alla delar skickligt förfärdigad 
+»Med djävulskonster utav drakhudar.
+»Dit in ville den hemske missdådaren
+2090 »Stoppa mig oskyldige
+»Tillika med andra. Det kunde han dock ej, 
+»Då jag i vredesmod reste mig upprätt.
+»För långt är att omtala hur jag med min hand 
+»Gav detta folkgissel lön för alla illdåd.
+2095 »Då, min konung, hedrade jag ditt folk
+»Genom mina bragder. Han flydde sin väg; 
+»Njöt blott liten tid av livets glädje. 
+»Dock lämnade han som spår sin högra 
+»Hand i Hjort, då med sorg i sinnet 
+2100 »Den eländige sjönk därifrån till sjöbottnen.
+»Mig lönade rikligt Scyldingarnes vän 
+»För denna dödsstorm med drivet guld, 
+»Med många skatter, då morgonen kom, 
+»Och vi hade satt oss ned till gästabud.
+2105 »Där var sång och glädje: den gamle Scyldingen,
+»Som sport mycket, berättade gamla minnen.
+»Stundom grep den stridsdjärve i glädjeträdet, 
+»Den tjusande harpan, kvad stundom en sång, 
+Sann och sorgsen; stundom omtalade
+2110 »Den hugstore konungen en sällsam saga sant.
+»Stundom åter började den gamle kämpen, 
+»Tyngd av åldern, klaga över sin flydda 
+»Ungdoms stridskraft: hans inre sjöd, 
+»Då han, vis av vintrar, mindes mycket.
+2115 »Så hade vi dagen i ända
+»Vår fröjd därinne, tills en ny natt 
+»Kom över människorna. Snart blev då Grendels 
+»Moder redo till hämnd för lidandet. 
+»Sorgfull färdades den hemska kvinnan 
+2120 »— Väder-götarnes stridshat hade bortryckt hennes son —, 
+»Hämnades sitt barn och dödade 
+»Med kraft en kämpe: då flydde livet 
+»Ur den vise Äschere, den gamle rådgivaren. 
+»Och icke fingo danamännen,
+2125 »Då morgonen kom, i eld förbränna
+»Eller lägga på bål den käre mannen, 
+»Vars kraft döden tagit. Hon bar bort liket 
+»I fiendefamn under fjällströmmen.
+»Det var för Hroðgar den bittraste sorg, 
+2130 »Som sedan länge drabbat folkfursten.
+»Då anropade mig den sorgsne konungen, 
+»Att jag med din tillåtelse skulle öva jarlabragd 
+»Bland vågornas svall, våga mitt liv 
+»Och utföra hjältedåd, han lovade mig lön.
+2135 »Jag fann då den vitt kända bränningens
+»Fasansfulla, vilda väkterska i djupet. 
+»Där voro vi båda en stund i handgemäng 
+»— Vattnet sjöd av blod —, och i djupets sal 
+»Avskar jag huvudet av Grendels moder 
+2140 »Med väldig svärdsegg, kom med nöd
+»Levande därifrån: ej ännu var jag dödskorad, 
+»Och Healfdenes son, jarlarnes värn, 
+»Gav mig sedan många skatter. —
+
+1. Hondscio nämns bara här. Han var en av dem som dödades av Grendel i salen Hjort. Troligen var han en av Beowulfs män och därmed göt.
+
+
+Kapitel 31
+Gåvor åt götiska fursteparet. Hygelacs gengåvor.
+
+»Så levde denne folkkonung efter gammal sed;
+2145 »Och ej gick jag miste om lönen
+»För min styrka, ty Healfdenes son
+»Gav mig skatter efter eget val.
+»Dessa vill jag med glädje överlämna åt dig,
+»O hjältekonung! ännu beror all
+2150 »Min ynnest av dig: jag har blott få
+»Blodsfränder utom dig, Hygelac.»
+Sedan lät han bära in fälttecknet med vildsvinshuvud, 
+Hjälmen, hög i striden, den grå brynjan, 
+Det dråpliga slagsvärdet och talade högtidligt:
+2155 »Mig gav Hroðgar denna krigsklädnad;
+»Den vise fursten bad mig med månget ord, 
+»Att jag skulle för dig omtala hans gåva. 
+»Han sade, att Heorogar, Scyldingarnes furste, 
+»Haft densamma en lång tid.
+2160 »Dock ville han ej giva bröstklädnaden
+»Åt sin egen son, den käcke Heoroweard, 
+»Fastän han var honom huld. Bär den med lycka!»
+Jag har hört, att i spåren på dessa dyrbarheter följde 
+Fyra hästar, appelkastade,
+2165 Fullkomligt lika: han förärade honom
+Dessa hästar och skatter. Så skall en frände göra 
+Och ej utlägga illistigt nät för en annan, 
+Ej bereda med hemliga konster 
+Vapenbroderns död. Mot den stridshårde
+2170 Hygelac var hans frände mycket huld
+Och vardera betänkt på den andres glädje.
+Jag har hört, att han gav Hygd halsringen, 
+Det underbara smycket, som han fått av Wealhtheow, 
+Furstedottern, jämte trenne sirliga,
+2175 Sadelbjärta hästar: sedan var hennes
+Bröst smyckat efter ringens mottagande. — 
+Så utmärkte sig Ecgtheows son, 
+Den stridsberömde mannen, genom käcka bragder, 
+Levde i ära och dräpte ej vid dryckesgillet 
+2180 Sina hirdkamrater: hans sinne var ej vilt,
+Utan den stridsdjärve bevarade med den största kraft 
+Bland människors släkte den mäktiga gåva, 
+Som Gud honom givit. Föraktad var han länge, 
+Så att götarnes barn ej räknade honom för god,
+2185 Och krigsskarornas furste ej ville
+Anse honom mycket värd på mjödbänken.1
+Man trodde fast, att han var en trög 
+Och håglös ädling; men upprättelse fick 
+För all nesa den ärorike mannen. — 
+2190 Sedan lät jarlarnes värn, den tappre konungen
+Hämta in Hreðels efterlämnade,
+Guldbeslagna svärd: ej fanns då bland götarne 
+En bättre skatt i fråga om svärd. 
+Detta lade han i Beowulfs sköte 
+2195 Och gav honom sedan sju tusen,2
+Hus och furstestol. Genom börd hade de 
+Båda tillika bland folket land, 
+Gods och odalrätt, det vida riket, 
+Den ene3*) dock mer, han som var den bättre. 
+2200 Detta åter hände i senare dagar
+Stridshjältarne: när Hygelac stupat,
+Och slagsvärden blivit hans son 
+Heardreds bane under sköldens skydd,
+Då Strids-scilfingarne, de hårda kämparne,
+2205 Bland det segerrika folket angrepo
+Och i striden kuvade Hererics frände4;
+Då övergick det vida riket 
+I Beowulfs hand; han styrde det väl 
+I femtio vintrar — gammal var då konungen, 
+2210 Landets herre — till dess en drake,
+Som bevakade en skatt i den stupande högens 
+Omstridda håla, började härska
+Om mörka nätter. Vid högens fot gick en stig, 
+Okänd för människor. Dit in gick en gång
+2215 En man, jag vet ej vem, grep med iver
+Den hedniska skatten. ............................
+................................................................5
+
+2216 ur hednaskatten    en herrlig bägare
+ädelstenssmyckad —    han [ångrade sig] sedan
+att så slemt han svek    den sovande draken
+efter tjuvars sed;    det var känt och sport
+2220 av vigmännens gårdsfolk,    att vred han var.
+Det gjordes ej uppsåtligt    intrång på ormskatten,
+
+1. D. ä. bland hirdmännen.
+2. Troligen underförstås ett landmått. Sannolikt det anglosaxiska hide som är ett mått på jordens avkastning (och inte dess yta). En hide räckte för att försörja en bondefamilj under ett år.
+3. Hygelac.
+4. Heardred. Handskriften har "nefan Hererices". Nefan kan betyda både brorson eller systerson och eftersom Heardred inte hade någon farbror med det namnet bör det rimligen tolkas som "systerson". Göran Collinder har också översatt detta ställe med "Hereriks systerson".
+5. Av de 11 följande halvverserna kunna blott fragment läsas i handskriften. De innehålla troligen ungefär detsamma som de närmast följande. Texten i grön färg är hämtad från  Björn Collinders översättning från 1955. (Notera att Wickberg har valt att nämna ormskatten/drakskatten på rad 2223 trots att det återfinns på rad 2221 i handskriften). Colliander har alltså på detta ställe översatt texten som Wickberg valde att utelämna. Men han har å andra sidan en ännu större lucka än Wickberg på raderna 2228b-2230a.
+• Hygelac. Stället kan ock fattas så: Gods och odalrätt, men han som var bättre, Hade dock mer: det vida riket.
+
+Kapitel 32
+En man plundrar en drakskatt. Draken hämnas med att härja bygden.
+
+Ej av egen drift och frivilligt plundrade
+Denne man drakskatten till sin*) stora skada, 
+Utan av nödtvång flydde någon 
+2225 Hjältesons tjänare för hätska slag,
+Och, saknande hem, dolde sig därinne
+Den skuldbelastade mannen. Snart skådade han in, 
+Och främlingen greps av skräck och fasa. 
+Dock såg den olycklige, ............................
+2230 ............................1 då skräcken föll över honom,
+Ett dyrbart kärl.**) Där fanns en mängd sådana 
+Gamla skatter i denna jordhåla, 
+Ett ofantligt arv från en ädel släkt 
+Av dyrbara klenoder, som i forna dagar 
+2235 En okänd man hade gömt därinne
+Med omtänksamhet. Alla hade döden bortryckt 
+I flydda tider, och den ende kvarblivne 
+Av hjälteskaran, han som levde längst, 
+Sörjde sina vänner, väntade detsamma: 
+2240 Att blott en liten tid längre få njuta
+Av de samlade skatterna. Där stod alldeles redo 
+En gravhög på fältet nära vågorna, 
+Nyuppförd vid näset, sinnrikt skyddad. 
+Dit in bar då ringarnas herde
+2245 De många härliga jarlaskatterna
+Av drivet guld, kvad de få orden: 
+»Behåll du nu, jord, då hjältarne ej få det, 
+»Jarlarnes ägodelar! Dugande män ha förut 
+»Vunnit dem av dig. En våldsam död
+2250 »I striden har bortryckt varenda man
+»Utav de mina, som lämnade detta liv; 
+»De hade sett salsglädje. Jag har ingen, som kan bära 
+»Svärdet eller feja den guldbeslagna skålen, 
+»Det dyrbara dryckeskärlet: hjältarne ha gått bort.
+2255 »Nu skall den hårda, guldsmyckade hjälmen
+»Mista sina beslag, vårdarne sova, 
+»De som skulle feja stridsmasken, 
+»Och likaså skall härklädnaden, som i striden fick pröva 
+»Svärdens bett över sköldarnes brak,
+2260 »Falla sönder efter hjälten: ej kan ringbrynjan
+»Efter härförarens död fara vida 
+»Vid hjältarnes sida. Ej finns harpans tjusning, 
+»Glädjeträdets gamman, ej svingar sig den gode 
+»Falken genom salen, ej stampar den snabbe
+2265 »Springaren på borggården. En våldsam död 
+»Har bortsänt många levande släkter.» 
+Så klagade han sin sorg, dyster i hågen, 
+Ensam efter alla, jämrade sig oblid 
+Dag och natt, tills dödens svallvåg 
+2270 Slog honom i hjärtat. Den härliga skatten 
+Fanns stående öppen av ett gammalt skadedjur, 
+En naken stridsdrake, som brinnande 
+Hemsöker högarna och, omvärvd av eld, 
+Flyger om natten. Honom frukta högligen
+2275 Jordens invånare. Han brukar söka
+Skatten i jorden, där han, tyngd av vintrar, 
+Vaktar hedniskt guld: ej får han det bättre för det. 
+Så bevakade folkfienden i jorden 
+I tre hundra vintrar den ofantligt stora
+2280 Skattkammaren, tills en man förtörnade
+Honom i hans sinne. Han bar till sin herre 
+En guldbeslagen bägare samt bad honom 
+Om frid och skydd. Så fanns skatten, 
+Och minskades dyrbarheterna. Bönen villfors
+2285 Den arme mannen; hans herre skådade
+För första gången mäns forna verk. 
+Då draken vaknade, började striden. 
+Den modige vädrade längs högen och fann 
+Fiendens fotspår. Denne hade gått för långt
+2290 Med hemlig konst nära drakens huvud.
+Så lätt kan den man, som äger 
+Herrens huldhet, med livet bestå 
+Lidande och landsflykt. — Skattevårdaren sökte 
+Ivrigt längs marken, ville finna den man,
+2295 Som hade vållat honom skada under sömnen.
+Het och vildsint, omkretsade han ofta 
+Hela högen utantill: ej fanns där någon man 
+På den öde platsen. Dock gladde han sig åt striden, 
+Åt kamparbetet. Stundom återvände han till högen
+2300 Och sökte det dyrbara kärlet. Snart fann han dock,
+Att någon människa hade uppletat guldet, 
+De härliga skatterna. Skattevårdaren
+Bidade med nöd, tills aftonen kom. 
+Förbittrad var då högens herde;
+2305 Den lede ville med låga vedergälla
+Det dyrbara dryckeskärlet. Så slutade dagen 
+Draken till fröjd, ej ville han bida 
+Längre vid muren, utan for med eld, 
+Omvärvd av lågor. Denna början var hemsk 
+2310 För männen i landet, liksom det snart
+Blev ett olyckligt slut för deras skatt-utdelare.
+
+• Eller möjligen: till hans (furstens) stora skada.
+• Sammanhanget i det följande är: En hjälte, som överlevat de sina, instänger sig i en till gravplats redd grotta med sina skatter. Efter hans död finnas dessa av en eldsprutande drake, som sedan ruvar över dem. Emellertid lyckas en tjänare, som råkat i onåd hos sin herre, att ur skatten stjäla ett kostbart kärl. Då draken upptäcker detta, förhärjar han bygden.
+1. Av 2 halvverser finnas blott fragment.
+
+
+Kapitel 33
+Beowulf beslutar kämpa mot draken.
+
+Då började gasten utspy glöder,
+Uppbränna härliga gårdar: lågan reste sig 
+Till människornas fasa. Ej ville då den lede 
+2315 Luftflygaren lämna något levande.
+Drakens anfall, den ilskna fejden 
+Nära och fjärran var vida synlig, 
+Hur skadegöraren hatade och förföljde 
+Götamännen; sedan for han till skatten
+2320 I den hemliga salen före dagens inbrott.
+Med eld och brand hade han omsnärt 
+Landets invånare, litade på högen, 
+På striden och muren: detta hopp svek honom. — 
+Snart blev för Beowulf sanningsenligt
+2325 Fasan förkunnad: att hans eget hem,
+Det yppersta hus, götarnes konungasäte, 
+Gått upp i lågor. Detta var för den gode 
+Bittert i hugen, den största hjärtesorg. 
+Den vise trodde, att han mot gammal rätt 
+2330 Bittert förtörnat den allrådande,
+Evige herren. I hans inre sjöd bröstet 
+Av dystra tankar, som eljest ej var hans vana. 
+Elddraken hade med lågor förstört 
+Folkets fäste, ön*) utanför,
+2335 Landets ägor; härför ärnade stridskonungen,
+Väder-götarnes herre, hämnas på honom. 
+Kämparnes värn, jarlarnes herre
+Lät då göra åt sig en konstrik sköld 
+Helt och hållet av järn: väl han visste,
+2340 Att en sköld av lind ej kunde hjälpa 
+Honom mot lågan. Den vördnadsvärde fursten 
+Skulle nå slutet på jordelivets 
+Förgängliga dagar, och draken även, 
+Fastän han länge förvarat den rika skatten.
+2345 Då försmådde ringarnas herre
+Att uppsöka den vittflygande
+Med stor härskara: ej fruktade han för denna strid 
+Eller räknade för något drakens kraft 
+Och styrka i striden; ty hjälten hade förut 
+2350 Vågat sig i faror och hade överstått
+Många strider, sedan den segerrike 
+Mannen rensade Hroðgars sal
+Och i striden angrep Grendels fränder, 
+Det leda släktet. Ej var det det minsta
+2355 Av handgemäng, där man dödade Hygelac,
+När götarnes konung, männens herre och vän,
+Hreðels son i stridens stormar
+I Frisland dog av svärdsdrycken,1
+Träffad av klingan. Beowulf kom undan
+2360 Genom sin egen kraft och skicklighet i simning.
+På sin arm bar han ensam trettio 
+Stridsrustningar, då han steg i havet.2
+Ej hade hetvarerna3, som burit fram 
+Sköldar emot honom, skäl att yvas
+2365 Över fotkampen: från denne kämpe
+Kommo blott få åter till hemmet. 
+Arm och ensam sam då Ecgtheows son 
+över havets vidd åter till sitt folk, 
+Där Hygd tillbjöd honom skatt och rike, 
+2370 Ringar och furstestol: hon tilltrodde ej sitt barn
+Att kunna försvara den ärvda tronen 
+Mot främmande folk, då Hygelac var död. 
+Det oaktat kunde ej de hjälplöse 
+På något sätt förmå ädlingen 
+2375 Att bliva herre över Heardred
+Eller mottaga kungadömet.
+Dock hjälpte han honom bland folket med vänliga råd, 
+Höll honom hult i ära, tills han blev äldre 
+Och styrde väder-götarne. Honom uppsökte
+2380 Över havet Ohteres landsflyktiga söner.4
+De hade gjort uppror mot Scilfingarnes värn,5
+Den frejdade fursten och den ypperste 
+Av de sjökonungar, som i Svearike6
+Utdelade skatter. Detta blev hans7 slut:
+2385 Hygelacs son fick dödssår
+Utav svärdshugg för sin gästvänskap; 
+Och Ongentheows son8 begav sig 
+Åter till sitt hem, sedan Heardred fallit, 
+Lät Beowulf intaga konungastolen,
+2390 Råda över götarne: det var en god konung,
+
+• Eller: kuststräckan. Göran Collinder har översatt det till "bygden längs stranden". Handskriften har ea-lond, vilket Michael Alexander vill översätta med "coast". Ordagrant betyder det (rinnande) vatten-land.  Om Beowulfs hemland var en ö så är det ett mycket starkt argument för att han var från Gotland (eller möjligen från Öland).
+1. = Blod; således: av blodförlust. Vikingatåget mot Frisland omtalas av Gregorius av Tours och ägde rum under Theuderic I:s regeringstid (511-533).
+2. Dvs. Beowulf hade besegrat 30 fiender innan han flydde genom att simma därifrån.
+3. Hetwarerna var en frankisk stam som levde vid Rhen. Som en följd av ljudförändringar i det tyska språket har de flera olika namn i källorna. Romarna kallade dem för chatti och i frankiska källor hette de Attoarii för att senare under medeltiden bli kända som hessare. Den tyska delstaten Hessen är uppkallad efter dem.
+    Curt Weibull ansåg att uppgiften om att Hygelac dödades av hetwarer bevisar att Beowulf är baserat på den frankiska källan Liber historiae Francorum från år 727 (som i sin tur är baserad på Gregorius av Tours verk från 570-talet.) Weibull ansåg det vara uteslutet att en sådan uppgift skulle ha kunnat överleva i en muntlig tradition under flera sekler. En annan forskare vid namn Walter Goffart argumenterade dessutom att om detta verk hade varit en källa till Beowulf så kan dikten inte ha författats tidigare än år 923.
+    Men Curt Weibull byggde vidare på länken till Liber historiae Francorum och kom fram till att Beowulf var dansk. Gregorius av Tours hade nämligen skrivit att Hygelac var danernas kung och detta står även i alla versioner utom en av Liber historiae Francorum. Den avvikande handskriften hävdar att vikingatåget bestod av daner ledda av goternas kung Hygelac. Weibull drog då slutsatsen att man redan på 700-talet hade börjat identifiera skandinaverna med antikens goter och att denna handskrift var anledningen till att Beowulfs folk benämns som geatas i dikten när de i själva verket var daner.
+    Det finns emellertid fler källor till Hygelacs vikingatåg. I Liber monstrorum som troligen skrevs i England på 700-talet benämns Hygelac som en getisk kung och inte som en dansk. Troligen har upphovsmannen till den avvikande "Liber historiae Francorum"-handskriften kommit i kontakt med dessa uppgifter och försökt korrigera Gregorius av Tours. I Liber monstrorum står det dessutom att Hygelacs ben fortfarande fanns kvar och visades upp för besökare. Detta motsäger Weibulls tes om att minnet av hur Hygelac dödades av Hetwarer inte skulle ha kunnat överleva så länge i en muntlig tradition.
+4. Eadgils (Aðils) och Eanmund (Eymundr).
+5. Sannolikt deras farbroder Onela.
+6. I handskriften står det Swio-rice. Detta är det allra äldsta belägget på landsnamnet Sverige.
+7. Heardreds.
+8. Onela, efter att ha dödat Heardred? (frågetecknet saknas i den reviderade utgåvan)
+
+Kapitel 34
+Beowulf genomgår sina levnadsminnen.
+
+I senare dagar tänkte han på lön
+För furstefallet, blev en vän 
+Till den arme Eadgils, understödde med folk, 
+Med krigare och vapen Ohteres son
+2395 Över det vida havet: han hämnades sedan
+Med kalla sorgetåg, bragte konungen om livet.1
+Så hade Ecgtheows son överstått 
+Alla strider, farliga fältslag
+Och hjältedåd intill denna dag, 
+2400 Då han skulle kämpa med ormen.
+Då gick själv tolvte götarnes herre, 
+Svällande av harm, att skada draken. 
+Han hade sport vadan denna fejd och dödliga fiendskap 
+Mot kämparne uppstått: i hans ägo hade kommit 
+2405 Det härliga kärlet genom tjuvens hand.
+Trettonde mannen i skaran var 
+Denne, som vållat stridens början. 
+Fängslad och sorgsen, skulle den arme föra dem 
+Därifrån till fältet. Mot sin vilja gick han 
+2410 Till en viss jordsal, som han kände,
+En håla under marken nära vågsvallet,
+Havets brus. Den var inuti full 
+Av smycken och spiralringar: den gamle, fasansfulle 
+Väktaren förvarade, redo till strid,
+2415 Sina guldsmycken under jorden. Ej var det lätt köp
+För någon människa att förvärva dem. 
+Sedan satte sig på udden den stridshårde konungen, 
+Götarnes guldvän, sade farväl
+Åt sina hirdmän: hans sinne var sorgset, 
+2420 Och förutsåg döden, som var helt nära,
+Och som snart skulle nalkas den gamle,
+Söka själens skatt och skilja isär 
+Livet från kroppen: ej länge var hädanefter 
+Den ädles själ omhöljd av kött.
+2425 Ecgtheows son Beowulf talade:
+»Många stridsstormar har jag överstått 
+»I min ungdom: jag minnes det allt. 
+»Jag var sju vintrar, då skatternas herre, 
+»Männens furste och vän tog mig till sig från min fader.2
+2430 »Konung Hreðel behöll mig sedan,
+»Gav mig guld och gästabud, mindes vår släktskap; 
+»Och jag var i livet en kämpe i borgen, 
+»Honom fullt ut lika kär som någon av hans söner, 
+»Herebeald och Hæðcyn eller min Hygelac.
+2435 »Åt den äldste breddes dödsbädd
+»Mot all rätt och sed genom broderns dåd, 
+»Då Hæðcyn med pilen från hornbågen 
+»Träffade honom, sin herre och vän, 
+»Förfelade målet och ihjälsköt sin frände,
+2440 »En broder den andre med det blodiga vapnet.
+»Det var urbota dåd, och det syndiga brottet 
+»Tyngde på bröstet; det oaktat skulle 
+»Ädlingen ohämnad mista livet.
+»Så smärtsamt är det för den gamle mannen 
+2445 »Att uthärda, att hans unge son
+»Skulle rida på galgen:3 då skulle han sjunga 
+»En sorgesång, när hans son hänger 
+»Korpen till fröjd, och den grånade gubben 
+»Icke kan giva honom någon hjälp.
+2450 »Ständigt erinras han varje morgon
+»Om sitt barns bortgång; tänker ej på 
+»Att vänta någon annan arvtagare 
+»Uti sin borg, då den ene har 
+»Genom dödens tvång fått bota för dåden.
+2455 Sorgsen ser han i sin sons boning
+»Vinsalen öde och glädjeberövad,
+»Ett tillhåll för vindar. I graven sova 
+»De tappra ryttarne; ej finns där harpans klang, 
+»Gamman i gården, som där förut varit.
+
+1. D. ä. dödade Onela under ett vinterfälttåg? (frågetecknet saknas i den reviderade utgåvan)
+2. Det var en sedvänja bland forntidens stormannafamiljer att låta sina barn fostras av andra. Beowulf upptogs från sin far Ecgtheow för att fostras hos kung Hreðel som var Beowulfs morfar. Mellan fosterfar och fosterson skapades vanligen starka lojalitetsband.
+3. Hreðels upplevde en dubbel olycka. Inte nog med att han hade förlorat en son. Han kunde inte heller hämnas dennes död eftersom dråparen var hans andre son. I det forntida samhället var det en plikt att hämnas dråpet på en frände (detta oavsett omständigheterna kring dödsfallet). Att inte kunna utkräva blodshämnd var en stor förödmjukelse för ätten. Dikten liknar sonens öde med att han hade blivit hängd för ett brott, i sådana fall kunde man inte heller utkräva blodshämnd.
+
+
+Kapitel 35
+Han vill ensam upptaga striden med draken. Beowulf kämpar med draken.
+
+2460 »Då går han i sovrummet, sjunger en sorgesång,
+»Fadern över sonen; allt tycktes honom för rymligt,
+»Fält och bostad. Så bar väder-götarnes 
+»Värn sin sjudande hjärtesorg
+»Efter Herebeald, kunde ej alls förmå sig 
+2465 »Att hämnas dådet på banemannen:
+»Han kunde dock ej förfölja kämpen 
+»Med onda dåd, fastän han ej var honom kär. 
+Med detta sorgesår, som givits honom,
+»Övergav han männens fröjd, valde Guds ljus;
+2470 »Lämnade sina barn, som den rike1 gör,
+»Land och fursteborg, då han gick ur livet. —
+»Sedan blev det brott och tvist mellan svear och götar,
+»Ömsesidig fiendskap och hård härkamp 
+»Över det vida vattnet,2 då Hreðel dött, 
+2475 »Och Ongentheows söner voro
+»Tappra och krigiska, ville ej hålla 
+»Fred över haven, utan anställde ofta 
+»Bakslugt blodbad kring Hreosna-berget.3
+»Denna lömska fejd hämnades mina 
+2480 »Fränder och vänner, såsom det sports,
+»Fastän den ene betalade med sitt liv, 
+»Ett hårt köp: striden medförde 
+»Götafursten Haæðcyns fall. —
+»Jag har sport, att på morgonen broder hämnades broder 
+2485 »Med svärdets eggar på banemannen,
+»Då Ongentheow angrep Eofor.
+»Stridshjälmen klövs i tu, den gamle Scilfingen 
+»Nedsjönk blek; handen4 var betänkt 
+»På fullständig hämnd, svek ej vid dödshugget. 
+2490 »De skatter, som min konung hade givit mig,
+»Har jag gäldat honom i striden, såvitt mig förunnats,
+»Med det blanka svärdet: han skänkte mig land 
+»Och härligt odalgods. Och ej behövde han 
+»Hos gepider5 eller spjut-daner 
+2495 »Eller i Svearike söka efter
+»Och köpa med skatter sämre kämpar.
+»Ständigt ville jag i hären vara framför honom,
+»Ensam i spetsen och skall så till min död 
+»Utkämpa strider, så länge detta svärd håller, 
+2500 »Som ofta förr och senare hjälpt mig,
+»Sedan tack vare min kraft jag med min hand
+»Dödade Däghrefn, hugernas*) kämpe.
+»Ej fick han bära det dyrbara 
+»Bröstsmycket till frisernas konung,
+2505 »Utan standar-bäraren, den starke ädlingen
+»Föll i kampen. Ej gav svärdet banesår, 
+»Utan krigarens famntag krossade benhuset,6
+»Hjärtats svallvågor. Nu skall handen 
+»Och den hårda svärdseggen strida om skatten.»
+2510 Beowulf talade löftes-ord
+För sista gången: »Jag har vågat många
+»Strider i min ungdom; ännu en gång vill jag,
+»Folkets gamle vårdare, söka fejd
+»Och kämpa med ära,**) om skadedjuret
+2515 »Gör anfall mot mig ut ur jordsalen.»
+Sedan hälsade han för sista gången
+Alla männen, sina kära följeslagare,
+De käcka hjälmbärarne: »Ej ville jag bära
+»Vapen mot draken, om jag visste huru
+2520 »Jag annars skulle kunna fullgöra mitt löfte
+»Mot skräckbringaren, som jag förut gjort mot Grendel.
+»Men jag väntar där het fiendeeld,
+»Giftig andedräkt; därför har jag på mig
+»Brynja och sköld. Ej vill jag fly
+2525 »För högens vaktare det minsta fotsteg;
+»Utan vår strid blir vid muren, som ödet för oss fogar,
+»Alla människors herre. Jag är så käck till sinnes,
+»Att jag kan undvara skryt gentemot den flygande fienden.
+»Biden på berget, I rustade män,
+2530 »Värnade av brynjor, vem av oss båda
+»Bäst skall kunna uthärda sår
+»Efter stridsstormen. Det är ej ett värv för er
+»Och anstår ej någon utom mig ensam 
+»Att med skräckbringaren mäta sig i styrka 
+2535»Och öva mandom. Jag skall med min kraft
+»Tillkämpa mig guld, eller ock skall i striden
+»En våldsam död bortrycka er herre.» 
+Sedan reste sig vid skölden den starke kämpen, 
+Hård under hjälmen, bar stridsskjortan
+2540 Hän under klipporna, litade blott
+På sin egen styrka: sådan är ej den feges färd!
+Vid muren såg då den utmärkte hjälten,
+Som hade utstått stridernas larm 
+Så många gånger, då kämpar stötte samman,
+2545 Ett stenvalv7 stå och en ström därifrån
+Bryta fram ur högen. Den källans svall
+Var hett av stridslågor: ej kunde han obränd
+Vid någon tid nå fram till djupet 
+I skattens närhet för drakens låga.
+2550 Då lät ur bröstet, vredgad som han var,
+Väder-götarnes herre orden fara ut;
+Den modige ropade: manande till strid,
+Kom rösten ljudande in under den grå stenen.
+Hat väcktes, skattevårdaren hörde
+2555 En människoröst; ej var det mera tid
+Att söka vänskap. Först kom då
+Skräckbringarens andedräkt, het stridssvett
+Ut ur klippan. Marken dånade.
+Vid högens fot svängde götarnes
+2560 Herre sin sköld mot den hemske gästen.
+Då kände den ringlade ormens hjärta
+Lust att söka strid. Dessförinnan drog 
+Den gode stridskonungen det gamla arvsvärdet 
+Med vassa eggar. Båda de hätska 
+2565 Fienderna grepos av skräck för varandra.
+Med fast mod stod vännernas furste 
+Vid den stupande skölden, då ormen krökte 
+Snabbt sig samman; rustad bidade kämpen. 
+I lågor kom ormen skridande i bukter,
+2570 Skyndande till sitt öde. Skölden skyddade väl
+Den frejdade furstens liv och lemmar
+Mindre tid än han själv önskade.
+Där skulle han för första gången 
+Då få erfara, att ödet ej gav honom
+2575 Ära i striden. Götarnes herre
+Lyfte upp handen, slog med svärdet
+Den hemskt glänsande, så att den bruna eggen 
+Vek mot benet, bet mindre hårt 
+Än folkkonungen väl behövde,
+2580 Nödställd i striden. Efter svärdsslaget
+Blev högens vaktare vild till sinnes,
+Utspydde dödseld; vida sprungo
+Stridslågorna. över segerära jublade ej 
+Götarnes guldvän, då det nakna slagsvärdet 
+2585 Svek i striden, som det beprövade stålet
+Ej hade bort. Ej var det en lätt 
+Färd för Ecgtheows frejdade son 
+Att övergiva denna mark
+Och annanstädes mot sin vilja 
+2590 Taga sin bostad, så som varje människa måste
+Lämna dessa förgängliga dagar. — Ej dröjde det sedan länge, 
+Innan skräckbringarne åter möttes.
+Skattevårdaren fattade mod på nytt 
+— Bröstet hävdes av andedräkten —; nöd led då,
+2595 Omvärvd av eld, folkets gamle herde.
+Ej stodo i en hop hans vapenbröder, 
+Ädlingars söner runtom honom
+Med mod i striden; utan flydde till skogen 
+Att bärga livet. I en av dem sjöd dock 
+2600 Sinnet av sorger: för den vältänkande
+Kan intet någonsin fjärma frändskapen.
+
+1. Med "rik" menas att Hreðel hade en son som han kunde lämna över "Land och fursteborg" till. Beowulf var inte lika lyckligt lottad.
+2. Texten säger att svear och götar avskiljs av vida vatten. Detta stämmer inte in på varken väst- eller östgötar men väl på gutar, ölänningar och jutar.
+Jämför för övrigt skildringen av det andra svensk-götiska kriget på raderna 2472-2489 med det första kriget som skildras på på raderna 2922-3007..
+3. 'Hreofna-beorh' (korpberget) är en emendation af handskriftens 'Hreosna-beorh'. Jf vv. 2925 och 2935. I den reviderade utgåvan har Wickberg bytt ut emendationen mot handskriftens ord. Inte heller Björn Collinder och Michael Alexander har följt emendationen.
+4. Eofors. Denne händelse berättas utförligare vv. 2961 ff.
+5. Gepiderna var en gotisk stam som från mitten av 400-talet levde norr om Donau i nuvarande Rumänien och Ungern. Deras rike krossades 567 av langobarder och avararer. Ännu i början av 800-talet ska en gepidisk folkspillra ha levt kvar i Ungern. Identifieringen av handskriftens Gifðas med gepiderna anser jag dock vara osäker. Den bygger på tolkningen att namnet gepider är en latinisering av Gibiðos som betyder "givare". Tydligen var även Björn Collinder tveksam till denna tolkning eftersom han kallar stammen för "gifdar" i sin översättning.. Utöver Beowulf nämns denna stam bara i Widsith (rad 60), och den dikten innehåller inga ledtrådar överhuvudtaget om vilka de kan ha varit. Dock räknas alla berömda germanska stammar förutom gepiderna upp i Widsith om dessa inte är identiska med gifdarna. Det finns emellertid ingen anledning för Beowulfs skald att nämna sydeuropeiska gepider i ett skandinaviskt sammanhang, och tolkningen förutsätter därför att en del gepider levde kvar i det ursprungliga hemlandet i norra Polen under 500-talet (enligt Jordanes härstammade de i likhet med goterna från Skandinavien).
+6. Beowulf dödade Däghrefn med bara händerna.
+7. Stenvalvet och följande detaljer påminner om en megalitisk stenkammargrav.
+• = frankernas.
+• Eller: utföra en bragd.
+
+Kapitel 36
+Wiglaf kommer till hans hjälp. De båda hjältarne döda gemensamt draken.
+
+Wiglaf1 hette en avhållen sköldkämpe,
+Scilfingafurste, Weohstans son,
+Älfheres frände. Han såg sin konung 
+2605 Lida av hettan under härmasken.*)
+Han mindes då den ynnest, denne förut visat honom, 
+Givit honom Wägmundingarnes rika hemvist 
+Och alla rättigheter bland folket, som hans fader ägt.
+Ej kunde han då hejda sig, handen fattade skölden,
+2610 Den gula linden, och drog det gamla svärdet.
+Detta var bland männen ett arv efter Eanmund,
+Ohteres son: dennes, den vänlöse 
+Flyktingens baneman vart Weohstan i striden 
+Med svärdets eggar och bar till sina fränder 
+2615 Den brunglänsande hjälmen och ringbrynjan,
+Det gamla jättesvärdet, som Onela gav honom:
+Sin egen frändes stridsklädnad,
+Färdig för kamp. Ej talade han om denna fejd,
+Fastän Weohstan fällt hans egen brorson2
+2620 Många halvår behöll han skatterna,
+Svärd och brynja, tills hans son kunde 
+Öva mandom, liksom hans gamle fader.
+Då gav han honom bland götarne en ofantlig mängd 
+Av alla slags stridsklädnader, när den gamle gick
+2625 Sin väg ur livet. Det var nu första gången,
+Som den unge kämpen skulle pröva på 
+Stridens storm med sin herre och furste. 
+Ej veknade hans sinne, och ej svek hans faders 
+Arv i striden: det rönte draken, 
+2630 Sedan de hade drabbat samman.
+Wiglaf talade många sanna ord 
+Till sina följeslagare — hans sinne var sorgset —: 
+»Jag minnes den tid, då vi fingo mjöd, 
+»Och vi lovade i ölsalen 
+2635 »Vår herre, som gav oss de ringar vi bära,
+»Att vi ville gälda, om han finge
+»Behov av sådant, dessa stridsrustningar, 
+»Hjälmar och hårda svärd. Därför har han valt oss 
+»Självmant ur hären till denna färd, 
+2640 »Manat oss till bragder och givit mig dessa skatter,
+»Att han höll oss för goda spjutkämpar,
+»Käcka hjälmbärare, om också vår herre, 
+»Folkets herde tänkte ensam
+»Utföra åt oss detta hjältedåd,
+2645 »Därför att bland människor han utfört de flesta
+»Djärva bragder. Nu är den dag kommen, 
+»Då vår konung behöver goda 
+»Kämpars styrka. Låtom oss gå fram 
+»Och hjälpa stridshövdingen, medan ännu varar
+2650 »Den hemska glöden. Gud vet med mig,
+»Att mig är mycket kärare, att glöden famnar 
+»Min kropp tillika med min guldgivare.3
+»Ej synes mig tillbörligt, att vi bära våra sköldar 
+»Tillbaka till hemmet, om vi ej dessförinnan 
+2655 »Kunna fälla fienden, skydda väder-götarnes
+»Furstes liv. Jag vet väl, att han ej 
+»Av gammalt förtjänat att nödgas ensam 
+»Bland götarnes skara lida trångmål 
+»Och falla i striden. För oss båda skola svärd och hjälm,
+2660 »Brynja och stridsskrud vara gemensamma.»
+Sedan gick han genom dödsröken, bärande hjälmen 
+Sin herre till stöd, sade få ord: 
+Käre Beowulf, fullgör väl allt, 
+»Som du fordom sagt i din ungdom: 
+2665 »Att aldrig i livet du skulle låta
+»Din ära sjunka! Nu skall du beslutsamme, 
+»Dådstarke ädling av alla krafter 
+»Värna ditt liv; jag skall hjälpa dig.» 
+Efter dessa ord kom draken vred,
+2670 Det hemska odjuret, för andra gången
+Att glänsande i lågors svall anfalla fienderna, 
+De hatade männen. Av eldvågor förbrändes 
+Skölden intill bucklan; brynjan kunde då 
+Ej giva skydd åt den unge spjutkämpen,
+2675 Utan den unge mannen ilade skyndsamt
+Under sin släktings sköld, då hans egen blivit 
+Förtärd av glöden. Då tänkte stridskonungen 
+Än en gång på sin ära, och med hjältekraft 
+Slog han till med svärdet, så att det, drivet av hatets makt,
+2680 Stod i huvudet. Då brast Nägling,4
+I striden svek Beowulfs gamla 
+Stålgrå svärd. Honom unnades det ej,
+Att stålens eggar skulle kunna hjälpa 
+Uti striden den man, — för stark var hans hand — 
+2685 Som, efter vad jag sport, i hugg övergick 
+Varje svärd,**) då till striden han bar
+Det i blod härdade vapnet; ej gick det honom bättre för det.
+Då blev folkfienden, den vilde elddraken
+För tredje gången betänkt på fejd:
+2690 Het och stridslysten, rusade han på kämpen,
+Då tillfälle erbjöd sig, omfattade hela 
+Hans hals med tänderna. Han vart då färgad 
+Av livsblodet, som svallade i vågor.
+
+1. Wiglaf var befryndad med Scylfingaätten som styrde Sveariket. Hans far hade stridit på Onelas sida och dödat Eanmund som var götarnas gäst. Men trots det uppges Wiglaf tillhöra samma ätt som Beowulf (Wägmundingarna). Det är tack vare Beowulf som Wiglaf kunde återvända till Wägmundingarnas hemvist och återfå alla rättigheter som hans far hade haft. Att Beowulf tillhörde Wägmundingaätten avslöjas på 2813ff där han säger att Wiglaf  "är den siste utav vår släkt, av Wägmundingarne".
+2. D. ä. Onela brydde sig ej om att hämnas sin brorson Eanmunds död, sannolikt därföre att denne, såsom ovan v. 2381 ff, nämnts, gjort uppror mot honom.
+3. Näml. »än att jag skulle låta honom ensam omkomma».
+4. Beowulf har lika lite nytta av svärdet Nägling som han tidigare hade med Hrunting (1659).
+• = hjälmen.
+• Han var så stark, att svärdet krossades vid hans hugg.
+
+Kapitel 37
+Wiglaf hämtar skatterna ur högen.
+
+Jag har sport, att då vid folkkonungens nöd
+2695 Jarlen högrest visade mandom,
+Kraft och djärvhet, som voro honom medfödda.
+Ej frågade han efter sitt liv*), utan den modige mannens 
+Hand brann upp, då han hjälpte sin frände, 
+Och den rustade mannen slog den fientlige främlingen
+2700 Litet längre ned**), så att det glänsande
+Guldbelagda svärdet inträngde; då började
+Elden lägga sig. Än en gång blev då konungen 
+Mäktig sig själv, drog sin skarpa, 
+Bitande stridsdolk, som han bar på brynjan,
+2705 Och väder-götarnes värn skar draken mitt itu.
+De fällde fienden — deras kraft utdrev livet —,
+Och då hade de båda befryndade ädlingarne 
+Dödat honom: sådan bör en hjälte 
+Vara i nöden. Detta var för konungen
+2710 Hans sista seger genom egna bragder
+Och verk i världen. Då började det sår, 
+Som jorddraken förut hade givit honom, 
+Bränna och svälla. Snart märkte han, 
+Att dödsbringande etter sjöd
+2715 Inne i hans bröst. Då gick ädlingen,
+Den vist tänkande, och satte sig ned
+På en plats vid muren, såg på jättarnes verk:
+Huru stenbågarne, stödda på pelare, 
+Uppburo den eviga jordsalen innantill,
+2720 Med vatten ur sin hand vederkvickte då 
+Den utmärkte mannen den svärdsblodige 
+Frejdade konungen, sin stridsmätte
+Vän och herre, samt uppspände hans hjälm.
+Beowulf talade och sade i trots av
+2725 Sitt dödliga sår — han visste väl,
+Att han genomlevat alla sina dagar, 
+Sin jordiska glädje: hans dagars tal 
+Hade fullständigt utlupit, och döden var helt nära —: 
+»Nu skulle jag vilja giva min son
+2730 »Mina stridsdräkter, om mig förunnats
+»Efter min död någon arvinge, 
+»Avlad av mig. Jag har styrt detta folk 
+»I femtio vintrar. Ej har funnits någon 
+»Sådan folkkonung bland de kringboende,
+2735 »Att han med stridsvänner***) vågat angripa mig 
+»Och hota med strid. På min gård har jag bidat 
+»Mitt öde här i tiden, har väl skött mitt, 
+»Ej sökt lömska strider, ej svurit orättfärdigt 
+»En mängd eder. Sjuk av dödssår,
+2740 »Kan jag ha glädje av allt detta;
+»Ty människornas konung kan ej tillvita mig 
+»Mord på fränder, nu då mitt liv 
+»Lämnar min kropp. Gå du nu genast, 
+»Käre Wiglaf, och skåda skatten 
+2745 »Under den grå klippan, nu då draken ligger
+»Och slumrar sårad, berövad sina skatter.
+»Skynda dig nu, att jag ännu må få 
+»Noga beskåda den gamla guldrikedomen, 
+»De glänsande smyckena, att jag så mycket lugnare,
+2750 »Sedan jag vunnit skatten, må lämna
+»Mitt liv och mitt folk, som jag länge rått över.»
+
+• Eller: drakens huvud.
+• Där draken ej var så väl skyddad.
+• = svärd.
+
+Kapitel 38
+Beowulf skådar skatterna och dör.
+
+Jag har sport, att efter dessa ord
+Wihstans son skyndsamt åtlydde sin stridssjuke 
+Och sårade furste, bar ringnätet,1
+2755 Den flätade stridsskjortan under högens tak.
+Då såg den segerstolte, modige kämpen, 
+När han gick till platsen, en mängd dyrbara smycken 
+Och guld glittra, liggande på marken, 
+Underbara verk å muren, den i gryningen flygande
+2760 Gamle drakens håla, samt kärl stå där,
+Forna mäns krus, som mist sina prydnader 
+Och aldrig rengjorts. Där fanns mången hjälm, 
+Gammal och rostig, en mängd armringar, 
+Flätade med konst. Lätt kunna guldets 
+2765 Skatter på marken göra vilken som helst
+Människa övermodig: akte sig den som vill! 
+Även såg han resa sig högt över skatten 
+Ett fälttecken av guld, det yppersta av handens under 
+Och konstrikt virkat. Från detta stod en glans,
+2770 Så att han kunde betrakta marken
+Och överblicka smyckena. Ej var nu där 
+Draken att skåda: honom hade ståleggen bortryckt. 
+—Jag har sport, att då plundrade en enda man 
+Skatten i hålan, jättars gamla verk,
+2775 Samt lastade i sitt sköte efter eget val
+Bägare och fat; även tog han fälttecknet, 
+Det mest lysande i sitt slag. Hans gamla herres svärd
+— Dess egg var av järn — hade förut fällt 
+Den som en lång tid hade värnat om
+2780 Dessa skatter, och i stridsflammor
+Om midnätterna spritt för skattens skull 
+Den heta lågans fasa, till dess han dödades.
+Budet skyndade sig, längtande att återvända, 
+Påskyndad av smyckena*). Den högsinte plågades
+2785 Av nyfikenhet huruvida han skulle få träffa
+Väder-götarnes kraftsjuke konung levande 
+På den plats i det fria, där han lämnat honom förut. 
+Med dessa skatter fann han sin frejdade 
+Konung och herre blodande av sår
+2790 Vid sin levnads slut. Han började åter
+Bestänka honom med vatten, till dess ordets spets 
+Bröt fram ur bröstet. Sorgsen skådade 
+Den gamle hjälten på guldet och sade: 
+»Jag tackar med ord härlighetens konung, 
+2795 »Den evige fursten för alla dessa
+»Rika skatter, som jag här skådar, 
+»Samt för det jag fått före min dödsdag 
+»Förvärva dylikt åt mina män. 
+»Nu har jag sålt mitt gamla liv
+2800 »För denna skatt, främjen I nu
+»Folkets tarv; ej får jag vara här längre.
+»Bjuden de stridsberömde efter bålets brand uppkasta 
+»En lysande hög på havsudden! 
+»Den skall till ett minne för mina män 
+2805 »Resa sig hög på Valudden,
+»Att den sedan må kallas Beowulfs gravhög2
+»Av sjöfarande, som föra höga 
+»Fartyg från fjärran över vågornas töcken.» 
+Av halsen tog sedan den modige konungen
+2810 En gyllene ring och lämnade den
+Jämte sin guldglänsande hjälm, armring och brynja 
+Åt den unge spjutkämpen, önskade honom glädje av dem. 
+»Du är den siste utav vår släkt, 
+»Av Wägmundingarne3. Alla mina fränder,
+2815 »De kraftige jarlarne har ödet bortsopat
+»I skaparens skickelse; jag följer dem nu.» 
+Detta var den gamles sista ord 
+Och hjärtetanke, innan han valde bålet, 
+De heta eldvågorna. Ur hans bröst gick
+2820 Själen att söka sanningsvittnenas härlighet.
+
+1. Brynjan.
+2. Birger Nerman ansåg att Beowulfs gravhög sannolikt var identisk med Skalundahögen på Kålland. Den är Västergötlands största och synlig från Vänern. Teorin förutsätter dock att Beowulf var västgöte.
+3. Det är först nu vi får reda på vilken ätt Beowulf tillhörde (och att Wiglaf var hans släkting).
+• Ville visa smyckena.
+
+Kapitel 391
+De fega vapenbröderna skola straffas.
+
+Så hade det hänt den unge mannen,
+Att han till sin sorg fått se den han hade kärast, 
+Ligga på marken vid livets slut 
+I hjälplöst skick. Även låg hans hane,
+2825 Den hemske jorddraken berövad livet,
+Kuvad i striden. Ej fick den ringlade ormen 
+Längre råda över ringskatterna,
+Utan honom bortryckte svärdens hårda, 
+Hammarsmidda eggar, skårade i strider; 
+2830 Så att den vittflygande, stillad av såren,
+Föll på marken nära skattehärden 
+Och ej längre for flygande genom luften 
+Och visade sig om midnätterna, 
+Stolt över sina skatter: han föll till jorden
+2835 För denne kämpes kraftiga hand.
+I sanning skulle det — så har jag sport — 
+Ha lyckats för få kämpar i landet, 
+Även om de vågat varje bragd, 
+Att storma fram mot etterfiendens andedräkt
+2840 Eller med händerna antasta ringsalen,
+Om de funnit väktaren vaken 
+Bo i högen. Beowulf fick 
+Med livet gälda de härliga skatterna; 
+Båda hade då nått till slutet 
+2845 Av det förgängliga livet. — Sedan dröjde det ej länge,
+Innan de stridströga, trolösa stackarne 
+Lämnade skogen, tio tillsammans,
+Som förut ej vågat leka med spjuten 
+Uti sin furstes stora nöd;
+2850 Men som nu skamsna buro sköldar
+Och stridskläder dit där den gamle låg, 
+Samt blickade på Wiglaf. Utmattad satt 
+Fotkämpen nära sin herres axlar, 
+Sökte väcka honom med vatten; men intet hjälpte honom.
+2855 Ej kunde han på jorden, så väl han än ville det,
+Kvarhålla livet hos spjutfursten,
+Kunde ej ändra herrens vilja. 
+Guds makt ville i gärningar råda 
+Över varje människa, såsom han ännu gör.
+2860 Då var lätt att få av den unge mannen
+Vredgat tilltal till den vars mod hade sviktat. 
+Weohstans son Wiglaf talade
+Med sorgset sinne — såg på okära —: 
+»Det kan väl säga den som vill tala sant,
+2865 »Att den furste, som gav eder dessa skatter
+»Och stridsrustningar, i vilka I här stån, 
+»När på ölbänken konungen ofta 
+»Gav sina hirdmän, som sutto i salen, 
+»Hjälm och brynja, de yppersta han kunde
+2870 »Någonstädes finna, fjärran eller nära,
+»Att han alldeles onyttigt bortkastat 
+»Krigskläderna, då striden nådde honom. 
+»Ej hade folkkonungen skäl att yvas 
+»Över sina vapenbröder; dock unnade honom Gud,
+2875 »Segrarnas herre, att han ensam hämnades
+»Sig själv med svärdseggen, då hjältekraft krävdes.
+»Jag kunde giva honom blott föga 
+»Livsskydd i striden, men sökte likväl 
+»Över min förmåga hjälpa min frände.
+2880 »Sedan jag med svärdet slagit dödsfienden,
+»Blev han allt mattare; elden svallade 
+»Svagare ur bröstet. För få försvarare 
+»Trängdes kring fursten, då tid var att strida. 
+»Nu skall er ätt gå miste om skatters mottagande 
+2885 »Och svärds givande, härliga arvgods,
+»Det kära hemmet. Varje man 
+»Utav denna stam skall vandra förlustig 
+»Sin njutna landsrätt, när ädlingarne 
+»Från fjärran spörja eder flykt,
+2890 »Ert ärelösa dåd. Döden är bättre
+»För varje jarl än ett liv i nesa.»2
+
+1. Kapitelindelningen i Wickbergs första utgåva motsvaras av indelningen av så kallade fitts i handskriften. Det 39:e fitt-numret saknas dock i handskriften, sannolikt på grund av ett avskrivarfel, och har därför rekonstruerats.
+2. Att överleva en strid där hövdingen hade stupat innebar för en germansk krigare den allra största vanhedern. Jämför Tacitus: Germania kapitel 14.
+
+Kapitel 40
+Dödsfallet meddelas jarlarne.
+
+Han lät sedan förkunna striden i skansen
+Upp över havsklippan, där jarlaskaran
+Satt med sköldar, sorgsen i hågen,
+2895 Den morgonlånga dagen, bidande båda delarna
+Den käre mannens sista dag 
+Och hans återkomst. Nyheterna
+Förteg föga den som red upp på udden, 
+Utan talade sanningsenligt hän över alla: 
+2900 »Nu är väder-götarnes givmilde herre
+»Och furste fast på dödsbädden, 
+»Vilar på liklägret genom drakens dåd. 
+»Bredvid honom ligger dödsfienden,
+»Sjuk av dolksår: med svärdet kunde han ej 
+2905 »På något vis giva skräckbringaren
+»Något sår. Weohstans son
+»Wiglaf sitter lutad över Beowulf, 
+»Den ene jarlen över den andre döde, 
+»Håller hugtrött*) huvudvakt
+2910 »Över ljuv och led.1 Nu har folket
+»Att vänta örlig, när konungens fall 
+»Varder vida känt av våra fiender, 
+»Franker och friser. Den hårda fiendskapen 
+»Mot hugerna började, då Hygelac kom farande
+2915 »Med flotta och här till frisernas land,
+»Där hetvarerna**) kuvade honom i striden, 
+»Vållade genom sin kraft och övermakt, 
+»Att brynjekämpen måste böja sig 
+»Och föll i hären. Ej gav då fursten
+2920 »Smycken åt sin skara. Sedan dess ha vi aldrig 
+»Att vänta välvilja av Merovingen2. — 
+»Ej heller hoppas jag alls på fred eller tro3
+»Av sveafolket: vida blev känt, 
+»Att Ongentheow berövade Hreðlingen
+2925 »Hæðcyn livet vid Korpskogen,
+»Då götamännen av övermod
+»Först anföllo Strids-scilfingarne.
+»Snart gav honom Ohteres gamle
+Fruktansvärde fader4 ett slag tillbaka, 
+2930 »Dödade sjökonungen, befriade sin maka,
+»Den guldberövade forna jungfrun,
+»Onelas och Ohteres moder,
+»Och förföljde sedan dödsfienderna,
+»Tills de herrelöse med knapp nöd 
+2935 »Nådde fram till Korpskogen.
+»Med en väldig här omslöt han sedan svärdens 
+»Sårtrötta lämningar, lovade ofta ve 
+»Åt den arma skaran natten i ända: 
+»Sade, att han om morgonen skulle avliva dem
+2940 »Med svärdets eggar, några på galgar
+»Fåglarna till gamman. Tröst kom åter 
+»Till de sorgsne i daggryningen, 
+»Då de fingo höra Hygelacs horn 
+»Och trumpetens klang, när den gode kämpen
+2945 »Kom tågande i hjälteskarans spår.
+
+• Eller: vördnadsfullt.
+• En frankisk stam, lat. (C)hattuarii. (=hessare, jfr not 3 i kapitel 33).
+1. Den ljuve är Beowulf och den lede är draken.
+2. Omnämnandet av Merovingerna som var Frankerrikets kungaätt fram till 752 har sedan 1849 ansetts vara ett bevis för att Beowulf skrevs ned någon gång under 700-talets första hälft. Det kristna inslaget i dikten gör 600-talet till en osannolik datering. Före 1849 hade manuskriptets Merewioingas tolkats som sjö-vikingar. Även efter 1849 har forskare som argumenterat för en senare datering hävdat den ursprungliga tolkningen av ordet. Men detta är inte nödvändigt eftersom Beowulfs författare kan mycket väl ha nämnt Merovingerna av historiska skäl  trots att de inte längre regerade Frankerriket när han levde.
+3. Här inleds en skildring (fram till 3007) av det första svensk-götiska kriget. Jämför med skildringen av det andra kriget på raderna 2472-2489.
+4. Ongantheow
+
+Kapitel 41
+Forna strider omtalas.
+
+»Detta svears och götars blodspår,
+»Männens stridsstorm var vida synlig, 
+»Den fejd dessa folk sinsemellan väckte. 
+»Då gick den tappre, sorgtyngde gubben 
+2950 »Med sina stamfränder att söka en fast plats:
+»Fursten Ongentheow begav sig längre uppåt. 
+»Han hade sport Hygelacs härtåg, 
+»Den stoltes stridskonst, litade ej på motstånd, 
+»Att han skulle kunna värja och försvara 
+2955 »Mot de sjöfarande männen sin skatt,
+»Barn och maka, utan den gamle flydde därifrån 
+»Tillbaka under jordvallen1. Då bjöds förföljelse 
+»Under Hygelacs fälttecken efter sveamännen. 
+»Hän över skyddsfältet*) gingo då Hreðlingarne2
+2960 »Och trängde fram till inhägnaden.
+»Där vart Ongentheow, den grånade kämpen, 
+»Av svärdens eggar tvingad att bida, 
+»Så att folkkonungen måste ge vika för 
+»Eofors ensamma kraft. Vilt slog
+2965 »Honom med vapnet Wonredingen3 Wulf,
+»Så att av hugget blodet sprang i strömmar 
+»Fram under håret. Rädd blev dock icke 
+»Den gamle Scilfingen, utan vedergällde straxt 
+»Med värre växling detta dråpslag, 
+2970 »När folkkonungen vände sig ditåt.
+»Ej kunde Wonreds raske son giva 
+»Den gamle något mothugg, ty denne skar 
+»Dessförinnan sönder hjälmen på hans huvud, 
+»Så att han måste blodbestänkt böja sig, 
+2975 »Föll till marken: ännu var han ej dödskorad,
+»Utan hämtade sig, fastän träffad av sår. 
+»Då lät Hygelacs hårde hirdman,4
+»När hans broder fallit, den breda klingan, 
+»Jättars gamla svärd krossa jättars hjälm 
+2980 »Över sköldmuren. Då sjönk konungen,
+»Folkets herde, träffad till döds. 
+»Då var det många, som förbundo hans1 broder, 
+»Upplyfte honom skyndsamt, sedan de fått rum 
+»Och fingo råda över valplatsen.
+2985 »Under tiden plundrade en man**) den andre,
+»Tog av Ongentheow hans järnbrynja, 
+»Hårda häftsvärd och hans hjälm tillika 
+»Samt bar den grånades rustning till Hygelac.
+»Denne mottog skatterna och lovade honom vänligt
+2990 »Lön inför folket och fullgjorde vad han lovat:
+»När han kommit hem, vedergällde Hreðels son, 
+»Götarnes herre, Eofor och Wulf 
+»Denna stridsstorm med överdådiga skatter, 
+»Gav dem vardera hundra tusen
+2995 »I land och flätade ringar — ej hövdes någon man på jorden
+»Att tillvita honom denna lön, då de tillkämpat sig sådan ära —. 
+»Vidare gav han Eofor sin enda dotter, 
+»Hemmets smycke, till underpant på sin huldhet. 
+»Detta är den fejd och den fiendskap, 
+3000 »Det dödshat mellan männen, för vars skull jag väntar,
+»Att efter hjältarnes fall de käcka Scylfingarne,5
+»Sveamännen skola hemsöka oss,
+»Då de få spörja, att vår härskare 
+»Nu är livlös, han som fordom skyddade
+3005 »Skatt och rike mot hätska fiender,
+»Främjade folkets väl och än vidare
+»Övade mandom. Nu är bäst, att vi 
+»Med snaraste skåda folkkonungen
+»Och på bålet bringa den man, 
+3010 »Som gav oss ringar. Ej skall blott en del
+»Smälta med den modige, utan hela skatten,
+»Tallöst guld bittert vunnet,
+»Och nu senast har han köpt ringar 
+»Med sitt eget liv. Dem skall branden förtära, 
+3015 »Elden omsvepa, ej någon jarl bära
+»Ett smycke till minne, ej någon skön kvinna 
+»Bära kring halsen en ringprydnad, 
+»Utan skall med sorgsen håg, berövad guldet, 
+»Ofta, ej en gång, trampa främmande land,
+3020 »Nu då härföraren nedlagt sitt leende,
+»Glam och gamman. Därför skall månget 
+»Spjut varda morgonkallt, skall bliva fattat 
+»Och lyft i handen; ej harpans klang 
+»Väcka kämparne, utan den svarta korpen, 
+3025 »Lysten efter de stupade, tala mycket,
+»Säga örnen huru gott det var vid måltiden, 
+»Då han jämte vargen roffade de fallne.» 
+Sådana dystra ord talade
+Den käcke mannen: ej ljög han mycket 
+3030 I fråga om ord och öden. — Hela skaran reste sig.
+Sorgsna gingo de med strömmande tårar 
+Till foten av Örnudden6 att skåda undret. 
+De funno då på sanden utsträckt livlös 
+På sin vilobädd den som i flydda tider 
+3035 Givit dem ringar. Då hade sista dagen
+Kommit för den gode, och stridskonungen, 
+Väder-götarnes furste, dött en underbar död. 
+Dessförinnan sågo de där på fältet 
+En sällsammare varelse, den lede ormen 
+3040 Ligga mitt emot: den lågande draken,
+Vild och hemsk, var förbränd av glöden. 
+Han var femtio fot i längd 
+Uppå sitt läger. Han hade haft sin fröjd 
+Nattetid i luften och sedan farit ned
+3045 Att söka sin håla: nu var han dödens
+Och njöt ej mer av jordhålorna. 
+Bredvid honom stodo bägare och skålar, 
+Där lågo fat och dyrbara svärd, 
+Uppfrätta av rost, som i jordens famn 
+3050 De vilat där under tusen vintrar.
+Så var då detta ofantliga arv, 
+Forna mäns guld, bundet med trollsånger, 
+Att ingen människa finge röra 
+Vid ringsalen, om ej Gud själv, 
+3055 Den sanne segerkonungen, förunnade vem han ville,
+Just den man, som honom gott syntes, 
+— Han är hjältarnes skydd — att öppna skatten.7
+
+• Marken framför fästet.
+• Eofor.
+1. Förmodligen är det en fornborg som avses.
+2. Hygelac var son till Hreðel. Han och hans män kallas därför för Hreðlingar av skalder.
+3. Wonreding = Wonreds son = Wulf.
+4. Eofor, Wulfs broder.
+5. Avser måhända striden med Grendel. Denna not finns bara med i utgåvan från 1889 och syftar på halvrad 3005a som har texten "De raska Scyldingarne" (den danska kungaätten). I den reviderade utgåvan har det skett en ommöblering av texten så att den rad har utgått, eller rättare sagt förvandlats till halvrad 3001b med texten "de käcka Scylfingarne" (den svenska kungaätten). Jag ska inte gå in på alla ommöbleringar som Wickberg har gjort i de två utgåvorna jämfört med handskriften. Men Björn Collinder som följt handskriften bättre har översatt rad 3005 med "när kämparna har fallit,    de käcke skildingar".
+    Det ligger nära till hands att läsa handskriftens "scildingas" som "Scyldingar", vilket är vad Wickberg gjorde 1889. Men en sådan läsning blir helt obegriplig och i utgåvan  från 1914 har Wickberg istället ändrat det till "Scylfingar". Björn Collinder har däremot avstått från att ändra handskriften och accepterat att den har en okänd term som inte nämns någon annanstans, dvs. "skildingar". Michael Alexander har dock i sin utgåva gjort en textändring som har resultarat i en betydligt mer begriplig text. Han har ändrat "scildingas" till "scild-wiga" (shield-warrior).
+6. I handskriften kallas Beowulfs dödsplats för Earna-næs. En tolkning som påminner om en folketymologi är att orten är identisk med Årnäs på Kållandsö. Den orten ligger i närheten av Skalundahögen som utpekats som Beowulfs gravplats. Gad Rausing som ansåg att Beowulf var gute har istället föreslagit en gotländsk ort som tidigare hette Arnkull (örnberg). Denna ort ligger i närheten av Rone som han har föreslagit vara identisk med handskriftens Hrones-næsse (Beowulfs gravplats).
+7. Återigen har vi att göra med en uppenbart hednisk begravning. De rika gravgåvorna var ett begärligt mål för gravplundrare. Men med hjälp av "trollsånger" såg man till att den som kränkte gravfriden skulle drabbas av en förbannelse. Den kristne skalden konstaterar dock att Gud är mäktigare än hednisk magi och om Gud tillåter det så är det helt riskfritt att öppna en hednisk grav. Den kristna kyrkan tog avstånd från bruket med gravgåvor och det är lätt att tolka skaldens ord som att han inte tyckte att plundring av hedniska gravar var omoraliskt. Jämför not 1 i nästa kapitel.
+
+Kapitel 42
+Weohstan omtalar Beowulfs sista vilja.
+
+Då var skönjbart, att denna färd ej utföll lyckligt
+För den som med orätt därinne förvarade
+3060 Smycken vid murens fot.1 Förut hade väktaren
+Dödat en och annan: nu hämnades 
+Hårt denna fejd. Underbart är det var 
+Den kraftberömde jarlen når slutet 
+Av sina levnadsöden, då han ej längre får
+3065 Med sina fränder bebo mjödhuset.
+Så gick det Beowulf, då han sökte bitter strid 
+Med bergets väktare: själv visste han ej 
+Vad som skulle vålla hans skilsmässa från livet. 
+Så hade de frejdade furstarne, som ditlagt skatterna,
+3070 Belagt dem till domedag med djup förbannelse:
+Att den man, som plundrade detta fält, skulle vara 
+Hemfallen under skuld, inspärrad på osaliga orter, 
+Fastgjord med helvetesfjättrar och straffad för sina synder. 
+Ej var han*) guldgirig: hellre hade han 
+3075 Förut skådat herrens huldhet.2**)
+Weohstans son Wiglaf talade:
+»Ofta måste mången jarl för ens skull 
+»Lida trångmål, såsom oss vederfarits. 
+»Ej kunde vi övertala3 med något råd
+3080 »Den käre fursten, rikets herde,
+»Att ej angripa den där guldväktaren, 
+»Låta honom ligga, där han länge varit, 
+»Bebo sitt hemvist till världens ända. 
+»Det höga ödet har rått. Den bittert förvärvade
+3085 »Skatten har skådats: för mäktigt var det öde,
+»Som drog hit denne furste. 
+»Jag var därinne och överblickade alla 
+»Husets smycken, då jag fått tillfälle, 
+»Och den ej behagliga färden stod fri
+3090 »In under jordmuren. I hast fattade jag
+»Med mina händer en väldig börda 
+»Av dyrbara skatter och bar den hit ut 
+»Till min konung. Han var då ännu levande, 
+»Vid sans och medveten. Sorgsen talade då
+3095 »Den gamle rätt mycket, lät hälsa eder,
+»Bad eder uppföra efter den döde vännen4
+»På bålets plats en reslig hög, 
+»Stor och härlig, liksom han varit bland män 
+»Den ärorikaste kämpe vida över jorden, 
+3100 »Medan han fick njuta borgskatterna.
+»Låtom oss än en gång skynda att se 
+»Och uppsöka de konstrika skatterna,
+»Undren vid murens fot! Jag skall visa vägen,
+»Att I på nära håll mån skåda nog 
+3105 »Ringar och guldplåtar. Må båren bliva
+»Genast färdiggjord, då vi komma ut, 
+»Och må vi sedan bära vår furste, 
+»Den käre mannen, dit där han länge 
+»Skall få vila i herrens skydd!»
+3110 Wihstans son, den stridsdjärve mannen,
+Lät sedan bjuda många tappra 
+Odalmän, att stridsskarornas herrar
+Skulle från fjärran forsla ved 
+Till den godes bål. »Nu skall glöden förtära
+3115 » — Den mörka lågan växa — kämparnes härskare,
+»Som ofta uthärdat järnskuren,
+»Då pilarnas storm, driven av strängarna,
+»Susade över sköldmuren, och spjutet gjorde nytta, 
+»Följde, fjäderprytt, pilen på hans färd.» —
+3120 Och nu kallade Wihstans vise
+Son ur konungens följe sju 
+De yppersta hirdmän samman kring sig, 
+Gick själv den åttonde stridskämpen 
+Under fiendens tak. En gick i spetsen
+3125 Och bar i handen en brinnande fackla.
+Ej blev där då lottning om vem som skulle 
+Plundra skatten, när kämparne
+Fingo se en del ligga utan väktare, 
+Förgänglig i salen. Föga sörjde någon
+3130 Över att de skyndsamt buro ut ur högen
+De dyrbara skatterna. Även skolo de draken 
+Över klippmuren, läto havet taga,
+Floden famna smyckenas herde.
+Där lastades på vagn en otalig mängd
+3135 Vridet guld, och ädlingen bars,
+Den grånade kämpen, till Valudden5.
+
+• Beowulf.
+• Detta svåra ställe kan även tolkas så: Helst hade han aldrig skådat Denna av ägaren älskade guldskatt.
+1. Skalden fortsätter sitt resonemang från föregående kapitel om gravgåvor (se not 5 i kapitel 41). Här går han igenom hur meningslöst det är för hedniska furstar att begrava sig med skatter och uttala förbannelser mot gravplundrare. Vad som menas med "denna färd ej utföll lyckligt" är att den furste som lät begrava sig med det guld (som draken senare vaktade) uttalade en förbannelse (raderna 3070-3073) som var helt verkningslös. Beowulfs män kunde ostraffat plundra skatten när väl draken, som hade tagit sin boning där, var dödad.
+2. Detta svåra ställe tolkas på flere sätt. Av Bugge så:
+Icke hade han förut fullständigare Skådat herrens guldrika nåd,
+Björn Collinder har tolkat raderna på följande sätt:
+    "Den var ej guldbråd,    som grunnat noga
+    på hur han skulle ägarens    ynnest bevara."
+3. Skalden nämnde inte tidigare att götarna försökte övertala Beowulf att inte strida mot draken. I denna dikt är det vanligt med sådana variationer när en händelse återberättas.
+4. Handskriften har: 'efter vännens bragder'.
+5. Handskriften kallar denna plats för Hrones-næsse. Detta ortnamn talar emot teorin att Beowulfs folk var västgötar. Några valar har nämligen inte funnits i Vänern där denna teoris anhängare vill placera Beowulfs gravhög. Däremot har jakt på delfiner förekommit i rätt stor omfattning i Östersjön. Gad Rausing, som hävdade att Beowulf var gute, har pekat ut gotländska Rone som diktens Hrones-næsse.
+
+Kapitel 43
+Beowulfs bål och gravhög uppföras. Beowulfs minne.
+
+Åt honom uppförde götamännen sedan
+På jorden ett fast och starkt bål, 
+Behängt med hjälmar och stridssköldar, 
+3140 Glänsande brynjor, såsom han bett.
+De sörjande hjältarne lade sedan i mitten 
+Den frejdade fursten, sin käre herre. 
+Sedan började krigarne tända på berget 
+Den största av båleldar. Upp ur branden steg 
+3145 Vedens svarta rök, susande låga,
+Omgiven av verop — vindens brus lade sig —, 
+Till dess hon hade brutit benhuset,*) 
+Hett i sitt inre. Dystra i hågen, 
+Klagade de sin sorg, sin herres död.
+3150 Och även makan1 med bundna lockar
+Knöt, bruten av smärta, sorgesång vid sorgesång.
+................................................................
+................................................................ 2
+
+3150 Slikt sorgkväde kvad    en kvinna av gautaätt
+............................    [med uppknutet hår]
+sorgligt.................    ................. mycket,
+att hon..................    deras hårda...... fruktade
+mycket manfall    och mordisk härnad,
+3155 smälek och fångenskap.    Full av rök var luften.
+
+3155 ............................ Himlen svalde röken.3
+Sedan uppförde väder-götarne på klipputsprånget 
+En gravkulle, som var hög och bred, 
+Vida synlig för sjöfarande,
+Samt upptimrade på tio dagar
+3160 Den stridsdjärves vård, omgåvo med en mur4
+Brändernas lämningar, såsom de högvise 
+Männen kunde finna det värdigast. 
+I högen lade de ringar och smycken, 
+Alla de prydnader, som de stridslystne 
+3165 Männen förut hade tagit av skatten;
+Lämnade jarlaskatterna i jordens sköte, 
+Guldet i gruset, där det ännu lever, 
+Så gagnlöst för människorna som det förut varit.5
+Sedan redo de stridsdjärve,
+3170 Inalles tolv, ädlingar kring högen,
+Ville klaga sin sorg över konungen 
+Och i högstämda ord tala om mannen.
+De prisade högt hans jarlaväsen 
+Och hans manliga dåd, såsom det höves,
+3175 Att man med ord ärar sin vän och herre,
+Älskar honom av hjärtat, när han skall bort 
+Och skiljas från sin förgängliga kropp.
+Så sörjde götarnes kämpar,
+Hirdkamraterna över härskarens fall
+3180 Sade, att han varit den givmildaste
+Och mannablidaste, folkvänligaste
+Och mest lovlystne konung i världen.
+
+• = kroppen, skelettet.
+1. Den götiska kvinna som sörjer Beowulfs död nämns aldrig vid namn. Det har föreslagits att hon skulle kunna ha varit Hygd, Hygelacs änka, som i så fall hade gift om sig med Beowulf.
+Notera att Björn Collinders översättning av raden stämmer bättre överens med handskriften.
+2. Av 8 halvverser kunna endast fragment läsas i handskriften. I grön text återges Björn Collianders tolkning av dessa fragment.
+3. I Wickbergs översättning förskjuts radnumreringen ett steg framåt efter luckan. Beowulf har bara 3182 rader men Wickberg kommer upp till siffran 3183. Jag har korrigerat denna miss.
+4. En forskare menar att Beowulfs skald har här skjutit in en äldre dikt som han har missuppfattat. "muren" är troligen en del av det masugns-liknande arrangemanget som timrades upp för att kremera Beowulfs kropp. Det täcktes sedan över av gravhögen och bildade inte en permanent mur runt högen som Beowulf-skalden tycks ha trott.
+5. Återigen visar skalden upp sin negativa inställning till gravgåvor. Kommentarer av den här sorten var väldigt vanliga bland kristna missionärer.
+

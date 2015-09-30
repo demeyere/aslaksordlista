@@ -932,6 +932,7 @@
 — en karl // (~en; ~ar; ~arna;) 1. man (male human); 2. husband; 3. (male) member of a work force, employed to perform some particularly heavy or physically demanding job; Jag är karl för min hatt. Och den stora människan var alltid mycket belåten över att ha träffat en så förståndig karl. And the grown up was always very pleased at having met such a intelligent man. 
 — en karta // (~n; kartor; kartorna;) en visuell (och förminskad) representation/återgivning av ett verkligt eller fiktivt geografiskt eller annat rumsligt område; a map;  
 — ett kartfodral // map case;  
+— kass // (adjektiv: ~t; ~a; ~are; ~ast;) (vardagligt) dålig, tråkig, undermålig; Synonymer: dålig, tråkig, usel, skral, undermålig, oduglig, värdelös, oanvändbar; (vardagligt) trasig; worthless, useless;  
 — en kassör // (~en; ~er; ~erna;) kassaförvaltare, den i en styrelse som ansvarar för pengarna. a cashier; a treasurer;  
 — kasta // (v1) 1. to throw; make an object fly through the air; 2. to throw away, discard, dispose of; 3. (card games) to discard; Det är din tur kasta tärningarna. It's your turn to roll the dice. Han kastade en snöboll åt mig. 
 — en katt // (~en; ~er; ~erna;) a cat; Svarta katter betyder otur. Black cats are a sign of bad luck. 
@@ -1009,6 +1010,7 @@
 — ett kort // (~et; ~; ~en;) 1. a card; a piece of stiff paper or plastic. 3. a playing card.  
 — kort // (adjektiv: ~; ~a; ~are; ~ast;) short; Vilket kort ska jag välja? Which card should I choose? 
 — en korv // (~en; ~ar; ~arna;) sausage, banger;  
+— kosmisk // (adjektiv: ~t; ~a;) som avser världsalltet eller världsrymden; 1. cosmic (dealing with the cosmos); 2. cosmic (vast); Var passar vi in i det stora kosmiska schemat? Where do we fit in the grand cosmic scheme? 
 — kosta // (v1) to cost; Den kostar 298 kr. Det kostar tio kronor fylla på din dricka. It costs 10 crowns to refill your drink. 
 — en kraft // (~en; ~er; ~erna;) 1. styrka, förmåga, energi, ork; 2. vara i kraft (gälla), träda i kraft (börja gälla). 3. (fysik) storhet; betecknas F; en kraft får en massa eller kropp att accelerera; mäts i newton; 1. (physics) a force (physical quantity that denotes ability to accelerate a body); 2. strength, power;  
 — kraftig // (adjektiv: ~t; ~a; ~are; ~ast;) 1. strong, solid; 2. sturdy (also used as a euphemism for fat people);  
@@ -2135,6 +2137,7 @@
 — under // beneath, under, below; during; De var bästa vänner under alla år i skolan. They were best friends through all years in school. Hunden gömde sig under bordet. under fryspunkten; below freezing; Under rasten serverades snacks. During the break, snacks were served. Under vår resa runt i England, besökte vi klipporna i Dover. During our trip around England we visited the cliffs of Dover. 
 — underbar // (adjektiv: ~t; ~a; ~are; ~ast;) wonderful, marvelous; Lagom mycket krydda kan få mat att smaka underbart. The right amount of spice can make food taste wonderful. När jag var sex år, såg jag en gång en underbar bild i en bok som handlade om Urskogen. 
 — underhålla // (v underhåller; underhöll; underhålit; underhåll; ~nde|~ndes; underhållen;) 1. hålla i tillräckligt gott skick genom kontinuerlig skötsel; 2. göra så att publiken har roligt och är avkopplad, särskilt i framträdande; medverka i underhållning; 1. to support or maintain; 2. to amuse, entertain; Knut är den som underhåller nätverket. 
+— undermålig // (adjektiv: ~t; ~a;) inte /tillräckligt/ bra; som inte håller måttet; dålig; inferior, substandard;  
 — understa // (adjektiv) som finns under allt annat;  
 — undersöka // (verb) to examine;  
 — en undersökning // examination;  
