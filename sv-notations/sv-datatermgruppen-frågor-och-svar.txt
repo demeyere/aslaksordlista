@@ -2,417 +2,195 @@ url: http://www.datatermgruppen.se/fragor-och-svar.html
 revised: 2015-08-23 21:16 
 
 
-  * [Kontakt][1]
-  * [Översikt][2]
-  * [Förstasidan][3]
-  * [Sökning][4]
-  * [Rekommendationer][5]
-  * [Ordlista][6]
-  * [Frågor och svar][7]
-  * [Förkortningslistan][8]
-  * [Principer för termarbete][9]
-  * [Kommentarer och önskemål][10]
-  * [Sändlista för fortlöpande information][11]
-  * [Länka till & skriva om oss][12]
-  * [Om Datatermgruppen][13]
-  * [Länkar][14]
-
-
-### Inloggning for arbetsgruppen
-
-
-Användarnamn
-
-
-Lösenord
-
-[ > Glömt lösenordet?][15]
-
-[ > Glömt användarnamnet?][16]
-
-
-* * *
-
-
-**Svenska datatermgruppens
-
-sekretariat sköts av**
-
-
-[ ![Sveriges nationella centrum för terminologi och fackspråk ][17]][18]
-
-
-**Arbetet stöds av**
-
-
 [![][19]][20]
 
 
-[Förstasidan][3] > [Rekommendationer][5] > Frågor och svar
-
 Frågor och svar
+=================
 
 ## Frågor och svar, lista, Version 2013-nov
 
-Detta är listan med frågor och svar i nummerordning. Det finns också en
-[revideringslista][21].
+Detta är listan med frågor och svar i nummerordning. Det finns också en [revideringslista][21].
 
 Här kan du läsa om:
 
     * hantering av åäö i internetadresser ([fråga 1][22])
-
     * punkt efter internetadresser ([fråga 2][23])
-
     * avstavning av internetadresser ([fråga 3][24])
-
     * behörighet och skydd ([fråga 4][25])
-
     * utläsning av tecknet _@_ ([fråga 5][26])
-
     * försvenskning av dataord ([fråga 6][27])
-
     * böjning av (dator)mus ([fråga 7][28])
-
     * _netiquette_ ([fråga 8][29])
-
     * _e-zine_ ([fråga 9][30])
-
     * _smiley_ ([fråga 10][31])
-
     * _feature_ ([fråga 11][32])
-
     * _IC-krets_ och andra tautologier ([fråga 12][33])
-
     * _cad_ och _cam_ ([fråga 13][34])
-
     * accent- och apostroftecken i e-postadresser ([fråga 14][35])
-
     * oönskad raddelning i sifferuttryck ([fråga 15][36])
-
     * bindestreck i sammansättningar ([fråga 16][37])
-
     * bindestreck i flerordsuttryck ([fråga 17][38])
-
     * särskrivning ([fråga 18][39])
-
     * produkt- och företagsnamn i löptext ([fråga 19][40])
-
     * [Borttagen fråga om _versalt i i sammansättningar med internet_] ([fråga 20][41])
-
     * initialförkortade namn versalt eller gement ([fråga 21][42])
-
     * skrivning av _CD_ m.fl. gement ([fråga 22][43])
-
     * böjningsändelser till förkortningar ([fråga 23][44])
-
     * böjning av _cd_ m.fl. ([fråga 24][45])
-
     * plural av _pc_ m.fl. ([fråga 25][46])
-
     * initialförkortningar på nätet ([fråga 26][47])
-
     * _i_ eller _på_ internet ([fråga 27][48])
-
     * surfa _på_ eller _i_ nätet ([fråga 28][49])
-
     * välja _i_, _från_ eller _på_ en meny ([fråga 29][50])
-
     * koppla upp sig _mot_ eller _till_ ([fråga 30][51])
-
     * installera _i_ eller _på_ ([fråga 31][52])
-
     * skriva ut _till_ eller _på_ ([fråga 32][53])
-
     * göra något _i_, _på_, _med_ eller _via_ en internettjänst ([fråga 33][54])
-
     * göra förfrågning _mot_, _till_ eller _i_ en databas ([fråga 34][55])
-
     * logga _in_ eller _på_ ([fråga 35][56])
-
     * försvenskning av uttal av främmande namn ([fråga 36][57])
-
     * källhänvisningar och källförteckningar till internet m.m. ([fråga 37][58])
-
     * epost eller e-post ([fråga 38][59])
-
     * översättning av _mediate_ ([fråga 39][60])
-
     * översättning av _joystick, hjälm, handske, kroppsdräkt_ ([fråga 40][61])
-
     * vad som räknas in i _www_ och _URL_ ([fråga 41][62])
-
     * _banner ads_ ([fråga 42][63])
-
     * [Borttagen fråga om _override_] ([fråga 43][64])
-
     * _align_ ([fråga 44][65])
-
     * _nod_ ([fråga 45][66])
-
     * _kommandofil, skript, manus_ och _makro_ ([fråga 46][67])
-
     * minnesresident ([fråga 47][68])
-
     * å ä ö på gamla sättet ([fråga 48][69])
-
     * [Borttagen fråga] ([fråga 49][70])
-
     * _outsourcing_ ([fråga 50][71])
-
     * _device_ ([fråga 51][72])
-
     * parallellbearbetning ([fråga 52][73])
-
     * förkortningen Y2K ([fråga 53][74])
-
     * access ([fråga 54][75])
-
     * flame ([fråga 55][76])
-
     * spam ([fråga 56][77])
-
     * set-top box ([fråga 57][78])
-
     * böjning av _modem_ ([fråga 58][79])
-
     * bugg ([fråga 59][80])
-
     * trackball ([fråga 60][81])
-
     * [Borttagen fråga] ([fråga 61][82])
-
     * n/a ([fråga 62][83])
-
     * packet switching ([fråga 63][84])
-
     * projektor för dator ([fråga 64][85])
-
     * implementera ([fråga 65][86])
-
     * acknowledge ([fråga 66][87])
-
     * bps ([fråga 67][88])
-
     * Boolean ([fråga 68][89])
-
     * case sensitive ([fråga 69][90])
-
     * cluster ([fråga 70][91])
-
     * databuss ([fråga 71][92])
-
     * data mining ([fråga 72][93])
-
     * punkt och komma som decimaltecken ([fråga 73][94])
-
     * deploy ([fråga 74][95])
-
     * dimmed ([fråga 75][96])
-
     * display ([fråga 76][97])
-
     * DNS query ([fråga 77][98])
-
     * downtime ([fråga 78][99])
-
     * drag-and-drop ([fråga 79][100])
-
     * entity ([fråga 80][101])
-
     * e-posttermer ([fråga 81][102])
-
     * -tion eller -ering ([fråga 82][103])
-
     * FAQ, Q&A ([fråga 83][104])
-
     * frames ([fråga 84][105])
-
     * gateway, bridge ([fråga 85][106])
-
     * interaktiv ([fråga 86][107])
-
     * inkrementell ([fråga 87][108])
-
     * minnen - intern-, arbets- och primär- ([fråga 88][109])
-
     * Java ([fråga 89][110])
-
     * legacy ([fråga 90][111])
-
     * markup language ([fråga 91][112])
-
     * peer-to-peer ([fråga 92][113])
-
     * _plug-and-play_ ([fråga 93][114])
-
     * _i_ eller _på_ en volym ([fråga 94][115])
-
     * protokoll ([fråga 95][116])
-
     * provider ([fråga 96][117])
-
     * scalable ([fråga 97][118])
-
     * screenshot, screen dump ([fråga 98][119])
-
     * sökrobot och sökmotor ([fråga 99][120])
-
     * web design ([fråga 100][121])
-
     * community ([fråga 101][122])
-
     * desktop ([fråga 102][123])
-
     * DOS/DoS ([fråga 103][124])
-
     * host ([fråga 104][125])
-
     * hard disk ([fråga 105][126])
-
     * metadata ([fråga 106][127])
-
     * nät/nätverk ([fråga 107][128])
-
     * stamnät eller stomnät ([fråga 108][129])
-
     * WAP ([fråga 109][130])
-
     * zippad fil ([fråga 110][131])
-
     * (e-)content ([fråga 111][132])
-
     * redundans ([fråga 112][133])
-
     * feltolerans ([fråga 113][134])
-
     * mobilt eller trådlöst internet ([fråga 114][135])
-
     * _in silico_ ([fråga 115][136])
-
     * sub-site ([fråga 116][137])
-
     * _Bluetooth_ eller _Blåtand_ ([fråga 117][138])
-
     * alternativknapp ([fråga 118][139])
-
     * bläck(stråle)skrivare ([fråga 119][140])
-
     * [Borttagen fråga] ([fråga 120][141])
-
     * yrkesbenämning för _data mining_ ([fråga 121][142])
-
     * e-handel, näthandel ([fråga 122][143])
-
     * progress bar ([fråga 123][144])
-
     * Quality of Service, QoS ([fråga 124][145])
-
     * information retrieval ([fråga 125][146])
-
     * iterative ([fråga 126][147])
-
     * proprietary ([fråga 127][148])
-
     * Read me ([fråga 128][149])
-
     * input ([fråga 129][150])
-
     * runtime ([fråga 130][151])
-
     * monitor ([fråga 131][152])
-
     * modems överföringskapacitet ([fråga 132][153])
-
     * presence service ([fråga 133][154])
-
     * parsing ([fråga 134][155])
-
     * portability ([fråga 135][156])
-
     * intelligenta/smarta hus/hem ([fråga 136][157])
-
     * sms ([fråga 137][158])
-
     * instant message ([fråga 138][159])
-
     * boot(a) ([fråga 139][160])
-
     * bread crumb trail ([fråga 140][161])
-
     * speech control ([fråga 141][162])
-
     * toppdomäner ([fråga 142][163])
-
     * (Borttagen fråga om _blogs, weblogs_) ([fråga 143][164])
-
     * data recovery ([fråga 144][165])
-
     * open source ([fråga 145][166])
-
     * avatar ([fråga 146][167])
-
     * on demand ([fråga 147][168])
-
     * ERSATT (elektronisk eller digital) ([fråga 148][169])
-
     * cybersquatting ([fråga 149][170])
-
     * dvd recorder ([fråga 150][171])
-
     * tweak ([fråga 151][172])
-
     * handsfree ([fråga 152][173])
-
     * high-end och low-end ([fråga 153][174])
-
     * malware ([fråga 154][175])
-
     * sladdlös eller trådlös telefon ([fråga 155][176])
-
     * tåggla/toggle ([fråga 156][177])
-
     * hot spot ([fråga 157][178])
-
     * enable och disable ([fråga 158][179])
-
     * styles, stylesheets och templates ([fråga 159][180])
-
     * tangenten Enter/Return/Retur/Vagnretur ([fråga 160][181])
-
     * image maps, hot spots ([fråga 161][182])
-
     * _customization_, _localization_ och _personalization_ ([fråga 162][183])
-
     * _softkey_ ([fråga 163][184])
-
     * _roaming_ ([fråga 164][185])
-
     * tv på dator ([fråga 165][186])
-
     * uppdatering/uppgradering av program ([fråga 166][187])
-
     * _back office_ och _front office systems_ ([fråga 167][188])
-
     * Hash och hashing ([fråga 168][189])
-
     * nomadic VoIP ([fråga 169][190])
-
     * avancerade mobiltelefoner ([fråga 170][191])
-
     * utelämna www ([fråga 171][192])
-
     * skrivsätt för menyval ([fråga 172][193])
-
     * The semantic web ([fråga 173][194])
-
     * deep/invisible web ([fråga 174][195])
-
     * emulering/simulering ([fråga 175][196])
-
     * ubiquitous ([fråga 176][197])
-
     * Twitter ([fråga 177][198])
-
     * desktop web site ([fråga 178][199])
 
 * * *

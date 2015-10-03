@@ -55,14 +55,14 @@ jättedålight = giant bad
 utmärkt = excellent
 stressad = stressed
 
-Jag känner mig *pigg*. Jag är *pigg*.
+Jag känner mig *pigg*. Jag är *pigg* och kry.
 Jag har det *bra*. Jag mår *bra*
 Jag känner mig *bra*. Jag är *bra*.
 Jag känner mig *deppig*. Jag är *deppig*.
 Jag har det *deppigt*. Jag mår *deppigt*.
 Jag känner mig *dålig*. Jag är *dålig*.
 Jag har det *dåligt*. Jag mår *dåligt*.
-Jag har det *dåligt*. Jag mår *dåligt*.
+Jag har det *dåligt*. Jag mår *dåligt*. Jag mår undermåligt idag.
 Jag känner mig *kry* och frisk. Jag är *kry* och frisk. 
 Jag känner mig *kass*. Jag är *kass*.
 Jag känner mig *illa*. Jag är *illa*.
@@ -70,7 +70,7 @@ Kan du köra nu? Nää... jag är kanon... ;)
 Jag känner mig *trött*. Jag är *trött*.
 Jag känner mig *slö*. Jag är *slö*.
 Jag känner mig *glad*. Jag är *glad*.
-Hur går det. Det går *sådär*. 
+Hur går det. Det går *sådär*.
 Jag har det *sådär*. Jag mår *sådär*.
 Jag känner mig *förbannad*. Jag är *förbannad*.
 Jag har det *förbannat*. Jag mår *förbannat*.
@@ -127,4 +127,4 @@ däribland = among them
 öknamnet = nickname, pet name
   -->
 
-källa: http://www.vasatiden.se/gustav-vasa/
+Källa: http://www.vasatiden.se/gustav-vasa/
