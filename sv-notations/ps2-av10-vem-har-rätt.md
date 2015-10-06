@@ -1,8 +1,8 @@
 ---
-Title: Hvem har rätt?
+Title: Vem har rätt?
 contributors: Aslak Arþursson, Ross DeMeyere
-keywords: ps2 86
-revised: 2015-10-03 13:19 
+keywords: ps2 86 fråga
+revised: 2015-10-05 20:43 
 ---
 
 
@@ -193,7 +193,7 @@ UPPSATS: Välj en av insändarna och skriv ett svar!
 
 Kär Fröken Vega Taria,
 
-Det är inte dina pappa som är korkad. Man har alltid ätit djur. Om du läsa <http://biblehub.com/swe/leviticus/11.htm> kan du förstå att vi kan äta djur. Djur som Leviticus säga du kan inte äta är den samma djur som läkare säga är den dåligaste ting att äta. Också, vegetarianer har mycket medicinska problem. Den human kropp behöver protein. Trots att soy har protein, har det andra medicinsk problem.
+Det är inte er pappa som är korkad. Man har alltid ätit djur. Om du läsa <http://biblehub.com/swe/leviticus/11.htm> kan du förstå att vi kan äta djur. Djur som Leviticus säga du kan inte äta är den samma djur som läkare säga är den dåligaste ting att äta. Också, vegetarianer har mycket medicinska problem. Den mänskliga kropp behöver protein. Trots att soya har protein, har det andra medicinska problem.
 
 Jag tro att du kunde äta lite kött, och pappa kunde äta mindre kött...
 

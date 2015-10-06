@@ -62,10 +62,10 @@ Rumsadverb/frågeord
 24. My aunt from Abisko is coming down to Lund to visit for the weekend.
 
 ny meningar
-1. Haj då. Jag ska hem nu.
-2. Jag kom tidig till slottet men när kom jag hit det var stängd.
-3. Månförmörkelse borjar nu! Gå ut!
-4. Jag stannade ute under hela månförmörkelse och jag såg den blodmånen också.
+1. Hej då. Jag ska hem nu.
+2. Jag kom tidig till slottet men när kom jag hit det var stängt.
+3. Månförmörkelsen borjar nu! Gå ut!
+4. Jag stannade ute under hela månförmörkelsen och jag såg blodmånen också.
 5. Freya gick in efter bara 10 minuter... ;)
 
 Rumsadverb // adverbs of place
