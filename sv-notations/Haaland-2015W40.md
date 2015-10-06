@@ -3,7 +3,8 @@ Title: Notes from Håland class vecka 40
 keywords: notes and handout
 contributors: Aslak Arþursson, Ross DeMeyere, Mr Bob Dobalina
 bob-dobalina-url: https://www.youtube.com/watch?v=GEPOgntWfiE
-revised: 2015-10-02 21:24 
+filename: Haaland-2015W40.md
+revised: 2015-10-03 18:18 
 ---
 
 Notes from Swedish Class

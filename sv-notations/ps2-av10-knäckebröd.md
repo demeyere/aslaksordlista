@@ -111,7 +111,7 @@ The more conscious we become about eating fiber rich, the more knäckebröd we e
 
 UPPGIFT: Formulera 5 meningar om brödet som börjar: "Visste du att ... " Tänk på ordföljden i bisats!
 
-1. Visste du att jag inte kunde hitta ordet `krusknäck` på nettet? Jag ville se mönstret.
+1. Visste du att jag inte kunde hitta ordet `krusknäck` på nettet? Det var ogooglebart. Jag ville se mönstret.
 2. Visste du att knäckebrödet redan bakades på 500-talet e. Kr.
 3. Visste du att Wasabröd grundades 1919 under namnet AB Skellefteå Spisbrödsfabrik.
 4. Visste du att Släkten Lundström blev mångmiljonärer när Wasabröd såldes 1982.
