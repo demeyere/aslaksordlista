@@ -21,7 +21,7 @@ Verb
 11. De _översatte_ hela artikeln till svenska, innan de svarade på frågorna.
 12. Vet du vem som har _översatt_ den här boken?
 13. Det här huset har _tillhört_ min mormor.
-14. Menar du att lexikonet inte _tillhörar_ dig.
+14. Menar du att lexikonet inte _tillhör_ dig.
 15. Lisa _användar_ sin ordbok när hon skrev uppsatsen.
 16. Varför har du _använt_ min röda penna nu igen.
 17. De sa att det _ingick_ både sallad och dryck till maten.

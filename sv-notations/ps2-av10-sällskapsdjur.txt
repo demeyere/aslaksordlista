@@ -66,7 +66,7 @@ Det finns också de som gillar att ha ormar, ödlor och spindlar som sällskapsd
 
 The most common animals that we have inside are dogs, cats, fish, and birds.
 Many children also want to have a guinea pig, a hamster or a rabbit.
-There are also som who like to have snakes, lizards and spiders as pets.
+There are also some who like to have snakes, lizards and spiders as pets.
 
 // bur = cage
 // marsvin = guinea pig
@@ -81,7 +81,7 @@ I västvärlden finns ca 100 miljoner katter.
 
 <!-- 
 In Sweden there are around 700,000 dogs.
-A fifth of households have dogs and 2.5 million people come into contact daily with dogs.
+Every fifth household has a dog and 2.5 million people come into contact daily with dogs.
 
 There are about a million cats in Sweden.
 In the western world there are around 100 million cats.
