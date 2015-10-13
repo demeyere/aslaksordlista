@@ -2,24 +2,13 @@
 SwedishPod101 notes
 =================
 
+
 All about #3
 -----------------
-Jag springer: I run
-Han springer: he runs
 ett brev: a letter (as in mail) (also used in iOS for mail)
 brevet: the letter (mail)
 
-All about #4
------------------
-tala: talk
-tack: thank you
-språk: language
-vän: friend
-röd: red
-ja: yes
-jul: Christmas
-ringa: to call
-sju: seven
+
 
 All About #5
 -----------------
@@ -30,7 +19,6 @@ Hur mår du?: ("How are you?") The first thing you will say to someone is after 
     For Example:
     A: Hur mår du?
     B: Bra, tack. Hur mår du?
-    Tack ("Thank you," ''Please'')
 
 A well-placed and sincere "Thank you" will always be appreciated when someone gives you a plate of food, a drink, or even a compliment. "Thank you" in Swedish is Tack.
 

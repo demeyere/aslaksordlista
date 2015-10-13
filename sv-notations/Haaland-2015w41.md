@@ -2,7 +2,7 @@
 Title: Notes from Håland class vecka 41
 contributors: Aslak Arþursson, Ross DeMeyere
 filename: Haaland-2015w41.md
-revised: 2015-10-12 20:04 
+revised: 2015-10-13 07:08 
 keywords: haaland-2015w41
 ---
 
@@ -20,12 +20,12 @@ grupp 4 // ändrar vokal; starka/oregelbundna
 
 ju...desto
 -----------------
-+ Ju kaffe jag dricka, desto morgonpigg jag är.
-+ Ju mil jag springa, desto bättra jag mår.
++ Ju mer kaffe dricka jag, desto mer morgonpigg är jag.
++ Ju mer mil springer jag, desto bättra mår jag.
 
 Båda eller Både .. och
 -----------------
 + Båda mina söner heter Knut.
 + Både Knut1 och Freya gillar äta glass.
-+ Verbet lukta kan man använda både positivt och negativt- det luktar gott eller illa.
++ Verbet `lukta` kan man använda både positivt och negativt — det luktar gott eller illa.
 + Både termen _skräppost_ och termen _spam_ får sägas vara väl etablerade i svenskan.

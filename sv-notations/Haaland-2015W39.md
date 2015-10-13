@@ -9,7 +9,7 @@ Notes from Swedish Class
 
 föreklass dagbok
 -----------------
-kl.10: jag är här men slottet är stängd.  
+kl.10: jag är här men slottet är stängt. 
 kl.10.07: (om mejl) Jag kan inte tänka om det nu.  
 brandgul = orange. Använd inte ordet `orange` mer! också, gulröd.  
 Namnet orange kommer av det franska ordet. Det äldre svenska namnet på färgen är brandgul.  
@@ -26,8 +26,7 @@ Bonnie har dotter som bor i Stockholm.
 gräda = make, as in knäckebröd, bröd, pankaka,   
 bisats =   
 vissa =   
-alla =   
-några =   
+alla = 
 de flesta =   
 De flesta äter inte ofta kb  
 ... som ofta äta kb  

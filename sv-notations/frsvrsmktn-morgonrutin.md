@@ -32,8 +32,8 @@ Har verksamheten varit nedstängd mer än en timme så är det många kontroller
 fungerar som det ska. 
 
 <!-- 
-It is early morning on F 17 and Ronneby airport.
-The airport is being opened and there are many procedures that should go without a hitch.
+It is early morning at F 17 and Ronneby airport.
+The airport will be opened and there are many procedures that should go without a hitch.
 Actually the airport is open around the clock all year.
 But during the night, when most often there aren't any planned flight operations, they go into standby.
 ...

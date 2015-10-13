@@ -8,17 +8,17 @@ Verb
 =================
 *Skriv verbet i rätt form!*
 
-1. Jag satt och _tänkar_ på vad jag skulle säga.
+1. Jag satt och _tänkte_ på vad jag skulle säga.
 2. Har du _tänkt_ på en sak.
 3. Vad var det du _sa_.
 4. Jag har väl aldrig _sagt_ att jag talar isländska.
 5. Jag förstår inte vad du _pratar_ om!
 6. Du måste _prata_ med honom!
 7. Kan du _förstå_ norska?
-8. Hon _förstår_ inte mycket av föreläsningen i går.
+8. Hon _förstod_ inte mycket av föreläsningen i går.
 9. Jag har aldrig _haft_ några problem med min dator.
-10. Hon _har_ precis kommit hem när telefonen ringde.
-11. De _översättar_ hela artikeln till svenska, innan de svarade på frågorna.
+10. Hon _hade_ precis kommit hem när telefonen ringde.
+11. De _översatte_ hela artikeln till svenska, innan de svarade på frågorna.
 12. Vet du vem som har _översatt_ den här boken?
 13. Det här huset har _tillhört_ min mormor.
 14. Menar du att lexikonet inte _tillhörar_ dig.

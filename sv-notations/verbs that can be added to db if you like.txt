@@ -43,7 +43,7 @@
 114 fish, go fishing 1 fiska fiska fiskar fiskade fiskat
 120 plait 1 fläta fläta flätar flätade flätat
 121 focus 1 fokusera fokusera fokuserar fokuserade fokuserat
---> 122 continue, go on 2b fortsätta fortsätt fortsätter fortsatte fortsatt
+122 continue, go on 2b fortsätta fortsätt fortsätter fortsatte fortsatt
 123 photograph 1 fotografera fotografera fotograferar fotograferade fotograferat
 124 frank, stamp 1 frankera frankera frankerar frankerade frankerat
 125 1. acquit 2. propose 1 fria fria friar friade friat
@@ -91,7 +91,6 @@
 205 fasten together 1 häfta häfta häftar häftade häftat
 206 remand in custody 1 häkta häkta häktar häktade häktat
 207 pour 2a hälla häll häller hällde hällt
-211 hang 2a hänga häng hänger hängde hängt
 215 1. irritate 2. annoy 1 irritera irritera irriterar irriterade irriterat
 217 jog 1 jogga jogga joggar joggade joggat
 218 comb 1 kamma kamma kammar kammade kammat
@@ -153,5 +152,4 @@
 385 change 1 ändra ändra ändrar ändrade ändrat
 388 regret 1 ångra ångra ångrar ångrade ångrat
 393 surprise, astonish 1 överraska överraska överraskar överraskade överraskat
-394 translate 2b översätta översätt översätter översatte översatt
 395 persuade 1 övertala övertala övertalar övertalade övertalat
