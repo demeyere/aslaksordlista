@@ -2,50 +2,30 @@
 Title: Notes from Håland class vecka 41
 contributors: Aslak Arþursson, Ross DeMeyere
 filename: Haaland-2015w41.md
-revised: 2015-10-06 15:11 
+revised: 2015-10-12 20:04 
+keywords: haaland-2015w41
 ---
 
-Notes from Swedish Class
+Haaland vecka 41
 =================
 
-Vad sysslar han med?
-pysslar (med)
+verbs
+-----------------
+grupp 1 // -a i stammen
+grupp 2a // -er i presens // -de i preteritum // slutar på kons.
+grupp 2b // -er i presens // -te i preteritum // slutar på kons.
+grupp 3 // lång vokal i stammen -tt/-dd/-dda 
+grupp 4 // ändrar vokal; starka/oregelbundna
 
-Ju .. desto ..
 
-+ [] 2 meningar
+ju...desto
+-----------------
++ Ju kaffe jag dricka, desto morgonpigg jag är.
++ Ju mil jag springa, desto bättra jag mår.
 
-Jo, ... (disagreeing with a negative statement)
-
-Båda (två) both of them
-Både .. och ...
-
-mer än två är `alla`.
-
-alla mina barn
-
-utan v. för
-
-Jag är hungrig för jag har inte ätit frukost.
-Jag gick inte till jobbet utan jag körde.
-
-några - fler - flesta
-slakta = to butcher
-slaktare = a butcher
-
-en plansch = an affisch = a poster
-envisa = envis som en gammal get.
-
-i stället
-
-krattade ogräs
-flesta is countable
-mesta is not countable
-
-läxa
-* p87 
-* p87 skriva om tolka statistiken -- ha en åsikt!
-* ju .. desto ..
-* båda, både och
-* verbs worksheet
-* p10–11 i övningsbök
+Båda eller Både .. och
+-----------------
++ Båda mina söner heter Knut.
++ Både Knut1 och Freya gillar äta glass.
++ Verbet lukta kan man använda både positivt och negativt- det luktar gott eller illa.
++ Både termen _skräppost_ och termen _spam_ får sägas vara väl etablerade i svenskan.
