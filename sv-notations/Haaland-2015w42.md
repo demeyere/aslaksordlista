@@ -11,10 +11,6 @@ Haaland vecka 42
 
 Man kan säga `bägge` men man måste skriva `båda`.
 
-klockare
-
-förtunna = to dilute
-
 prosit = bless you
 
 ... sist på kvällen ...
