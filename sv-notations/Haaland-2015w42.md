@@ -43,3 +43,12 @@ bilda familj?
 Hon födde barnet igår.
 ... kan glädje oss.
 ... medbringa glädje till vårt hem.
+
+- - -
+
+tangent into lite lite och liten... ;)
+
+vad är skillnaden mellan `uppdrag` och `uppgift`? vilken är större och viktigare?
+
+http://spraktidningen.se/artiklar/2008/04/frunch
+
