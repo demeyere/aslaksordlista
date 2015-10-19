@@ -67,6 +67,8 @@ i påskas
 i pingstas
 i midsomras
 
+- - -
+
 (C) *i vintras* kunde jag inte gå med snöskor eftersom det var så snöfattigt.
 (C) *i somras* tältade jag om 28 nätter.
 (C) *i natt* när jag var kissnödig och tittade ut genom fönstret såg jag Orion som ligg sig på horisonten. 2015-10-17 00:30 
