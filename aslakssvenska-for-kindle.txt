@@ -1,5 +1,6 @@
 — -a // 1. (on an positive adjective) Suffix to mark that the corresponding noun is either in plural or in definite singular form; 2. Marker of definiteness for noun plurals ending in -n (fourth declension). läten; lätena; "sounds; the sounds"; 3. A verb-building suffix that can be added to noun or adjectives, such as disk (“dishes”) >> diska (“do the dishes”) or öl (“beer”) >> öla (“to drink beer”); 4. Create a noun from a numeral, such as tre (“three”) >> trea (“a three; a bronze medalist; a three-room apartment”);  
 — acceptera // (v1) to accept;  K887; 
+— en adel // (~n;) Nobility, aristocracy. Den svenska adeln har idag inga särskilda privilegier. K4304; 
 — en adress // (~en; ~er; ~erna;) uppgift om var någon bor, bostad; an address; a street address;  K2401; 
 — en advokat // (~en; ~er; ~erna;) lawyer;  K2521; 
 — en affär // (~en; ~er; ~erna;) 1. a shop, a store; 2. a deal; an agreement between two parties to trade. 3. an affair; that which is done or is to be done; especially something which receives great public attention. 4. an affair; an adulterous relationship. Jag går till affären, vill du följa med? I'm going to the store, want to go with me? K1411; 
@@ -14,6 +15,7 @@
 — alldeles // (adverb) quite; altogether; absolutely; utterly; totally; uppåt väggarna ("alldeles fel") idiom: all wrong; K766; 
 — alldeles för // (adverb) way too; Jag betalar alldeles för hög ränta. My interest rate is way too high. Rocken är alldeles för lång. The coat is much too long. 
 — allergisk // (adjektiv: ~t; ~a;) 1. allergic; having an allergy; 2. allergic; of, or pertaining to, an allergy; Jag älskar skaldjur men min kompis är allergisk mot det. I love seafood, but my friend is allergic to it. Jag är allergisk mot nötter. I am allergic to nuts. K7022; 
+— allmän // (adjektiv: ~t;) 1. public (pertaining to the affairs or official affairs of all people); 2. general, generic, common, vague (not specific), non-specialized;  K561; 
 — allra // (adverb) the very, to the highest degree, most of all (used before a superlative);  K1018; 
 — alls // (adverb) at all; Om man inte hänger med alls, kan man bli mobbad. If one doesn't join with people at all, one can become bullied. K590; 
 — allt // (pronomen) all; the universe, the world; everything; Allt kändes rätt när de träffades första gången. Everything felt right with they met the first time. Allt på plats. Everything in its place. (Mise en place.) 
@@ -21,6 +23,7 @@
 — alltid // (adverb) always; Idiom: jämt och ständigt ("hela tiden, alltid"); forever ("all the time, always"); Jag kommer älska dig för alltid. I will love you forever. Men alltid fick jag till svar: "Det där är en hatt." But I always got the answer "That is a hat". K288; 
 — allting // (pronomen) everything; Man måste förklara allting för de stora. K1732; 
 — alltså // (adverb) accordingly, therefore, ergo, consequently, thus; in other words, that is to say; Jag fick alltså lov att välja ett annat yrke, och så lärde jag mig flyga. K304; 
+— allvar // (substantiv) seriousness, (in the) earnest, serious business;  K1207; 
 — allvarlig // (adjektiv: ~t; ~a; ~are; ~ast;) serious; needing great attention; without humor; På så sätt har jag många gånger i livet kommit i kontakt med allvarliga människor. Tjugo personer blev allvarligt skadade. Twenty people were seriously injured. K1125; 
 — ana // (v1) 1. ha en känsla (av något); förnimma, skönja; föreställa sig 2. tro, misstänka, gissa; 1. suspect, think, believe, imagine, have a feeling (idea); 2. guess, believe that something will happen, or has happened. Being fairly certain, but acknowledges that after all, one could be wrong.;  K1510; 
 — en ananas // pineapple; Dadlarna är jättegoda, men jag föredrar ananas. The dates are delicious, but I prefer pineapple. 
@@ -121,6 +124,7 @@
 — ett beröm // (~met;) påpekande av annans goda färdighet; praise; Jag fick en hel del beröm för min uppsats som jag skrev. K5039; 
 — berömma // (v berömmer; berömde; berömt; beröm; ~nde; berömd;) ge beröm till; to praise, to commend, to flatter; Hon blev berömd för sina gärningar. She was praised for her deeds. Hon blev berömd för sina gärningar. She was praised for her deeds. K5758; 
 — ett besked // answer; information; instructions; ställa (någon) mot väggen ("tvinga (någon) att ge besked") idiom: put (somebody) up against the wall ("force (somebody) to make a statement") K1930; 
+— bestå // (v ~r; bestod; ~tt; ~; ~ende|~endes; ~dd|~dden;) vara; fortsätta existera; 1. to consist (of parts), to be made of; 2. to (continue to) exist, to persist, to prevail, to stand (the test of time) (rhymes with its opposite: förgå); Förbindelsen, som i själva verket består av en bro, en ö och en tunnel, är totalt 16 km lång. K786; 
 — beställa // (v2a beställer; beställde; beställt; beställ; ~nde; beställd;) to order (to request some product or service); Jag beställde hem en pizza i stället för att laga mat själv. K1889; 
 — bestämma // (v bestämmer; bestämde; bestämt; bestäm; ~nde; bestämd;) to determine, settle, decide (reflexive);  K543; 
 — bestämma sig // (verb) to determine, to settle, to decide; to prescribe; Jag kan inte bestämma mig. Ska vi singla slant? I can't make up my mind. Shall we flip a coin? 
@@ -130,6 +134,7 @@
 — ett besök // visit;  K1061; 
 — besöka // (v2b besöker; besökte; besökt; besök; ~nde; besökt;) to visit (to go and meet or see); Under vår resa runt i England, besökte vi klipporna i Dover. During our trip around England we visited the cliffs of Dover. K1032; 
 — betala // (v1) 1. to pay; to give money in exchange for goods or services. 2. (reflexive) to pay; to be profitable. 3. (colloquial) to pay; to be the subject of revenge. Glöm inte betala skatt! Do not forget to pay your taxes! Jag behöver betala kontant. Finns det någon bankomat här? I need to pay in cash. Is there an ATM here? Jag betalar alldeles för hög ränta. My interest rate is way too high. K448; 
+— en betalning // a payment;  K2596; 
 — en betoning // (~en; ~ar; ~arna;) stress;  K5782; 
 — betyda // (v2a betyder; betydde|betöd; betytt; betyd; ~nde;) 1. to mean (convey, signify, indicate). 2. to mean; to be of importance (for someone) 3. to mean; to result in. // strong form `betöd` occurs dialectally; Vad betyder det? Bonnie. K151; 
 — ett bibliotek // (~et; ~; ~en;) 1. byggnad avsedd att innehålla en större mängd böcker, tidskrifter o.dyl., skött av speciell personal; Synonymer: en bibbla (vardagligt); 2. samling av böcker, tidskrifter o.dyl.; a library;  K2124; 
@@ -151,6 +156,7 @@
 — ett blad // (~et; ~; ~en;) 1. (botany) Blade, leaf; an organ of a plant. 2. Page; one side of a leaf of a book. 3. Leaf, sheet; a piece of paper. 4. Blade; the sharp-edged or pointed working end of a tool or utensil. Han är ett oskrivet blad. K2730; 
 — bland // (preposition) among;  K401; 
 — bland annat // (adverb) among other things; bl.a.;  K407; 
+— blanda // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) ta flera föremål och lägga samman dessa på ett oordnat sätt; Synonymer: (vardagligt) mixa, melera; to blend; mix; mix together; shuffle;  K1788; 
 — blek // (adjektiv: ~t; ~a; ~are; ~ast;) som upplevs ha sämre lyster än vad som förväntas; 1. pale (light in color); 2. livid, pallid, bleak; Jag tittade, och framför mig stod en blek häst! I looked, and before me was a pale horse! Oj vad blek du ser ut, är du sjuk? K5464; 
 — bli // (v4s ~r; blev; ~vit; ~; ~vande; ~ven;) to become; to turn into; Bli med barn; Become pregnant; Flickan blev bjuden på sprit. Jag kan inte bli sjuk nu, min semester börjar imorgon! I can't get sick now, my vacation time starts tomorrow! mjölken blir billigare 1 juli; the price of milk will come down on 1st July; två och två blir fyra; two and two make four; Vad trevligt att bli bjuden på middag! vara överens, stämma överens, komma överens, bli överens; to agree, to be in agreement, to agree, to come to (enter, arrive at) an agreement; K122; 
 — blivande // (adjektiv) future; en blivande skådespelare; an actor-to-be; K3518; 
@@ -250,6 +256,7 @@
 — cykla // (v1) to bike; Använd hjälm när du cyklar. Wear your helmet when you ride your bike. Det är farligt att cykla utan hjälm. It's dangerous to bike without a helmet. Sträckan som cyklades i reportaget är cirka 60 kilometer lång. The distance that was biked in this article is some 60 kilometres long. K2964; 
 — en dag // (~en|dan; ~ar|dar; ~arna;) 1. den tid då solen befinner sig över horisonten; 2. tidsenhet betående av 24 timmar (dygn); a day; a day, the period of time between sunrise and sunset, daytime; Fyradagarspatrull i West of MeS. fyrtiofemtimmarspatrull? God dag. Good day. An older way of saying `Hej`. Vad är det för dag i dag? What day is it today? Vinter är årstiden med det kortaste dagarna och kallast temperatur. Winter is the season of shortest days and coldest temperatures. K190; 
 — en dagbok // (~en;) Bok vari man dagligen skriver ner sina personliga händelser och tankar. a diary, journal, log;  K3382; 
+— dagens // (adjektiv) current; today's;  
 — ett dagis // day care;  K3425; 
 — daglig // (adjektiv: ~t; ~a;) daily;  K2408; 
 — en dagordning // (~en; ~ar; ~arna;) schema som listar de ärenden som är tänkta att behandlas vid ett sammanträde eller annan ordnad sammankomst; agenda; agenda; list of things to be considered at a meeting (lista på frågor som ska diskuteras vid ett sammanträde); Den sjätte punkten på dagordningen verkar väldigt intressant. K4268; 
@@ -310,6 +317,7 @@
 — en driva // (~n; drivor; drivorna;) större ansamling av något, t.ex. snö; snödriva a drift of snow;  
 — en drottning // queen;  K2501; 
 — en dryck // (~en; ~er; ~erna;) beverage, drink; Förtäring av mat och dryck är förbjudet i det här rummet. Consumption of food and drink is forbidden in this room. K3875; 
+— dröja // (verb) to linger, to wait, to last, to hold (the telephone);  K2558; 
 — en dröm // (~men; ~mar; ~marna;) dream; drömjobb; a dream job; drömstart; a dream start; K1505; 
 — drömma // (v2a drömmer; drömde; drömt; dröm; ~nde|~ndes; drömd;) 1. uppleva händelser baserade på en hallucinationsliknande tankeverksamhet som förekommer under (REM-) sömn; 2. fantisera om; hoppas på; 3. (med negation) vara otänkbart; inte vara önskvärt; 1. (intransitive) dream; to see imaginary events in one's mind while sleeping; 2. (transitive) dream; to create an imaginary experience (usually when asleep); 3. (intransitive) dream; hope or wish; 4. (intransitive) daydream; I natt drömde jag att jag flöt bland molnen. K2357; 
 — du // (pronomen) you;  K134; 
@@ -349,6 +357,7 @@
 — döpa // (v döper; döpte; döpt; döp; ~nde; döpt;) 1. to baptize, to christen; 2. to name (give a name to);  K2906; 
 — en dörr // (~en; ~ar; ~arna;) a door; Dina stövlar står framför dörren. Your boots are in front of the door. Snälla, stäng dörren, det är kallt ute. Close the door please, it's cold outside. K1307; 
 — efter // (preposition) after; dra benen efter sig ("gå alltför långsamt"); dawdle; Han tröstade henne efter olyckan. torka upp efter sig; clean up after oneself; Vad letar du efter? What are you searching for? K169; 
+— efter Kristus // (preposition) e.Kr. AD (indicating years after Christ);  
 — en eftermiddag // (förk. em.) PM;  K1098; 
 — ett efternamn // a last name; Jag heter Arþursson i efternamn. K4931; 
 — en efterrätt // (~en; ~er; ~erna;) a dessert;  
@@ -556,6 +565,7 @@
 — förbättra // (v1) (transitive) improve, enhance, make better;  K1001; 
 — före // (preposition) 1. in front of; ahead of; 2. before; earlier in time than;  K586; 
 — före detta // (förk. f.d., f d) former;  K2376; 
+— före Kristus // (preposition) f.Kr. BC (indicating years before Christ);  
 — ett föremål // (~et; ~; ~en;) 1. object, thing, item; 2. subject (of study), objective; Han var inspirerad av svensk hemslöjd, d.v.s. de praktiska föremål som män och kvinnor i århundraden tillverkat i trä, metall och textil för användning i det vardagliga livet. He was inspired by swedish handicrafts, that is, the practical things that men and women of this centure worked in wood, metal and fabric for use in their daily lives. K1772; 
 — förenkla // (v1) to simplify;  K4429; 
 — föreslå // (v ~r; föreslog; föreslagit; ~; ~ende; föreslagen;) lägga fram ett förslag; presentera en idé för t.ex. hur något ska kunna göras; Synonymer: proponera; 1. to suggest; to ask for without demanding; 2. to propose; to suggest a plan; Jag föreslog att vi skulle gå på bio, men Freya invände att hon var trött. Jag hör honom komma; jag föreslår vi drar oss tillbaka, min herre. I hear him coming: let's withdraw, my lord. K656; 
@@ -780,6 +790,7 @@
 — en husmanskost // (~en;) home cooking, plain fare;  
 — en hustru // (~n; ~r; ~rna;) a wife, a married woman;  K2075; 
 — ett huvud // (~et; ~en; ~ena;) head; (in compounds) main, principal;  K888; 
+— huvudsakligen // (adverb) till största delen, framför allt; mainly (chiefly; for the most part);  K2629; 
 — en huvudstad // a capital; Sveriges huvudstad heter Stockholm. K2186; 
 — en huvudvärk // ont i huvudet; headache; Skruva ner volymn, jag får huvudvärk. Turn down the volume, I'm getting a headache. K5368; 
 — en hy // (~n;) skin, complexion; Hyn ser så slät och fin ut. 
@@ -787,6 +798,7 @@
 — hyra // (v2a hyr; hyrde; hyrt; hyr;) rent (to occupy premises in exchange for rent); Vi kan hyra sådana där stora partytält, så gör det inget om det regnar. K2726; 
 — en hytt // (~en; ~er; ~erna;) 1. a cabin (on a ship); 2. a driver's compartment (on a truck, lorry, tractor); Hytterna ligger på däck fem och nio, inga hytter finns under bildäck; K7501; 
 — ett hål // (~et; ~; ~en;) 1. urgröpning i ett material; Synonymer: grop (i marken), håla (i marken); 2. öppning som går igenom ett föremål eller ett material; Synonymer: öga (i en nål); 3. (golf) del av banan man spelar på  vilken del? 1. a hole (in the ground); 2. a hole, an opening in something solid; 3. a hole, a weakness, a flaw; 3. a hole (in a tooth); 4. (golf) a hole, a part of a golf course or game leading up to a hole; Det är ett hål i hinken. Han borrade ett hål i skivan. Hon slog hål på hans teori. K2280; 
+— ett håll // (~et; ~; ~en;) 1. a stop, a station (on a route); 2. a direction; 3. a range, a distance; 4. a stitch (stomach pain); Titta inte åt det hållet. Don't look in that direction. K634; 
 — hålla // (v4 håller; höll; hållit; håll; ~nde; hållen;) 1. hold; grip; 2. hold; to cause to wait; 3. hold; arrange a social event, e.g. a party, a (larger) meeting or a conference; 4. keep; a. restrain, restrict; b. to fulfill (a promise); c. to remain in a good condition, not to get spoiled; d. preserve; e. (reflexive) stay; f. to maintain, to keep from changing; to stop moving; g. to raise animals (chiefly for food); 5. to neither tear nor break; to remain in a functional condition; [kelly: e.g. hålla ut]; Chefen håller ett möte. The boss is holding a meeting. Dom anställda håller ett möte i styrelserummet. The employees are having a meeting in the boardroom. Ett äpple om dagen håller doktorn borta. An apple a day keeps the doctor away. K224; 
 — hålla i // (verb) to hold something for; to hold on to something; För att klara av sin tjänst i Afghanistan måste man även hålla kroppen i trim. Håll i det här fiskespöet en stund. Hold this fishing pole a moment. Träning är viktigt för att hålla kroppen i trim. Training is important to keep the body in shape. 
 — hålla på // (verb) to be busy with; De har hållit på och grälat hela kvällen. They have been quarreling all evening. Den föreställde en boaorm, som höll på att smälta en elefant. Vi håller just nu på och målar väggarna i mitt rum. We're currently painting the walls of my room. Vi är snart tillbaka. Vi håller just nu på att uppdatera Apple Store och är snart tillbaka. Är du medveten om din kollega har hållit på och försnillat pengar? Are you aware that your colleague has been embezzling money? 
@@ -1115,6 +1127,7 @@
 — en leksak // (~en; ~er; ~erna;) a toy;  K4646; 
 — en leksandlåda // sandbox;  
 — en lektion // a lesson;  K2855; 
+— ler // (substantiv) clay;  
 — leta // (v1) (with efter) search; look throughout (a place) for something; Vad letar du efter? What are you searching for? K1318; 
 — leta upp // (verb) look up;  
 — leva // (v lever; levde; levt|~t; lev; ~nde;) to live; to be alive;  K346; demyr.us/1NVedXQ demyr.us/1HTdAtF 
@@ -1228,6 +1241,7 @@
 — en matvara // (~n; matvaror; matvarorna;) a grocery, a food item;  K7585; 
 — med // (preposition) with; including, containing; at, in, on, with; to; Det här är ett problem som jag fortfarande arbetar med. ha en gås oplockad med någon; have a bone to pick with somebody; Jag är gift med Freya. jordgubbar med vispgrädde; strawberries with whipped cream; K104; 
 — ett meddelande // (~t; ~n; ~na;) a message; Lågan förstörde det hemliga meddelandet på några sekunder. The flame destroyed the secret message in seconds. Meddelandet har kanske råkat hamna i din mapp för skräppost. The email may have accidentally gone into your junk mail folder. K1696; 
+— ett medel // (medlet; ~; medlen;) 1. a mean (to an end), a tool; 2. a substance, a stuff, a medium; 3. money, capital, funding; 4. a mean (an average), a center, a middle;  K1029; 
 — medel- // mid-, middle-, medium, average;  
 — medelbar // (adjektiv: ~t; ~a;) mediate, indirect (using a mediator, proxy or middle man);  
 — en medeltid // (~en;) Middle Ages (period of time);  K2977; 
@@ -1500,6 +1514,7 @@
 — en polarnatt //  
 — politisk // political;  K313; 
 — polstjärnan // (substantiv) Polaris;  
+— populär // (adjektiv) popular (beloved or approved by the people); Många besöker också hotellets kyrka, som är speciellt populär för barndop och bröllop. Many also visit the hotels church which is especially popular for christenings and weddings. K1535; 
 — en port // (~en; ~ar; ~arna;) 1. an entrance (into a building), a gate, a portal, a door, a doorway. 2. (computing) a port (logical or physical construct in and from which data are transferred). I Gamla stan är det fullt av portar och knutar som man kan gömma sig bakom, och ibland kan jag huka mig bakom någon bil. K691; 
 — en post // entry, item; Post 51 av 103 (sorterade) K1348; 
 — ett postnummer // zip code;  
@@ -1673,6 +1688,7 @@
 — ett sjukhus // a hospital; Hur kommer man till sjukhuset? Which way is the hospital? K1663; 
 — en sjuksköterska // a nurse;  K4173; 
 — sjunde // seventh;  K55; 
+— sjunka // (verb) sink (descend into liquid, etc);  K1771; 
 — sjuttio // seventy;  K56; 
 — sjutton // seventeen;  K57; 
 — själv // (pronomen) oneself, myself, yourself, himself, herself, itself; Han skrev manuset till sin senaste film själv. He wrote the script for his latest movie himself. Jag är så trist att jag tråkar ut mig själv. När du maler dina kaffebönor själv kan du få ett färskare kaffe med mer smaker och aromer. K191; 
@@ -1776,6 +1792,7 @@
 — smula // (v1) to shred (into pieces);  
 — smutsig // (adjektiv: ~t; ~a; ~are; ~ast;) dirty (covered with or containing dirt); Ta av dig de där smutsiga kläderna! Take those dirty clothes off! K4135; 
 — smutt // (adjektiv: ~; ~a; ~are; ~ast;) (slang) neat, nice, well done, clever (like in hack); Det lirade riktigt smutt. It worked (played out) really well. Det ska bli så smutt. Fan det låter smutt. Damn, it sounds neat. 
+— småningom // (adverb) after some time; sooner or later, eventually;  K1941; 
 — smälta // (v smälter; smälte; smält; smält; ~nde; smält;) 1. thaw; melt; to become fluid. 2. melt (the act of making something become fluid); 3. digest; Den föreställde en boaorm, som höll på att smälta en elefant. Vintersnön har redan smält. K3856; 
 — en smärta // (~n; smärtor; smärtorna;) pain; Ingen smärta, ingen vinst. No pain, no gain. Smärta i röven. Pain in the ass. K2325; 
 — ett smör // (~et;) butter;  K4949; 
@@ -1837,6 +1854,7 @@
 — en spik // (~en; ~ar; ~arna;) 1. (countable or uncountable) nail; spike-shaped metal fastener; 2. an (almost) fail-safe bet. 3. hole in one;  K5764; 
 — spika // (v1) 1. to nail (employ a nail as a fastener); 2.to fix a formerly tentative decision; 3. to publicize a dissertation or PhD thesis; 4. (slang) to do perfectly, to get full points (on a test or an exam); När det var klart skulle lädret skäras till och formas, innan det spikades på träbottnen och sedan målades träet. When it was ready, the leather was cut out and shaped, before it was nailed to the wooden bottoms and then the wood was painted. 
 — en spis // stove;  K6319; 
+— sprida // (verb) to distribute, to spread; Branden spreds inte eftersom sprinklerna var aktiverade. The fire did not spread because the sprinklers were activated. K910; 
 — springa // (v4s ~r; sprang; sprungit; spring; ~nde; sprungen;) to run; han kom springande; K1222; 
 — ett språk // (~et; ~; ~en;) (lingvistik) kommunikationsmedium medelst mänskligt tal eller andra symboler; a language; Hur vågar du använda sådant språk i det här huset?! How dare you use such language in this house?! Vad talar du för språk? What language do you speak? K655; 
 — språka // (v1) to speak; Man undrar också om barnen bara språkar i hemmet och i skolan. Vi språkade en stund och skildes åt. 
@@ -1975,7 +1993,9 @@
 — sälja // (v4o säljer; sålde; sålt; sälj; ~nde; såld;) sell; De säljer söt äppelcider. They sell sweet apple cider. En del is säljs dessutom både till andra delar av Sverige och utomlands, även till varma länder som Niger i Afrika. A share of the ice is sold, moreover, both in other parts of Sweden and to other countries, even to warmer countries like Niger in Africa. K568; 
 — säljas // sold;  
 — sällan // (adverb) 1. vid få tillfällen; Antonymer: ofta; 2. (vardagligt) inte alls; seldom, rarely; Det finns sällan en enda våg. There is rarely a single wave. Olaf är sällan hemma eftersom han reser så mycket. K1215; 
+— sällsynt // (adjektiv: ~; ~a; ~are|mer ~; ~ast|mest ~;) inte vanlig, som endast vid få tillfällen förekommer eller kan observeras; som sällan syns; Synonymer: ovanlig, rar, sällspord, tunnsådd; scarce, rare, uncommon;  K3969; 
 — en säng // (~en; ~ar; ~arna;) bed; ligga i sängen; lie in bed; Var och en bäddar sin säng. Everyone is expected to make his or her own bed. K1713; 
+— särskild // (adjektiv: särskilt; ~a;) particular; Den svenska adeln har idag inga särskilda privilegier. Praktiskt och praktiskt förresten, träskor är kanske inte särskilt praktiskt för en polis. Practical and practical incidentally, wooden shoes are probably not particularly practical for a policeman. K578; 
 — särskilt // (adverb) particularly, in particular; Praktiskt och praktiskt förresten, träskor är kanske inte särskilt praktiskt för en polis. Practical and practical incidentally, wooden shoes are probably not particularly practical for a policeman. K459; 
 — ett sätt // (~et; ~; ~en;) 1. manners; behaviour; 2. way, manner; how something is done; De tillverkades av en gammal hantverkare som gjorde tofflor på det gamla sättet, för hand. They were made by an old craftsman who made wooden shoes in the old way, by hand. Det lätta sätt leder ingenstans. —Aslak; Ett leende är det bästa sättet att tacka. A smile is the best way to say "thank you." Hon uttrycker sig på ett komiskt sätt. She has a comical way of saying things. Vi är alla lite galna på ett eller annat sätt. We're all a little crazy in one way or another. K215; 
 — sätta // (v2b sätter; satte; satt; sätt; ~nde; satt;) 1. (reflexive) to sit; to move oneself into a sitting position; 2. to put or place; to make to stick or adhere to; 3. to set; to put something (in particular, something immovable); 4. to set or adjust; to choose a setting; 5. to set; to assign work to; 6. to set; to arrange; to prepare a text for printing; 7. to plant certain plants, such as potatoes or onions; Han satte sig ner och lossade på slipsen. He sat down and loosened his tie. I mörkret satte jag av misstag på mig en marinblå och en svart strumpa. In the dark I accidentally put on one navy sock and one black. Ibland gillar jag bara sätta mig med en bra bok. Sometimes I just like to sit down with a good book. Sätt kryss för rätt svar. K336; 
@@ -2036,10 +2056,12 @@
 — tillbaka // (adverb) tillbaks (vardagligt); tebaks (talhärmande); back, in return; (to a previous condition or place); Det var ju omodernt en tid, men nu har jag faktiskt sett att träskor börjar komma tillbaka, i olika modeller och material, förstås. The were not modern there for a time, but now I have actually seen that wooden shoes are beginning to come back, in different models and materials, of course. K881; 
 — tillbringa // (v1) to spend (time); Minns du kvällarna vi tillbringade under stjärnorna? Do you remember the evenings we spent under the stars? K2646; 
 — ett tillfälle // (~t; ~n; ~na;) 1. opportunity (chance for advancement, progress or profit); 2. occasion, instance; a certain point in time;  K709; 
+— tillfällig // (adjektiv: ~t;) temporary; valid for a brief period of time;  K2089; 
 — tillhöra // (v2a tillhör; tillhörde; tillhört; tillhör; ~nde|~ndes;) 1. vara en del av; ägas av; 2. (matematik) vara ett element i mängden; to belong to (be the property of); boken tillhör mig; K938; 
 — tillräcklig // (adjektiv: ~t; ~a;) sufficient; Det är tillräckligt nu! Enough already! Ingen verkar ha tillräckligt med pengar. Nobody seems to have enough money. Jag har inte tillräcklig rörlighet för spela basket. I do not have enough agility to play basketball. K1978; 
 — tillsammans // (adverb) together;  K410; 
 — ett tillstånd // permit;  K988; 
+— tillsätta // (verb) 1. to appoint (a person to a job); 2. to add (ingredients to a food dish, components to a mix);  K2749; 
 — tillverka // (v1) to manufacture, to produce, to make; De tillverkades av en gammal hantverkare som gjorde tofflor på det gamla sättet, för hand. They were made by an old craftsman who made wooden shoes in the old way, by hand. En utbildning i skulptur, arkitektur och byggnadskonst har startats för att få folk som snabbt kan bygga upp hotellet av ny fin is och av snöblock, som tillverkas med hjälp av två snökanoner. An education in sculpture, architecture and the art of building has been started to get people that can quickly build the hotel from new excellent ice and snow blocks which are made with the help of two snow machines. K2107; 
 — en timme // (~n; timmar; timmarna;) an hour; Det är tjugofyra timmar på ett dygn. There are twenty four hours in one day. K525; 
 — tina // (v1) to thaw; to unfreeze; to soften as ice melts away; Man måste tina upp kalkonen innan man lägger in den i ugnen. You have to defrost the turkey before putting it in the oven. 
@@ -2179,6 +2201,8 @@
 — en uppsats // (~en; ~er; ~erna;) article, paper;  K3930; 
 — ett uppslag // (~et; ~; ~en;) 1. idé, plan; 2. en vänster- och högersida i en öppen bok (bokuppslag) eller tidning (tidningsuppslag), där det mittersta kallas mittuppslag 1. idea, plan; 2. an opening of a book or newspaper, consisting of two pages called verso (to the left) and recto (to the right); 3. entry (in a dictionary or encyclopedia); Nästan varje möte har gett nya uppslag och infallsvinklar. Almost every meeting has provided new ideas and approaches. K6062; 
 — upptagen // (adjektiv: upptaget; upptagna; upptagnare; upptagnast;) 1. (om resurs) som används av någon eller något och därmed inte kan nyttjas av ny part för tillfället; 2. (om person) som utför en aktivitet för tillfället och därmed inte kan påbörja en ny aktivitet; 3. (om person) i (kärleks)förhållande, och därmed inte intresserad av ny partner; 1. busy, engaged in activity; 2. occupied, taken, not vacant; 3. (of a telephony) busy, engaged; han är jämt upptagen; he is always busy; Jag är en upptagen man. I am a busy man. K3365; 
+— upptäcka // (verb) 1. to discover; 2. (reflexive, dated) to reveal (oneself for someone);  K1053; 
+— en upptäckt // a discovery;  K3711; 
 — uppåt // (adverb) 1. up (away from earth’s centre); 2. upwards; denoting an upper bound of a size or of a number; Det var uppåt tusen personer i demonstrationståget. There were upwards a thousand people in the march. uppåt väggarna ("alldeles fel") idiom: all wrong; K2914; 
 — ur // (preposition) ut från ett avgränsat utrymme; out of, (out) from; Det behövs 40 000 ton snö och 10 000 ton is, som hämtas upp ur Torneälven, för att bygga det 5 000 kvm stora hotellet. It takes 40,000 tons of snow and 10,000 tons of ice, which is collected out of the river Torneälven, to build the 5,000 square meter hotel. i fas, ur fas; in phase, out of phase; K296; 
 — ur // 1. så att något frigörs ur infästning eller liknande; 2. så att något blir tomt;  
@@ -2217,9 +2241,11 @@
 — en vakt // (~en; ~er; ~erna;) a guard (person), a watch (period of time); Jag har vakten i kväll. Vaktsystem finns ombord på handelsfartyg när besättningen är indelad i vakter enl. ett vaktsystem. Detta för att alla viktiga poster skall vara bemannade dygnet om. Sådana uppgifter kan vara: Styrman, Utkik, Rorgängare, Maskinist. Det vanligaste är att besättningen går sk. 4-8 vakt. Det innebär att varje person har vakt 4 timmar och därefter 8 timmar vila före nästa 4 timmars pass osv. Dessa vakter är normalt 00-04, 04-08, 08-12, 12-16, 16-20, 20-24. K2805; 
 — ett val // an election;  K413; 
 — ett valspråk // motto;  demyr.us/1x4mLa5 demyr.us/1G2O581  
+— en vana // (~n;) habit; a regularly done action;  K2740; 
 — vandra // (v1) to wander; to hike; Vill du fotvandra genom skogen? Do you want to hike through the woods? K2312; 
 — en vandring // (~en; ~ar; ~arna;) a hike, a tour or journey (mostly by foot), a long walk;  K2076; demyr.us/1EdSi6s 
 — en vandringsstav // hiking stick;  
+— vanilj // (substantiv) vanilla;  
 — vanlig // (adjektiv: ~t; ~a; ~are; ~ast;) common, usual; ordinary; Hennes hem är fint inrett, som vanligt. Her house is, as usual, very well decorated. K420; 
 — var // (pronomen) synonymer: varje; every;  K1586; 
 — var // (adverb) where; at which place; Var bor du? Where do you live? Var kommer du ifrån? Where are you from? K1034; 
@@ -2286,6 +2312,7 @@
 — visa // (v1) 1. to show, to display; 2. to prove; 3. to point at; Hans möblerade hem har ofta visats på utställningar. His furnished home has often been displayed on exhibition. Visa mig pengarna! Show me the money! K221; 
 — en vispgrädde // (~n;) whipped cream; jordgubbar med vispgrädde; strawberries with whipped cream; 
 — viss // (adjektiv: ~t; ~a; ~are; ~ast;) certain, convinced; Vissa dagar kräver mer kaffe än andra. Some days require more coffee than others. Vissa säger att livet är en motorväg. Some say that life is a highway. K240; 
+— en vistelse // stället där man vistas en längre period; stay;  K4228; 
 — vit // (adjektiv: ~t; ~a;) white; Jag gillar inte ha vita kläder på mig. I don't like to wear white clothes. K794; 
 — en vitlök // garlic;  K7246; 
 — en vitlökklyfta // clove of garlic;  
@@ -2345,6 +2372,7 @@
 — en ålder // (~n; åldrar; åldrarna;) 1. tiden som gått från födseln eller tillverkningsdatumet; livstid; 2. tidsålder; längre historisk period; 1. age; how old something or someone is; 2. an age, an era; a particular time period; Så kom det sig, att jag vid sex års ålder avstod från en strålande framtid som målare. K1014; 
 — ålderdomlig // (adjektiv: ~t; ~a; ~are; ~ast;) 1. som främst användes tidigare i historien; 2. som inte längre är på modet; 3. som förlorat eller blivit av med sin aktualitet; archaic (old-fashioned or antiquated); Metoden att räkna med kulramar är ålderdomlig. 
 — ett år // (~et; ~; ~en;) year; Idag fyller Aslak 50 år. Jag är 50 år. Nästa år är ett skottår. Next year is a leap year. K148; 
+— ett århundrade // (~t; ~n; ~na;) century; Han var inspirerad av svensk hemslöjd, d.v.s. de praktiska föremål som män och kvinnor i århundraden tillverkat i trä, metall och textil för användning i det vardagliga livet. He was inspired by swedish handicrafts, that is, the practical things that men and women of this centure worked in wood, metal and fabric for use in their daily lives. K2492; 
 — ett årsmöte // annual meeting;  K5044; 
 — en årstid // season;  K6039; 
 — en åsikt // (~en; ~er; ~erna;) en persons (subjektiva) uppfattning om något; en persons subjektiva smak eller en persons föredragna åtgärd i någon fråga; a view, an opinion (subjective thought); Enligt min åsikt är klassisk musik vackrare än pop. Min åsikt är att han skall bli avstängd. K546; 
@@ -2401,7 +2429,7 @@
 — öppet // (adjektiv) open; Du har ett öppet sinne. You have an open mind. ett öppet brev till regeringen; an open letter to the government; 
 — öppet // (adverb) openly; Du har ett öppet sinne. You have an open mind. ett öppet brev till regeringen; an open letter to the government; K2365; 
 — öppettider // opening hours;  
-— öppna // (v1) to open; Det är så roligt se barn öppna sina julklappar. It's so funny to see children opening their Christmas gifts. K754; 
+— öppna // (v1) 1. open (to make something accessible); 2. to become open; 3. open; to begin conducting business; Det är så roligt se barn öppna sina julklappar. It's so funny to see children opening their Christmas gifts. Vad händer om fallskärmen inte öppnas? What would happen if the parachute doesn't open? K754; 
 — ett öra // an ear;  K2137; 
 — öster // (adverb) east; eastward; Gotland är den största ön i Östersjön. Gotland is the largest island in the Baltic Sea. Hudson är öster om Minneapolis. 
 — östra // (adjektiv) eastern; Stockholm ligger i östra Sverige. Stockholm lies in eastern Sweden. K2557; 

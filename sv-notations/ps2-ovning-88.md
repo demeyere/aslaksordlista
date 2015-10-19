@@ -2,6 +2,7 @@
 title: På svenska! 2 Övningsbok
 contributors: Aslak Arþursson, Ross DeMeyere
 keywords: ps2 88
+revised: 2015-10-19 11:21 
 ---
 
 Tidsprepositioner
@@ -10,26 +11,26 @@ Tidsprepositioner
 
     om till för i på
 
-1. En kopp te och en knäckebrödssmörgås är gott ** kvällen.
-2. TV-programmet varade ** en timme.
-3. Åsa är född ** 1900-talet.
-4. Svenskarna äter många lussekatter ** jul.
-5. Han slutade röka ** två år seden.
-6. Kalle äter ofta en varm korv ** lunchen.
-7. Daniel gillar att sova länge ** morgnarna
-8. Åsa dricker minst åtta koppar kaffe ** dagen
-9. Hur gick det på tentan ** tisdags.
-10. De stod och pratade ** mer än 20 minuter.
-11. Det regnar ofta mycket ** hösten i Sverige.
-12. Hon går på gympa en gång ** veckan.
-13. Daniel har inte träffat sina kusiner ** många år.
-14. Studenterna läste in tentan ** ett par dagar.
-15. Jag ska börja städa badrummet ** en liten stund, lovade Daniel.
-16. De slutade äta kött ** flera år seden.
-17. Vad ska du göra ** sommaren.
-18. Daniel går till tandläkare två gånger ** året.
-19. Glöm inte att betala räkningarna senast ** torsdag, sa Åsa till Daniel.
-20. ** somras hade Beata ingen semester. Hon tog semester ** oktober i stället.
+F 1. En kopp te och en knäckebrödssmörgås är gott *på* kvällen.
+B 2. TV-programmet varade *i* en timme.
+C 3. Åsa är född *på* 1900-talet.
+D 4. Svenskarna äter många lussekatter *i* jul.
+C 5. Han slutade röka *för* två år seden.
+F 6. Kalle äter ofta en varm korv *på* lunchen.
+F 7. Daniel gillar att sova länge *på* morgnarna
+A 8. Åsa dricker minst åtta koppar kaffe *om* dagen
+C 9. Hur gick det på tentan *i* tisdags.
+B 10. De stod och pratade *-* mer än 20 minuter.
+F 11. Det regnar ofta mycket *pa* hösten i Sverige.
+A 12. Hon går på gympa en gång *i* veckan.
+B 13. Daniel har inte träffat sina kusiner *på* många år.
+B 14. Studenterna läste in tentan *-* ett par dagar.
+D 15. Jag ska börja städa badrummet *om* en liten stund, lovade Daniel.
+C 16. De slutade äta kött *för* flera år seden.
+D 17. Vad ska du göra *pa* sommaren.
+A 18. Daniel går till tandläkare två gånger *om* året.
+D 19. Glöm inte att betala räkningarna senast *-* torsdag, sa Åsa till Daniel.
+C 20. *i* somras hade Beata ingen semester. Hon tog semester *i* oktober i stället.
 
 
 
@@ -107,3 +108,42 @@ Om det finns en negation använder man prepositionen `på`.
 > Jag brukar vara i skärgården *på* semestern(semestrarna).
 
 > Vi städar alltid *på*|*om* lördagarna.
+
+- - -
+
+C === SME
+
+Han kom i maj
+Han kom maj 2015
+i julas, i midsomras, i påskas, i våras, i somras, i høstas, i vintras
+
+more definite = han var sjuk på midsommar
+
+de emigrerade våren 1887 (no particle with YYYY)
+i <veckodag>s = immediate past
+på <veckodag> = a particular but unspecified weekday in the past
+
+i førrgår, igår, imorse, i fjol
+
+(i) förra året, (i) förra månaden, (i) förra veckan, (i) förra helgen, (i) förra våren, (i) förra julen, (i) förra søndagen, i maj förra året, ...
+
+på (xx)xx-talet
+(år) YYYY
+i fjol
+(i) förra året
+i våras
+(på) våren 1996
+i january
+den 15 juli
+i søndags
+i julas
+i går
+i morse
+kl. 09.00
+för en vecka sedan
+
+jag kom hit för 10 år sedan.
+han bor utomlands sedan 30 år tillbaka = he has lived out of the country for 30 years (and still is)
+de har varit borta sedan mars
+
+- - -

@@ -9,10 +9,10 @@ keywords: haaland-2015w42
 Haaland vecka 42
 =================
 
-[ ] Läs 88-89 och översätt
+[x] Läs 88-89 och översätt
 [ ] skriv om vilket du helst dricker och varför (öl/vin/kaffe/choklad)
-[ ] övningsbok 88 (tidsprepositioner) (referens på sidan 115)
-[ ] become a SME on section C of tidsprepositioner 115
+[x] övningsbok 88 (tidsprepositioner) (referens på sidan 115)
+[x] become a SME on section C of tidsprepositioner 115
 
 ut ur = out of
 utav = 1 utav 2
@@ -48,24 +48,7 @@ hur säger man "to bring, i bring, can you bring..." på svenska ??  // ta med? 
 
 bana = http://www.swedavia.se/arlanda/om-stockholm-arlanda-airport/for-grannar/banor-vader-vind/
 
-i fjol ...
-
 https://blogg.forsvarsmakten.se/ungdomiuniform/2013/10/08/grundkursens-forsta-ovning/
-
-i sondags
-i måndags
-i tisdags
-...
-
-i vintras
-i våras
-i somras
-i höstas
-
-i julas
-i påskas
-i pingstas
-i midsomras
 
 - - -
 
@@ -74,6 +57,5 @@ i midsomras
 (C) *i natt* när jag var kissnödig och tittade ut genom fönstret såg jag Orion som ligg sig på horisonten. 2015-10-17 00:30 
 (F) Orion är en av stjärnhimlens bäst kända stjärnbilder. Orion är oftast ses *på vintern*. 
 (C) *i förrgår* talade Knut1 och jag om ulvar, Midgårdsormen, mytologi och andra grunkor. 
-(?) Två gånger i sekunden | minuten | timmen | veckan | månaden men två gånger om dagen | dygnet | året. — @skrusiduller
-(?) *i lördags* besökte vi mina föräldrar. Vi hjälpte pappa att klyva och trava (stapla) ved. Jag körde en hydraulisk vedklyv. Vi sysslade *under 5 timmer*.
-http://www.svenskved.com/vedeldning.asp
+(A) Två gånger i sekunden | minuten | timmen | veckan | månaden men två gånger om dagen | dygnet | året. — @skrusiduller
+(C|B) *i lördags* besökte vi mina föräldrar. Vi hjälpte pappa att klyva och trava (stapla) ved. Jag körde en hydraulisk vedklyv. Vi sysslade *under 5 timmer*. http://www.svenskved.com/vedeldning.asp
