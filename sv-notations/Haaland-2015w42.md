@@ -10,17 +10,17 @@ Haaland vecka 42
 =================
 
 [x] Läs 88-89 och översätt
-[ ] skriv om vilket du helst dricker och varför (öl/vin/kaffe/choklad)
+[x] skriv om vilket du helst dricker och varför (öl/vin/kaffe/choklad)
 [x] övningsbok 88 (tidsprepositioner) (referens på sidan 115)
 [x] become a SME on section C of tidsprepositioner 115
 
+<!-- 
 ut ur = out of
 utav = 1 utav 2
 urinvånare = native peoples
 ur tiden
 gick ur tiden = dög = gick bort
-Tomas gå i ur och skur.
-
+Tomas går i ur och skur.
 största = largest
 minsta = smallest
 sorters = kinds of 
@@ -33,18 +33,18 @@ ett hundra, en miljon
 ett två tre ... abstract counting normal
 en två tre .. det är inte fel
 ... sist på kvällen ...
-
-- - -
+  -->
 
 lite lite och liten... ;)
 
 vad är skillnaden mellan `uppdrag` och `uppgift`? vilken är större och viktigare?
 
+hur säger man "to bring, i bring, can you bring..." på svenska ??  // ta med? bringa med? medbringa? föra? ... 
+
+
 http://spraktidningen.se/artiklar/2008/04/frunch
 
 https://support.apple.com/sv-se/HT201678
-
-hur säger man "to bring, i bring, can you bring..." på svenska ??  // ta med? bringa med? medbringa? föra? ... 
 
 bana = http://www.swedavia.se/arlanda/om-stockholm-arlanda-airport/for-grannar/banor-vader-vind/
 
@@ -59,3 +59,17 @@ https://blogg.forsvarsmakten.se/ungdomiuniform/2013/10/08/grundkursens-forsta-ov
 (C) *i förrgår* talade Knut1 och jag om ulvar, Midgårdsormen, mytologi och andra grunkor. 
 (A) Två gånger i sekunden | minuten | timmen | veckan | månaden men två gånger om dagen | dygnet | året. — @skrusiduller
 (C|B) *i lördags* besökte vi mina föräldrar. Vi hjälpte pappa att klyva och trava (stapla) ved. Jag körde en hydraulisk vedklyv. Vi sysslade *under 5 timmer*. http://www.svenskved.com/vedeldning.asp
+
+- - -
+
+Skriv om vilket du helst dricker och varför (öl/vin/kaffe/choklad)
+
+Jag ofta frågar själv den här frågan: Vad om man hade bara en?
+Om jag hade bara en dryck förutom vatten skulle jag välja kaffet.
+Jag brukar dricka en stor mugg slät kaffe varje morgon. 
+Jag hörde att om man tycker om slät kaffe utan någonting i, man kommer att alltid vara glad.
+Vanligen brygger jag kaffe i en presskanna, men det gick sönder för tre veckor sedan och jag har inte köpte ett nya presskanna än.
+Under tiden använder jag en gamla perkolator som jag använder när jag tälta. 
+Jag fortfarande mal mina egna kaffeböner just innan brygger jag min kaffe.
+Jag tror att jag kunde leva utan de andra.
+Det var bra att vi inte innehöll bourbon... ;)
