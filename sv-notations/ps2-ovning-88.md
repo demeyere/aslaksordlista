@@ -1,7 +1,7 @@
 ---
 title: På svenska! 2 Övningsbok
 contributors: Aslak Arþursson, Ross DeMeyere
-keywords: ps2 88
+keywords: ps2 88 fråga
 revised: 2015-10-19 11:21 
 ---
 
@@ -14,22 +14,22 @@ Tidsprepositioner
 F 1. En kopp te och en knäckebrödssmörgås är gott *på* kvällen.
 B 2. TV-programmet varade *i* en timme.
 C 3. Åsa är född *på* 1900-talet.
-D 4. Svenskarna äter många lussekatter *i* jul.
+D 4. Svenskarna äter många lussekatter *i* jul.  // till : why?
 C 5. Han slutade röka *för* två år seden.
 F 6. Kalle äter ofta en varm korv *på* lunchen.
 F 7. Daniel gillar att sova länge *på* morgnarna
 A 8. Åsa dricker minst åtta koppar kaffe *om* dagen
 C 9. Hur gick det på tentan *i* tisdags.
-B 10. De stod och pratade *-* mer än 20 minuter.
+B 10. De stod och pratade *i* mer än 20 minuter.
 F 11. Det regnar ofta mycket *pa* hösten i Sverige.
 A 12. Hon går på gympa en gång *i* veckan.
 B 13. Daniel har inte träffat sina kusiner *på* många år.
-B 14. Studenterna läste in tentan *-* ett par dagar.
+B 14. Studenterna läste in tentan *i* ett par dagar.
 D 15. Jag ska börja städa badrummet *om* en liten stund, lovade Daniel.
-C 16. De slutade äta kött *för* flera år seden.
-D 17. Vad ska du göra *pa* sommaren.
+C 16. De slutade äta kött *för* flera år sedan.
+D 17. Vad ska du göra *pa* sommaren.    // till : why?
 A 18. Daniel går till tandläkare två gånger *om* året.
-D 19. Glöm inte att betala räkningarna senast *-* torsdag, sa Åsa till Daniel.
+D 19. Glöm inte att betala räkningarna senast *på* torsdag, sa Åsa till Daniel.
 C 20. *i* somras hade Beata ingen semester. Hon tog semester *i* oktober i stället.
 
 
