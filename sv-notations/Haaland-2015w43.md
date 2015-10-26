@@ -24,9 +24,8 @@ Snapsvisa!
 - - -
 
 fullt med
-multa (norska ord)
 att tälta en natt (allemansrätten)
-jag kuggade tentan i tisdags. jag omtenta på måndag.
+Jag kuggade tentan i tisdags. Jag omtenta på måndag.
 nästa jul ska jag ...
 minne - memory
 bryta upp arbetsdagen
@@ -38,4 +37,7 @@ omgivning - surroundings
 
 http://www.dn.se/kultur-noje/spraket/i-ur-och-skur/
 (Jag delade länk med Tomas via mejl.)
+
+http://skaggbloggen.se/
+(this is being discontinued... collect the article that may interest you now.)
 
