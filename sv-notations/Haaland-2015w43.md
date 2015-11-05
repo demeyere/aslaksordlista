@@ -9,9 +9,6 @@ keywords: haaland-2015w43
 Haaland vecka 43
 =================
 
-[ ] översätte 90
-[ ] handouts
-
 Snapsvisa!
 -----------------
 (melodi: Ritsch, ratsch, filibom, bom, bom)
@@ -23,10 +20,8 @@ Snapsvisa!
 
 - - -
 
-fullt med
-att tälta en natt (allemansrätten)
+man kan tälta en natt (allemansrätten)
 Jag kuggade tentan i tisdags. Jag omtenta på måndag.
-nästa jul ska jag ...
 minne - memory
 bryta upp arbetsdagen
 offentligt - public
@@ -39,5 +34,10 @@ http://www.dn.se/kultur-noje/spraket/i-ur-och-skur/
 (Jag delade länk med Tomas via mejl.)
 
 http://skaggbloggen.se/
-(this is being discontinued... collect the article that may interest you now.)
+(this is being discontinued... collect the articles that may interest you now.)
+
+http://skyttevarn.blogspot.com/
+
+Tactical Pilotage Charts for Europe (including Sweden)
+http://www.lib.utexas.edu/maps/tpc/europe-asia-africa-index.html
 
