@@ -1,5 +1,5 @@
 
-Cardinal and ordinal numbers
+Cardinal and ordinal numbers (siffror)
 ============================
 
    0   noll         (nollte)
@@ -43,13 +43,16 @@ Cardinal and ordinal numbers
  200   tvåhundra     tvåhundrade
  500   femhundra     femhundrade
 
-    1 000  (ett)tusen     tusende
-    2 000   tvåtusen      tvåtusende
-    5 000   femtusen      femtusende
-   10 000   tiotusen      tiotusende
-   20 000   tjugotusen    tjugotusende
-   50 000   femtiotusen   femtiotusende
-1 000 000   en miljon     miljonte
+            1 000  (ett)tusen     tusende
+            2 000   tvåtusen      tvåtusende
+            5 000   femtusen      femtusende
+           10 000   tiotusen      tiotusende
+           20 000   tjugotusen    tjugotusende
+           50 000   femtiotusen   femtiotusende
+        1 000 000   en miljon     miljonte
+       15 000 000   femton miljoner
+    1 000 000 000   en miljard
+1 000 000 000 000   en biljon:   
 
 - - -
 

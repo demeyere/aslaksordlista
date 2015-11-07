@@ -17,5 +17,5 @@ Credits
 -----------------
 Till min mamma och pappa.  
 Till min fru Freya och mina söner Knut som står ut med när jag snackar på svenska i hemma.  
-Till Barbro som är en av min lärare och också står ut med mig. Barbro dog 27 Juni 2015.  
+Till Barbro Eriksson Roehrdanz som var en av min lärare och också står ut med mig. Barbro dog 27 Juni 2015.  (1938-11-26/2015-06-28)
 Till Jakk, Kari och Gar som är en del av andra barn i min klass.  

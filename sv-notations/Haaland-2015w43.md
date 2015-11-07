@@ -40,4 +40,3 @@ http://skyttevarn.blogspot.com/
 
 Tactical Pilotage Charts for Europe (including Sweden)
 http://www.lib.utexas.edu/maps/tpc/europe-asia-africa-index.html
-

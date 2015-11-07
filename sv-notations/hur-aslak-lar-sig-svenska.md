@@ -1,7 +1,7 @@
 <!-- 
 title: Hur Aslak lär sig svenska
 contributors: Aslak Arþursson, Ross DeMeyere 
-revised: 2015-11-03 21:28 
+revised: 2015-11-07 15:50 
 notes: formatted as a post for aslak.se
  -->
 
@@ -13,6 +13,10 @@ notes: formatted as a post for aslak.se
 ---
 
 ## Jag springer med musik.
+
+Jag springer och lyssnar på musik.
+Min spellista är tröttsamt nu att jag har lyssnat för 1 år sedan.
+Jag måste hitta flera nya låter för _add_ till min spellista.
 
 ---
 
@@ -46,4 +50,88 @@ Bild av kniffelknaffel, kuksa (kåsa) och skål som hänger i träd efter jag tv
 <img src="http://s3.demeyere.com/sv/scouterna-egen-o.png"/>
 <!-- /feature-imagery-block --></div>
 
-> vara Aslakig!
+> vara Aslaktig!
+<!-- Aslak-aktig -->
+
+
+
+
+När jag kan tänka på svenska inte översätter jag tebaks till engelska.
+- - -
+Jag sätter språket (inställningar) på alla mina enheter till/på svenska.
+- - -
+När jag _research/lookup_ information om nånting försökar jag alltid _xx_ på svenska oxså.
+- - -
+Jag läser ofta blogg på svenska, liksom försvarsmakten.
+Jag lika-a flera sidor på facebook som scouterna och ...
+- - -
+Jag vill alltid veta etymologyn av ord. ord bild ... nya ord... t.ex.
+- - -
+Jag slår upp ord i flera ordbok och jämförer
+
+* sv.wiki
+* en.wiki
+* folkets
+* 1872
+* SAOB
+* iPad app
+* large physical book
+
+- - -
+Jag slår upp ordanvändningar i spraakbanken/korp
+
+t.ex. vilket verb kan du använda med `kaffe`?
+
+    koka, brygga, dricka, svepa
+    
+t.ex. vilket verb använda man med snöskor?
+
+    man gå me snöskor
+    man åker inte snöskor
+    om man är tourist kan man stå på snöskor. ;)
+    
+- - -
+Jag _collect_ _sample_ meningar med ord som jag slår upp.
+Jag skapar min egen korp.
+- - -
+
+BLI GODARE  ;)
+(grunkor som jag kunde göra att blir bättre)
+
+* focusera på läxan
+* tala mer på svenska
+* använda quizzlet mer och memorisera mera ord
+* don't be afraid to make mistakes (that is where you learn)
+* skriva mer (på min blogg; anteckningar till själv; mejl till mina vänner;)
+* läsa mer (8sidor, DN.se, försvarsmakten, facebook, twitter)
+* flashcards
+
+Jag kunde dricka mer öl (med vänner som talar svenska). 
+När jag pluggade 日本語 sägas det att man kunde tala bättre 日本語 om man drack mer öl. // ju desto // Asahi, of course.
+
+- - -
+
+ANVÄNDA INTE translate.google.com !!!
+
+Det är kul men det ofta är fel.
+Det ska hjälpa du att tala dåliga svenska.
+Om du måste använder t.g.c. bör du skriva på svenska och titta om engelska är vad du menar.
+
+- - -
+
+Jag väljer grunkor som jag är intressad i och hittar jag artikeln om det på svenska.
+
+t.ex. tälta, kniffelknaffel, klättring
+
+- - -
+Documentation and user handbooks.
+
+- - -
+
+Jag tittar TED-talks på engelska med svenska _subtitles_ på.
+
+sida-vid-sida projekt.
+
+- - -
+
+
