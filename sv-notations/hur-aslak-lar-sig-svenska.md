@@ -136,9 +136,13 @@ t.ex. tälta, kniffelknaffel, klättring
 - - -
 Documentation and user handbooks.
 
+<img src="http://s3.demeyere.com/sv/iPhone5S-anvandahandbok.png" />
+
 - - -
 
 Jag tittar TED-talks på engelska med svenska _subtitles_ på.
+
+<a href="http://www.ted.com/talks/matt_cutts_try_something_new_for_30_days#t-57943"><img src="http://s3.demeyere.com/sv/TED-with-subtitles-fpo.png" /></a>
 
 sida-vid-sida projekt.
 
