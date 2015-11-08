@@ -18,6 +18,8 @@ Jag springer och lyssnar på musik.
 Min spellista är tröttsamt nu att jag har lyssnat för 1 år sedan.
 Jag måste hitta flera nya låter för _add_ till min spellista.
 
+<img src="http://s3.demeyere.com/sv/spellista.png" />
+
 ---
 
 ## Jag översätta ordagrant från engelska till svenska för att komma bättre ihåg (och humor).
