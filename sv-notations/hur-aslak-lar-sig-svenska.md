@@ -71,16 +71,24 @@ Jag vill alltid veta etymologyn av ord. ord bild ... nya ord... t.ex.
 - - -
 Jag slår upp ord i flera ordbok och jämförer
 
-* sv.wiki
-* en.wiki
-* folkets
-* 1872
-* SAOB
-* iPad app
-* large physical book
+* sv.wiktionary.org // `https://sv.wiktionary.org/wiki/tälta`
+* en.wiktionary.org // `https://en.wiktionary.org/wiki/tälta`
+* folkets // `http://folkets-lexikon.csc.kth.se/folkets/#lookup&tälta&0`
+* 1872 // `http://runeberg.org/svenhand/0405.html`
+* SVENSKA AKADEMIENS ORDBOK (SAOB) // `http://g3.spraakdata.gu.se/saob/`
+* iPad app // 
+* Prisma’s Unabridged Swedish-English/English-Swedish Dictionary
+
+<div class="feature-imagery-block feature-imagery-block-3 clearfix">
+<img src="http://s3.demeyere.com/sv/ordbok-app.png" />
+<img src="http://s3.demeyere.com/sv/ordbok-screenshot.png" />
+<img src="http://s3.demeyere.com/sv/prismas-ordbok.png" />
+<!-- /feature-imagery-block --></div>
 
 - - -
-Jag slår upp ordanvändningar i spraakbanken/korp
+Jag slår upp ordanvändningar i `http://spraakbanken.gu.se/korp/`
+
+<img src="http://s3.demeyere.com/sv/korp.png" />
 
 t.ex. vilket verb kan du använda med `kaffe`?
 
