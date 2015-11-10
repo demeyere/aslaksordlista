@@ -16,7 +16,7 @@ notes: formatted as a post for aslak.se
 
 Jag springer och lyssnar på musik.
 Min spellista är tröttsamt nu att jag har lyssnat för 1 år sedan.
-Jag måste hitta flera nya låter för _add_ till min spellista.
+Jag måste hitta flera nya låter för att lägga till min spellista.
 
 <img src="http://s3.demeyere.com/sv/spellista.png" />
 
@@ -62,7 +62,7 @@ När jag kan tänka på svenska inte översätter jag tebaks till engelska.
 - - -
 Jag sätter språket (inställningar) på alla mina enheter till/på svenska.
 - - -
-När jag _research/lookup_ information om nånting försökar jag alltid _xx_ på svenska oxså.
+När jag forskar information om nånting försökar jag alltid forskar på svenska oxså.
 - - -
 Jag läser ofta blogg på svenska, liksom försvarsmakten.
 Jag lika-a flera sidor på facebook som scouterna och ...
@@ -101,8 +101,7 @@ t.ex. vilket verb använda man med snöskor?
     om man är tourist kan man stå på snöskor. ;)
     
 - - -
-Jag _collect_ _sample_ meningar med ord som jag slår upp.
-Jag skapar min egen korp.
+Jag samlar verkliga meningar med ord som jag slår upp därvid jag skapar min egen korp.
 - - -
 
 BLI GODARE  ;)
@@ -110,22 +109,22 @@ BLI GODARE  ;)
 
 * focusera på läxan
 * tala mer på svenska
-* använda quizzlet mer och memorisera mera ord
-* don't be afraid to make mistakes (that is where you learn)
+* använda <https://quizlet.com> mer och memorisera mera ord
+* Skulle vara inte rädd för att göra misstag (det är när du lär bäst dig)
 * skriva mer (på min blogg; anteckningar till själv; mejl till mina vänner;)
 * läsa mer (8sidor, DN.se, försvarsmakten, facebook, twitter)
 * flashcards
 
 Jag kunde dricka mer öl (med vänner som talar svenska). 
-När jag pluggade 日本語 sägas det att man kunde tala bättre 日本語 om man drack mer öl. // ju desto // Asahi, of course.
+När jag pluggade 日本語 sägs det att ju man kunde tala bättre 日本語 desto man drack mer öl. Asahi, javisst.
 
 - - -
 
-ANVÄNDA INTE translate.google.com !!!
+ANVÄNDA INTE <https://translate.google.com> !!!
 
 Det är kul men det ofta är fel.
 Det ska hjälpa du att tala dåliga svenska.
-Om du måste använder t.g.c. bör du skriva på svenska och titta om engelska är vad du menar.
+Om du måste använder <https://translate.google.com> bör du skriva på svenska och titta om engelska är vad du menar.
 
 - - -
 
@@ -140,12 +139,10 @@ Documentation and user handbooks.
 
 - - -
 
-Jag tittar TED-talks på engelska med svenska _subtitles_ på.
+Jag tittar TED-talks på engelska med svenska undertexter.
 
 <a href="http://www.ted.com/talks/matt_cutts_try_something_new_for_30_days#t-57943"><img src="http://s3.demeyere.com/sv/TED-with-subtitles-fpo.png" /></a>
 
 sida-vid-sida projekt.
 
 - - -
-
-
