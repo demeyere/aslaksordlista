@@ -23,7 +23,7 @@
 — alltid // (adverb) always; Idiom: jämt och ständigt ("hela tiden, alltid"); forever ("all the time, always"); Jag kommer älska dig för alltid. I will love you forever. Men alltid fick jag till svar: "Det där är en hatt." But I always got the answer "That is a hat". K288; 
 — allting // (pronomen) everything; Man måste förklara allting för de stora. K1732; 
 — alltså // (adverb) accordingly, therefore, ergo, consequently, thus; in other words, that is to say; Jag fick alltså lov att välja ett annat yrke, och så lärde jag mig flyga. K304; 
-— allvar // (substantiv) seriousness, (in the) earnest, serious business;  K1207; 
+— ett allvar // (~et;) seriousness, (in the) earnest, serious business;  K1207; 
 — allvarlig // (adjektiv: ~t; ~a; ~are; ~ast;) serious; needing great attention; without humor; På så sätt har jag många gånger i livet kommit i kontakt med allvarliga människor. Tjugo personer blev allvarligt skadade. Twenty people were seriously injured. K1125; 
 — ana // (v1) 1. ha en känsla (av något); förnimma, skönja; föreställa sig 2. tro, misstänka, gissa; 1. suspect, think, believe, imagine, have a feeling (idea); 2. guess, believe that something will happen, or has happened. Being fairly certain, but acknowledges that after all, one could be wrong.;  K1510; 
 — en ananas // pineapple; Dadlarna är jättegoda, men jag föredrar ananas. The dates are delicious, but I prefer pineapple. 
@@ -173,7 +173,7 @@
 — en blyerts // (~en;) black lead, graphite;  
 — en blyertspenna // (~n; blyertspennor; blyertspennorna;) pencil (lead); När man beställde träskor, mätte han ens fötter först och skrev in storleken i sin lilla svarta bok med en tjock svart blyertspenna. When someone ordered wooden shoes, he measured his feet first and wrote in the size in his little black book with a thick black pencil. K8225; 
 — blyg // (adjektiv: ~t; ~a; ~are; ~ast;) shy; timid; Skaffa vänner är svårt när man är extremt blyg. Making friends is hard when you are painfully shy. 
-— blå // (adjektiv: ~tt;) blue;  K1963; 
+— blå // (adjektiv: ~tt; ~a;) blue;  K1963; 
 — blåsa // (v2b blåser; blåste; blåst; blås; ~nde; blåst;) to blow; [kelly: e.g. blåsa upp]; Det blåser. K2434; 
 — blöda // (v blöder; blödde; blött; blöd; ~nde; blödd;) bleed;  K6635; 
 — blöta // (v blöter; blötte; blött; blöt;) to wet (cover or impregnate with liquid);  
@@ -281,7 +281,7 @@
 — den // bestämd artikel singular utrum; (before an adjective preceding a noun) the; Den där, då? What about that one? Jag är född den 11:e februari (11/2). K107; 
 — den där // that there;  
 — den här // this; this one;  
-— denna // (pronomen) this, that (depending on context);  K173; 
+— denna // (pronomen) this, that (depending on context); ...i dessa dagar. K173; 
 — deras // (pronomen) their; Deras expedition grävde fram antika ruiner. Their expedition uncovered ancient ruins. Jag hittade en länk till deras webbplats. När grannarna är bortresta, vaktar jag deras hund. När grannarna åker bort tar de med sig sin hund. When the neighbors are traveling, I tend their dog. When the neighbors travel [anywhere], they bring their dog. K238; 
 — desperat // (adjektiv) desperate, furious;  K4343; 
 — dessutom // (adverb) besides, moreover, furthermore, in addition; En del is säljs dessutom både till andra delar av Sverige och utomlands, även till varma länder som Niger i Afrika. A share of the ice is sold, moreover, both in other parts of Sweden and to other countries, even to warmer countries like Niger in Africa. K331; 
@@ -317,7 +317,7 @@
 — en driva // (~n; drivor; drivorna;) större ansamling av något, t.ex. snö; snödriva a drift of snow;  
 — en drottning // queen;  K2501; 
 — en dryck // (~en; ~er; ~erna;) beverage, drink; Förtäring av mat och dryck är förbjudet i det här rummet. Consumption of food and drink is forbidden in this room. K3875; 
-— dröja // (verb) to linger, to wait, to last, to hold (the telephone);  K2558; 
+— dröja // (verb) to linger, to wait, to last, to hold (the telephone); Kan du dröja? K2558; 
 — en dröm // (~men; ~mar; ~marna;) dream; drömjobb; a dream job; drömstart; a dream start; K1505; 
 — drömma // (v2a drömmer; drömde; drömt; dröm; ~nde|~ndes; drömd;) 1. uppleva händelser baserade på en hallucinationsliknande tankeverksamhet som förekommer under (REM-) sömn; 2. fantisera om; hoppas på; 3. (med negation) vara otänkbart; inte vara önskvärt; 1. (intransitive) dream; to see imaginary events in one's mind while sleeping; 2. (transitive) dream; to create an imaginary experience (usually when asleep); 3. (intransitive) dream; hope or wish; 4. (intransitive) daydream; I natt drömde jag att jag flöt bland molnen. K2357; 
 — du // (pronomen) you;  K134; 
@@ -493,7 +493,7 @@
 — framme // (adverb) at the front (of the bus); at the end of a journey;  K3644; 
 — en framtid // (~en; ~er; ~erna;) 1. future (the time ahead); 2. future; something that will happen; Jag låter inte min framtid avgöras av slumpen. I will not leave my future up to chance. När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske. K520; 
 — en fred // (~en; ~er; ~erna;) peace; Gå härifrån och lämna mig i fred. Myggorna vill inte lämna mig i fred! The mosquitoes will not leave me alone! K1324; 
-— en fredag // Friday;  K926; 
+— en fredag // (~en;) Friday;  K926; 
 — fri // (adjektiv: ~tt; ~a; ~aste; ~ast;) free, unconstrained; Vi sov i det fria, under stjärnorna. We slept in the open, under the stars. K523; 
 — fria // (verb) to propose (to someone); — Är det inte mannen som ska fria? undrar Daniel och ler. K3339; 
 — en friktion // (~en;) 1. gnidning mot yta utefter vilken en kropp rör sig; 2. (fysik) kontaktkraft som motsätter sig relativ rörelse mellan två vid varandra rörande objekt; 3. (generaliserat) motsättningar och samarbetsproblem mellan två eller flera personer; friction (conflict) (uncountable);  
@@ -976,6 +976,7 @@
 — klia // (v1) to scratch (an itch); Den unga tjejen kliar på utslaget. The young girl is scratching an itch. Jag måste klia mig på armen. K6713; 
 — klicka // (verb) to click;  K1356; 
 — klippa // (v2b klipper; klippte; klippt; klipp; ~nde; klippt;) 1. to cut with scissors, in particular to cut somebody's hair 2.(reflexive) to let someone cut one's hair, to have a haircut 3.to cut; to cease recording activities 4. to perform film editing 5. to cut a credit card into pieces in order to invalidate it. Jag vill klippa mitt hår. K2918; 
+— en klippa // (~n; klippor; klipporna;) 1. stort stycke av sten eller bergart; del av urberg som går upp i dagen; klipphäll; 2. en bit av ett berg eller ett litet berg; 3. (överfört) tillförlitlig, orubblig person; person som lyckas trots motgångar; 1. a rock, a cliff; 2. a steadfast person; Det fanns en grön äng nedanför klippan. There was a green meadow below the cliff. Under vår resa runt i England, besökte vi klipporna i Dover. During our trip around England we visited the cliffs of Dover. K4397; 
 — kliva // (v4 kliver; klev; klivit; kliv; ~nde|~ndes;) to take a (big) step, to step into, onto or off from something;  K2677; 
 — en klocka // (~n; klockor; klockorna;) a clock; watch; an instrument used to measure or keep track of time; Klockan är kvart i fyra. Klockan är tio över tolv. Ursäkta mig, vad är klockan? Excuse me, what time is it?" Vad är klockan? Vi har ett möte imorgon klockan "tio och trettio" (10.30) i City Park Hotel. (halv elva); K795; 
 — klok // (adjektiv: ~t; ~a; ~are; ~aste;) wise, intelligent;  K1851; 
@@ -990,10 +991,10 @@
 — en klämdag // a single workday squeezed between a holiday and a weekend (when many people go on a longer vacation); squeeze day, or "hug" day in Norwegian;  
 — en klänning // a dress;  K4007; 
 — klättra upp // (verb) climb; klätterskor 
+— knalla // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) 1. (vardagligt) gå, promenera; Nu ska jag knalla vidare. Fraser: (partikelverb) knalla hem, knalla in, knalla omkring, knalla runt, knalla ut; Fraser: det knallar och går; // som en moped? 2. avge en knall;  
 — knappt // (adverb) bara till viss del; bara i viss mån; hardly, scarcely, almost not, not quite yet, slightly less than; see also knappast; Jag har ätit så mycket jag knappt kan knäppa byxorna! I ate so much I can barely button my pants! K1429; 
 — en kniv // (~en; ~ar; ~arna;) redskap att skära med; a knife; Är din kniv vass? K3694; 
 — knivsudd // point of a knife;  
-— knulla // (v1) (vulgar) to have sex; to fuck;  
 — en knut // (~en; ~ar; ~arna;) 1. knot; a looping of a piece of string; 2. an exterior corner of a building; I Gamla stan är det fullt av portar och knutar som man kan gömma sig bakom, och ibland kan jag huka mig bakom någon bil. Knut satt vid en knut och knöt en knut. När Knut knutit knuten var knuten knuten. Knut stod vid knuten och knöt en knut. När knuten var knuten gick Knut och knöt sig. K4399; 
 — knyta // (v knyter; knöt; knutit; knyt; ~nde; knuten;) 1. to tie (a knot); 2. (reflexive, idiomatic) to go to sleep; Knut satt vid en knut och knöt en knut. När Knut knutit knuten var knuten knuten. Knut stod vid knuten och knöt en knut. När knuten var knuten gick Knut och knöt sig. K2600; 
 — ett knytkalas // (~et; ~; ~en;) kalas där deltagarna själva förväntas medtaga egen mat (och eventuellt även dryck) att bjuda de andra på; Synonymer: knytis; potluck;  
@@ -1095,6 +1096,7 @@
 — känna igen // (verb) to recognize;  
 — känna igen sig // (verb) veta var man är;  
 — känna till // (verb) veta något om; to know, to be (loosely) aware of; to know a little about;  
+— en känsla // (~n; känslor; känslorna;) 1. (hos djur) förnimmelse av känselsinne, exempelvis orsakat av värme, kyla eller tryck mot organ; 2. (psykologi) (hos djur) psykologisk förnimmelse, ofta i motsats till rationellt tänkande, exempelvis rädsla, lycka, sorg etc.; 3. (hos djur) instinkt, mer eller mindre undermedveten uppfattning om något; tro (om något); 1. feeling, emotion, intuition; experience with the senses; 2. (in the plural) feelings; attitude against others (especially love); 3. atmosfär, atmosphere; The mood or feeling in a situation.; Vi behöver prata om våra känslor. We need to talk about our feelings. K639; 
 — känslig // (adjektiv: ~t; ~a; ~are; ~ast;) sensitive; Så här svarade några ungdomar, som är den trendkänsligaste gruppen: So here answered some youth who are the trendiest group: K2424; 
 — en käpp // (~en; ~ar; ~arna;) 1. grov pinne oftast med runt eller kvadratiskt tvärsnitt; 2. en kort stav som används för stöd vid gång; cane; stick (long piece of wood);  K7262; 
 — en kärlek // (~en;) a love;  K842; 
@@ -1127,7 +1129,7 @@
 — en leksak // (~en; ~er; ~erna;) a toy;  K4646; 
 — en leksandlåda // sandbox;  
 — en lektion // a lesson;  K2855; 
-— ler // (substantiv) clay;  
+— ett ler // (~et; ~; ~en;) jordart med kornstorlek under 0,002 mm; clay;  
 — leta // (v1) (with efter) search; look throughout (a place) for something; Vad letar du efter? What are you searching for? K1318; 
 — leta upp // (verb) look up;  
 — leva // (v lever; levde; levt|~t; lev; ~nde;) to live; to be alive;  K346; demyr.us/1NVedXQ demyr.us/1HTdAtF 
@@ -1142,7 +1144,6 @@
 — en linjal // a ruler;  
 — ett linne // a linen; (woman's shirt);  K7376; 
 — lira // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) (slang) spela /instrument/fotboll/tevespel/; (colloquial) to play (a sport, an instrument or a game); Det lirade riktigt smutt. It worked (played out) really well. 
-— lite // (adjektiv: mindre; minst;) little, some; a small amount; [to be used with uncountable nouns]; Det finns lite vatten i flaskan. Jag har lite pengar kvar. Jag skrev lite på hemuppgiften. 
 — lite // (adverb) a little, to a small extent; somewhat Du bör sova minst åtta timmar varje natt. You should sleep at least eight hours every night. Du kan lyfta stenen om du tar i lite mer. K172; 
 — lite varstans // all around; here, there and everywhere; Jag har flugit litet varstans i världen. 
 — liten // (adjektiv: litet; små; mindre; minst;) small, little, of small size; Men så små hennes händer är! Varför ger du mig alltid den minsta biten? Vänta en liten stund. K106; 
@@ -1222,7 +1223,7 @@
 — mala // (v mal|maler; malde; malt; mal; ~nde; mald|malen;) 1. to grind; to make smaller; 2. to speak ceaselessly, usually about one single subject; Att börja mala sitt eget kaffe är att börja med ett nytt sorts kaffedrickande. När du maler dina kaffebönor själv kan du få ett färskare kaffe med mer smaker och aromer. K6894; 
 — en mamma // mom;  K757; 
 — en man // (~nen; män; männen;) 1. (ofta vuxen) människa av manligt kön; 2. äkta make, man i äktenskap; 3. (mest i sammansättningar) person i allmänhet, oavsett kön; Sammansättningar: brandman, gärningsman, ombudsman, spelman, tjänsteman; 4. (slang) (endast i bestämd form) tilltalsord till manlig bekant eller vän (med vänskaplig underton); 5. medlem av exempelvis militär eller polisiär trupp; 1. a man (adult male human); 2. a husband; 3. a member of a crew, workforce or (military) troop;  K264; 
-— man // (pronomen) one (pronoun); `a guy...` (northern Minnesota-ska); Ingen vill ju att ens kompisar ska klä sig konstigt. Nobody wants that ones friends should dress weird. Ursäkta, hur säger man "car" på svenska? Excuse me, how do you say 'car' in Swedish? 
+— man // (pronomen) one (pronoun); `a guy...` (northern Minnesota-ska); Ingen vill ju att ens kompisar ska klä sig konstigt. Nobody wants that ones friends should dress weird. Man lär så länge man lever Ursäkta, hur säger man "car" på svenska? Excuse me, how do you say 'car' in Swedish? 
 — en mark // (~en; ~er; ~erna;) 1. (uncountable) ground (as opposed to the sky or the sea); 2. (countable, uncountable) ground, field; Bonden ägde mycket mark; The farmer owned a lot of ground; Ha fast mark under fötterna; to be on terra firma (literally "to have firm ground under (one's) feet") K919; 
 — en marknad // (~en; ~er; ~erna;) market; Var ligger den närmaste marknaden? Where is the nearest market? K612; 
 — ett markplan // ground level;  
@@ -1351,7 +1352,7 @@
 — en nalle // (~n; nallar; nallarna;) 1. kortform för nallebjörn, ett kramdjur, en leksaksbjörn i tyg eller annat mjukt material med stoppning. 2. (slang, 1980- och 1990-tal) mobiltelefon; teddy bear; bear; (colloquial) mobile phone; Den unga flickan kramade om sin nallebjörn. The young girl hugged her teddy bear. Det är inte tillåtet ta med nallebjörnar till skolan. Bringing teddy bears to school is not allowed. Skiter nallen i skogen? Does a bear poop in the woods? K7064; 
 — ett namn // (~et; ~; ~en;) a name; Typiskt för Ikea-möbler är att de har namn, t.ex. soffan Göteborg och bokhyllan Billy. It is typical for IKEA furniture to have names, for example The Göteborg Sofa and the Billy Bookcase. K368; 
 — narvära // (verb) to attend;  
-— en natt // (~en;) night; Det är mycket bra att kunna, om man flugit vilse om natten. K816; 
+— en natt // (~en; nätter; nätterna;) dygnets mörka timmar; night; Det är mycket bra att kunna, om man flugit vilse om natten. K816; 
 — naturligtvis // (adverb) of course;  K580; 
 — ned // (adverb) down;  
 — nej // no;  K456; 
@@ -1636,9 +1637,7 @@
 — röra på sig // to move your body;  
 — en röst // a voice;  K717; 
 — rösta // (v1) (politik, allmänt) säga sin mening eller åsikt i ett val eller i en omröstning; to vote (making a formalised choice);  K696; 
-— en röv // (~en;) (vulgar) ass; Smärta i röven. Pain in the ass. 
 — en rövhatt // Person som förefaller ha huvudet uppkört mellan sina egna skinkor. Kan även vara en person som är full av sig själv. Tror inte en myndighet får använda ordet rövhatt. Så det gör jag inte. Men andemeningen! Beträd inte skjutfält!! @lagersten www.slangopedia.se/ordlista/?ord=R%F6vhatt demyr.us/1jauDka 
-— ett rövhål // (vulgar) asshole;  
 — en saga // (~n; sagor; sagorna;) saga, tale, myth, story;  K2472; 
 — en sak // (~en; ~er; ~erna;) 1. thing; undefined individual object, usually of relatively small size; 2. (legal) dispute; Vi kommer se saker klarare i dagsljuset. We'll see things clearly in the cold light of day. K250; 
 — sakna // (v1) to miss, to lack, to want, to be without; Hon saknar sin mamma. She misses her mum. Jag saknar all fritid jag hade under min barndom. I miss all the free time I had in my childhood. Jag saknar ha en trädgård. I miss having a garden. Nationen saknade en armé försvara sig med. The nation lacked an army to defend itself with. K569; 
@@ -1653,6 +1652,8 @@
 — samma // (pronomen) same;  K205; 
 — ett samtal // (~et; ~; ~en;) 1. a conversation, a talk, an interview, a review; 2. a phone call, a call;  K1134; 
 — ett samvete // (~t; ~n; ~na;) a conscience (moral sense);  K3193; 
+— sann // (adjektiv: ~; ~a; ~are; ~ast;) äkta, verklig; Antonymer: falsk, osann; 1. true; according to the truth; 2. true; a value in Boolean logic denoting an affirmative or positive result; 3. (archaic) genuine, undiluted; 4. (archaic) true; faithful;  K768; 
+— en sanning // (~en; ~ar; ~arna;) verklighet, faktum; påstående som, enligt författaren eller talaren, är sant; truth;  K732; 
 — sarbo // couple living in different places;  
 — en sax // scissors; short of `saxofon`; a trap for animals;  
 — en scout // (~en; ~er; ~erna;) scout; a member of the international scout movement;  
@@ -1770,7 +1771,7 @@
 — en slips // a tie;  K6827; 
 — sliten // (adjektiv: slitet; slitna;) worn; Nu måste jag hitta mina gamla slitna träskor! Now I must find my old worn wooden shoes! 
 — ett slott // (~et; ~; ~en;) a castle; small palace or very large manor; a representative building where fortification - if at all present - is secondary; Mest känd har han nog blivit som inredare av offentliga miljöer, t.ex. Stockholms Stadshus och Ulriksdals slott, och för industriell möbeltillverkning. He has probably become most known as an interior designer of public environments, for example Stockholm City Hall and Ulrikdals castle, and for industrial furniture manufacturing. Nästan alla hem i Sverige har någon möbel från Ikea, också Kungliga slottet sägs det. Almost all homes in Sweden have some furniture from IKEA, it is also said that the king's castle has some. K2638; demyr.us/1BhfPRD 
-— en slump // (~en; ~ar; ~arna;) random, chance, happenstance, coincidence; sv.wikipedia.org has a link to `slumpartikel` for a random/chance article. Jag låter inte min framtid avgöras av slumpen. I will not leave my future up to chance. K3354; 
+— en slump // (~en; ~ar; ~arna;) 1. tillfällighet, sammanträffande; 2. restlagerl random, chance, happenstance, coincidence; sv.wikipedia.org has a link to `slumpartikel` for a random/chance article. Jag låter inte min framtid avgöras av slumpen. I will not leave my future up to chance. K3354; 
 — ett slut // (~et; ~; ~en;) an end; Batteriet är slut. Jag läste det från början till slut två gånger. I read it from beginning to the end twice. Min penna har slut på bläck. My pen is out of ink. Skrivaren har slut på papper. The printer is out of paper. Slutet av den boken är mycket bra skrivet. The end of that book is very well written. K431; 
 — sluta // (v1) 1. to stop (come to an end); 2. to quit (e.g. school, a job or a habit); 3. to cease doing something; 4. to finish; to have as a result (from a competition); Efter lunch kan jag inte sluta gäspa. After lunch, I can't stop yawning. Matchen slutade med ett kryss. När det slutar regna, ska vi gå på promenad. When it stops raining we will go for a walk. K439; 
 — slutföra // (v slutför; slutförde; slutfört; slutför; ~nde; slutförd;) föra till ett slut, avsluta; bring (carry) to a conclusion, complete, finish; accomplish; projektet slutfördes 1984; the project was brought to a conclusion in 1984; Uppdraget är slutfört. K4834; 
@@ -2245,7 +2246,7 @@
 — vandra // (v1) to wander; to hike; Vill du fotvandra genom skogen? Do you want to hike through the woods? K2312; 
 — en vandring // (~en; ~ar; ~arna;) a hike, a tour or journey (mostly by foot), a long walk;  K2076; demyr.us/1EdSi6s 
 — en vandringsstav // hiking stick;  
-— vanilj // (substantiv) vanilla;  
+— en vanilj // (~en;) vanilla;  
 — vanlig // (adjektiv: ~t; ~a; ~are; ~ast;) common, usual; ordinary; Hennes hem är fint inrett, som vanligt. Her house is, as usual, very well decorated. K420; 
 — var // (pronomen) synonymer: varje; every;  K1586; 
 — var // (adverb) where; at which place; Var bor du? Where do you live? Var kommer du ifrån? Where are you from? K1034; 
@@ -2417,7 +2418,7 @@
 — även känd som // also known as (a.k.a); Jag är Aslak. 
 — även om // even if;  K375; 
 — en ö // (~n; ~ar; ~arna;) an island; Gotland är den största ön i Östersjön. Gotland is the largest island in the Baltic Sea. K841; 
-— ett öga // an eye;  K679; 
+— ett öga // (~t;) an eye;  K679; 
 — ett ögonblick // moment; instant;  K1972; 
 — en ögonbryn // an eyebrow;  K6504; 
 — öka // (v1) to increase;  K283; 
