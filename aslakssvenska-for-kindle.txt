@@ -173,7 +173,7 @@
 — en blyerts // (~en;) black lead, graphite;  
 — en blyertspenna // (~n; blyertspennor; blyertspennorna;) pencil (lead); När man beställde träskor, mätte han ens fötter först och skrev in storleken i sin lilla svarta bok med en tjock svart blyertspenna. When someone ordered wooden shoes, he measured his feet first and wrote in the size in his little black book with a thick black pencil. K8225; 
 — blyg // (adjektiv: ~t; ~a; ~are; ~ast;) shy; timid; Skaffa vänner är svårt när man är extremt blyg. Making friends is hard when you are painfully shy. 
-— blå // (adjektiv: ~tt; ~a;) blue;  K1963; 
+— blå // (adjektiv: ~tt; ~a;) blue; blågrön; teal; I mörkret satte jag av misstag på mig en marinblå och en svart strumpa. In the dark I accidentally put on one navy sock and one black. K1963; 
 — blåsa // (v2b blåser; blåste; blåst; blås; ~nde; blåst;) to blow; [kelly: e.g. blåsa upp]; Det blåser. K2434; 
 — blöda // (v blöder; blödde; blött; blöd; ~nde; blödd;) bleed;  K6635; 
 — blöta // (v blöter; blötte; blött; blöt;) to wet (cover or impregnate with liquid);  
@@ -676,7 +676,7 @@
 — gräla // (v1) befinna sig i en diskussion med en annan person som har en annan uppfattning i någon fråga, där brist på tålamod och förståelse gör diskussionen fylld med irritation och frustration; to quarrel, argue; De har hållit på och grälat hela kvällen. They have been quarreling all evening. K7512; 
 — ett gräs // (~et; ~; ~en;) grass;  K3880; 
 — en gräsklippare // lawn mower;  
-— grön // (adjektiv: ~t; ~a; ~are; ~ast;) green;  K1208; 
+— grön // (adjektiv: ~t; ~a; ~are; ~ast;) green; blågrön; teal; K1208; 
 — en grönsak // (~en; ~er;) vegetable; Pumpan är den mest köpta grönsaken i oktober. The pumpkin is the most bought vegetable in October. K4320; 
 — en gud // (~en; ~ar; ~arna;) a god;  K847; 
 — gul // (adjektiv: ~t; ~a;) yellow;  K2485; 
@@ -1343,7 +1343,7 @@
 — en möbel // (~n; möbler; möblerna;) piece of furniture; Carl Malmsten (1888-1972), en legen inom svensk formgivning, hävdade att möbler ska vara vackra, bekväma och funktionella. Carl Malmsten, a legend among swedish design, upheld that furniture should be beautiful, comfortable and functional. K4413; 
 — möblera // (v ~r; ~de; ~t; ~; ~nde; ~d;) placera ut möbler i ett rum, en lägenhet, en byggnad eller en uteplats; to furnish, to place furniture in rooms; Oavsett vilka det svenska hemmets idégivare har varit, är det möbelvaruhuset Ikea som kan sägas ha möblerat de svenska hemmen. Regardless of the of the swedish home designers that have been (discussed here), it is the furniture store Ikea that can be said to have furnished the swedish home. 
 — möjlig // (adjektiv: ~t; ~a; ~are; ~ast;) possible; Det är möjligt att tillbehöret inte stöds. K379; 
-— mörk // (adjektiv: ~t; ~a; ~are; ~ast;) dark (having an absolute or relative lack of light); Byt glödlampan när den går sönder och blir mörkt. Change the lightbulb when it burns out and goes dark. K1480; 
+— mörk // (adjektiv: ~t; ~a; ~are; ~ast;) dark (having an absolute or relative lack of light); Byt glödlampan när den går sönder och blir mörkt. Change the lightbulb when it burns out and goes dark. mörkblå; mörkgrå; K1480; 
 — en mörketid // (~en;) polarnatt eller mörkårstid; från norska `mørketid`;  
 — en mössa // mjukt klädesplagg som bärs på huvudet; a hat; a tuque;  K5360; 
 — möta // (v möter; mötte; mött; möt; ~nde; mött;) to meet; to encounter;  K595; 

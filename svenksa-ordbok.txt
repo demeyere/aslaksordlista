@@ -1,5 +1,0 @@
-
-blågrön: teal
-mörkblå: dark blue
-marinblå: navy blue
-mörkgrå: dark grey
