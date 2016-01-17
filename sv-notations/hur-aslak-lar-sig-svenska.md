@@ -1,7 +1,7 @@
 <!-- 
 title: Hur Aslak lär sig svenska
 contributors: Aslak Arþursson, Ross DeMeyere 
-revised: 2015-11-07 15:50 
+revised: 2016-01-15 17:59 
 notes: formatted as a post for aslak.se
  -->
 
@@ -52,10 +52,6 @@ Bild av kniffelknaffel, kuksa (kåsa) och skål som hänger i träd efter jag tv
 <img src="http://s3.demeyere.com/sv/scouterna-egen-o.png"/>
 <!-- /feature-imagery-block --></div>
 
-> vara Aslaktig!
-<!-- Aslak-aktig -->
-
-
 
 
 När jag kan tänka på svenska inte översätter jag tebaks till engelska.
@@ -96,7 +92,7 @@ t.ex. vilket verb kan du använda med `kaffe`?
     
 t.ex. vilket verb använda man med snöskor?
 
-    man gå me snöskor
+    man gå med snöskor
     man åker inte snöskor
     om man är tourist kan man stå på snöskor. ;)
     
@@ -146,3 +142,6 @@ Jag tittar TED-talks på engelska med svenska undertexter.
 sida-vid-sida projekt.
 
 - - -
+
+> vara Aslaktig!
+<!-- Aslak-aktig -->
