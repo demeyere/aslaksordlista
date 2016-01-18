@@ -263,7 +263,6 @@ janitor - vaktmästare
 cleaning - städning
 electricity - elektricitet
 doorknob - dörrhandtag
-pull - rycka
 hinge - gångjärn
 slumped - hopsjunken
 identify - identifiera
@@ -272,7 +271,6 @@ champion - mästare
 ###  Verbs
 
 Place - Placera
-Sing - Sjunga
 Admire - Beundra
 Construct - Konstruera
 Criticize - Kritisera

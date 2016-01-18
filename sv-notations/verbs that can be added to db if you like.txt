@@ -1,17 +1,11 @@
-30 run, operate, carry on, pursue  4 starka  bedriva bedriv bedriver bedrev bedrivit
-32 bury, inter 2a begrava begrav begraver begravde begravt
 34 1. ask, request; 2. demand; 3. apply for; 2a begära begär begär begärde begärt
 35 1. commit, perpetrate; 2. perform, carry out [an act]; 4oregelb. begå begå begår begick begått
-37 keep, retain 4 starka behålla behåll behåller behöll behållit
 39 depend on 3 bero bero beror berodde berott
 40 1. calculate;  2. reckon; 1 beräkna beräkna beräknar beräknade beräknat
 42 touch 2a beröra berör berör berörde berört
 43 1. prune, trim, pare; 2. receive, vouchsafe; 4 starka  beskära beskär beskär beskar beskurit
-44 1. decide, resolve; 2. decree 1 besluta besluta beslutar beslutade beslutat
-49 admire 1 beundra beundra beundrar beundrade beundrat
 50 1. preserve, save, maintain; 2. protect; 1 bevara bevara bevarar bevarade bevarat
 52 1. attach, append; 2. enclose; 1 bifoga bifoga bifogar bifogade bifogat
-53 bite 4 starka bita bit biter bet bitit
 55 mix, blend 1 blanda blanda blandar blandade blandat
 59 browse (leaf) through, turn the pages 1 bläddra bläddra bläddrar bläddrade bläddrat
 63 bore, drill 1 borra borra borrar borrade borrat
@@ -31,9 +25,7 @@
 91 document 1 dokumentera dokumentera dokumenterar dokumenterade dokumenterat
 92 donate 1 donera donera donerar donerade donerat
 94 throw (pottery) 1 dreja dreja drejar drejade drejat
-96 1. drive; 2. drift; 3. make fun of, tease;  4 starka  driva driv driver drev drivit
 97 drip 1 droppa droppa droppar droppade droppat
-101 conceal, hide 4 oregelb. dölja dölj döljer dolde dolt
 103 1. burn; 2. light a fire 1 elda elda eldar eldade eldat
 106 fast 1 fasta fasta fastar fastade fastat
 107 1. catch, grasp 2. understand, grasp 3. be brief 1 fatta fatta fattar fattade fattat
@@ -43,12 +35,10 @@
 114 fish, go fishing 1 fiska fiska fiskar fiskade fiskat
 120 plait 1 fläta fläta flätar flätade flätat
 121 focus 1 fokusera fokusera fokuserar fokuserade fokuserat
-122 continue, go on 2b fortsätta fortsätt fortsätter fortsatte fortsatt
 123 photograph 1 fotografera fotografera fotograferar fotograferade fotograferat
 124 frank, stamp 1 frankera frankera frankerar frankerade frankerat
 125 1. acquit 2. propose 1 fria fria friar friade friat
 126 acquit 2a frikänna frikänn frikänner frikände frikänt
-129 work, function 1 fungera fungera fungerar fungerade fungerat
 130 1. cheat 2. make a mess (of), do in a shoddy fashion 1 fuska fuska fuskar fuskade fuskat
 132 fence 1 fäkta fäkta fäktar fäktade fäktat
 133 1. make, let fall 2. convict 3. fell 4. run (clothes) 2a fälla fäll fäller fällde fällt
@@ -59,11 +49,9 @@
 142 remain, keep, stay 4 oregelb. förbli eller förbliva förbli eller förbliv förblir förblev förblivit
 144 occur, exist 4 oregelb. förekomma förekom förekommer förekom förekommit
 145 lecture 2b föreläsa föreläs föreläser föreläste föreläst
-146 propose, suggest 4 starka föreslå föreslå föreslår föreslog föreslagit
 148 entice 2a förleda förled förleder förledde förlett
 150 deny 1 förneka förneka förnekar förnekade förnekat
 151 oversleep 4 starka försova försov försover försov försovit
-153 defend 1 försvara försvara försvarar försvarade försvarat
 154 complicate 1 försvåra försvåra försvårar försvårade försvårat
 155 1. assure 2. insure 1 försäkra försäkra försäkrar försäkrade försäkrat
 156 worsen, deteriorate 1 försämra försämra försämrar försämrade försämrat
@@ -78,7 +66,6 @@
 174 bake, fry 1 grädda grädda gräddar gräddade gräddat
 176 dig 2a gräva gräv gräver grävde grävt
 177 swing, rock 1 gunga gunga gungar gungade gungat
-179 yawn 1 gäspa gäspa gäspar gäspade gäspat
 181 fertilize, spread manure on 1 gödsla gödsla gödslar gödslade gödslat
 185 land (end) [up] 1 hamna hamna hamnar hamnade hamnat
 186 1. hammer 2. beat, pound 1 hamra hamra hamrar hamrade hamrat
@@ -94,17 +81,14 @@
 215 1. irritate 2. annoy 1 irritera irritera irriterar irriterade irriterat
 217 jog 1 jogga jogga joggar joggade joggat
 218 comb 1 kamma kamma kammar kammade kammat
-226 concentrate 1 koncentrera koncentrera koncentrerar koncentrerade koncentrerat
 227 1. connect 2. leash 3. catch on 1 koppla koppla kopplar kopplade kopplat
 228 relax 1 koppla av koppla av kopplar av kopplade av kopplat av
 230 collide 1 krocka krocka krockar krockade krockat
-232 fight 1 kämpa kämpa kämpar kämpade kämpat
 234 queue 1 köa köa köar köade köat
 239 get tired of, sicken 1 ledsna ledsna ledsnar ledsnade ledsnat
 243 relieve 1 lindra lindra lindrar lindrade lindrat
 244 rely on 1 lita lita litar litade litat
 245 1. entice 2. curl 1 locka locka lockar lockade lockat
-247 calm 1 lugna lugna lugnar lugnade lugnat
 248 smell 1 lukta lukta luktar luktade luktat
 256 borrow, lend 1 låna låna lånar lånade lånat
 257 let, allow 4 starka låta låt låter lät låtit
@@ -112,22 +96,18 @@
 259 let (smb) know, inform 1 meddela meddela meddelar meddelade meddelat
 261 remember 2a minnas - minns mindes mints
 263 fail 1 misslyckas misslyckas misslyckas misslyckades misslyckats
-266 must 4 oregelb. måste - måste måste måst
 268 worry 1 oroa oroa oroar oroade oroat
 272 post 1 posta posta postar postade postat
 273 practice 1 praktisera praktisera praktiserar praktiserade praktiserat
-?? o|ö ?? --> 275 try out, test 1 prova prova provar provade provat
+275 try out, test 1 prova prova provar provade provat
 276 influence, affect 1 påverka påverka påverkar påverkade påverkat
-277 shave 1 raka raka rakar rakade rakat
 282 1. irritate, tease 2. stimulate, excite 1 reta reta retar retade retat
 285 roll 1 rulla rulla rullar rullade rullat
 286 save 1 rädda rädda räddar räddade räddat
 288 1. meet 2. chance (happen) to 3. get (fall) into, find oneself in 1 råka råka råkar råkade råkat
 292 1. stake 2. bet on, back 3. venture 1 satsa satsa satsar satsade satsat
-296 sing 4 starka sjunga sjung sjunger sjöng sjungit
 298 1. peel, pare 2. shell 1 skala skala skalar skalade skalat
 301 1. joke, jest 2. have fun 3. get up to mischief 4. cheat, swindle 1 skoja skoja skojar skojade skojat
-302 will, shall 4 oregelb. skola - ska skulle skolat
 305 1. protect 2. shelter 3. defend 4. cover 5. secure 6. preserve 1 skydda skydda skyddar skyddade skyddat
 306 hasten, hurry 1 skynda skynda skyndar skyndade skyndat
 308 put out, extinguish, turn off 2b släcka släck släcker släckte släckt
