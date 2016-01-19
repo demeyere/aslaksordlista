@@ -810,7 +810,7 @@
 — ett huvud // (~et; ~en; ~ena;) head; (in compounds) main, principal;  K888; 
 — huvudsakligen // (adverb) till största delen, framför allt; mainly (chiefly; for the most part);  K2629; 
 — en huvudstad // a capital; Sveriges huvudstad heter Stockholm. K2186; 
-— en huvudvärk // ont i huvudet; headache; Skruva ner volymn, jag får huvudvärk. Turn down the volume, I'm getting a headache. K5368; 
+— en huvudvärk // ont i huvudet; headache; Skruva ner volymen, jag får huvudvärk. Turn down the volume, I'm getting a headache. K5368; 
 — en hy // (~n;) skin, complexion; Hyn ser så slät och fin ut. 
 — en hylla // shelf;  K4154; 
 — hyra // (v2a hyr; hyrde; hyrt; hyr;) rent (to occupy premises in exchange for rent); Vi kan hyra sådana där stora partytält, så gör det inget om det regnar. K2726; 
@@ -888,6 +888,7 @@
 — in // (adverb) into, the direction "from out to in";  K174; 
 — en information // info;  K423; 
 — ett informationsblad // an information sheet;  
+— inför // (adverb) 1. framför; 2. som förberedelse för; 1. in front of; while having the attention of; 2. in preparation for; De varvar upp inför dagens uppgifter. Jag har varit uppe hela natten och pluggat inför det här provet. I've been up all night studying for this test. Om vi vill härleda satsen, måste vi vara mycket försiktiga när vi inför beteckningar. K416; 
 — ingen // (pronomen) no, no one, nobody; En hatt är väl inget att vara rädd för, svarade de. Fel svar ger inga poäng. A wrong answer gives no points. Ingen smärta, ingen vinst. No pain, no gain. Nej, jag har inga pengar med mig. No, I have no money with me. K167; 
 — ingenting // (pronomen) nothing; Låt oss nu se vad som finns i lådan. Ingenting! Absolut ingenting! Now let's see what's in the box. Nothing! Absolutely nothing! K835; 
 — en ingrediens // ingredient;  K4669; 
@@ -1773,7 +1774,7 @@ utan krumbukter; ej vinklad; 2. (om hår) som inte är vågigt eller krulligt; 3
 — ett skrivbord // desk;  K5156; 
 — skriven // (adjektiv: skrivet; skrivna;) written; Slutet av den boken är mycket bra skrivet. The end of that book is very well written. 
 — en skrubb // (~en; ~ar;) litet enkelt förvaringsrum, garderob; kyffe;  
-— skruva // (v1) 1. vrida skruv; Vanliga konstruktioner: skruva i, skruva loss, skruva fast, skruva av, skruva upp; 2. vrida för att orsaka viss effekt; Vanliga konstruktioner: skruva ner, skruva ned, skruva på, skruva till; 3. (sport) få boll att rotera (och därmed ändra dess bana); 1. to screw; to fasten (or unfasten) a screw; 2. to rotate something along its length axis; 3. (ball sports) to give spin to the ball; 4. (reflexive) to twist and turn; to display discomfort; Det låter för mycket, skruva ner volymen. Skruva ner volymn, jag får huvudvärk. Turn down the volume, I'm getting a headache. K4833; 
+— skruva // (v1) 1. vrida skruv; Vanliga konstruktioner: skruva i, skruva loss, skruva fast, skruva av, skruva upp; 2. vrida för att orsaka viss effekt; Vanliga konstruktioner: skruva ner, skruva ned, skruva på, skruva till; 3. (sport) få boll att rotera (och därmed ändra dess bana); 1. to screw; to fasten (or unfasten) a screw; 2. to rotate something along its length axis; 3. (ball sports) to give spin to the ball; 4. (reflexive) to twist and turn; to display discomfort; Det låter för mycket, skruva ner volymen. Skruva ner volymen, jag får huvudvärk. Turn down the volume, I'm getting a headache. K4833; 
 — skrämma // (v skrämmer; skrämde; skrämt; skräm; ~nde; skrämd;) göra rädd; to frighten, to scare; Explosionen skrämde bort folket. The explosion frightened the people away. Ljudet av explosionen skrämde mig. The sound of the explosion startled me. K2744; 
 — ett skräp // (~et;) garbage, junk; Ta ut skräpet. K5135; 
 — en skuld // (~en; ~er; ~erna;) 1. debt; 2. guilt; Då inget tvivel tycks råda om hans skuld, beslutar jag härmed... Since there seems to be no doubts about his guilt, I hereby decide... K1622; 
@@ -2373,6 +2374,7 @@ utan krumbukter; ej vinklad; 2. (om hår) som inte är vågigt eller krulligt; 3
 — en vitlök // garlic;  K7246; 
 — en vitlökklyfta // clove of garlic;  
 — en vokal // vowel;  K7766; 
+— en volym // (~en; ~er; ~erna;) 1. (fysik) en storhet, vidd, omfång, utbredning i rymden, som ofta mäts i kubikmeter; 2. (fysik, vardagligt) ljudstyrka; 3. bokvolym, bunden bok, del av ett större bokverk; volume - any of: 1) a single book of a publication issued in multi-book format, 2) a unit of three dimensional measure, 3) strength of a sound, 4) an issue of a periodical. Det låter för mycket, skruva ner volymen. Skruva ner volymen, jag får huvudvärk. Turn down the volume, I'm getting a headache. K2954; 
 — vuxen // (adjektiv: vuxet; vuxna;) adult (fully grown);  K1254; 
 — en våg // (~en; ~ar; ~arna;) a scale; a device for measuring weights or masses;  K2487; 
 — en våg // (~en; ~or; ~orna;) 1. (fysikaliskt fenomen) svängning som utbreder sig i rummet, t.ex. vattenvågor, ljud, ljus och andra elektromagnetiska vågor; 2. (matematik) (periodisk) funktion av tiden och en eller flera rumsvariabler som uppfyller vågekvationen och som därmed representerar en fysikalisk vågrörelse; 3. (mätinstrument) instrument som mäter storleken av en massa eller en vikt a wave; Det finns sällan en enda våg. There is rarely a single wave. Jag gillar Svarta havets vågor. I like the waves of the Black Sea. K2487; 
