@@ -19,7 +19,6 @@ Blood moon Sunday night
 Sunday night will give those who stay awake something uncommon to see in the sky.
 The moon will look strange/peculiar then.
 It is (will be) unusually red and unusually large.
-
   -->
 
 Två saker händer samtidigt den natten.
@@ -40,7 +39,6 @@ Det var 33 år sedan det hände senast i Sverige.
 <!-- 
 It will be a red super mooon.
 It was 33 years ago when that happened last in Sweden.
-
   -->
 
 Allt syns tydligast mellan klockan 04.11 och 05.23.

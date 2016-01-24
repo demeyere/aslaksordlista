@@ -478,6 +478,7 @@
 — flytta // (v1) to move; to relocate; to make a move in a game such as chess; flytta är som börja om från början. Moving out is like starting from scratch. Hon flyttade sin stol. She moved her chair. Hon funderade på att överge Sverige och flytta till New York. Rädslan för flytta eller genomgå förändring kallas tropofobi. The fear of moving or making changes is called tropophobia. K606; 
 — flytta ihop // (verb) moving in together;  
 — en flytväst // (~en; ~ar; ~arna;) ett plagg som hjälper flytvästbäraren att flyta;  demyr.us/19jPQUf 
+— en fläck // (~en; ~ar; ~arna;) område på ett föremåls yta missfärgat eller på annat sätt skadat av att en främmande kemikalie (såsom vatten, kaffe, gräs etc.) hamnat där; spot (stain); Här, strax nedanför kaffefläcken, står det om en man som har skrivit en bok om hur man bäst undviker att bli irriterad över småsaker. 
 — en fläkt // (~en; ~ar; ~arna;) 1. en propeller vilken gör att luften förflyttar sig; 2. luft eller vind, ofta i poetisk betydelse; 3. odör; 1. fan (electrical device); 2. (brief) light wind or breeze, much weaker than a gust; Fläkten svalkar rummet. The fan will cool the room. När så sedan *skiten träffar fläkten* och dessa kriser är ett fullbordat faktum kan bara gissa sig till hur framtidens konflikter kommer se ut och vilka under vilka förevändningar de kommer ske. K6774; 
 — ett fodral // (~et; ~; ~en;) cover, case;  
 — ett folk // (~et; ~; ~en;) 1. (uncountable) people in general, humans; 2. a people, a nation; in compounds referring to local or national traditions (folklore), national institutions (folkhem) or international relations (folkrätt);  K243; 
@@ -921,6 +922,7 @@
 — invändigt // (adverb) på insiden; internally; Då ritade jag boaormen som den såg ut invändigt, så att de stora skulle förstå vad det var. 
 — irra // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) vandra omkring utan syfte; (även om blicken); to wanter around without purpose; En massa människor irrade runt på stan. 
 — irritera // (v1) to irritate;  K6304; 
+— irriterad // (adjektiv) som upplever irritation;  
 — irriterande // (adjektiv) irritating; En textbit är en låt har spelat på repeat i min hjärna sedan i tisdags, lite irriterande då det är från Kents Ingenting. 
 — en is // (~en; ~ar; ~arna;) ice; Alla möbler i hotellet görs också av den kristallklara isen och man kan beundra de vackra isskulpturerna, lamporna av is och ta ett glas i isbaren. All furniture in the hotel is also made of the crystal clear ice and one can admire the beautiful ice sculptures, lamps of ice and have a drink in the ice bar. Om is på vägen man kan halka. Tro mig, vi har all tid i världen, det är ingen ko på isen. K557; 
 — istället // (adverb) (el. i stället) anger att något gäller, medan något annat inte gäller, ofta för att dessa två saker inte kan gälla samtidigt; Varianter: istället; instead; Jag beställde hem en pizza i stället för att laga mat själv. Vi får åka med tåget klockan 12.33 i stället. K389; 
@@ -1383,6 +1385,7 @@
 — en natt // (~en; nätter; nätterna;) dygnets mörka timmar; night; Det är mycket bra att kunna, om man flugit vilse om natten. K816; 
 — naturligtvis // (adverb) of course;  K580; 
 — ned // (adverb) down;  
+— nedanför // (preposition) i ett läge som är på nivån längre ned än en angiven punkt; Antonymer: ovanför; below, underneath; located close by but at a lower level (also figuratively); Det fanns en grön äng nedanför klippan. There was a green meadow below the cliff. Här, strax nedanför kaffefläcken, står det om en man som har skrivit en bok om hur man bäst undviker att bli irriterad över småsaker. 
 — nej // no;  K456; 
 — ner // (adverb) (el. ned) 1. down; in a direction downwards; 2. down; off (with various verbs to denote something which is turned off or shut down); Han satte sig ner och lossade på slipsen. He sat down and loosened his tie. Ska vi dra ner på stan? Should we get downtown? Webbsajten kommer att vara nere imorgon bitti. Den planerade nertiden är två timmar. Sajten tas/stängs ner klockan 8. The website will be down tomorrow morning. The planned downtime is two hours. The site is taken/shut down at 8 o'clock. K1316; 
 — nere // (adverb) 1. down, below, downstairs, at the far end of; 2. (colloquial) down, sad, depressed (of humans); 3. down, offline, not available (of computers and online services); tjänsten ligger nere; the service is down; Webbsajten kommer att vara nere imorgon bitti. Den planerade nertiden är två timmar. Sajten tas/stängs ner klockan 8. The website will be down tomorrow morning. The planned downtime is two hours. The site is taken/shut down at 8 o'clock. K1948; 
@@ -1943,6 +1946,7 @@ utan krumbukter; ej vinklad; 2. (om hår) som inte är vågigt eller krulligt; 3
 — straffmyndig // of an age where you can be prosecuted as an adult;  
 — en strand // (~en; stränder; stränderna;) a beach (not necessarily sandy); Hon och jag ska gå till stranden imorgon. She and I will go to the beach tomorrow. Jag åker till stranden lite då och då. I go to the beach from time to time. Vi åker till stranden varje år. We visit the beach every year. K1993; 
 — ett strandhugg // beach invasion; descend upon; raid; foray; Blir det ett strandhugg i Sverige. 
+— strax // (adverb) anger att något inträffar inom en mycket kort tid; Varianter: straxt; at once, directly; Här, strax nedanför kaffefläcken, står det om en man som har skrivit en bok om hur man bäst undviker att bli irriterad över småsaker. 
 — en strid // (~en; ~er; ~erna;) a fight, a battle, a quarrel; Och gräshopporna tedde sig såsom hästar, rustade till strid.‎ K1193; 
 — en stridsman // soldier; warrior;  
 — ett stridspar // Ett stridspar består av två soldater och är den minsta enheten över den enskilda soldaten. fire and maneuver team (2 soldiers); battle buddies; 2 `stridspar` in an `omgång`; [see also, stridstriss (3 soldiers)] Ett stridspar är enligt soldaten i fält lika effektivt som fyra soldater som uppträder individuellt. A buddy team is, according to soldiers in the field, as effective as four soldiers performing individually. Flygbasjägarplutonen uppträder från plutonsstorlek ner till enskilda stridspar beroende vilken uppgift som ska lösas. 
@@ -2002,7 +2006,7 @@ utan krumbukter; ej vinklad; 2. (om hår) som inte är vågigt eller krulligt; 3
 — en svett // sweat; Jag är fuktig av svett. I am damp with sweat. Jag är genomblöt av svett efter jag sprungit. I am soaked in sweat after running. K6400; 
 — svika // (v sviker; svek; svikit; svik; ~nde; sviken;) 1. bryta ett förtroende; inte hålla vad som lovats; 2. inte nå upp till vad som förväntats av en; bli en besvikelse; to betray, to let down, to disappoint; Pappa hade svårt att förstå att hans vän kunde svika oss. K4136; 
 — en svorsk // Svorska eller svorsk (av "svenska" och "norsk") är en humoristisk, lite nedsättande benämning på en blandning av svenska och norska, i synnerhet norska med inblandade svenska ord, eller norrmäns försök att prata svenska.  demyr.us/1BhgvGU 
-— svår // (adjektiv: ~t; ~a;) 1. hard; difficult; 2. (of a person) troublesome and of bad temper; difficult to deal with; 3. severe; intense; of great importance; Pappa hade svårt att förstå att hans vän kunde svika oss. K334; 
+— svår // (adjektiv: ~t; ~a;) 1. hard; difficult; 2. (of a person) troublesome and of bad temper; difficult to deal with; 3. severe; intense; of great importance; en tämligen svår fråga; Pappa hade svårt att förstå att hans vän kunde svika oss. K334; 
 — svälta // (v svälter; svalt; svultit; svält; ~nde; svulten;) to hunger, to starve (to be the victim of famine); En tredjedel av jordens befolkning svälter. A third of the Earth's population is starving. K5106; 
 — svänga // (v svänger; svängde; svängt; sväng; ~nde; svängd;) to turn; to swing; sväng vänster sväng höger; turn left then turn right; K3362; 
 — svära // (v4s svär; svor; svurit; svär; ~nde; svuren;) 1. to swear, to curse; to use offensive language; 2. to take an oath; 3. to promise that something is true, as by taking an oath on it; Man ska inte svära här. One shouldn't use profanity here. Osvuret är bäst. Not swearing (promising too much) is best. K4041; 
@@ -2221,6 +2225,7 @@ utan krumbukter; ej vinklad; 2. (om hår) som inte är vågigt eller krulligt; 3
 — en tårta // (~n; tårtor; tårtorna;) cake; Då delar vi upp tårtan i lika stora bitar. Let's divide the cake into equal parts. Jag skulle vilja ha en liten bit tårta, tack. I would like a small piece of cake, please. K6263; 
 — tälja // (verb) to carve;  
 — ett tält // (~et; ~; ~en;) a tent; Då brukar jag bo i tält; I usually stay in a tent; Jag sover i tält. Vi kan hyra sådana där stora partytält, så gör det inget om det regnar. K4174; 
+— tämligen // (adverb) rather, quite; Det regnar tämligen häftigt just nu; dock skiner solen. en tämligen svår fråga; 
 — en tändare // (~n; ~; tändarna;) lighter (as in bic lighter);  
 — tänka // (v2b tänker; tänkte; tänkt; tänk; ~nde; tänkt;) 1. bearbeta information i hjärnan, ofta i syfte att lösa ett problem; 2. avse att göra någonting inom en snar framtid; 1. think; to ponder, to communicate to oneself in one's mind; 2. (with `på`) keep in mind; be aware of; 3. [~ + infinitiv] intend; to plan on; to mean; 4 (reflexive) have on one's mind; have as a (preconceived) plan; 5. (reflexive) consider as viable; [kelly: e.g. tänka igenom]; Jack, jag tror att du är fel. Vad tänker du Gary? Tror du du kan lura mig? Tänk dig för! Do you think you can cheat me? Think again! K232; 
 — en tätort // an urban area;  
@@ -2323,6 +2328,7 @@ utan krumbukter; ej vinklad; 2. (om hår) som inte är vågigt eller krulligt; 3
 — varna // (v1) to warn; to issue a warning; Det här är sista gången jag kommer varna dig. That's the last time I'm going to warn you. SMHI varnar för halka och snörök på måndagskvällen. K2350; 
 — varsågod // please, your welcome; Varsågod och sitt. Please sit. 
 — vart // (adverb) to which place; to where; whereto?  K1602; 
+— varva // (v ~r; ~de; ~t; ~; ~nde|~ndes; ~d;) 1. växla mellan två sysslor; 2. (matlagning) lägga i skikt, varannan gång en sak, varannan något annat; 3. (om hastighetstävlingar på en bana) passera en tävlande som avverkat färre varv än man själv har gjort; 4. (om brännbollsterm) att hinna runda hela planen, att varva/slå frivarv, innan bollen är bränd.; 5. gasa upp en motor i högt varvtal; rusa en motor; 6. (om tevespel) klara ut; De varvar upp inför dagens uppgifter. 
 — vass // (adjektiv: ~t; ~a; ~are; ~ast;) sharp (able to cut easily); Är din kniv vass? K4532; 
 — ett vatten // (vattnet; ~; vattnen;) water; Det är gott med en klyfta citron i vattnet. Gå inte över ån efter vatten. Don’t cross the stream to get water. Jag värmer vatten i vattenkokaren. I'm warming water in the kettle. Man ska dricka mycket vatten när man är förstoppad. You have to drink a lot of water when you're constipated. K633; 
 — vattna // (v1) to water (plants);  K7189; 
