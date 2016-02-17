@@ -1,3 +1,11 @@
+<!-- 
+title: Hur Aslak lär sig svenska
+contributors: Aslak Arþursson, Ross DeMeyere 
+revised: 2016-01-15 17:59 
+notes: formatted as a post for aslak.se
+ -->
+
+
 # Hur Aslak lär sig svenska
 
 > ( konstiga grunkor som jag egentligen gör )
