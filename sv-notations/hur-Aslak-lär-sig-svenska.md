@@ -7,14 +7,14 @@
 ## Jag springer med musik.
 
 Jag springer och lyssnar på musik.
-Min spellista är tröttsamt nu att jag har lyssnat för 1 år sedan.
-Jag måste hitta flera nya låter för att lägga till min spellista.
+Min spellista är tröttsam nu när jag har lyssnat i 1 år.
+Jag måste hitta flera nya låter att lägga till min spellista.
 
 <img src="http://s3.demeyere.com/sv/spellista.png" />
 
 ---
 
-## Jag översätta ordagrant från engelska till svenska för att komma bättre ihåg (och humor).
+## Jag översätter ordagrant från engelska till svenska för att bättre komma ihåg (och humor).
 
 * I am as stubborn as an old goat.
 * I have an unplucked goose with you.
@@ -34,7 +34,7 @@ Bild av kniffelknaffel, kuksa (kåsa) och skål som hänger i träd efter jag tv
 
 ---
 
-## När jag slår upp ord i ordbok, använder jag en svensk ordbok innan en engelska-svensk ordbok.
+## När jag slår upp ord i ordboken, använder jag en svensk ordbok innan en engelska-svensk ordbok.
 
 ---
 <div class="feature-imagery-block feature-imagery-block-4 clearfix">
@@ -44,24 +44,18 @@ Bild av kniffelknaffel, kuksa (kåsa) och skål som hänger i träd efter jag tv
 <img src="http://s3.demeyere.com/sv/scouterna-egen-o.png"/>
 <!-- /feature-imagery-block --></div>
 
-> vara Aslaktig!
-<!-- Aslak-aktig -->
-
-
-
-
-När jag kan tänka på svenska inte översätter jag tebaks till engelska.
+När jag kan tänka på svenska inte översätter jag tillbaks till engelska.
 - - -
-Jag sätter språket (inställningar) på alla mina enheter till/på svenska.
+Jag ställer in språket (inställningar) på alla mina enheter till svenska.
 - - -
-När jag forskar information om nånting försökar jag alltid forskar på svenska oxså.
+När jag forskar om nånting försöker jag alltid forska på svenska oxså.
 - - -
-Jag läser ofta blogg på svenska, liksom försvarsmakten.
-Jag lika-a flera sidor på facebook som scouterna och ...
+Jag läser ofta bloggar på svenska, t.ex. försvarsmakten.
+Jag gillar flera sidor på facebook som scouterna osv ...
 - - -
-Jag vill alltid veta etymologyn av ord. ord bild ... nya ord... t.ex.
+Jag vill alltid veta etymologin av ord. ord bild ... nya ord... t.ex.
 - - -
-Jag slår upp ord i flera ordbok och jämförer
+Jag slår upp ord i flera ordböcker och jämför
 
 * sv.wiktionary.org // `https://sv.wiktionary.org/wiki/tälta`
 * en.wiktionary.org // `https://en.wiktionary.org/wiki/tälta`
@@ -86,41 +80,41 @@ t.ex. vilket verb kan du använda med `kaffe`?
 
     koka, brygga, dricka, svepa
     
-t.ex. vilket verb använda man med snöskor?
+t.ex. vilket verb använder man med snöskor?
 
-    man gå me snöskor
+    man går med snöskor
     man åker inte snöskor
     om man är tourist kan man stå på snöskor. ;)
     
 - - -
-Jag samlar verkliga meningar med ord som jag slår upp därvid jag skapar min egen korp.
+Jag samlar verkliga meningar med ord som jag slår upp därvid skapar jag min egen korp.
 - - -
 
-BLI GODARE  ;)
+BLI GODARE  ;)  
 (grunkor som jag kunde göra att blir bättre)
 
 * focusera på läxan
 * tala mer på svenska
-* använda <https://quizlet.com> mer och memorisera mera ord
-* Skulle vara inte rädd för att göra misstag (det är när du lär bäst dig)
-* skriva mer (på min blogg; anteckningar till själv; mejl till mina vänner;)
-* läsa mer (8sidor, DN.se, försvarsmakten, facebook, twitter)
+* använd <https://quizlet.com> mer och memorisera mera ord
+* vara inte rädd för att göra misstag (det är när du lär bäst dig)
+* skriv mer (på min blogg; anteckningar till själv; mejl till mina vänner;)
+* läs mer (8sidor, DN.se, försvarsmakten, facebook, twitter)
 * flashcards
 
 Jag kunde dricka mer öl (med vänner som talar svenska). 
-När jag pluggade 日本語 sägs det att ju man kunde tala bättre 日本語 desto man drack mer öl. Asahi, javisst.
+När jag pluggade 日本語 sägs det att mer öl man dricker, desto bättre 日本語 man talar. Asahi, javisst.
 
 - - -
 
 ANVÄNDA INTE <https://translate.google.com> !!!
 
-Det är kul men det ofta är fel.
-Det ska hjälpa du att tala dåliga svenska.
-Om du måste använder <https://translate.google.com> bör du skriva på svenska och titta om engelska är vad du menar.
+Det är kul men det är ofta fel.
+Det ska hjälpa dig att tala sämre svenska.
+Om du måste använder <https://translate.google.com> bör du skriva på svenska och titta om engelskan är det du menar.
 
 - - -
 
-Jag väljer grunkor som jag är intressad i och hittar jag artikeln om det på svenska.
+Jag väljer grunkor som jag är intressad i och hittar artiklar om det på svenska.
 
 t.ex. tälta, kniffelknaffel, klättring
 
@@ -138,3 +132,6 @@ Jag tittar TED-talks på engelska med svenska undertexter.
 sida-vid-sida projekt.
 
 - - -
+
+> vara Aslaktig!
+<!-- Aslak-aktig -->
