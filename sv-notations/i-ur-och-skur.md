@@ -20,12 +20,12 @@ Jo, *ur* i *ur och skur* betyder verkligen något. *Ur* är samma ord som yr i o
 
 En diktare som Karlfeldt har naturligtvis inte kunnat motstå detta märgfulla ord.
 
-*Det skallar basun som i håligt trä  
-av knäckta ekar som sjunka på knä,  
-och stämmor dansa i vild mixtur  
-som rykande ur*
+> Det skallar basun som i håligt trä  
+> av knäckta ekar som sjunka på knä,  
+> och stämmor dansa i vild mixtur  
+> som rykande ur  
 
-- så skildrar han den rasande vinterstormen i sin stora dikt "Vinterorgel", där kyrkoårets gång, naturen och vädret sammanflätas och gestaltas i bilden av en mäktig orgel. Träden blir orgelpipor och alla stämmor ljuder i en ursinnig blandning när fimbulnattens krafter släpps lösa.
+— så skildrar han den rasande vinterstormen i sin stora dikt "Vinterorgel", där kyrkoårets gång, naturen och vädret sammanflätas och gestaltas i bilden av en mäktig orgel. Träden blir orgelpipor och alla stämmor ljuder i en ursinnig blandning när fimbulnattens krafter släpps lösa.
 
 Urväder, yrväder är alltså ursprungligen väder med regn- eller snöyra. Den smala backen *Urvädersgränd* på Södermalm i Stockholm är dock inte mer utsatt än andra gator utan bär namn efter en kapten *Simon Urväder*, som ägde en fastighet där på 1600-talet. Ett ståtligt efternamn för en sjöfarare. Har det kanske inspirerat seglaren Sven Lundin, som numera under efternamnet *Yrvind* i varje tänkbart väder i allt mindre båtar korsar världshaven? Hans senaste bygge bär också detta namn, efter en rad farkoster som alla seglat under det beskedligare namnet "Bris".
 
