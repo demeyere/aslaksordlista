@@ -1,3 +1,9 @@
+---
+title: Astrid Lindgren
+revised: 2016-05-16 20:59 
+author: Aslak Arþursson, Ross DeMeyere 
+---
+
 
 Astrid Lindgren
 =================
