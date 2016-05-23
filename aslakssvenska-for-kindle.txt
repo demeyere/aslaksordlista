@@ -82,7 +82,7 @@
 — avlägsen // (adjektiv: avlägset; avlägsna; avlägsare; avlägsast;) distant;  K3743; 
 — en avokado // an avacado;  
 — en avslappning // relaxation; Och glöm inte bort era mål och varför ni tränar, ha en skön sommar och använd era kroppar, det är inte bara i hängmattan som avslappning uppnås! K7931; 
-— avsluta // (v1) to close, to cancel (put an end to), to terminate;  
+— avsluta // (v1) to close, to cancel (put an end to), to terminate;  K1119; 
 — avslöja // (v1) reveal, expose, uncover, unmask; Provet avslöjade studenternas brist på förberedelse. With the exam the students revealed a lack of preparation. Utredningen avslöjade en skandal. The investigation revealed a scandal. K1498; 
 — avstå // (v4o ~!; ~r; avstod; ~tt; ~ende; ~nden;) to abstain; give up; ... Så kom det sig, att jag vid sex års ålder avstod från en strålande framtid som målare. K2120; 
 — ett avstånd // (~et; ~; ~en;) a distance (amount of space between two points);  K1569; 
@@ -134,7 +134,7 @@
 — ett beröm // (~met;) påpekande av annans goda färdighet; praise; Jag fick en hel del beröm för min uppsats som jag skrev. K5039; 
 — berömma // (v2a beröm!; berömmer; berömde; berömt; ~nde; berömd;) ge beröm till; to praise, to commend, to flatter; Hon blev berömd för sina gärningar. She was praised for her deeds. Hon blev berömd för sina gärningar. She was praised for her deeds. K5758; 
 — ett besked // answer; information; instructions; ställa (någon) mot väggen ("tvinga (någon) att ge besked") idiom: put (somebody) up against the wall ("force (somebody) to make a statement") K1930; 
-— beskriva // (v4s beskriv!; beskriver; beskrev; beskrivit; ~nde; beskriven;) berätta detaljerat om någon sak; to describe;  
+— beskriva // (v4s beskriv!; beskriver; beskrev; beskrivit; ~nde; beskriven;) berätta detaljerat om någon sak; to describe;  K593; 
 — besluta // (v1) fatta ett beslut, ofta ett formellt eller mer eller mindre slutgiltigt sådant; vid privata beslut används ofta reflexiv form; 1. (reflexive) to make up one's mind, become determined; 2. to decide, to make a decision; Då inget tvivel tycks råda om hans skuld, beslutar jag härmed... Since there seems to be no doubts about his guilt, I hereby decide... K798; 
 — bestå // (v4 ~!; ~r; bestod; ~tt; ~ende|~endes; ~dd|~dden;) vara; fortsätta existera; 1. to consist (of parts), to be made of; 2. to (continue to) exist, to persist, to prevail, to stand (the test of time) (rhymes with its opposite: förgå); Förbindelsen, som i själva verket består av en bro, en ö och en tunnel, är totalt 16 km lång. K786; 
 — beställa // (v2a beställ!; beställer; beställde; beställt; ~nde; beställd;) to order (to request some product or service); Jag beställde hem en pizza i stället för att laga mat själv. K1889; 
@@ -1167,7 +1167,7 @@
 — leta upp // (verb) (v1) look up;  
 — leva // (v2a lev!; lever; levde; levt|~t; ~nde;) to live; to be alive;  K346; demyr.us/1NVedXQ demyr.us/1HTdAtF 
 — ett lexikon // a dictionary;  K6978; 
-— lida // (v4 lid!; lider; led; lidit; ~nde; liden;) 1. to suffer; to undergo hardship; 2. to suffer; to feel pain; 3. (constructed with "av") to suffer; to have a disease or condition; 4. to pass, to go (of time); 5. (obsolete) to (be able to) stand, to (be able to) tolerate; Dagen lider mot kväll. The day goes towards night. Jag lider honom icke! I can't stand him! 
+— lida // (v4 lid!; lider; led; lidit; ~nde; liden;) 1. må (betydligt) dåligt eller ha ont någonstans; 2. (ålderdomligt) tåla, stå ut med; 3. (om tid) gå (långsamt); 1. to suffer; to undergo hardship; 2. to suffer; to feel pain; 3. (constructed with "av") to suffer; to have a disease or condition; 4. to pass, to go (of time); 5. (obsolete) to (be able to) stand, to (be able to) tolerate; Dagen lider mot kväll. The day goes towards night. Jag lider honom icke! I can't stand him! K1491; 
 — -lig // -y, -like; making adjectives;  
 — ligga // (v4o ligg!; ligger; låg; legat; ~nde;) 1. lie; be in a horizontal position; 2. lie; to be placed; Boken ligger på bordet. The book is on the table. Det är tyst och kallt, temperaturen inomhus ligger mellan -3° och -6°C, men på morgonen kan man ta ett bastubad för att värma sig. It is quiet and cold, the temperature inside is between M3 and M6, but in the morning one can take a sauna to warm oneself up. Hytterna ligger på däck fem och nio, inga hytter finns under bildäck; ligga i sängen; lie in bed; Min lägenhet ligger på första våningen. My flat is on the first floor. Stockholm ligger i östra Sverige. Stockholm lies in eastern Sweden. tjänsten ligger nere; the service is down; Var ligger den närmaste marknaden? Where is the nearest market? K254; 
 — lik // (adjektiv: ~t; ~a; ~are; ~ast;) like, similar to;  K211; 
@@ -1499,7 +1499,7 @@
 — oval // (adjektiv: ~t; ~a;) 1. elliptisk; 2. äggformad;  
 — ovanför // (preposition) som befinner sig någonstans i riktning rakt uppåt från;  K3187; 
 — ovanlig // (adjektiv: ~t; ~a;) unusual; Hon fotograferade en ovanlig fågel. She photographed a rare bird. K2404; 
-— en oxe // (~n; oxar; oxarna;) 1. an ox; a neutered bovine bull, typically used as a beast of burden; 2. cattle, bovine creatures; 3. beef, meat of bovine (whether from ox, bull or cow); I sådden på våren dukade oxarna under i åkern. 
+— en oxe // (~n; oxar; oxarna;) 1. an ox; a neutered bovine bull, typically used as a beast of burden; 2. cattle, bovine creatures; 3. beef, meat of bovine (whether from ox, bull or cow); I sådden på våren dukade oxarna under i åkern. K8121; 
 — packa // (v1) 1. to pack; to stow things into a pack e.g. as to be able to bring it for a journey; 2. to compress; to make something use less space;  K3257; 
 — en padda // (~n; paddor; paddorna;) a tablet computer; a toad;  
 — pall // stool;  
@@ -1536,7 +1536,7 @@
 — en personal // a human;  K1169; 
 — ett personnummer // civic registration number;  
 — en peruk // (~en; ~er; ~erna;) en uppsättning konstgjorda eller riktiga hårstrån som bärs på huvudet och ska efterlikna en mänsklig frisyr; wig;  
-— pigg // Hoppas att du blir pigg och kry snart. 
+— pigg // (adjektiv) Hoppas att du blir pigg och kry snart. K4574; 
 — en pinne // (~n; pinnar; pinnarna;) stick;  K7383; 
 — en pizza // pizza;  K5385; 
 — en pizzadeg // pizza dough;  
@@ -1834,7 +1834,6 @@ utan krumbukter; ej vinklad; 2. (om hår) som inte är vågigt eller krulligt; 3
 — en slump // (~en; ~ar; ~arna;) 1. tillfällighet, sammanträffande; 2. restlagerl random, chance, happenstance, coincidence; sv.wikipedia.org has a link to `slumpartikel` for a random/chance article. Jag låter inte min framtid avgöras av slumpen. I will not leave my future up to chance. K3354; 
 — ett slut // (~et; ~; ~en;) an end; Batteriet är slut. Jag läste det från början till slut två gånger. I read it from beginning to the end twice. Min penna har slut på bläck. My pen is out of ink. Skrivaren har slut på papper. The printer is out of paper. Slutet av den boken är mycket bra skrivet. The end of that book is very well written. K431; 
 — sluta // (v1) 1. to stop (come to an end); 2. to quit (e.g. school, a job or a habit); 3. to cease doing something; 4. to finish; to have as a result (from a competition); Efter lunch kan jag inte sluta gäspa. After lunch, I can't stop yawning. Matchen slutade med ett kryss. När det slutar regna, ska vi gå på promenad. When it stops raining we will go for a walk. K439; 
-— sluta // (v4 slut!;) fixme; Batteriet är slut. Efter lunch kan jag inte sluta gäspa. After lunch, I can't stop yawning. Jag läste det från början till slut två gånger. I read it from beginning to the end twice. Min penna har slut på bläck. My pen is out of ink. Skrivaren har slut på papper. The printer is out of paper. 
 — slutföra // (v2a slutför!; slutför; slutförde; slutfört; ~nde; slutförd;) föra till ett slut, avsluta; bring (carry) to a conclusion, complete, finish; accomplish; projektet slutfördes 1984; the project was brought to a conclusion in 1984; Uppdraget är slutfört. K4834; 
 — slutkörd // (adjektiv: slutkört; ~a;) trött, slut på energi, både i fysiskt och psykiskt avseende; exhausted, worn out, whacked; Jag har jobbat hela dagen; jag är slutkörd. I've worked all day long; I'm exhausted. 
 — slutligen // (adverb) finally;  K1336; 
