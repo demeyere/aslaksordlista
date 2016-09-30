@@ -11,26 +11,26 @@ Tidsprepositioner
 
     om till för i på
 
-F 1. En kopp te och en knäckebrödssmörgås är gott *på* kvällen.
-B 2. TV-programmet varade *i* en timme.
-C 3. Åsa är född *på* 1900-talet.
-D 4. Svenskarna äter många lussekatter *i* jul.  // till : why?
-C 5. Han slutade röka *för* två år seden.
-F 6. Kalle äter ofta en varm korv *på* lunchen.
-F 7. Daniel gillar att sova länge *på* morgnarna
-A 8. Åsa dricker minst åtta koppar kaffe *om* dagen
-C 9. Hur gick det på tentan *i* tisdags.
-B 10. De stod och pratade *i* mer än 20 minuter.
-F 11. Det regnar ofta mycket *pa* hösten i Sverige.
-A 12. Hon går på gympa en gång *i* veckan.
-B 13. Daniel har inte träffat sina kusiner *på* många år.
-B 14. Studenterna läste in tentan *i* ett par dagar.
-D 15. Jag ska börja städa badrummet *om* en liten stund, lovade Daniel.
-C 16. De slutade äta kött *för* flera år sedan.
-D 17. Vad ska du göra *pa* sommaren.    // till : why?
-A 18. Daniel går till tandläkare två gånger *om* året.
-D 19. Glöm inte att betala räkningarna senast *på* torsdag, sa Åsa till Daniel.
-C 20. *i* somras hade Beata ingen semester. Hon tog semester *i* oktober i stället.
+F 1. En kopp te och en knäckebrödssmörgås är gott *på* kvällen.  
+B 2. TV-programmet varade *i* en timme.  
+C 3. Åsa är född *på* 1900-talet.  
+D 4. Svenskarna äter många lussekatter *i* jul.  // till : why?  
+C 5. Han slutade röka *för* två år seden.  
+F 6. Kalle äter ofta en varm korv *på* lunchen.  
+F 7. Daniel gillar att sova länge *på* morgnarna  
+A 8. Åsa dricker minst åtta koppar kaffe *om* dagen  
+C 9. Hur gick det på tentan *i* tisdags.  
+B 10. De stod och pratade *i* mer än 20 minuter.  
+F 11. Det regnar ofta mycket *pa* hösten i Sverige.  
+A 12. Hon går på gympa en gång *i* veckan.  
+B 13. Daniel har inte träffat sina kusiner *på* många år.  
+B 14. Studenterna läste in tentan *i* ett par dagar.  
+D 15. Jag ska börja städa badrummet *om* en liten stund, lovade Daniel.  
+C 16. De slutade äta kött *för* flera år sedan.  
+D 17. Vad ska du göra *pa* sommaren.    // till : why?  
+A 18. Daniel går till tandläkare två gånger *om* året.  
+D 19. Glöm inte att betala räkningarna senast *på* torsdag, sa Åsa till Daniel.  
+C 20. *i* somras hade Beata ingen semester. Hon tog semester *i* oktober i stället.  
 
 
 
@@ -123,7 +123,7 @@ de emigrerade våren 1887 (no particle with YYYY)
 i <veckodag>s = immediate past
 på <veckodag> = a particular but unspecified weekday in the past
 
-i førrgår, igår, imorse, i fjol
+i förrgår, igår, imorse, i fjol
 
 (i) förra året, (i) förra månaden, (i) förra veckan, (i) förra helgen, (i) förra våren, (i) förra julen, (i) förra søndagen, i maj förra året, ...
 

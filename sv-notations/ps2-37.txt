@@ -1,9 +1,14 @@
-revised: 2015-08-20 17:36 
+---
+title: Tro inte på allt du hör
+revised: 2016-09-30 07:06 
+author: Aslak Arþursson, Ross DeMeyere 
+---
+
 
 Tro inte på allt du hör
 =======================
 
-Johanna, min kompis, berättade att hennes kusin känner ett par som hade varit och storhandlat på ett varuhus i Ullared, som ligger ca 20 mil från deras bostad. När de kom hem igen upptäckte kvinnan att hennes handväska med pengar, kontokort, körkort och annat var borta. Efter några dagar ringde en person och sa att hon hade hittat väskan. Allt fanns kvar utom pengarna. Men hon tyckte att det skulle vara för långt, 15 mil, att köra hem till paret för att lämna tillbaka väskan. Däremot erbjöd hon sig att köra halva vägen. De bestämde att de skulle ses på en parkeringsplatsen. De väntade och väntade men ingen kom. Till slut gav de upp och körde hem igen.
+Johanna, min kompis, berättade att hennes kusin känner ett par som hade varit och storhandlat på ett varuhus i Ullared, som ligger ca 20 mil från deras bostad. När de kom hem igen upptäckte kvinnan att hennes handväska med pengar, kontokort, körkort och annat var borta. Efter några dagar ringde en person och sa att hon hade hittat väskan. Allt fanns kvar utom pengarna. Men hon tyckte att det skulle vara för långt, 15 mil, att köra hem till paret för att lämna tillbaka väskan. Däremot erbjöd hon sig att köra halva vägen. De bestämde att de skulle ses på en parkeringsplats. Paret satte sig i bilen och körde till parkeringsplatsen. De väntade och väntade men ingen kom. Till slut gav de upp och körde hem igen.
 
 // storhandlat = shop on a larger scale, mall, outlet
 // varuhus = department store
@@ -19,6 +24,8 @@ När de kom hem hade det varit inbrott i deras villa.
 
 När folk hör den här historien tror somliga att inbrottet var en ren tillfällighet medan andra tror att det var planerat. Och så finns det de som säger att inget av detta är sant. De undrar t.ex. varför paret inte bad personen att lämna in väskan hos polisen eller att skicka den, varför paret inte misstänkte något när personen erbjöd sig att köra över 7 mil för att lämna tillbaka den. Har detta verkligen hänt eller är det ett exempel på en modern vandringssägen?
 
+// lämna in = turn in
+// Och så finns det de ... = And then there are those ...
 // ren = reindeer
 // ren = clean, pure
 // tillfällighet = slump, coincedence 
@@ -26,10 +33,11 @@ När folk hör den här historien tror somliga att inbrottet var en ren tillfäl
 // sann, sant = true , boolean sann
 // att lämna in = to hand in
 // misstänkte = suspect
-// vandringsägen = urban myth
+// vandringsägen = urban myth / legend
 
 I alla tider har vi berättat historier för varandra. Syftet kan ha varit att stärka moralen, att få ett folk att känna större samhörighet, att varna för det okända eller helt enkelt att underhålla. En del av dessa historier kaller vi vandringssägner. Ofta handlar de om det som är nytt eller främmande för oss eller om något som är skrämmande. Till exempel är många av viruslarmen, när de gäller datorer och mobiltelefoner, falska.
 
+// kan ha varit = can have been
 // varandra = each other
 // syftet = purpose
 // stärka = boost
@@ -46,6 +54,8 @@ Många tror på vandringssägnerna. Enligt folklivsforskaren Bengt af Klintberg 
 // en bekant till en bekant = a friend of a friend
 // komma ihåg = remember
 // återberätta = retell
+// Ibland har man kunnat läsa // sometimes one has been able to read
+// folklivsforskaren = ethnologist
 
 Lästips: Råttan i pizzan av Bengt af Klintberg.
 
