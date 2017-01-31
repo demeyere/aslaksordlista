@@ -1,9 +1,9 @@
 ---
-Title: Snørøk
-revised: 2015-09-23 09:03
-källa: http://www.korkortsverige.se/a/snorok
-foto: David Morris, http://www.flickr.com/photos/revdave/392445853/
-english-by: Aslak
+Title: Snørøk  
+revised: 2015-09-23 09:03  
+källa: http://www.korkortsverige.se/a/snorok  
+foto: David Morris, http://www.flickr.com/photos/revdave/392445853/  
+english-by: Aslak  
 ---
 
 
@@ -40,8 +40,7 @@ därmed  : with that, by that
 försvåra : to make more difficult, make worse
 körningen : kørning : the driving
 avsevärt. : considerably, appreciably
-Snödrev : snow drift ? drifting snow ? 
-
+snödrev : snow drift ? drifting snow ? 
   -->
 
 Snödrev kallas det när det i samband med snöfall blåser kraftigt.
@@ -63,8 +62,7 @@ försvårar : makes more difficult, makes worse
 förare : a driver (of a vehicle)
 vägens : the road's
 sträckning. direction, lie
-Snödrev : drifting snow
+snödrev : drifting snow
 södra : southern
 delarna : del : the ... parts
-
   -->

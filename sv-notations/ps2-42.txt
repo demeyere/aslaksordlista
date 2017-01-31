@@ -1,4 +1,10 @@
+---
+title: Mordet på Operan
+revised: 2016-10-07 08:01 
+author: Aslak Arþursson, Ross DeMeyere 
 keywords: 42
+---
+
 
 
 Mordet på Operan

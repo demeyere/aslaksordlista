@@ -1,7 +1,7 @@
 ---
 title: ÖB 33/34 hemläxa med grammatik
 revised: 2016-09-30 07:47 
-author: Aslak Arþursson, Ross DeMeyere 
+author: Aslak Arþursson
 ---
 
 

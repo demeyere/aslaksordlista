@@ -1,4 +1,10 @@
+---
+title: Daniels nya dator
+revised: 2016-11-01 09:42 
+author: Aslak Arþursson
 keywords: 46
+---
+
 
 Daniels nya dator
 =================
@@ -97,7 +103,7 @@ Today we come in contact with the symbol every day when we send eMail.
 På svenska har symbolen många namn, till exempel kanelbulle och kringla, men vanligast är nog snabel-a. Vad kallas @ på ditt språk.
 In swedish, the symbol has many names, for example, `kanelbulle` and `kringla`, but the most common is probably `snabel-a`. What do you call `@` in your language?
 
-[ datatermgruppen.se säga att man kan säga `på` när det är inte konfunderade. t.ex. aslak på svenskimn punkt u s. ]
+[ datatermgruppen.se säga att man kan säga `på` när det är inte konfunderade. t.ex. aslak på aslak punkt s e. ]
 
 
 - - -
