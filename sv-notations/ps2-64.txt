@@ -1,5 +1,8 @@
-revised: 2015-02-17 16:42 
-keywords: 64 ocr
+---
+title: 
+revised: 2017-02-01 16:11 
+author: Aslak Arþursson
+---
 
 
 Om jag vann en miljon
@@ -164,12 +167,11 @@ What would you do/say?
 
 1. om du hittade 500 kronor/100 000 kronor på gatan?
 2. om du såg några personer slå en liggande person på gatan?
-3. om du visste att din bästa väns partner var otrogen?
-   unfaithful
+3. om du visste att din bästa väns partner var otrogen? // unfaithful
 4. om din bästa väns partner ville vara tillsammans med dig?
 5. om du fick möjlighet att köpa en mycket fin cykel billigt men du misstänkte att den var stulen?
 6. om någon i din bekantskapskrets drack för mycket alkohol?
-                  (known*group)
+                  (known*group*circle)
 7. om din bästa vän hade en ny frisyr som du tyckte var förfärlig?
    (hair)(terrible)
 8. om du upptäckte att 200 000 kronor hade blivit insatta av misstag på ditt bankkonto?
