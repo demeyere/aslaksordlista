@@ -1,5 +1,7 @@
-revised: 2015-03-10 08:21 
-keywords: 72 ocr
+---
+revised: 2017-02-13 19:18 
+author: Aslak Arþursson
+---
 
 
 Minns du ordet? 8
