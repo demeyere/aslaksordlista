@@ -1,3 +1,8 @@
+---
+revised: 2017-02-18 10:26 
+note: skrev det i Kariskort efter Jakk dog.
+---
+
 
 Vem kan segla förutan vind
 =================

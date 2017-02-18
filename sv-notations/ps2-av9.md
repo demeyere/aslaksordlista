@@ -1,26 +1,4 @@
 
-Att sortera eller inte sortera
-==================================
-—Men mamma! Du menar väl inte att du kastar mjölkförpackningarna så där!
-—But mom! You don't mean that you throw milk cartons like that!
-
-—Och vad tycker du att jag ska göra?
-—And what do you think that I should do?
-
-—Du måste naturligtvis skölja ur dem och kasta dem i papperscontainern för återvinning.
-—You must naturally rinse them out and throw them in the paper container for recycling.
-
-—Daniel, lyssna nu noga. Jag tänker inte slösa en massa tid och vatten på att diska och skölja ur förpackningar som jag ändå ska kasta. Man talar aldrig om att diskmedel och varmvatten också är energikrävande och skadar miljön. Folk tror att alla miljöproblem löser sig bara den lilla människan återvinner. Jag är så trött på detta eviga tjatande om sopsortering. Och nu vill de att jag ska spara gammal mat också för att återvinna den. Jag vill bara inte tänka på stanken om jag skulle spara räkskal under diskbänken en varm sommar. Usch, vad äckligt! Och tänk på alla plastpåsar som jag måste använda till soporna. Är inte det miljöförstöring?
-
-—Alltså, du har missförstått det där med gammal mat. Du ska inte spara den under diskbänken utan du ska ha en liten låda på altanen och ha en kompost där. Det är jättelätt. Du lägger några maskar i lådan bland potatisskal och annat och vips har du fin jord till dina krukväxter. Så slipper du att köpa och bära hem tung blomjord från affären.
-
-—Hela trädgården är full av jord så jag tror inte att jag behöver mer. Men jag kanske ska ha en liten gris som kan äta allt matavfall ... Dessutom såg jag på tv att man bara låter t.ex. glas, som vi sorterat, ligga i stora högar, glasberg. Man återvinner det alltså inte. Hur skaffade du förresten maskar till din kompost?
-
-—Hm, jag har ingen kompost än för jag har inte hittat en lämplig låda. Och maskar, jag tror att man kan köpa dem ...
-
-DISKUTERA: Vad säger du om Daniels mammas argument mot att sortera? Hur skulle du svara henne? Använd så många ord och uttryck som möjligt från texten!
-
-
 Visste du att:
 -----------------
 
