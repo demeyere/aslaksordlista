@@ -42,156 +42,6 @@ DISKUTERA: Privatbilismen och miljön. Är du en medveten konsument? På vilket 
 
 
 
-Massturismen - ett hot mot miljön?
-Mass turism - a threat to the environment?
-==================================
-Under den senare delen av 1960-talet började allt fler svenskar semestra utomlands. Resmålen var främst Italien och Spanien. Sedan dess har turistströmmen till de här länderna ständigt ökat och länderna kring Medelhavet tar i dag emot miljoner frusna nordbor varje sommar.
-
-Visst är det härligt att uppleva nya kulturer och njuta av sol och bad. Men turismen har också en baksida. Varje år kommer det nya resmål. Små pittoreska platser som ligger naturskönt. Turisterna söker sig dit och efter några år har idyllen förvandlats till en opersonlig turistindustri. Hotellen ligger sida vid sida längs stranden. Vattnet har blivit smutsigt. Naturen i omgivningarna bär överallt spår efter turisterna. Lokalbefolkningen har övergett sina vanliga jobb och börjat arbeta inom turistindustrin. Idyllen är försvunnen. Då väljer turisterna ett nytt fräscht resmål och kvar finns tomma hotell, arbetslöshet och en förstörd natur.
-
-På senare år har en del turister emellertid börjat fråga efter resor där man inte förstör miljön. Den här typen av turister kan tänka sig att resa på ett mer primitivt sätt. De vill också resa till platser där de kan lära sig mer om den lokala kulturen och gärna uppleva sådant som inte brukar finnas på vanliga charterresor, till exempel titta på bergsgorillor i deras normala miljö. Den här sortens turism kallas ekoturism. Men vad kommer att hända när allt fler vill vara ekoturister och uppleva bergsgorillorna eller delfinerna i deras rätta miljö?
-
-En bra turist
-—köper lokala varor
-—har en respektfull attityd och "tar seden dit han kommer"
-—köper inte saker som är tillverkade av utrotningshotade djur eller växter
-—informerar sig om resmålet.
-
-Det sägs att
-—turism och resande omsätter 2500 miljarder dollar per år
-—en jumbojet förgiftar 2 miljoner liter luft i sekunden när den startar.
-
-DISKUTERA: Hur tror du att vi kommer att semestra i framtiden? Hur kan vi semestra på ett miljövänligt sätt? Vad finns det för positivt med turismen?
-
-UPPSATS: Min drömresa. Skriv och berätta om din drömresa!
-
-
-//
-
-allt fler = more and more
-främst = formost
-ständigt = constantly, always
-öka = to increase
-Medelhavet = the Mediterranean Sea
-ta emot = receive/welcome
-frusna = frozen
-härlig = glorious, delightful
-uppleva = to experience
-njuta = to enjoy oneself
-baksida = back, downside, flipside
-förvandla = to transform
-personlig = personal
-längs = along
-omgivning = surroundings, environs
-bära = carry
-spår = tracks
-övergå = to pass over ngn
-idyll = idyllic spot
-välja = to choose
-tom = empty
-arbetsløshet = unemployment
-førstøra = to destroy, annihilate, ruin
-emellertid = however
-sätt = way, manner
-sådant = such
-delfin = dolphin
-rätt = correct
-tar sedan dit han kommer = to take the customs of the place where you come ?when in rome?
-utrotningshotad = extermination
-förgifta = to poison
-
-dra åt skogan =  gå i skogen = to to hell  B.R.
-
-
-
-
-//
-
-
-
-Bärnsten - Östersjöns guld
-==================================
-
-Om man går längs en strand på Skånes öst- eller sydkust efter en höststorm kan man hitta små gulaktiga stenar i strandkanten — bärnsten.
-
-Bärnsten (succinit) kallas bitar av förstelnad kåda (hartser) som är kvarlevor från utdöda tallarter som växte i Östersjöområdet för ca 50 miljoner år sedan, långt innan Östersjön fanns. Kemiskt består mineralet av kol ( C), väte (H), och syre (O). Bärnstenen är vanligen gul i olika
-nyanser, ofta genomskinlig, och innehåller inte sällan rester av insekter och växter.
-
-I norra Europa finner man bärnsten framför allt längs södra Östersjöns kuster och på Danmarks västkust. Man brukar tala om bärnstensväder, och menar då hårt väder, gärna storm från sydväst. Då förs de gula stenarna, och mycket annat, upp på stränderna med de kraftiga strömmarna i havet.
-
-Bärnsten har sedan forntiden använts till smycken och prydnadsföremål. Den användes också som betalningsmedel i Östersjöområdet och var länge en viktig bytesvara i handeln med folken i södra Europa. Bärnsten har hittats i gravar bl.a. i Stonehenge i södra England. Det sägs att t.ex. vikingarna kunde byta till sig en slav i södra Europa för en ganska liten sten.
-
-Under 1600- och 1700-talen ansågs bärnstenen så värdefull i nuvarande Tyskland att man riskerade dödsstraff om man plockade den.
-
-Bärnsten ansågs förr ha magiska krafter, eftersom den kan bli negativt elektrostatiskt laddad. Den kallades därför av grekerna för elektron, och därifrån sägs ordet elektricitet komma.
-
-Täck över texten och svara på frågorna!
-
-1. Var kan man hitta bärnsten i Sverige?
-2. Vad menas med "bärnstensväder"?
-3. Vad är bärnsten?
-4. Hur ser bärnsten ut?
-5. Vad använde man bärnsten till?
-6. Hur mycket kunde vikingarna få betala för en slav?
-7. Varför ansågs bärnstenen ha magiska krafter?
-
-Hur vet man om bärnstenen är äkta och inte bara en bit plast?
-
-Här är tre tips:
-• Gnid bärnstenen kraftigt mot dina kläder och om du sedan kan lyfta en Liten bit papper med bärnstenen är den äkta.
-• Lägg bärnsten i fyraprocentigt saltvatten. Flyter den så är den äkta, men sjunker den är den kanske gjord av plast.
-• Sätt eld på bärnstenen. Luktar röken gott är den äkta men luktar den plast är den stenen gjord av ... ja just plast.
-
-RESTIPS: Bärnstensmuseet i Kämpinge i sydvästra Skåne
-
-
-///
-
-østersjø = Baltic
-gulaktig = yellowish
--aktig = -like -ish
-blåaktig, brunaktig, felaktig, førdelaktig, gråaktig, grønaktig, gulaktig, oskiljaktig, rosaaktig, rødaktig, tvivelaktig, varaktig, vitaktig, dåraktig
-kant = edge, border, brim, math (boundary, edge)
-bryn = edge of a forest (skogsbryn)
-bärnsten (även rav) raven = sv.wiki amber
-førnstelna = to fossilize, petrify
-kåda = resin
-kvarleva (~n ~or ~orna) = a remainder
-utdød = extinct
-tall = pine
-art = species
-bestå = consist of, made of
-kol = carbon, coal
-väte = hydrogen
-syre = oxygen
-nyans = shade, hue, 2. nuance
-genomskinlig = translucent
-genomsynlig = transparent
-sällan = seldom, rarely
-rest = remainder, rest, leftover
-framfør = in front of
-kraftig = powerful
-forntiden = ancient past
-smycke = jewelry
-prydnandsførmål = ornaments (knicknacks)
-medel = substance
-betalning = payment
-betala = to pay
-byta = to exchange, swap
-handel = trade, commerce
-slav = slave
-anse = to be of an opinion
-førr = (adv) before, at an earlier time
-ladda = to change, to cause to take an electrical charge
-äkta - adj. genuine, authentic
-gnida v1 = rub, scrape
-
-han är lite egen = broke the mold, a little crazy
-en våg (vågor) = a wave
-
-///
-
-
 Dofta eller lukta
 =================
 
@@ -269,7 +119,7 @@ När Cornelis hade slutat skolan arbetade han under några år som bl.a. sjöman
 År 1964 kom hans första LP-skiva Ballader och oförskämdheter ut. Han fick snart en stor publik inte minst för sina humoristiska visor "Brevet från kolonien" och "Hönan Agda". Cornelis själv tyckte dock att de här två visorna fick alltför stor uppmärksamhet. De flesta av hans övriga texter var mycket frispråkiga och samhällskritiska och han tog alltid de svagas parti. Under en tid var t.o.m. en del av hans visor förbjudna att spelas i Sveriges radio. På LP-skivan Tio vackra visor och personliga Person visar han att han även kunde skriva och framföra mycket sensuell musik.
 
 // skiva = record
-// framføra = överbringa = convey, deliver
+// framföra = överbringa = convey, deliver
 // tolka = interpret, express
 // personlig = personal 
 // uppsättningar = set, film, production
@@ -277,7 +127,7 @@ När Cornelis hade slutat skolan arbetade han under några år som bl.a. sjöman
 // bohem = bohemian
 // trots = dispite?
 // fortsätta = continue, proceed, carry on
-// stridsøvning = tactical exercise
+// stridsövning = tactical exercise
 // strunt = rubbish, trash
 // strunta i = not care a bit about
 // strömma = stream, flow
