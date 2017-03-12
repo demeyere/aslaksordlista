@@ -138,7 +138,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 688,16808,147.43,x,x,,framför allt (el. framförallt),adverb,
 689,16799,147.36,x,x,,positiv,adjective,
 692,16722,146.68,x,x,att,bero,verb,e.g. bero på
-694,16579,145.43,x,x,att,minnas,verb,
 695,16573,145.37,x,x,,handling,noun-en,
 698,16514,144.86,x,x,en,rapport,noun-en,
 700,16395,143.81,x,x,,personlig,adjective,
@@ -724,7 +723,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 1715,,48.55,x,x,,övertygad,adjective,
 1716,5531,48.52,x,x,en,skit,noun-en,(stötande)
 1717,5530,48.51,x,x,ett,tänkande,noun-ett,
-1721,5508,48.31,x,x,att,granska,verb,
 1722,5507,48.31,x,x,,i synnerhet,adverb,
 1723,5503,48.27,x,x,att,bekräfta,verb,
 1725,5499,48.24,x,x,ett,hinder,noun-ett,
@@ -1742,7 +1740,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 3139,2230,19.56,x,x,,än så länge,adverb,
 3140,2229,19.55,x,x,,dramatisk,adjective,
 3141,2228,19.54,x,x,att,låtsas,verb,
-3142,2228,19.54,x,x,,underlig,adjective,
 3143,2225,19.52,x,x,en,förlängning,noun-en,
 3146,2223,19.50,x,x,,himla,adverb,
 3147,2221,19.48,x,x,ett,inbördeskrig,noun-ett,
@@ -3116,7 +3113,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 4805,1061,9.31,x,x,en,grundare,noun-en,
 4806,1061,9.31,x,x,en,konspiration,noun-en,
 4807,1061,9.31,x,x,,kritiskt,adverb,
-4808,1061,9.31,x,x,en,kurva,noun-en,
 4809,1060,9.30,x,x,att,operera,verb,
 4810,1060,9.30,x,x,en,turné,noun-en,
 4811,1059,9.29,x,x,en,åskådare,noun-en,
