@@ -124,7 +124,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 668,17370,152.36,x,x,,nära,adjective,
 673,17258,151.38,x,x,,internet,noun,e.g. Internet
 674,17213,150.99,x,x,ett,hov,noun-ett,
-675,17199,150.86,x,x,,öppen,adjective,
 676,17196,150.84,x,x,att,bidra,verb,
 678,17123,150.20,x,x,att,luta,verb,e.g. luta sig
 680,17039,149.46,x,x,,säkert,adverb,
@@ -357,7 +356,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 1161,9291,81.50,x,x,ett,grepp,noun-ett,
 1166,9241,81.06,x,x,,sikt,noun-en,
 1167,9238,81.03,x,x,en,revolution,noun-en,
-1171,9204,80.73,x,x,,illa,adverb,
 1174,9190,80.61,x,x,ett,tecken,noun-ett,
 1175,9187,80.59,x,x,en,siffra,noun-en,
 1176,9180,80.52,x,x,,tydligt,adverb,
@@ -3368,7 +3366,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 5160,928,8.14,x,x,,idiotisk,adjective,
 5161,928,8.14,x,x,,spontant,adverb,
 5162,928,8.14,x,x,en,tillställning,noun-en,
-5163,928,8.14,x,x,,tvärs,adverb,
 5164,927,8.13,x,x,ett,budgetår,noun-ett,
 5165,927,8.13,x,x,att,förtrycka,verb,
 5166,927,8.13,x,x,,passande,adjective,
