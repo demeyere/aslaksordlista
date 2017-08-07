@@ -1735,7 +1735,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 3175,2191,19.22,x,x,en,trappa,noun-en,
 3176,2189,19.20,x,x,,offentligt,adverb,
 3178,2189,19.20,x,x,en,valrörelse,noun-en,
-3179,2188,19.19,x,x,att,anfalla,verb,
 3180,,19.17,x,x,,rådande,adjective,
 3182,2185,19.17,x,x,en,upplaga,noun-en,
 3185,2178,19.10,x,x,en,ambassad,noun-en,
