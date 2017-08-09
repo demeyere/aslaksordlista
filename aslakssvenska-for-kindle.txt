@@ -160,6 +160,7 @@
 — ett besked // answer; information; instructions; ställa (någon) mot väggen ("tvinga (någon) att ge besked") idiom: put (somebody) up against the wall ("force (somebody) to make a statement") K1930; 
 — beskriva // (v4s beskriv!; beskriver; beskrev; beskrivit; ~nde; beskriven;) berätta detaljerat om någon sak; to describe;  K593; 
 — besluta // (v1) fatta ett beslut, ofta ett formellt eller mer eller mindre slutgiltigt sådant; vid privata beslut används ofta reflexiv form; 1. (reflexive) to make up one's mind, become determined; 2. to decide, to make a decision; Då inget tvivel tycks råda om hans skuld, beslutar jag härmed... Since there seems to be no doubts about his guilt, I hereby decide... K798; 
+— en beslutsfattare // (~n|beslutsfattarn; beslutsfattararna;) person som har i upp­gift att fatta beslut på grund av sin makt­ställning; decision maker;  K4840; 
 — bestå // (v4 ~!; ~r; bestod; ~tt; ~ende|~endes; ~dd|~dden;) vara; fortsätta existera; 1. to consist (of parts), to be made of; 2. to (continue to) exist, to persist, to prevail, to stand (the test of time) (rhymes with its opposite: förgå); Förbindelsen, som i själva verket består av en bro, en ö och en tunnel, är totalt 16 km lång. K786; 
 — beställa // (v2a beställ!; beställer; beställde; beställt; ~nde; beställd;) to order (to request some product or service); Jag beställde hem en pizza i stället för att laga mat själv. K1889; 
 — bestämma // (v2a bestäm!; bestämmer; bestämde; bestämt; ~nde; bestämd;) 1. fastställa; 2. besluta, decidera, avgöra 3. vara den som beslutar; to determine, to settle, to decide; to prescribe (reflexive); Jag kan inte bestämma mig. Ska vi singla slant? I can't make up my mind. Shall we flip a coin? K543; 
@@ -504,7 +505,7 @@
 — femte // fifth;  K10; 
 — femtio // fifty;  K11; 
 — femton // fifteen;  K12; 
-— en fest // (~en; ~er; ~erna;) party;  K2026; 
+— en fest // (~en; ~er; ~erna;) party; Det var många som kom på festen trots det dåliga vädret. K2026; 
 — en ficka // (~n; fickor; fickorna;) pocket;  K3869; 
 — en fickkniv // a pocket knife;  
 — en ficklampa // flashlight; pocket torch;  K7818; 
@@ -635,7 +636,7 @@
 — ett fältslag // battle;  
 — en fältövning // FTX; field exercise;  
 — en färd // a journey;  K2055; 
-— färdig // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) 1. set, ready, prepared; 2. finished; Första utkastet är färdigt imorgon. The first draft will be ready by tomorrow. K1860; 
+— färdig // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) 1. i ett tillstånd där inget saknas eller ännu inte har utförs; som är precis som den skall vara; 2. (vardagligt) mycket trött; 1. set, ready, prepared; 2. finished; Första utkastet är färdigt imorgon. The first draft will be ready by tomorrow. K1860; 
 — en färdighet // (~en; ~er; ~erna;) a capability, a skill; Övning ger färdighet. K3656; 
 — en färdplan // journey plan, flight plan;  
 — en färg // (~en; ~er; ~erna;) a color;  K1247; 
@@ -759,6 +760,7 @@
 — godkänd // (adjektiv: godkänt; ~a;) approved, certified;  K2460; 
 — ett golv // (~et;) floor; Golvet i byggnaden är gjort av trä. The floor in the building is made of wood. Jag måste torka köksgolvet i dag. I need to mop the kitchen floor today. torka golvet; wipe the floor; K2256; 
 — gott // (adverb) well, good; sov gott; K1808; 
+— en grabb // (~en; ~ar; ~arna;) pojke, son; Synonymer: gosse, gossebarn, kille, pojke, påg; Cool	grabb det där! Lite självcentrerad grabb det där. K3389; 
 — en grad // (~en; ~er; ~erna;) 1. a degree (on a thermometer or other scale); 2. a degree (from a university), a title; 3. a rank; tio grader varmt; K774; 
 — ett gram // (fysik, allmänt) enhet för massa; betecknas g; en tusendel av SI-enheten kilogram (kg); gram (unit of mass);  K598; 
 — en gran // (~en; ~ar; ~arna;) (träd) en trädart, ett trädslag, ett barrträd; spruce (mostly the species Picea abies or Norway spruce, the species found most often in Sweden); månen går sin tysta ban', snön ligger vit på fur och gran [PL:Far] K3387; 
@@ -1378,6 +1380,8 @@
 — ett läger // (lägret; ~; lägren;) 1. tillfällig boplats för en grupp av människor t.ex. scouter, fångar eller militärer; 2. (politik) antal personer som har samma uppfattning i en eller några liknande frågor; a (sleeping) quarter, a camp;  K2399; 
 — en lägereld // campfire;  
 — lägga // (v4o lägg!; lägger; lade|la; lagt; ~nde; lagd;) 1. få att ligga, placera i horisontalt läge; 2. placera i en ficka eller väska; 3. (reflexivt: lägga sig) gå till sängs; lägga sig ned för att sova; 4. placera någon, exempelvis ett barn, i dess säng för att det ska sova; 5. spela /patiens/; 6. (kortspel) spela ut ett kort; 7. (poker, reflexivt: lägga sig) slänga sina kort och inte längre delta aktivt i handen; 8. vika ihop större tygstycken (såsom lakan, dukar); 1. lay, put; to place something down in a position of rest, in particular when it either lies down flat, or the eventual orientation doesn't matter, such as, in a heap. 2. to put (into a bag, in a pocket or in a box of some kind); 3. to cause something or someone to lie down; 4. (reflexive) to lie down; to assume a reclining position. 5. (reflexive, about snow) accumulate on the ground without melting; 6. to lay someone in a bed; to make someone to go to bed; 7. (reflexive) to go to bed; to go to sleep; 8. lay; to install (eg, flooring or a roof); 9. lay; give birth to (about egg); 10. fold into a shape suitable for storage (about large pieces of fabric, (eg, sheets or larger table cloths)); 11. (card games) to play (a card); 12. (card games, reflexive) to fold; to cease to take further part in a certain deal; to withdraw from further betting. 13. (reflexive, with a preposition) to position oneself, with respect to someone else who is moving in the same direction; Synonyms: (to put into a pocket): stoppa ner; (to put someone in bed): stoppa om (about small children), natta (about small children); (go to bed): gå och lägga sig, hoppa i säng, knyta sig, krypa till kojs; (fold into a suitable shape): vika ihop (also about clothing in general); (play a card): spela ut; [kelly: e.g. lägga fram/in/på/till/ut, lägga sig]; Fågeln har bara lagt ett ägg. Jag ska gå lägga mig. Jag tänker lägga mig tidigt ikväll. Jag är säker på att jag lade nyckeln i den fickan. I'm positive I put the key in that pocket. Kan du lägga boken på bordet? Could you please lay the book on the table? Lägg lite sand i burken. Put some sand in the can. K258; 
+— lägga näsan i blöt // (verb) lägga sig i något som man inte har med att göra; snoka; // Etymologi: "Lägga/sticka näsan i" finns i olika uttryck och betyder att man bryr sig om saker som man inte har med att göra. ”Lägga i blöt” å andra sidan betyder att något ligger i vätska för genomfuktning. Bildligt används detta i uttrycket ”lägga sin hjärna i blöt”, att onödigtvis bekymra sig om något. Lägga näsan i blöt är en blandning (kontamination) av dessa två uttryck. Literally, "to soak one's nose". // to be nosy; to poke around in other people's business; Jag tänker inte lägga min näsa i blöt genom att försöka konkurrera med henne om denna fråga. Människan har en inneboende lust att lägga näsan i blöt. 
+— lägga sig i // (verb) engagera sig i något som tidigare inte berört en; to get involved, to meddle or interfere; Jag tycker inte om min granne. Hon lägger sig alltid i. I don't like my neighbor. She's a meddler. 
 — en läkare // a doctor;  K1159; 
 — lämna // (v1) 1. to leave; to not take away with oneself but leave as available for others; to deposit; 2. to leave; to transfer responsibility or attention (to); 3. to leave; to depart from; Gå härifrån och lämna mig i fred. Myggorna vill inte lämna mig i fred! Ni ska lämna in era rapporter på måndag morgon. You are to hand in your reports on Monday morning. K339; 
 — lämplig // (adjektiv: ~t; ~a; ~are; ~aste;) som kan anses fungera bra i en given situation; suitable, appropriate, apposite; Hm, jag har ingen kompost än för jag har inte hittat en lämplig låda. Hmmm, I don't have a compost yet since I haven't found an appropriate box. K1239; 
@@ -1537,7 +1541,7 @@
 — en måndag // (~en; ~ar; ~arna;) månensdag; Monday; Veckan borjar på måndagen. K962; 
 — en måne // (~n; månar; månarna;) moon; Mars har två månar. Mars has two moons. månens matta sken; the dim light of the moon; K3000; 
 — en månfas // nymåne, mörkmåne, första kvarteret, trejde kvarteret... moon phase;  demyr.us/1G2LWJu 
-— många // (pronomen) many; (also used as an adjective and a noun);  K380; 
+— många // (pronomen) many; (also used as an adjective and a noun); Det var många som kom på festen trots det dåliga vädret. K380; 
 — måste // (v4o ~; ~; måst;) must; [PL:Far] K140; 
 — ett mått // (~et; ~; ~en;) 1. föremål som används för att mäta längder, ytor eller volymer; 2. resultatet av en mätning; 1. a measure (unit of measurement); 2. a measure, an action; Jag tvivlar på måtten är precisa. I doubt the accuracy of the measurements. K2293; 
 — en mängd // antal eller volym av någonting, ofta många eller mycket; number; quantity; Många webbplatser innehåller en stor mängd olika webbdokument som man når via länkar. K619; 
@@ -1709,7 +1713,6 @@
 — parkera // (v1) to park; Var parkerade du bilen? Where did you park the car? K6170; 
 — ett pass // (~et; ~; ~en;) 1. passport (document granting permission to pass); 2. place which you (must) pass or is passing; pass (between mountains); 3. pace; a kind of gait; 4. place where a hunter hunts; place where a policeman patrols; 5. spell (a period of duty); 6. leave notice (document granting permission to leave) (from prison); Han tog varken med passet eller tandborsten. 
 — passa // (v1) 1. fit, suit; be suitable; 2. (of clothes) fit; be of the right size and cut; 3. pass (move the ball or puck to a teammate); 4. (in extension) give, hand over; 5. look after (pets or children); Var passar vi in i det stora kosmiska schemat? Where do we fit in the grand cosmic scheme? K751; 
-— en pasta // pasta;  K3615; 
 — en patrull // (~en;) patrol, squad; Fyradagarspatrull i West of MeS. K7438; 
 — en paus // 1. rast; ledig tid mellan två aktiviteter; 2. (musik) bestämt intervall av tystnad i ett musikaliskt stycke; pause, break;  K3366; 
 — peka // (v1) rikta ett finger/handen (eller annat ofta avlångt föremål) mot något specifikt i syfte få uppmärksamhet ditåt; to point; Far pekade ut metställena. Father pointed out the fishing holes. [PL:Far] Se här, vännen min, sa (den) ordentliga Åsa och pekade tidningen. K953; 
@@ -2334,7 +2337,7 @@
 — sönder- // a broken ~; torn all in pieces;  
 — söt // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) 1. som innehåller (mycket) socker och/eller smakar som om det gjorde det; 2. som inte innehåller salt; 3. gullig; 4. (om vin) som har en hög grad av sötma; 1. sweet; of the taste of sugar; 2. sweet; not salty; 3. cute; 4. (of water) fresh; not salty; De säljer söt äppelcider. They sell sweet apple cider. Är det här din son? Vad sött! Is this your son? How cute! K2851; 
 — söva // (v söv!; söver; sövde; sövt; ~nde|~ndes; sövd;) få någon att somna; Besläktade ord: sova, somna, sömn, sömnig; cause someone to fall asleep;  
-— ta // (v4s ~!; ~r; tog; ~git; ~gande; ~gen;) skaffa sig kontroll över, gripa, fatta; take, grab; (19 more definitions); [kelly: e.g. ta av/bort/med/upp/ut]; Gentlemannen tog av sig sina handskar och cylinderhatt. The gentleman took off his gloves and top hat. Jag ska köra bil, så jag tar bara ett glas vatten. I have to drive, so I'll just have a glass of water. Mamma tog bilen till jobbet och pappa tog bussen. Min bror tar studenten om en månad. My brother will graduate in a month. [PL:Far] Ta ut skräpet. K137; 
+— ta // (v4s ~!; ~r; tog; ~git; ~gande; ~gen;) skaffa sig kontroll över, gripa, fatta; take, grab; (19 more definitions); [kelly: e.g. ta av/bort/med/upp/ut]; Gentlemannen tog av sig sina handskar och cylinderhatt. The gentleman took off his gloves and top hat. Jag ska köra bil, så jag tar bara ett glas vatten. I have to drive, so I'll just have a glass of water. Mamma tog bilen till jobbet och pappa tog bussen. Min bror tar studenten om en månad. My brother will graduate in a month. [PL:Far] ta sedan dit man kommer; when in Rome; Ta ut skräpet. K137; 
 — ta av // (verb) take off, remove, shorten; Hon tog av sig tofflorna och satte på sig skorna igen. She took off her slippers and put on her shoes again. Ta av dig de där smutsiga kläderna! Take those dirty clothes off! 
 — ta det lungt // take it easy;  
 — ta emot // (verb) receive visitors; accept money; Ishotellet kan ta emot 130 nattgäster, som sover i sovsäckar på djurhudar som breds ut över issängar. ICEHOTEL can accommodate 130 guests, who sleep in sleeping bags on furs spread out over ice beds. 
@@ -2459,7 +2462,7 @@
 — en tron // (~en;) throne;  K4930; 
 — trona // (v ~r; ~de; ~t;) ha en framträdande placering (på en tron el. dyl.); be enthroned; Du tronar på minnen från fornstora dar, då ärat ditt namn flög över jorden. You rest on the memories of the great days of yore. 
 — en tronföljare // successor to the throne;  
-— trots // (preposition) in spite of, despite (that); De kom i tid trots att de försov sig. They arrived on time despite the fact that they overslept. Stranden var full av barn, trots regnet. The beach was full of kids, despite the rain. Trots min motvilja, gick jag med honom. In spite of my reluctance, I went with him. K545; 
+— trots // (preposition) fastän det finns (eller kunde tänkas finnas) ett hinder i; in spite of, despite (that); De kom i tid trots att de försov sig. They arrived on time despite the fact that they overslept. Det var många som kom på festen trots det dåliga vädret. Stranden var full av barn, trots regnet. The beach was full of kids, despite the rain. Trots min motvilja, gick jag med honom. In spite of my reluctance, I went with him. K545; 
 — en trumma // (~n; trummor; trummorna;) a drum;  K4715; 
 — trumma // (v1) to drum;  
 — en trumpinne // (~n; trumpinnar; trumpinnarna;) drumstick (percussion, not chicken);  
@@ -2501,14 +2504,14 @@
 — en tvättmaskin // washing machine;  K7272; 
 — ett tvättställ // (~et; ~; ~en;) ofta i toalett eller badrum väggmonterad några kubikdecimeter stor skålformad vattenbehållare med kran för flytande vatten monterad ovan behållaren och avlopp i behållarens botten, i syfte att användas av människor vid exempelvis hand- och ansiktstvätt; Synonymer: handfat; sink;  
 — tycka // (v2b tyck!; tycker; tyckte; tyckt; ~nde; tyckt;) 1. ha en uppfattning om något; subjektivt anse något; 2. ha en åsikt om något; 3. (endast i passiv verbform: tyckas) ge ett intryck av att vara; to think of; to have an opinion about; [kelly: e.g. tycka om, tycka synd om]; Jag trodde far skulle bära mig över, men han sade inget, han ville väl jag skulle vara som han och inte tycka det var någonting. I thought father should carry me over, but he said nothing, he wanted well I should be as him and not think it was something. [PL:Far] Så kände vi oss till sist trötta och tyckte vi fått nog, och vi gav oss på väg hemåt igen. Then we finally felt tired and thought that we had enough, and we set off on the road homeward again. K199; 
-— tycka om // (v tycker om;) to like (enjoy); Ibland tycker jag inte om det! Jag tycker om sova länge. 
+— tycka om // (v tycker om;) to like (enjoy); Ibland tycker jag inte om det! Jag tycker inte om min granne. Hon lägger sig alltid i. I don't like my neighbor. She's a meddler. Jag tycker om sova länge. 
 — ett tyg // 1. (dated) gear, equipment (especially for the military) ( cf, tygmateriel); I get the impression that `tyg` is the combination of `utrustning og kläder`... `kit`? 2. cloth, textile, fabric;  K1961; demyr.us/1G2NrHI 
 — en tyngd // (~en; ~er; ~erna;) 1. (uncountable) weight; a force on an object due to the gravitational attraction; 2. weight; a disc of iron, dumbbell, or barbell used for training the muscles. 3. weight; importance;  K4292; 
 — en tyngdpunkt // (~en;) schwerpunkt, center of gravity, the emphasis, main point of focus, (the most important thing); När Konstantinopel grundades som huvudstad i öst blev staden nytt centrum i det romerska riket, tyngdpunkten sköts bort från Rom. 
 — tyska // German;  K5141; 
 — Tyskland // Germany;  
 — tyst // (adjektiv: ~; ~a; ~are; ~ast; ~aste;) nästan eller helt ljudlös; som endast ger svaga ljud ifrån sig; 1. quiet; with little or no sound; 2. quiet; having the attribute of not talking much; Det är alldeles för tyst och tråkigt i klassen utan dig. Det är tyst och kallt, temperaturen inomhus ligger mellan -3° och -6°C [tre och sex minusgrader], men på morgonen kan man ta ett bastubad för att värma sig. It is quiet and cold, the temperature inside is between M3 and M6, but in the morning one can take a sauna to warm up. [PL:Far] Vi gick tysta. We walked quietly. K2354; 
-— tyst // (adverb) quietly; causing little or no sound; Det är alldeles för tyst och tråkigt i klassen utan dig. [PL:Far] K2655; 
+— tyst // (adverb) quietly; causing little or no sound; [PL:Far] K2655; 
 — tystlåten // (adjektiv: tystlåtet; tystlåtna; tystlåtnare; tystlåtnast; tystlåtnaste;) som sällan och ogärna yttrar sig; taciturn; Silent; temperamentally untalkative; disinclined to speak;  
 — tyvärr // (adverb) unfortunately; Nej, tyvärr. Jag pratar bara engelska. K642; 
 — en tå // (~n; ~r; ~rna;) a toe;  K5483; 
@@ -2725,10 +2728,10 @@
 — en vårdagjämning // (~en; ~ar; ~arna;) tidpunkten då solskivans centrum passerar himmelsekvatorn; spring equinox; Vårdagjämningen 2016 är 20 mars kl. 04.30. Dagjämning är en tidpunkt (inte en dag). 
 — en vårdcentral // health clinic;  K5833; 
 — väcka // (v väck!; väcker; väckte; väckt; ~nde|~ndes; väckt;) få (någon som sover) att vakna; Synonymer: purra; Besläktade ord: väckning, vaken, vakna; (transitive) to wake up; to cause someone to stop sleeping; [PL:Far] Vi väcktes förskräckta ur våra tankar. We were frightfully awakened from our thoughts. K1317; 
-— ett väder // (vädret;) the weather; Det finns inget dåligt väder, bara dåliga kläder! Det finnes ikke dårlig vær, bare dårlige klær! Hur ser vädret för imorgon ut? What's the weather prediction for tomorrow? Mulet väder med lokala regnskurar. Generally cloudy with scattered showers. Vad är det för väder i dag? K1724; 
+— ett väder // (vädret;) the weather; Det finns inget dåligt väder, bara dåliga kläder! Det finnes ikke dårlig vær, bare dårlige klær! Det var många som kom på festen trots det dåliga vädret. Hur ser vädret för imorgon ut? What's the weather prediction for tomorrow? Mulet väder med lokala regnskurar. Generally cloudy with scattered showers. Vad är det för väder i dag? K1724; 
 — en väg // (~en; ~ar; ~arna;) road, path, way; fågelvägen; as the crow flies; hitta vägen ("hitta rätt"); idiom: find the way; hur lång väg har du till arbetet? how far is it to your work? krokiga vägar; winding roads; Om is på vägen man kan halka. [PL:Far] på den vägen är det; that's the way it is; Solen sken varmt och vi gav oss friskt på väg. The sun shined warmly and we embarked refreshingly upon the road. stå/vara i vägen ("hindra"); idiom: stand/be in the way ("hinder"); Så kände vi oss till sist trötta och tyckte vi fått nog, och vi gav oss på väg hemåt igen. Then we finally felt tired and thought that we had enough, and we set off on the road homeward again. tre timmars väg; a three-hour journey; vart tog han vägen? ("var blev han av?") idiom: where did he go? ("what happened to him?") Vägen kröker sig åt höger. The road curves to the right. K302; 
 — väga // (v2a väg!; väger; vägde; vägt; ~nde|~ndes; vägd;) to weigh; [PL:Far] Så kände vi oss till sist trötta och tyckte vi fått nog, och vi gav oss på väg hemåt igen. Then we finally felt tired and thought that we had enough, and we set off on the road homeward again. K1896; 
-— en vägg // (~en; ~ar; ~arna;) ofta plan, rektangulär struktur (ofta av sten, betong, gips eller trä) som avgränsar ett rum; wall (permanent, substantial side or division in a building); Det är som prata med en vägg. It's like talking to a wall. Räkna tegelstenarna i väggen om du har tråkigt. Count the bricks in the wall if you're bored. ställa (någon) mot väggen ("tvinga (någon) att ge besked") idiom: put (somebody) up against the wall ("force (somebody) to make a statement") uppåt väggarna ("alldeles fel") idiom: all wrong; K1677; 
+— en vägg // (~en; ~ar; ~arna;) ofta plan, rektangulär struktur (ofta av sten, betong, gips eller trä) som avgränsar ett rum; wall (permanent, substantial side or division in a building); Det är som prata med en vägg. It's like talking to a wall. köra huvudet i väggen; run one's head against a (stone) wall; Räkna tegelstenarna i väggen om du har tråkigt. Count the bricks in the wall if you're bored. ställa (någon) mot väggen ("tvinga (någon) att ge besked") idiom: put (somebody) up against the wall ("force (somebody) to make a statement") uppåt väggarna ("alldeles fel") idiom: all wrong; K1677; 
 — en väggmålning // wall painting, mural;  
 — en vägkorsning // crossroads, intersection;  
 — ett vägmärke // a roadsign;  
@@ -2780,7 +2783,7 @@
 — ålderdomlig // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) 1. som främst användes tidigare i historien; 2. som inte längre är på modet; 3. som förlorat eller blivit av med sin aktualitet; archaic (old-fashioned or antiquated); Metoden att räkna med kulramar är ålderdomlig. 
 — ånga // (v ~!; ~r; ~de; ~t; ~nde|~ndes; ~d;) 1. avsöndra ånga; Fraser: ånga på, få upp ångan; 2. (filateli) placera ett kuvert med ett frimärke i vattenånga, för att klistret på märket ska släppa; to steam; [PL:Far] K7983; 
 — en ångest // (~en;) (psykologi) mycket stark, påträngande känsla av rädsla, oro eller olust; Synonymer: rädsla, skräck, fasa, vånda, bävan; Jämför: (lättare:) ängslan; Vanliga konstruktioner: ångest för/inför/över ngt; Fraser: (kollokationer:) fylld av ångest; bäva/darra/skaka av ångest; gripas/plågas av ångest; bära på en ångest; ge ngn ångest; göra ngt i sin ångest; angst; anxiety (pathological condition); Jag anade vad det betydde, det var den ångest som skulle komma, allt det okända, det som far inte visste något om, som han inte skulle kunna skydda mig för. I imagined what it meant, it was the angst that would come, all the unknown, that which father didn't know anything about, that he wouldn't be able to protect me from. Jag har aldrig varit så kär i någon man att ett knappt dygn i sär väcker ångest. [PL:Far] Uppjagad, flämtande av ångest stod jag och såg efter den vilda synen. Upset, panting from anxiety, I stood and watched after the wild vision. K2804; 
-— ett år // (~et; ~; ~en;) year; i år; this year; Idag fyller Aslak 50 år. Jag är 50 år. Nästa år är ett skottår. Next year is a leap year. [PL:Far] K148; 
+— ett år // (~et; ~; ~en;) en tidsenhet som betecknar den tid det tar för jorden att passera ett varv runt solen, vilken delas in i tolv månader och består av 365 eller 366 dygn, i genomsnitt c:a 365,25 dygn; year; i år; this year; Idag fyller Aslak 50 år. Jag är 50 år. Nästa år är ett skottår. Next year is a leap year. [PL:Far] K148; 
 — ett århundrade // (~t; ~n; ~na;) century; Han var inspirerad av svensk hemslöjd, d.v.s. de praktiska föremål som män och kvinnor i århundraden tillverkat i trä, metall och textil för användning i det vardagliga livet. He was inspired by swedish handicrafts, that is, the practical things that men and women of this centure worked in wood, metal and fabric for use in their daily lives. K2492; 
 — ett årsmöte // annual meeting;  K5044; 
 — en årstid // season;  K6039; 
@@ -2836,7 +2839,7 @@
 — ett öga // (~t;) an eye;  K679; 
 — ett ögonblick // (~et; ~; ~en;) kort tidsperiod; moment; instant;  K1972; 
 — en ögonbryn // an eyebrow;  K6504; 
-— ett ögonlock // (anatomi) hud- och slemhinneveck som kan slutas framför ett öga; an eyelid  K86; 
+— ett ögonlock // (anatomi) hud- och slemhinneveck som kan slutas framför ett öga; an eyelid;  K86; 
 — öka // (v1) to increase;  K283; 
 — en öl // (~en;) alkoholdryck som görs av malt, humle och vatten; beer (a serving, as in one bottle or glass); Ett glas öl. Kan jag få en öl, tack. K2611; 
 — ett öl // (~et; ~; ~en;) alkoholdryck som görs av malt, humle och vatten; a beer (a kind or brand of beer); Jag smakade ett riktigt gott öl igår. I tasted a really delicious brand of beer yesterday. 
