@@ -229,7 +229,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 811,13931,122.20,x,x,,syn,noun-en,
 813,13899,121.92,x,x,ett,avtal,noun-ett,
 814,13874,121.70,x,x,en,lek,noun-en,
-818,13839,121.39,x,x,att,ange,verb,
 821,13786,120.93,x,x,en,individ,noun-en,
 825,13737,120.50,x,x,,ned,particle,
 828,13666,119.87,x,x,en,ek,noun-en,
