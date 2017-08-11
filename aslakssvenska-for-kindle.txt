@@ -585,6 +585,7 @@
 — fram till // på framsidan; synonymer: framme; up until; Har juryn kommit fram till någon dom? Has the jury reached a verdict? Kan någon berätta för mig när vi kommer fram till stationen? Can someone tell me when we will arrive at the station? 
 — framför // (preposition) in front of; Annika föredrar fläsk framför nötkött. Annika prefers pork to beef. Dina stövlar står framför dörren. Your boots are in front of the door. Jag tittade, och framför mig stod en blek häst! K892; 
 — framme // (adverb) at the front (of the bus); at the end of a journey;  K3644; 
+— framställa // (v framställ!; framställer; framställde; framställt; ~nde|~ndes; framställd;) 1. presentera ett resonemang eller en uppfattning; 2. (kemi) skapa ett ämne; 1. to produce, to manufacture; 2. to produce, to present, to visualize, to describe, to narrate; Ett av de ämnen, som sysselsatte honom, var näcken, denne framställde han än som gubbe, än som yngling, sittande i en fors, spelande på guldharpa, än i blå natt, än i flödande solsken. (Svensk konst och svenska konstnärer i nittonde århundradet, Georg Nordensvan) K1990; 
 — en framtid // (~en; ~er; ~erna;) 1. future (the time ahead); 2. future; something that will happen; Jag låter inte min framtid avgöras av slumpen. I will not leave my future up to chance. Resten skulle jag nog spara, för man vet aldrig vad som kan hända i framtiden. K520; 
 — en fred // (~en; ~er; ~erna;) peace; Gå härifrån och lämna mig i fred. Myggorna vill inte lämna mig i fred! Om du vill fred rusta dig för krig. — Svenska Dagbladet; Si vis pacum, para bellum. K1324; 
 — en fredag // (~en;) Friday; i fredags; last Friday; K926; 
@@ -799,6 +800,7 @@
 — en grönsak // (~en; ~er;) vegetable; Pumpan är den mest köpta grönsaken i oktober. The pumpkin is the most bought vegetable in October. K4320; 
 — en grönska // (~n;) grön färg, särskilt om gröna växter eller växtdelar (såsom blad och gräs); the green (of spring and summer), greenery; [PL:Far] K7168; 
 — grönska // (v1) 1. vara eller bli grön; 2. blomstra, frodas, växa, gå framåt; [PL:Far] K8333; 
+— en gubbe // (~n; gubbar; gubbarna;) 1. (vardagligt, potentiellt nedsättande) äldre man; 2. (vardagligt, något ålderdomligt) make, man som man är tillsammans med; 3. (vardagligt) kamratlig man, ung som gammal; 4. (vardagligt) spelfigur; 1. an old or elderly man (can be derogatory); 2. one's husband; 3. (dialectal) little lump;  K2777; 
 — en gud // (~en; ~ar; ~arna;) a god; [PL:Far] K847; 
 — gul // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) yellow;  K2485; 
 — gullig // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) 1. (vardagligt) som på ett mjukt, varmt, vackert och oskyldigt känslofullt sätt ger välmående; 2. (vardagligt) snäll; sweet, cute (having a pleasing disposition);  
@@ -1021,6 +1023,7 @@
 — en ingång // an entry;  K3947; 
 — innan // (preposition) anger att något förekommer eller inträffar tidigare i tiden; before (earlier than in time); Gå nu och kissa innan du kissar på dig, lilla vän. Man måste tina upp kalkonen innan man lägger in den i ugnen. You have to defrost the turkey before putting it in the oven. K3374; 
 — inne // (adverb) inside (position); Då, när vi var inne i en kurva, hörde vi plötsligt ett väldigt dån bakom oss! Then, when we were inside a curve, we suddenly heard a great roar behind us! [PL:Far] K1121; 
+— inneboende // (adjektiv) 1. som på visst sätt skaffat permanent kost och logi hos annan person; 2. som utgör naturlig eller medfödd inre del av personlighet, system e.d.; 1. inherent, intrinsic; Människan har en inneboende lust att lägga näsan i blöt. 
 — innebära // (v4 innebär; innebar; inneburit;) ha som innebörd, konsekvens eller logisk följd; to imply, to mean; Vad tror du talet innebär? What do you think the speech implied? Vaktsystem finns ombord på handelsfartyg när besättningen är indelad i vakter enl. ett vaktsystem. Detta för att alla viktiga poster skall vara bemannade dygnet om. Sådana uppgifter kan vara: Styrman, Utkik, Rorgängare, Maskinist. Det vanligaste är att besättningen går sk. 4-8 vakt. Det innebär att varje person har vakt 4 timmar och därefter 8 timmar vila före nästa 4 timmars pass osv. Dessa vakter är normalt 00-04, 04-08, 08-12, 12-16, 16-20, 20-24. K308; 
 — ett innehåll // (~et; ~; ~en;) content (that which is contained);  K898; 
 — innehålla // (v4 innehåll!; innehåller; innehöll; innehållit; ~nde;) to contain, to include; Så jag gjorde en jättegod potatisgratäng, som även innehöll morot, broccoli, lök och vitlök. So I made a delicious potato gratin, which included carrot, broccoli, onion and garlic; K707; 
@@ -1185,6 +1188,7 @@
 — en kompis // (~ar;) pal, buddy, mate; Han bara gjorde det för briljera för sina kompisar. He did it just to show off in front of his friends. Man ska inte strunta i sina kompisar. You shouldn't ignore your friends. Men du behöver väl inte bjuda alla kompisar från Goteborg, de där tjejerna som du seglade med till exempel. K1589; 
 — en kompost // (~en; ~er; ~erna;) 1. plats eller behållare för nedbrytninga av organiskt material till kompostjord; 2. det färdignedbrutan kompostinnehållet; kortare för kompostjord; Du ska inte spara den under diskbänken utan du ska ha en liten låda på altanen och ha en kompost där. You shouldn't save it under the counter, but you should have a little box on the balcony and have a compost there. Jag slänger potatisskalet i komposten. 
 — koncentrera // (v1) 1. (reflexivt) försöka att enbart (intentsivt) tänka på något, vanligtvis den aktuella arbetsuppgiften, i syfte att optimera resultatet av arbetet; Vanliga konstruktioner: koncentrera sig på något; 2. (reflexivt) under en längre period försöka att främst tänka på och arbeta med en viss aktivitet; Vanliga konstruktioner: koncentrera sig på något; 3. (kemi, allmänt) öka koncentrationen; göra tätare; fokusera; to concentrate;  
+— konkurrera // (verb) delta i konkurrens; to compete (on a market); Jag tänker inte lägga min näsa i blöt genom att försöka konkurrera med henne om denna fråga. K3186; 
 — en konsonant // a consonant;  
 — en konst // (~en; ~er; ~erna;) art;  K1205; 
 — konstig // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) onormal; från normen avvikande; weird, strange; Känns en uppgift konstig eller fel? Då är den troligen det! Rykten skadar. —FM Feel that a piece of info is strange or wrong? Then it probably is. Rumors hurt. [PL:Far] Träden var så konstiga. The trees were so very strange. K1187; 
@@ -1357,6 +1361,7 @@
 — en lunch // (~en; ~er; ~erna;) måltid mitt på dagen vid lunchtid; a lunch;  K2145; 
 — en lur // (~en; ~ar; ~arna;) 1. horn, trumpet, tratt, hörlur, (handtag till) telefon; 2. en kort sömn, tupplur; 3. (oböjligt) i uttrycket ligga på lur: ligga på vakt, lurpassa; 4. (oböjligt) i uttrycket det är bara lur: att luras, skämta; lurendrejeri; 1. a horn (for making sound signals), an ear trumpet (a hearing aid), a headphone, a headset, a telephone handset; 2. a nap; Han lurar oss alltid; jag litar inte på honom. He always deceives us; I don't trust him. K6045; 
 — lura // (v1) to trick, to fool, to deceive, to lure; Han lurar oss alltid; jag litar inte på honom. He always deceives us; I don't trust him. Tror du du kan lura mig? Tänk dig för! Do you think you can cheat me? Think again! K2381; 
+— en lust // (~en; ~er; ~erna;) 1. det att vilja och vara motiverad att göra något; 2. glädje, ofta med sexuella drifter; 1. (uncountable) lust (a mood of desire), joy, a keen interest; 2. a desire (for something specific); Människan har en inneboende lust att lägga näsan i blöt. K2236; 
 — lustig // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) 1. humoristisk; Synonymer: kvick, rolig, skämtsam; 2. underlig, besynnerlig; 1. funny, humourous; 2. (chiefly colloquial) enjoyable, amusing, fun; Hej tomtegubbar slå i glassen, och låt oss lustiga vara. [PL:Far] Så for vi kring och väsnades en god stund vid strandkanten, satte ut barkbitar som strömmen tog med sig och kastade småsten ut i vattnet för att se vem som kom längst, vi var av naturen glada och lustiga av oss både far och jag. Then we went around and made noise for a good time by the beach edge, put out pieces of bark that the stream took along with it and threw small stones out in the water to see who went the farthest, we were by nature happy and funny (of us?), both father and I. K3707; 
 — lycka till // anger att man hoppas att det ska gå bra för mottagaren; good luck;  
 — lycklig // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) 1. lucky, fortunate (successful by luck); 2. lucky, happy, glad (enjoying peace, comfort, etc; contented, joyous); 3. (obsolete) successful (whether by chance or not); Du gör mig så lycklig! You make me so happy! K1795; 
@@ -1620,6 +1625,7 @@
 — någon // (pronomen) (något, några) (vardagl. nån,  förk. ngn) any, some, anybody, somebody, anyone, someone, anything, something; ha en gås oplockad med någon; have a bone to pick with somebody; Har du några planer för helgen? Do you have any plans for this weekend? [PL:Far] Vad var det för ett, det skulle inte komma något tåg nu! What was that, there shouldn't be any trains now! K135; 
 — någonsin // (adverb) 1. över huvud taget; 2. uttrycker att något händer för första gången; // (vardagl. nånsin); ever (at any time);  K964; 
 — någonting // (pronomen) something, anything; [PL:Far] K819; 
+— Näcken // (folklore) Nix; a water creature in human form who, amongst other things, could lure people to drown in his river by his wonderful violin play;  https://sv.wikipedia.org/wiki/Näcken 
 — nämen // utrop av häpnad; positiv överraskning (kan även vara negativ och likväl neutral); Expresses strong surprise, often positive; Nämen, har du gjort i brallan igen? 
 — när // (adverb) when; (about time) as; När jag kom hem gjorde jag en mumsig proteinshake, omom! [PL:Far] K138; 
 — nära // (adjektiv: ~; ~; närmare; närmast; närmaste;) near, close; Jag bor väldigt nära stationen. I live very close to the station. Jag har sett dem på nära håll. [PL:Far] Var ligger den närmaste marknaden? Where is the nearest market? K455; 
@@ -2123,8 +2129,8 @@
 — sola // (v1) to lie in the sun;  K5768; 
 — en soldat // (~en; ~er; ~erna;) a soldier;  K1099; 
 — solig // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) sunny;  K5030; 
-— som // (konjunktion) as, like; as (in the same was that); [PL:Far] K118; 
-— som // (pronomen) who, which, that; as (to the same extent|degree that); [PL:Far] K94; 
+— som // (konjunktion) 1. as, like; similar to; 2. as; in the same way that; [PL:Far] K118; 
+— som // (pronomen) 1. (relative) who, which, that; 2. as; to the same extent or degree that; [PL:Far] K94; 
 — en sommar // (~en; somrar; somrarna;) summer;  K877; 
 — ett sommarlov // vacation;  K7093; 
 — somna // (v1) fall asleep (to pass into sleep); Jag kan inte somna om jag dricker kaffe på kvällen. K2513; 
@@ -2226,7 +2232,7 @@
 — en stång // (~en; stänger; stängerna;) (av)långt, rakt, solitt föremål, ofta av metall /använd som stomme i byggnadsverk; pole; a long and slender piece of metal or (especially) wood;  K7301; 
 — städa // (v1) 1. to clean; 2. to tidy up; En solig höstdag håller Aslak och Freya pa att städa där hemma. Jag struntar i hur rummet ser ut, såvida det är städat. I don't care how the room looks as long as it is clean. K3320; 
 — ställa // (v2a ställ!; ställer; ställde; ställt; ~nde; ställd;) 1. to set; to put something down in an upright position; 2. to set; adjust (a setting, or a clock); 3. to make someone speechless with confusion; Om Sfinxen ställer en gåta, är det bäst du vet svaret. If the Sphinx asks you a riddle, you better know the answer. ställa (någon) mot väggen ("tvinga (någon) att ge besked") idiom: put (somebody) up against the wall ("force (somebody) to make a statement") Var kan jag ha ställt dem? K347; 
-— ställa fram // (verb) to put in front;  
+— ställa fram // (verb) to put forward; Du måste ställa fram klockan till sommartid imorgon. 
 — ställa in // (verb) to cancel;  
 — ställa sig // (verb) concieve;  
 — ställa upp // (v ställ upp!; ställer upp; ställde upp; stält upp; ställd upp;) 1. to list, to arrange, to chart, to organize (information); 2. to present, to put forward (conditions, requirements, an ultimatum); 3. to line up (people); 4. (intransitive) to show up, to be there (for a friend in need);  
@@ -2291,6 +2297,7 @@
 — en synvinkel // (~n; synvinklar; synvinklarna;) vinkel ur vilket något ses; sätt på hur något betraktas an angle, a viewpoint, an aspect;  K3877; 
 — ett syre // (~t;) 1. grundämnet med atomnummer 8 och kemisk beteckning O.; 2. plats i sjö, hav eller vattensamling där syrehalten i vattnet är lite högre vilket lockar till sig fiskar; oxygen; På höga höjder finns det mindre syre i luften. At high elevations, there is less oxygen in the air. K6297; 
 — ett syskon // (~et; ~; ~en;) siblings;  K3618; 
+— sysselsätta // (v sysselsätt!; sysselsätter; sysselsatte; sysselsatt; ~nde|~ndes; sysselsatt;) 1. to employ (a person for a job); 2. (reflexive) to employ, to occupy (oneself with a task); Befolkningen befinner sig i vissa tillfällen sysselsatt med vardagliga händelser! fabriken sysselsätter tjugo personer; jag sysselsätter mig med att lösa korsord; 
 — en sysselsättning // occupation;  K1929; 
 — syssla // (v1) hålla på /med/; använda med `med`; pyssla;  to do (something), to be busy (work or pastime, but not idleness); Vad sysslar du med? Vad sysslar han med? K2356; 
 — ett system // (~et; ~; ~en;) 1. flera objekt som är sammansatta till en helhet; samling objekt som hänger samman med varandra så att de bildar en ordnad helhet; 1. a system, a way or method of organizing items and knowledge; 2. a computer system (primarily its hardware); 3. a system of restricted sales of alcohol, including state-owned monopoly shops;  K473; 
