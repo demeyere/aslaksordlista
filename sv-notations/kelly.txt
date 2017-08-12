@@ -1,3 +1,8 @@
+---
+title: destructive copy of kelly list for aslakssvenskasordbok
+revised: 2017-08-12 09:11 
+---
+
 ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 -----------------
 4,,,x,x,en,brunch,noun-en,
@@ -33,14 +38,13 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 66,,,x,x,en,tia,noun-en,
 69,,,x,x,,tiotusen,numeral,
 78,,,x,x,en,utbildningsminister,noun-en,
-81,,,x,x,,åtta,numeral,
+80,,,x,x,en,åtta,noun-en,
 84,,,x,x,en,änkeman,noun-en,
 85,,,x,x,en,änkling,noun-en,
 96,1420786,12462.73,x,x,,å,prep,e.g. å ena sidan ... å andra sidan
 91,1816701,15935.58,x,x,,dess,pronoun,
 92,1662413,14582.21,x,x,,det,pronoun,
 108,719843,6314.26,x,x,,ett,det,
-110,633759,5559.15,x,x,att,unna,verb,
 121,381431,3345.80,x,x,,de,pronoun,
 124,367250,3221.41,x,x,,det,det,
 198,105549,925.85,x,x,,el,noun-en,
@@ -51,7 +55,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 292,49617,435.23,x,x,,samt,conj,
 294,48981,429.65,x,x,,innan,subj,
 295,48934,429.24,x,x,,som,adverb,
-305,47443,416.16,x,x,en,stat,noun-en,
 309,47014,412.39,x,x,,genom att,subj,
 311,46879,411.21,x,x,en,möjlighet,noun-en,
 317,45947,403.03,x,x,ett,inlägg,noun-ett,
@@ -264,7 +267,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 891,12599,110.51,x,x,,"så kallad (förk. s.k., s k)",adverb,
 893,12588,110.42,x,x,en,ande,noun-en,
 894,12588,110.42,x,x,att,bilda,verb,
-902,12448,109.19,x,x,en,konflikt,noun-en,
 906,12326,108.12,x,x,,samtidigt som,subj,
 907,12306,107.94,x,x,,demokratisk,adjective,
 908,12290,107.80,x,x,,fel,adverb,
@@ -412,7 +414,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 1197,8943,78.45,x,x,,"etcetera (el. et cetera, förk. etc.)",adverb,
 1198,8931,78.34,x,x,att,anföra,verb,
 1202,8876,77.86,x,x,,produktion,noun-en,
-1204,8844,77.58,x,x,att,hindra,verb,
 1206,8829,77.45,x,x,,speciell,adjective,
 1210,8796,77.16,x,x,att,meddela,verb,
 1211,8784,77.05,x,x,,omöjlig,adjective,
@@ -725,7 +726,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 1690,5664,49.68,x,x,en,kollega,noun-en,
 1691,5661,49.66,x,x,att,inträffa,verb,
 1692,5654,49.60,x,x,,sjukvård,noun-en,
-1693,5644,49.51,x,x,att,överleva,verb,
 1694,5642,49.49,x,x,,sannolikt,adverb,
 1695,5641,49.48,x,x,,i första hand,adverb,
 1697,5635,49.43,x,x,,näringsliv,noun-ett,
@@ -1459,7 +1459,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 2770,2738,24.02,x,x,,värdig,adjective,
 2772,2735,23.99,x,x,att,umgås,verb,
 2774,2732,23.96,x,x,ett,element,noun-ett,
-2775,2732,23.96,x,x,,fredlig,adjective,
 2778,2730,23.95,x,x,att,arrangera,verb,
 2779,2730,23.95,x,x,en,skugga,noun-en,
 2780,2720,23.86,x,x,att,pressa,verb,
@@ -4081,7 +4080,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 5931,738,6.47,x,x,,otänkbar,adjective,
 5932,738,6.47,x,x,ett,varsel,noun-ett,
 5933,,6.47,x,x,ett,tillbehör,noun-ett,
-5934,737,6.46,x,x,,betong,noun-en,
 5935,737,6.46,x,x,en,nybörjare,noun-en,
 5936,737,6.46,x,x,en,ruin,noun-en,
 5937,737,6.46,x,x,ett,sortiment,noun-ett,
