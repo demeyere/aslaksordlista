@@ -204,7 +204,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 752,15067,132.16,x,x,,lokal,adjective,
 753,15000,131.58,x,x,,ytterligare,adverb,
 755,14850,130.26,x,x,att,införa,verb,
-758,14783,129.67,x,x,ett,sammanhang,noun-ett,
 761,14773,129.58,x,x,en,produkt,noun-en,
 763,14744,129.33,x,x,,efter,adverb,
 764,14719,129.11,x,x,en,match,noun-en,

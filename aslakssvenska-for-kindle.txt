@@ -776,6 +776,7 @@
 — en grav // (~en; ~ar; ~arna;) a grave;  K2813; 
 — en graviditet // a pregnancy;  K4605; 
 — en grej // (~er;) a thing; En smutt grej med filmer från 20-talet är att man får bestämma musiken själv. A nice feature of movies from the 20s is that you can pick your own music. K1804; 
+— greppa // (v1) 1. ta tag i och hålla fast; 2. förstå; kunna se sammanhang och samband; grasp, grab hold of;  
 — grilla // (v1) tillaga mat över glödande träkol, gaslåga, fyrfat, lägereld eller liknande; ibland på en grill, och då ofta på galler; to grill;  K6085; demyr.us/1FdVbbm 
 — grillad // (adjektiv: grillat; ~e;) grilled;  
 — gripa // (v4s grip!; griper; grep; gripit; ~nde|~ndes; gripen;) 1. to catch hold of; 2. to seize; 3. to detain, to arrest; to take into legal custody; 4. to touch deeply, to catch one's sympathies; Polisen grep en ficktjuv igår. The police arrested a pick-pocket last night. K1822; 
@@ -862,7 +863,7 @@
 — hej på er // hi there;  
 — heja // (v1) 1. hälsa på någon genom att säga "hej"; 2. stödja någon eller något i något slags tävling framför andra tävlande; 3. uppvisa tydligt att man hejar (se ovan) på något, exempelvis genom att säga ordet "heja"; to cheer; or as an interjection (come on!); to say hi, to greet;  K5785; 
 — hel // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) 1. all; whole; complete; 2. not broken; in order; Barnen åker skridskor på dammen när den är helt fryst. The children ice-skate on the pond once it is frozen solid. Jag har jobbat hela dagen; jag är slutkörd. I've worked all day long; I'm exhausted. Karin Larssons textilier i ljusa färger och barnkläder, designade för lek och lättskötthet, var någonting helt nytt för sin tid och de är fortfarande populära. Karin Larssons textiles in light colors and children's clothes, designed for play and easy maintenance, were something entirely new for their time and are still popular. [PL:Far] Såg du meteorregnet igår? Helt fantastiskt! Did you see the meteor shower last night? Amazing! K189; 
-— en helg // (~en; ~er; ~erna;) a weekend day; the weekend; a holiday (contextual); Jag söp för mycket i helgen. I drank too much last weekend. K1038; 
+— en helg // (~en; ~er; ~erna;) en eller flera sammanhängande dagar som kännetecknas av att många yrkesgrupper arbetar mindre än vanligt; alla lör- och söndagar samt vissa andra speciella dagar under året; 1. a (religious) holiday; 2. a weekend; Jag söp för mycket i helgen. I drank too much last weekend. K1038; 
 — helga // (v1) to hallow, to keep holy, to worship;  
 — heller // (adverb) neither (only in use together with a negative); Himlen var alldeles klar, inte ett moln syntes till, och det kunde heller inte bli några på den här dan, efter vad far sa. The sky was absolutely clear, not a cloud could be seen, and neither could it become (cloudy) on this day, after what father said. Inte jag heller. Me neither. [PL:Far] K392; 
 — ett helskägg // full beard;  
@@ -1921,6 +1922,7 @@
 — samla // (v1) 1. i princip försöka erhålla så många föremål som möjligt av en viss typ, ofta av intresse; Synonymer: (ålderdomligt) samka, (orsamål) sönka; 2. hämta föremål eller individer från olika platser och lägga dessa tillsammans (ofta i passivum); 3. (reflexivt: samla sig) återfå lugn och/eller koncentration, lämna ett (mentalt) tillstånd där känslor styrt; 1. to collect, to gather, to organize; 2. (reflexive) to pull oneself together; Han samlar på affischer av gamla skräckfilmer. He collects posters of old horror movies. K837; 
 — en samling // (~en; ~ar; ~arna;) 1. grupp av relaterade saker; 2. det att samlas, insamling; a collection; Han hade en stor samling av historiska föremål. K1088; 
 — samma // (pronomen) same;  K205; 
+— ett sammanhang // (~et; ~; ~en;) det som något hör ihop med; kontext; Etymologi: Av tyska Zusammenhang, vilket kommer av verbet zusammenhängen, "hänga ihop". a context (circumstances or settings);  K758; 
 — ett samtal // (~et; ~; ~en;) 1. a conversation, a talk, an interview, a review; 2. a phone call, a call;  K1134; 
 — ett samvete // (~t; ~n; ~na;) a conscience (moral sense);  K3193; 
 — sank // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) (om mark) lågt belägen och fylld av mycket vatten; Synonymer: sumpig, vattensjuk, sidlänt; marshy; [PL:Far] Skogen är ganska dunkel och på sina ställen lite sank och träsklik. 
@@ -2024,6 +2026,7 @@
 — en skur // (~en; ~ar; ~arna;) plötsligt regn; kortvarigt (häftigt) regn; Idiom: i ur och skur ("i alla väder") (in all weathers); Mulet väder med lokala regnskurar. Generally cloudy with scattered showers. 
 — ett skydd // (~et; ~; ~en;) 1. försvarande; skyddande; 2. föremål som ser till att något eller någon behålls i nuvarande tillstånd, det vill säga inte kommer till skada, stjäls eller liknande; 1. a cover, a protection; something that covers or protects; 2. (colloquial) a contraceptive, especially a condom; miljöskydd (environmental protection); Skydd är ett av tre grundläggande behov. Shelter is one of three basic needs. K1213; 
 — skydda // (v1) se till att något eller någon behålls i nuvarande tillstånd, det vill säga inte kommer till skada, stjäls eller liknande; to protect; Jag anade vad det betydde, det var den ångest som skulle komma, allt det okända, det som far inte visste något om, som han inte skulle kunna skydda mig för. I imagined what it meant, it was the angst that would come, all the unknown, that which father didn't know anything about, that he wouldn't be able to protect me from. [PL:Far] K1082; 
+— ett skyfall // (~et; ~; ~en;) kraftig regnstorm; // Med skyfall menas stora mängder regn på kort tid. Definitionen enligt SMHI är minst 50 mm per timme eller minst 1 mm på en minut; a cloudburst; (think... rain-hike...)  
 — en skyffel // (~n; skyfflar; skyfflarna;) En skyffel eller skovel är en form av spade, med den skillnaden att en skyffel har en rak bladkant (till skillnad från en spade som har ett spetsigt blad). Skyffeln används främst till löst material som grus eller snö. shovel; Man använder en skyffel för att skotta snö. 
 — skyffla // (v1) medelst skyffel skjuta undan; Synonymer: skotta; to shovel; Elden flammade i det väldiga lokomotivet där de skyfflade in kol, gnistorna yrde vilt ut i natten. The fire blazed in the enormous locomotive at the place where they shoveled in coal, sparks wildly whirled out into the night. [PL:Far] 
 — en skylt // (~en; ~ar; ~arna;) tavelliknande anordning försedd med någon form av upplysning, vanligen avsedd för allmänheten; 1. a sign; a clearly visible object bearing a short message in words or pictures. 2. a traffic sign;  K3259; 
@@ -2867,6 +2870,7 @@
 — öppna // (v1) 1. open (to make something accessible); 2. to become open; 3. open; to begin conducting business; Det är så roligt se barn öppna sina julklappar. It's so funny to see children opening their Christmas gifts. [PL:Far] Vad händer om fallskärmen inte öppnas? What would happen if the parachute doesn't open? K754; 
 — ett öra // an ear;  K2137; 
 — en örn // (~en; ~ar; ~arna;) (zoologi) vardagligt samlingsnamn för en grupp större rovfåglar inom familjen hökfåglar; eagle;  K7610; 
+— ett ösregn // (~et;) (meteorologi) mycket kraftigt regn;  
 — öster // (adverb) east; eastward; Gotland är den största ön i Östersjön. Hudson är öster om Minneapolis. 
 — östra // (adjektiv) eastern;  K2557; 
 — öva // (v1) to practice, to train to do something, to exercise; Vi övar på att spela trummor. We practice playing drums. K270; 
