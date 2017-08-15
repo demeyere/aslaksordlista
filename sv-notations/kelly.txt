@@ -98,7 +98,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 480,25384,222.66,x,x,,internationell,adjective,
 481,25384,222.66,x,x,,nationell,adjective,
 484,24824,217.75,x,x,en,typ,noun-en,
-489,24672,216.42,x,x,en,polis,noun-en,
 490,24601,215.79,x,x,ett,medium,noun-ett,
 494,24337,213.48,x,x,ett,ansvar,noun-ett,
 495,24327,213.39,x,x,en,roll,noun-en,
@@ -1581,7 +1580,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 2942,2486,21.81,x,x,,i och med,adverb,
 2943,2486,21.81,x,x,en,konstruktion,noun-en,
 2944,2485,21.80,x,x,ett,arkiv,noun-ett,
-2945,2485,21.80,x,x,ett,äventyr,noun-ett,
 2948,2480,21.75,x,x,,humor,noun-en,
 2949,2477,21.73,x,x,,like,noun,e.g. utan dess like
 2950,2477,21.73,x,x,en,paragraf,noun-en,

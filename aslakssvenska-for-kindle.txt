@@ -736,7 +736,7 @@
 — geggig // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) stickey, gooey;  
 — gemensam // (adjektiv: ~t; ~ma;) common, joint, mutual;  K554; 
 — gen // (adjektiv: ~t; ~a; ~are; ~aste;) (om väg) som går rakt till målet och därigenom är kortare än alternativen; utan omväg;  
-— genast // (adverb) just nu (eller då) i denna stund, direkt; utan att vänta; immediately, at once, right away;  K1939; 
+— genast // (adverb) just nu (eller då) i denna stund, direkt; utan att vänta; immediately, at once, right away; Man ska genast ringa polisen som tar hand om saken. K1939; 
 — generös // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) generous;  K4224; 
 — genom // (preposition) 1. through; from one side of an opening to the other; 2. through; entering something at one place, exiting somewhere else (on the opposite side); 3. through; surrounded by (while moving); 4. (together with att): by means of; 5. across (of time); Jag lärde mig det genom kolla på dig, Pappa! I learned it from watching you, Dad! Slutligen så så har vi genom erfarenhet lärt oss lite hur man lyckas få till pizzorna, hur man lättast transporterar dem till och från grillen, samt det viktigaste hur man får till den rätta frasigheten och ser till att fyllningen är lagom grillad. Vill du fotvandra genom skogen? Do you want to hike through the woods? K225; 
 — genomblöt // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) soaked; Jag är genomblöt av svett efter jag sprungit. I am soaked in sweat after running. 
@@ -1767,6 +1767,7 @@
 — en polardag //  
 — en polarnatt //  
 — en polcirkel // (~n;) Arctic Circle;  
+— en polis // (~en; ~er; ~erna;) 1. (sällan i plural) samhällsorganisation med uppgift att bekämpa brottslighet och att upprätthålla lag och ordning i en stat eller stad; 2. (yrken) person som arbetar inom polisen; police (as an organization or as an individual); Man ska genast ringa polisen som tar hand om saken. Polisen försökte skingra massan. Polisen hittade två lik på brottsplatsen. The police found two corpses at the scene of the crime. K489; 
 — politisk // political;  K313; 
 — polstjärnan // (substantiv) Polaris;  
 — populär // (adjektiv: ~t; ~a; ~are; ~ast; ~aste;) popular (beloved or approved by the people); Karin Larssons textilier i ljusa färger och barnkläder, designade för lek och lättskötthet, var någonting helt nytt för sin tid och de är fortfarande populära. Karin Larssons textiles in light colors and children's clothes, designed for play and easy maintenance, were something entirely new for their time and are still popular. Många besöker också hotellets kyrka, som är speciellt populär för barndop och bröllop. Many also visit the hotel's church which is especially popular for christenings and weddings. K1535; 
@@ -2358,7 +2359,7 @@
 — ta av // (verb) take off, remove, shorten; Hon tog av sig tofflorna och satte på sig skorna igen. She took off her slippers and put on her shoes again. Ta av dig de där smutsiga kläderna! Take those dirty clothes off! 
 — ta det lungt // take it easy;  
 — ta emot // (verb) receive visitors; accept money; Ishotellet kan ta emot 130 nattgäster, som sover i sovsäckar på djurhudar som breds ut över issängar. ICEHOTEL can accommodate 130 guests, who sleep in sleeping bags on furs spread out over ice beds. 
-— ta hand om // (verb) 1. sköta, hantera; utföra en viss arbetsuppgift (ofta flera gånger under en viss tid); 2. se till att någon, vanligen ett barn eller en patient, mår bra; 3. se till att något hålls i bra skick, inte stjäls; se efter; take care of; care for; take care of; deal with; Ja, ja, det är klart att jag förstår att du måste ta hand om din kund och dina nya projekt.  
+— ta hand om // (verb) 1. sköta, hantera; utföra en viss arbetsuppgift (ofta flera gånger under en viss tid); 2. se till att någon, vanligen ett barn eller en patient, mår bra; 3. se till att något hålls i bra skick, inte stjäls; se efter; take care of; care for; take care of; deal with; Ja, ja, det är klart att jag förstår att du måste ta hand om din kund och dina nya projekt.  Man ska genast ringa polisen som tar hand om saken. 
 — en tablett // (~en; ~er; ~erna;) tablet or pill;  K6341; 
 — tack // fras som används för att besvara en hjälpsam handling; `takk` en norska eller isländska; Thanks, please. Tack ska du ha. Tack så mycket. Tusen tack. K903; 
 — tacka // (v ~!; ~r; ~de; ~t; ~nde|~ndes; ~d;) kort berätta för annan att man uppskattar något denna givit, eller gjort för, en; säga tack; to thank; Han glömmer aldrig tacka. He never forgets to say thank you. K1394; 
@@ -2853,6 +2854,7 @@
 — även // (adverb) too, even, also; För att klara av sin tjänst i Afghanistan måste man även hålla kroppen i trim. Så jag gjorde en jättegod potatisgratäng, som även innehöll morot, broccoli, lök och vitlök. So I made a delicious potato gratin, which included carrot, broccoli, onion and garlic; K181; 
 — även känd som // also known as (a.k.a); Jag är Aslak. 
 — även om // even if;  K375; 
+— ett äventyr // (~et; ~; ~en;) 1. farofyllt, våghalsigt och djärvt företag (handling); 2. spännande och ovanlig upplevelse; 3. kortvarigt kärleksförhållande med en oftast tillfällig partner;  an adventure (the encountering of risks);  K2945; 
 — en ö // (~n; ~ar; ~arna;) 1. (geografi) landområde som är helt omgivet av, oftast vatten; 2. (överfört) del av en mark som skiljer sig från den övriga delen av marken (t.ex. ett litet skogsparti på en åker eller en liten gräsplätt i en golfbunker); an island; Gotland är den största ön i Östersjön. K841; 
 — ett öga // (~t;) an eye;  K679; 
 — ett ögonblick // (~et; ~; ~en;) kort tidsperiod; moment; instant;  K1972; 
