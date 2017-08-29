@@ -5324,7 +5324,6 @@ ID,Rawfreq,WPM,CEFRlevels,Source,grammar,lemma,class,example
 7343,,2.69,x,x,en,brådska,noun-en,
 7344,,2.69,x,x,en,svartsjuka,noun-en,
 7345,,2.69,x,x,en,älskarinna,noun-en,
-7346,,2.68,x,x,ett,adjektiv,noun-ett,
 7347,,2.68,x,x,en,berömmelse,noun-en,
 7348,,2.68,x,x,en,bundsförvant,noun-en,
 7349,,2.68,x,x,,fjärran,adverb,
